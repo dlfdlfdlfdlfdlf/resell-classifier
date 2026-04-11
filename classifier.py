@@ -1,6 +1,4 @@
-import sys, json, urllib.request, argparse
-import re
-import os
+import sys, json, urllib.request, argparse, re, os
 from typing import Dict, List, Optional
 
 MASTER_FILE = 'model_master.json'
@@ -19,10 +17,6 @@ def load_master() -> dict:
             return json.load(f)
     return {}
 
-def save_master(master: dict):
-    with open(MASTER_FILE, 'w', encoding='utf-8') as f:
-        json.dump(master, f, ensure_ascii=False, indent=2)
-
 def normalize(text: str) -> str:
     text = text.lower()
     text = re.sub(r'[^\w\s]', ' ', text)
@@ -35,49 +29,29 @@ class SmartClassifier:
 
     def classify(self, title: str, content: str = '') -> dict:
         full = normalize(title + ' ' + content)
-        res = self._match_pattern(full)
-        if res: return res
-        res = self._match_exact(full)
-        if res: return res
-        res = self._match_synonym(full)
-        if res: return res
-        res = self._match_similarity(full)
-        if res: return res
-        for cat, keywords in CATEGORY_KEYWORDS.items():
-            for kw in keywords:
-                if kw in full:
-                    return {'category': cat, 'model_name': '기타', 'confidence': 0.5, 'method': 'category'}
-        return {'category': '미분류', 'model_name': '미분류', 'confidence': 0.0, 'method': 'fail'}
-
-    def _match_pattern(self, text: str) -> Optional[dict]:
+        # 1. 패턴
         for brand, info in self.master.items():
-            for pattern in info.get('patterns', []):
-                if re.search(pattern, text):
-                    return {'category': '기타', 'model_name': f'{brand} 품번매칭', 'confidence': 0.95, 'method': 'pattern'}
-        return None
-
-    def _match_exact(self, text: str) -> Optional[dict]:
+            for pat in info.get('patterns', []):
+                if re.search(pat, full):
+                    return {'category': '기타', 'model_name': f'{brand} 품번매칭', 'confidence': 0.95}
+        # 2. 정확 일치
         for brand, info in self.master.items():
-            for model, model_info in info.get('models', {}).items():
-                if model in text:
-                    return {'category': model_info.get('category', '기타'), 'model_name': model, 'confidence': 1.0, 'method': 'exact'}
-        return None
-
-    def _match_synonym(self, text: str) -> Optional[dict]:
+            for model, m_info in info.get('models', {}).items():
+                if model in full:
+                    return {'category': m_info.get('category', '기타'), 'model_name': model, 'confidence': 1.0}
+        # 3. 동의어
         for brand, info in self.master.items():
-            for model, model_info in info.get('models', {}).items():
-                for syn in model_info.get('synonyms', []):
-                    if syn in text:
-                        return {'category': model_info.get('category', '기타'), 'model_name': model, 'confidence': 0.9, 'method': 'synonym'}
-        return None
-
-    def _match_similarity(self, text: str) -> Optional[dict]:
-        tokens = set(text.split())
+            for model, m_info in info.get('models', {}).items():
+                for syn in m_info.get('synonyms', []):
+                    if syn in full:
+                        return {'category': m_info.get('category', '기타'), 'model_name': model, 'confidence': 0.9}
+        # 4. 유사도
+        tokens = set(full.split())
+        best_score = 0.0
         best_model = None
         best_cat = None
-        best_score = 0.0
         for brand, info in self.master.items():
-            for model, model_info in info.get('models', {}).items():
+            for model, m_info in info.get('models', {}).items():
                 model_tokens = set(normalize(model).split())
                 if not model_tokens:
                     continue
@@ -86,38 +60,23 @@ class SmartClassifier:
                 if score > best_score:
                     best_score = score
                     best_model = model
-                    best_cat = model_info.get('category', '기타')
+                    best_cat = m_info.get('category', '기타')
         if best_score >= 0.6:
-            return {'category': best_cat, 'model_name': best_model, 'confidence': best_score, 'method': 'similarity'}
-        return None
+            return {'category': best_cat, 'model_name': best_model, 'confidence': best_score}
+        # 5. 카테고리 키워드
+        for cat, keywords in CATEGORY_KEYWORDS.items():
+            for kw in keywords:
+                if kw in full:
+                    return {'category': cat, 'model_name': '기타', 'confidence': 0.5}
+        return {'category': '미분류', 'model_name': '미분류', 'confidence': 0.0}
 
-def build_master_from_bunjang_models(models: list, brand_name: str) -> dict:
-    master = {}
-    master[brand_name] = {'models': {}, 'patterns': []}
-    for m in models:
-        name_kor = m.get('nameKor', '')
-        name_eng = m.get('nameEng', '')
-        category = m.get('categoryName', '기타')
-        if not name_kor:
-            continue
-        master[brand_name]['models'][name_kor] = {'category': category, 'synonyms': []}
-        if name_eng:
-            master[brand_name]['models'][name_kor]['synonyms'].append(name_eng.lower())
-        pattern = re.findall(r'[A-Z0-9]{4,}', name_kor + ' ' + name_eng)
-        for p in pattern:
-            if p not in master[brand_name]['patterns']:
-                master[brand_name]['patterns'].append(p)
-    return master
-
-# ========== CLI 모드 (GitHub Actions에서 실행) ==========
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--server', required=True, help='서버 URL (예: http://your-server.com)')
+    parser.add_argument('--server', required=True)
     parser.add_argument('--chunk_start', type=int, required=True)
     parser.add_argument('--chunk_end', type=int, required=True)
     args = parser.parse_args()
 
-    # 서버에서 해당 청크의 매물 목록 가져오기
     url = f'{args.server}/get_items?start={args.chunk_start}&end={args.chunk_end}'
     with urllib.request.urlopen(url) as resp:
         items = json.loads(resp.read().decode())
@@ -126,10 +85,7 @@ def main():
     results = {}
     for item in items:
         res = classifier.classify(item['title'], item.get('content', ''))
-        if res['confidence'] >= 0.5:
-            results[item['id']] = res['model_name']
-        else:
-            results[item['id']] = '미분류'
+        results[item['id']] = res['model_name'] if res['confidence'] >= 0.5 else '미분류'
 
     out_file = f'classify_result_{args.chunk_start}_{args.chunk_end}.json'
     with open(out_file, 'w', encoding='utf-8') as f:
