@@ -1,9 +1,8 @@
+import sys, json, urllib.request, argparse
 import re
-import json
 import os
 from typing import Dict, List, Optional
 
-# ========== 설정 ==========
 MASTER_FILE = 'model_master.json'
 CATEGORY_KEYWORDS = {
     '가방': ['가방', '백', 'bag', '토트', '숄더', '크로스', '클러치', '파우치', '백팩', '보스턴', '버킷', '호보', '새첼', '미니백'],
@@ -25,7 +24,6 @@ def save_master(master: dict):
         json.dump(master, f, ensure_ascii=False, indent=2)
 
 def normalize(text: str) -> str:
-    """소문자, 특수문자 제거, 공백 정리"""
     text = text.lower()
     text = re.sub(r'[^\w\s]', ' ', text)
     text = re.sub(r'\s+', ' ', text).strip()
@@ -36,66 +34,33 @@ class SmartClassifier:
         self.master = load_master()
 
     def classify(self, title: str, content: str = '') -> dict:
-        """
-        반환: {
-            'category': str,
-            'model_name': str,
-            'confidence': float,
-            'method': str   # 'pattern', 'exact', 'synonym', 'similarity', 'category', 'fail'
-        }
-        """
         full = normalize(title + ' ' + content)
-        
-        # 1. 품번 패턴 매칭
         res = self._match_pattern(full)
-        if res:
-            return res
-        
-        # 2. 정확한 모델명 매칭
+        if res: return res
         res = self._match_exact(full)
-        if res:
-            return res
-        
-        # 3. 동의어 매칭
+        if res: return res
         res = self._match_synonym(full)
-        if res:
-            return res
-        
-        # 4. 유사도 매칭 (BM25 간소화)
+        if res: return res
         res = self._match_similarity(full)
-        if res:
-            return res
-        
-        # 5. 카테고리 키워드 매칭 (최후의 보루)
+        if res: return res
         for cat, keywords in CATEGORY_KEYWORDS.items():
             for kw in keywords:
                 if kw in full:
                     return {'category': cat, 'model_name': '기타', 'confidence': 0.5, 'method': 'category'}
-        
         return {'category': '미분류', 'model_name': '미분류', 'confidence': 0.0, 'method': 'fail'}
 
     def _match_pattern(self, text: str) -> Optional[dict]:
         for brand, info in self.master.items():
             for pattern in info.get('patterns', []):
                 if re.search(pattern, text):
-                    return {
-                        'category': '기타',
-                        'model_name': f'{brand} 품번매칭',
-                        'confidence': 0.95,
-                        'method': 'pattern'
-                    }
+                    return {'category': '기타', 'model_name': f'{brand} 품번매칭', 'confidence': 0.95, 'method': 'pattern'}
         return None
 
     def _match_exact(self, text: str) -> Optional[dict]:
         for brand, info in self.master.items():
             for model, model_info in info.get('models', {}).items():
                 if model in text:
-                    return {
-                        'category': model_info.get('category', '기타'),
-                        'model_name': model,
-                        'confidence': 1.0,
-                        'method': 'exact'
-                    }
+                    return {'category': model_info.get('category', '기타'), 'model_name': model, 'confidence': 1.0, 'method': 'exact'}
         return None
 
     def _match_synonym(self, text: str) -> Optional[dict]:
@@ -103,12 +68,7 @@ class SmartClassifier:
             for model, model_info in info.get('models', {}).items():
                 for syn in model_info.get('synonyms', []):
                     if syn in text:
-                        return {
-                            'category': model_info.get('category', '기타'),
-                            'model_name': model,
-                            'confidence': 0.9,
-                            'method': 'synonym'
-                        }
+                        return {'category': model_info.get('category', '기타'), 'model_name': model, 'confidence': 0.9, 'method': 'synonym'}
         return None
 
     def _match_similarity(self, text: str) -> Optional[dict]:
@@ -128,20 +88,10 @@ class SmartClassifier:
                     best_model = model
                     best_cat = model_info.get('category', '기타')
         if best_score >= 0.6:
-            return {
-                'category': best_cat,
-                'model_name': best_model,
-                'confidence': best_score,
-                'method': 'similarity'
-            }
+            return {'category': best_cat, 'model_name': best_model, 'confidence': best_score, 'method': 'similarity'}
         return None
 
-# ========== 마스터 사전 생성 도우미 (번개장터 모델 리스트로부터) ==========
 def build_master_from_bunjang_models(models: list, brand_name: str) -> dict:
-    """
-    models: 번개장터 모델 리스트 (get_bunjang_models 결과)
-    brand_name: 브랜드명 (예: '루이비통')
-    """
     master = {}
     master[brand_name] = {'models': {}, 'patterns': []}
     for m in models:
@@ -150,19 +100,40 @@ def build_master_from_bunjang_models(models: list, brand_name: str) -> dict:
         category = m.get('categoryName', '기타')
         if not name_kor:
             continue
-        master[brand_name]['models'][name_kor] = {
-            'category': category,
-            'synonyms': []
-        }
-        # 영문명 동의어 추가
+        master[brand_name]['models'][name_kor] = {'category': category, 'synonyms': []}
         if name_eng:
             master[brand_name]['models'][name_kor]['synonyms'].append(name_eng.lower())
-        # 품번 패턴 추출 (숫자/영문 조합 4자 이상)
         pattern = re.findall(r'[A-Z0-9]{4,}', name_kor + ' ' + name_eng)
         for p in pattern:
             if p not in master[brand_name]['patterns']:
                 master[brand_name]['patterns'].append(p)
     return master
 
-# 전역 분류기 인스턴스 (app.py에서 사용)
-classifier = SmartClassifier()
+# ========== CLI 모드 (GitHub Actions에서 실행) ==========
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--server', required=True, help='서버 URL (예: http://your-server.com)')
+    parser.add_argument('--chunk_start', type=int, required=True)
+    parser.add_argument('--chunk_end', type=int, required=True)
+    args = parser.parse_args()
+
+    # 서버에서 해당 청크의 매물 목록 가져오기
+    url = f'{args.server}/get_items?start={args.chunk_start}&end={args.chunk_end}'
+    with urllib.request.urlopen(url) as resp:
+        items = json.loads(resp.read().decode())
+
+    classifier = SmartClassifier()
+    results = {}
+    for item in items:
+        res = classifier.classify(item['title'], item.get('content', ''))
+        if res['confidence'] >= 0.5:
+            results[item['id']] = res['model_name']
+        else:
+            results[item['id']] = '미분류'
+
+    out_file = f'classify_result_{args.chunk_start}_{args.chunk_end}.json'
+    with open(out_file, 'w', encoding='utf-8') as f:
+        json.dump(results, f, ensure_ascii=False)
+
+if __name__ == '__main__':
+    main()
