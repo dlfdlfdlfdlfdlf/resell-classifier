@@ -6,8 +6,14 @@ import sys, json, time, random, re, os, argparse, urllib.request
 
 MASTER_FILE = 'model_master.json'
 
-BRAND_NAMES = ['루이비통', '샤넬', '구찌', '에르메스', '프라다', '버버리', '발렌시아가',
-               'louis', 'vuitton', 'chanel', 'gucci', 'hermes', 'prada', 'burberry']
+BRAND_NAMES = [
+    # 한글
+    '루이비통', '샤넬', '에르메스', '구찌', '프라다', '디올',
+    '보테가베네타', '발렌시아가', '고야드', '셀린느', '생로랑', '미우미우',
+    # 영문
+    'louis', 'vuitton', 'chanel', 'hermes', 'gucci', 'prada', 'dior',
+    'bottega', 'veneta', 'balenciaga', 'goyard', 'celine', 'saint', 'laurent', 'miumiu',
+]
 
 CATEGORY_KEYWORDS = {
     '가방': [
