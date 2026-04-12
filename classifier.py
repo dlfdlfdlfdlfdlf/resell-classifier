@@ -1,9 +1,5 @@
 """
-classifier.py  (v2 — Gist 기반)
-
-변경점:
-  --server 방식 제거 (GitHub Actions에서 localhost 접근 불가)
-  → Gist raw URL에서 직접 청크 데이터를 다운로드하는 방식으로 교체
+classifier.py  (v3 — 브랜드 필터 적용)
 """
 
 import sys, json, time, random, re, os, argparse, urllib.request
@@ -16,13 +12,9 @@ CATEGORY_KEYWORDS = {
     '신발':        ['신발', '슈즈', '스니커즈', '로퍼', '부츠', '샌들', '슬리퍼', '힐', '플랫', 'shoes', 'sneakers'],
     '의류':        ['자켓', '재킷', '코트', '셔츠', '티셔츠', '후드', '가디건', '스웨터', '청바지', '바지', '스커트', '원피스', '패딩', '점퍼', '블라우스'],
     '쥬얼리':      ['목걸이', '반지', '귀걸이', '팔찌', '브로치', '쥬얼리', '주얼리', 'necklace', 'ring', 'bracelet', '체인'],
-    '패션악세서리': ['벨트', '스카프', '머플러', '선글라스', '모자', '장갑', '넥타이', '포켓스퀘어', '브레이슬릿', '시계줄', '키링', '키체인'],
+    '패션악세서리': ['벨트', '스카프', '머플러', '선글라스', '모자', '장갑', '넥타이', '포켓스퀘어', '키링', '키체인'],
 }
 
-
-# ──────────────────────────────────────────────────────────────
-#  SmartClassifier
-# ──────────────────────────────────────────────────────────────
 
 def load_master() -> dict:
     if os.path.exists(MASTER_FILE):
@@ -36,10 +28,34 @@ def normalize(text: str) -> str:
     text = re.sub(r'\s+', ' ', text).strip()
     return text
 
+def fetch_gist_file(gist_owner: str, gist_id: str, filename: str, max_retry: int = 3):
+    url = f'https://gist.githubusercontent.com/{gist_owner}/{gist_id}/raw/{filename}'
+    for attempt in range(max_retry):
+        try:
+            req = urllib.request.Request(url, headers={'User-Agent': 'resell-classifier/3.0'})
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                return json.loads(resp.read().decode('utf-8'))
+        except Exception as e:
+            wait = 2 ** attempt + random.uniform(0, 1)
+            print(f'[Gist] 재시도 {attempt+1}/{max_retry} ({filename}): {e}')
+            time.sleep(wait)
+    return None
+
+
 class SmartClassifier:
-    def __init__(self):
+    def __init__(self, brand_filter: str = ''):
         self.master = load_master()
-        print(f'[SmartClassifier] master 로드: {len(self.master)}개 브랜드')
+        self.brand_filter = brand_filter.strip().lower()
+        print(f'[SmartClassifier] master 로드: {len(self.master)}개 브랜드 / 브랜드 필터: "{self.brand_filter}"')
+
+        # 브랜드 필터가 있으면 해당 브랜드만 사용
+        if self.brand_filter:
+            filtered = {}
+            for brand, info in self.master.items():
+                if self.brand_filter in brand.lower():
+                    filtered[brand] = info
+            self.master = filtered
+            print(f'[SmartClassifier] 필터 적용 후: {len(self.master)}개 브랜드')
 
     def classify(self, title: str, content: str = '') -> dict:
         full = normalize(title + ' ' + content)
@@ -78,60 +94,34 @@ class SmartClassifier:
         if best_score >= 0.6:
             return {'model_name': best_model, 'confidence': best_score}
 
-        # 5단계: 카테고리 키워드
-        for cat, keywords in CATEGORY_KEYWORDS.items():
-            for kw in keywords:
-                if kw in full:
-                    return {'model_name': '기타', 'confidence': 0.5}
-
         return {'model_name': '미분류', 'confidence': 0.0}
 
 
-# ──────────────────────────────────────────────────────────────
-#  Gist 다운로드
-# ──────────────────────────────────────────────────────────────
-
-def fetch_chunk_from_gist(gist_owner: str, gist_id: str, chunk_idx: int, max_retry: int = 4) -> list | None:
-    filename = f'chunk_{chunk_idx}.json'
-    url = f'https://gist.githubusercontent.com/{gist_owner}/{gist_id}/raw/{filename}'
-    print(f'[Gist] 다운로드: {url}')
-
-    for attempt in range(max_retry):
-        try:
-            req = urllib.request.Request(url, headers={'User-Agent': 'resell-classifier/2.0'})
-            with urllib.request.urlopen(req, timeout=30) as resp:
-                data = json.loads(resp.read().decode('utf-8'))
-                print(f'[Gist] ✅ {len(data)}개 아이템 로드')
-                return data
-        except Exception as e:
-            wait = 2 ** attempt + random.uniform(0, 1)
-            print(f'[Gist] 재시도 {attempt + 1}/{max_retry}: {e} (대기 {wait:.1f}s)')
-            time.sleep(wait)
-
-    print(f'[Gist] ❌ 다운로드 실패: {filename}')
-    return None
-
-
-# ──────────────────────────────────────────────────────────────
-#  메인
-# ──────────────────────────────────────────────────────────────
-
 def main():
-    parser = argparse.ArgumentParser(description='Resell Classifier v2')
-    parser.add_argument('--gist_id',    required=True, help='GitHub Gist ID')
-    parser.add_argument('--gist_owner', required=True, help='Gist 소유자 계정명')
-    parser.add_argument('--chunk_idx',  type=int, required=True, help='처리할 청크 인덱스')
+    parser = argparse.ArgumentParser(description='Resell Classifier v3')
+    parser.add_argument('--gist_id',    required=True)
+    parser.add_argument('--gist_owner', required=True)
+    parser.add_argument('--chunk_idx',  type=int, required=True)
     args = parser.parse_args()
 
-    print(f'=== Classifier v2 시작 ===')
-    print(f'Gist: {args.gist_id[:8]}... / Owner: {args.gist_owner} / 청크: {args.chunk_idx}')
+    print(f'=== Classifier v3 시작 === Gist:{args.gist_id[:8]}... / 청크:{args.chunk_idx}')
 
-    items = fetch_chunk_from_gist(args.gist_owner, args.gist_id, args.chunk_idx)
+    # 메타 파일에서 brand_keyword 로드
+    brand_keyword = ''
+    meta = fetch_gist_file(args.gist_owner, args.gist_id, 'meta.json', max_retry=3)
+    if meta:
+        brand_keyword = meta.get('brand_keyword', '')
+        print(f'[Meta] 브랜드 필터: "{brand_keyword}"')
+    else:
+        print('[Meta] meta.json 로드 실패 → 전체 브랜드로 분류')
+
+    # 청크 데이터 로드
+    items = fetch_gist_file(args.gist_owner, args.gist_id, f'chunk_{args.chunk_idx}.json')
     if items is None:
-        print('❌ 데이터 로드 실패 → 종료')
+        print('❌ 청크 데이터 로드 실패 → 종료')
         sys.exit(1)
 
-    classifier = SmartClassifier()
+    classifier = SmartClassifier(brand_filter=brand_keyword)
     results = {}
 
     for item in items:
