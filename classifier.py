@@ -1,28 +1,15 @@
 """
-classifier.py  (v2 — Gist 기반)
-
-변경점:
-  --server 방식 제거 (GitHub Actions에서 localhost 접근 불가)
-  → Gist raw URL에서 직접 청크 데이터를 다운로드하는 방식으로 교체
+classifier.py  (v4 — 강화된 매칭 + 캐시 + 브랜드 필터)
 """
 
 import sys, json, time, random, re, os, argparse, urllib.request
 
 MASTER_FILE = 'model_master.json'
 
-CATEGORY_KEYWORDS = {
-    '가방':        ['가방', '백', 'bag', '토트', '숄더', '크로스', '클러치', '파우치', '백팩', '보스턴', '버킷', '호보', '새첼', '미니백'],
-    '지갑':        ['지갑', '월렛', 'wallet', '카드지갑', '장지갑', '반지갑', '코인', '머니클립', '키홀더', '키케이스'],
-    '신발':        ['신발', '슈즈', '스니커즈', '로퍼', '부츠', '샌들', '슬리퍼', '힐', '플랫', 'shoes', 'sneakers'],
-    '의류':        ['자켓', '재킷', '코트', '셔츠', '티셔츠', '후드', '가디건', '스웨터', '청바지', '바지', '스커트', '원피스', '패딩', '점퍼', '블라우스'],
-    '쥬얼리':      ['목걸이', '반지', '귀걸이', '팔찌', '브로치', '쥬얼리', '주얼리', 'necklace', 'ring', 'bracelet', '체인'],
-    '패션악세서리': ['벨트', '스카프', '머플러', '선글라스', '모자', '장갑', '넥타이', '포켓스퀘어', '브레이슬릿', '시계줄', '키링', '키체인'],
-}
+# 브랜드명 제거 대상 (토큰 유사도 왜곡 방지)
+BRAND_NAMES = ['루이비통', '샤넬', '구찌', '에르메스', '프라다', '버버리', '발렌시아가',
+               'louis', 'vuitton', 'chanel', 'gucci', 'hermes', 'prada', 'burberry']
 
-
-# ──────────────────────────────────────────────────────────────
-#  SmartClassifier
-# ──────────────────────────────────────────────────────────────
 
 def load_master() -> dict:
     if os.path.exists(MASTER_FILE):
@@ -30,109 +17,178 @@ def load_master() -> dict:
             return json.load(f)
     return {}
 
+
 def normalize(text: str) -> str:
+    """소문자 + 특수문자 → 공백 + 연속공백 제거"""
     text = text.lower()
     text = re.sub(r'[^\w\s]', ' ', text)
     text = re.sub(r'\s+', ' ', text).strip()
     return text
 
+
+def normalize_compact(text: str) -> str:
+    """소문자 + 모든 비단어 문자 제거 (공백 포함) — 붙여쓰기 비교용"""
+    return re.sub(r'[^\w]', '', text.lower())
+
+
+def remove_brands(tokens: set) -> set:
+    """토큰 집합에서 브랜드명 제거"""
+    return {t for t in tokens if t not in BRAND_NAMES and len(t) > 1}
+
+
+def fetch_meta_from_gist(gist_owner: str, gist_id: str) -> dict:
+    url = f'https://gist.githubusercontent.com/{gist_owner}/{gist_id}/raw/meta.json'
+    try:
+        req = urllib.request.Request(url, headers={'User-Agent': 'resell-classifier/4.0'})
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            return json.loads(resp.read().decode('utf-8'))
+    except Exception as e:
+        print(f'[Meta] 로드 실패: {e}')
+    return {}
+
+
 class SmartClassifier:
-    def __init__(self):
-        self.master = load_master()
-        print(f'[SmartClassifier] master 로드: {len(self.master)}개 브랜드')
+    def __init__(self, brand_filter: str = ''):
+        raw_master = load_master()
+        self.brand_filter = brand_filter.strip().lower()
 
-    def classify(self, title: str, content: str = '') -> dict:
-        full = normalize(title + ' ' + content)
+        # 브랜드 필터 적용
+        if self.brand_filter:
+            self.master = {k: v for k, v in raw_master.items()
+                          if self.brand_filter in k.lower()}
+            print(f'[SmartClassifier] 브랜드 필터 "{self.brand_filter}": {len(self.master)}개')
+        else:
+            self.master = raw_master
+            print(f'[SmartClassifier] 전체: {len(self.master)}개 브랜드')
 
-        # 1단계: 정규식 패턴 (품번)
+        self._build_cache()
+
+    def _build_cache(self):
+        """속도 향상을 위한 사전 캐시 빌드"""
+        self._pattern_cache = []  # (brand, pattern)
+        self._model_cache   = []  # (model_name, norm, compact, core_tokens, syns)
+
         for brand, info in self.master.items():
             for pat in info.get('patterns', []):
-                if re.search(pat, full):
-                    return {'model_name': f'{brand} 품번매칭', 'confidence': 0.95}
+                self._pattern_cache.append((brand, pat))
 
-        # 2단계: 정확 일치
-        for brand, info in self.master.items():
             for model, m_info in info.get('models', {}).items():
-                if model in full:
-                    return {'model_name': model, 'confidence': 1.0}
+                norm    = normalize(model)
+                compact = normalize_compact(model)
+                # 브랜드명 제거한 핵심 토큰
+                core_tokens = remove_brands(set(norm.split()))
 
-        # 3단계: 동의어
-        for brand, info in self.master.items():
-            for model, m_info in info.get('models', {}).items():
-                for syn in m_info.get('synonyms', []):
-                    if syn in full:
-                        return {'model_name': model, 'confidence': 0.9}
+                # 동의어 전처리
+                syns = []
+                for s in m_info.get('synonyms', []):
+                    syns.append((s, normalize(s), normalize_compact(s)))
 
-        # 4단계: 토큰 유사도
-        tokens = set(full.split())
+                self._model_cache.append((model, norm, compact, core_tokens, syns))
+
+        print(f'[Cache] 패턴 {len(self._pattern_cache)}개 / 모델 {len(self._model_cache)}개')
+
+    def classify(self, title: str, content: str = '') -> dict:
+        raw      = title + ' ' + content
+        full     = normalize(raw)
+        compact  = normalize_compact(raw)
+        tokens   = set(full.split())
+        core_tok = remove_brands(tokens)
+
+        # ── 1단계: 품번 정규식 ──────────────────────────────
+        for brand, pat in self._pattern_cache:
+            if re.search(pat, full):
+                return {'model_name': f'{brand} 품번매칭', 'confidence': 0.95}
+
+        # ── 2단계: 모델명 정확 일치 (공백포함 / 공백제거) ──
+        for model, norm, comp, _, _ in self._model_cache:
+            if norm in full or comp in compact:
+                return {'model_name': model, 'confidence': 1.0}
+
+        # ── 3단계: 동의어 일치 (normalize 적용) ─────────────
+        for model, _, _, _, syns in self._model_cache:
+            for syn_orig, syn_norm, syn_comp in syns:
+                if syn_norm and (syn_norm in full or syn_comp in compact):
+                    return {'model_name': model, 'confidence': 0.9}
+
+        # ── 4단계: 핵심 토큰 완전 포함 ──────────────────────
+        # 모델의 핵심 토큰이 모두 제목에 있으면 매칭
+        for model, _, _, core_tokens, _ in self._model_cache:
+            if not core_tokens:
+                continue
+            # 3글자 이상 토큰만 사용
+            key_tokens = {t for t in core_tokens if len(t) >= 3}
+            if not key_tokens:
+                continue
+            if key_tokens.issubset(core_tok):
+                return {'model_name': model, 'confidence': 0.85}
+
+        # ── 5단계: 토큰 유사도 (브랜드명 제외) ──────────────
         best_score, best_model = 0.0, None
-        for brand, info in self.master.items():
-            for model, m_info in info.get('models', {}).items():
-                model_tokens = set(normalize(model).split())
-                if not model_tokens:
-                    continue
-                score = len(tokens & model_tokens) / len(model_tokens)
-                if score > best_score:
-                    best_score = score
-                    best_model = model
-        if best_score >= 0.6:
+        for model, _, _, core_tokens, _ in self._model_cache:
+            key_tokens = {t for t in core_tokens if len(t) >= 3}
+            if not key_tokens:
+                continue
+            intersection = core_tok & key_tokens
+            if not intersection:
+                continue
+            score = len(intersection) / len(key_tokens)
+            if score > best_score:
+                best_score = score
+                best_model = model
+
+        if best_score >= 0.5:
             return {'model_name': best_model, 'confidence': best_score}
 
-        # 5단계: 카테고리 키워드
-        for cat, keywords in CATEGORY_KEYWORDS.items():
-            for kw in keywords:
-                if kw in full:
-                    return {'model_name': '기타', 'confidence': 0.5}
+        # ── 6단계: 단일 핵심 키워드 매칭 ────────────────────
+        # 모델명에서 가장 독특한 단어 하나가 제목에 있으면 매칭
+        # (단, 4글자 이상만 — 짧은 단어 오매칭 방지)
+        for model, _, _, core_tokens, _ in self._model_cache:
+            for tok in core_tokens:
+                if len(tok) >= 4 and tok in full:
+                    return {'model_name': model, 'confidence': 0.7}
 
         return {'model_name': '미분류', 'confidence': 0.0}
 
 
-# ──────────────────────────────────────────────────────────────
-#  Gist 다운로드
-# ──────────────────────────────────────────────────────────────
-
-def fetch_chunk_from_gist(gist_owner: str, gist_id: str, chunk_idx: int, max_retry: int = 4) -> list | None:
+def fetch_chunk_from_gist(gist_owner: str, gist_id: str, chunk_idx: int, max_retry: int = 4):
     filename = f'chunk_{chunk_idx}.json'
     url = f'https://gist.githubusercontent.com/{gist_owner}/{gist_id}/raw/{filename}'
     print(f'[Gist] 다운로드: {url}')
-
     for attempt in range(max_retry):
         try:
-            req = urllib.request.Request(url, headers={'User-Agent': 'resell-classifier/2.0'})
+            req = urllib.request.Request(url, headers={'User-Agent': 'resell-classifier/4.0'})
             with urllib.request.urlopen(req, timeout=30) as resp:
                 data = json.loads(resp.read().decode('utf-8'))
                 print(f'[Gist] ✅ {len(data)}개 아이템 로드')
                 return data
         except Exception as e:
             wait = 2 ** attempt + random.uniform(0, 1)
-            print(f'[Gist] 재시도 {attempt + 1}/{max_retry}: {e} (대기 {wait:.1f}s)')
+            print(f'[Gist] 재시도 {attempt+1}/{max_retry}: {e} (대기 {wait:.1f}s)')
             time.sleep(wait)
-
     print(f'[Gist] ❌ 다운로드 실패: {filename}')
     return None
 
 
-# ──────────────────────────────────────────────────────────────
-#  메인
-# ──────────────────────────────────────────────────────────────
-
 def main():
-    parser = argparse.ArgumentParser(description='Resell Classifier v2')
-    parser.add_argument('--gist_id',    required=True, help='GitHub Gist ID')
-    parser.add_argument('--gist_owner', required=True, help='Gist 소유자 계정명')
-    parser.add_argument('--chunk_idx',  type=int, required=True, help='처리할 청크 인덱스')
+    parser = argparse.ArgumentParser(description='Resell Classifier v4')
+    parser.add_argument('--gist_id',    required=True)
+    parser.add_argument('--gist_owner', required=True)
+    parser.add_argument('--chunk_idx',  type=int, required=True)
     args = parser.parse_args()
 
-    print(f'=== Classifier v2 시작 ===')
-    print(f'Gist: {args.gist_id[:8]}... / Owner: {args.gist_owner} / 청크: {args.chunk_idx}')
+    print(f'=== Classifier v4 시작 === Gist:{args.gist_id[:8]}... / 청크:{args.chunk_idx}')
+
+    meta          = fetch_meta_from_gist(args.gist_owner, args.gist_id)
+    brand_keyword = meta.get('brand_keyword', '')
+    print(f'[Meta] 브랜드 필터: "{brand_keyword}"')
 
     items = fetch_chunk_from_gist(args.gist_owner, args.gist_id, args.chunk_idx)
     if items is None:
-        print('❌ 데이터 로드 실패 → 종료')
+        print('❌ 청크 로드 실패 → 종료')
         sys.exit(1)
 
-    classifier = SmartClassifier()
-    results = {}
+    classifier = SmartClassifier(brand_filter=brand_keyword)
+    results    = {}
 
     for item in items:
         title = item.get('title', '').strip()
