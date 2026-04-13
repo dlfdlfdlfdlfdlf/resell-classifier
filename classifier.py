@@ -178,26 +178,43 @@ def normalize_compact(text: str) -> str:
     return re.sub(r'[^\w]', '', text.lower())
 
 
+_NOISE_WORDS = {
+    # 상태/조건
+    '정품', '새상품', '미사용', '사용', '착용', '새제품', '중고',
+    '급처', '급처분', '판매', '팝니다', '드립니다', '합니다',
+    '상태', '정도', '저렴', '할인', '한정', '진품',
+    # 색상 (모델명 구분에 불필요)
+    '블랙', '화이트', '베이지', '브라운', '레드', '핑크', '블루', '그린',
+    'black', 'white', 'beige', 'brown', 'red', 'pink', 'blue',
+    # 사이즈 표현
+    '미니', 'mini', '스몰', 'small', '라지', 'large',
+}
+
 def remove_brands(tokens: set) -> set:
-    return {t for t in tokens if t not in BRAND_NAMES and len(t) > 1}
+    return {
+        t for t in tokens
+        if t not in BRAND_NAMES
+        and t not in _NOISE_WORDS
+        and len(t) > 1
+        and not t.isdigit()  # 순수 숫자 제거
+    }
 
 
 def infer_category(full: str) -> str:
-    """
-    include/exclude 구조로 카테고리 추론.
-    app.py의 match_category_by_keyword와 동일한 로직.
-    """
+    # full을 단어 집합으로 만들어서 exclude 체크
+    full_tokens = set(full.split())
+
     for cat, data in CATEGORY_KEYWORDS.items():
         if cat == '기타':
             continue
         includes = data.get('include', [])
         excludes = data.get('exclude', [])
-        if any(ex in full for ex in excludes):
+        # exclude: 단어 단위로 체크 (부분문자열 오매칭 방지)
+        if any(ex in full_tokens or ex in full for ex in excludes):
             continue
         if any(kw in full for kw in includes):
             return cat
 
-    # 기타 include 체크
     for kw in CATEGORY_KEYWORDS.get('기타', {}).get('include', []):
         if kw in full:
             return '기타'
@@ -257,9 +274,17 @@ class SmartClassifier:
         self._build_cache()
 
     def _build_cache(self):
-        self._pattern_cache   = []   # (brand, compiled_pattern)
-        self._cat_model_cache = {}   # category -> [entry, ...]
-        self._all_model_cache = []   # 전체 모델 (카테고리 매칭 실패 시 fallback)
+        self._pattern_cache   = []
+        self._cat_model_cache = {}
+        self._all_model_cache = []
+
+        # 품번 직접 패턴
+        self._direct_patterns = [
+            (re.compile(r'\b[Mm]\d{5}\b'), '루이비통'),
+            (re.compile(r'\b[Nn]\d{5}\b'), '루이비통'),
+        ]
+
+        # ... 기존 코드 유지
 
         for brand, info in self.master.items():
             for pat in info.get('patterns', []):
@@ -340,7 +365,17 @@ class SmartClassifier:
         tokens   = set(full.split())
         core_tok = remove_brands(tokens)
 
-        # 1단계: 품번 정규식 (카테고리 무관하게 항상 먼저)
+        # 0단계: 품번 직접 패턴 (M12345, N12345 형태)
+        _direct_patterns = [
+            (re.compile(r'\b[Mm]\d{5}\b'), '루이비통'),
+            (re.compile(r'\b[Nn]\d{5}\b'), '루이비통'),
+        ]
+        # 0단계: 품번 직접 패턴
+        for pat, brand in self._direct_patterns:
+            if pat.search(raw):
+                return {'model_name': f'{brand} 품번매칭', 'confidence': 0.95, 'category': category}
+
+        # 1단계: model_master 품번 정규식
         for brand, pat in self._pattern_cache:
             if pat.search(full):
                 return {'model_name': f'{brand} 품번매칭', 'confidence': 0.95, 'category': category}
