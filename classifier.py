@@ -1,5 +1,5 @@
 """
-classifier.py  (v6 — Gist category 우선 + include/exclude 구조)
+classifier.py  (v7 — 버그픽스 + 최적화)
 """
 
 import sys, json, time, random, re, os, argparse, urllib.request
@@ -15,7 +15,15 @@ BRAND_NAMES = {
     'miumiu', 'loewe', 'fendi', 'burberry',
 }
 
-# app.py와 동일한 include/exclude 구조
+_NOISE_WORDS = {
+    '정품', '새상품', '미사용', '사용', '착용', '새제품', '중고',
+    '급처', '급처분', '판매', '팝니다', '드립니다', '합니다',
+    '상태', '정도', '저렴', '할인', '한정', '진품', '정가',
+    '블랙', '화이트', '베이지', '브라운', '레드', '핑크', '블루', '그린',
+    'black', 'white', 'beige', 'brown', 'red', 'pink', 'blue', 'green',
+    '미니', 'mini', '스몰', 'small', '라지', 'large',
+}
+
 CATEGORY_KEYWORDS = {
     '가방': {
         'include': [
@@ -78,7 +86,7 @@ CATEGORY_KEYWORDS = {
         ],
         'exclude': [
             '백팩', '토트', '숄더백', '크로스백', '핸드백',
-            '목걸이', '귀걸이', '팔찌',   # ← '반지' 제거
+            '목걸이', '귀걸이', '팔찌',
         ]
     },
     '신발': {
@@ -156,7 +164,6 @@ CATEGORY_KEYWORDS = {
     },
 }
 
-
 # ──────────────────────────────────────────────────────────────
 #  유틸
 # ──────────────────────────────────────────────────────────────
@@ -178,39 +185,43 @@ def normalize_compact(text: str) -> str:
     return re.sub(r'[^\w]', '', text.lower())
 
 
-_NOISE_WORDS = {
-    # 상태/조건
-    '정품', '새상품', '미사용', '사용', '착용', '새제품', '중고',
-    '급처', '급처분', '판매', '팝니다', '드립니다', '합니다',
-    '상태', '정도', '저렴', '할인', '한정', '진품',
-    # 색상 (모델명 구분에 불필요)
-    '블랙', '화이트', '베이지', '브라운', '레드', '핑크', '블루', '그린',
-    'black', 'white', 'beige', 'brown', 'red', 'pink', 'blue',
-    # 사이즈 표현
-    '미니', 'mini', '스몰', 'small', '라지', 'large',
-}
-
 def remove_brands(tokens: set) -> set:
     return {
         t for t in tokens
         if t not in BRAND_NAMES
         and t not in _NOISE_WORDS
         and len(t) > 1
-        and not t.isdigit()  # 순수 숫자 제거
+        and not t.isdigit()
     }
 
 
+# exclude 단어 집합 미리 컴파일 (성능 최적화)
+_CATEGORY_EXCLUDES: dict = {}
+_CATEGORY_INCLUDES: list = []
+
+def _build_category_cache():
+    global _CATEGORY_EXCLUDES, _CATEGORY_INCLUDES
+    _CATEGORY_EXCLUDES = {
+        cat: set(data.get('exclude', []))
+        for cat, data in CATEGORY_KEYWORDS.items()
+    }
+    _CATEGORY_INCLUDES = [
+        (cat, data.get('include', []))
+        for cat, data in CATEGORY_KEYWORDS.items()
+        if cat != '기타'
+    ]
+
+_build_category_cache()
+
+
 def infer_category(full: str) -> str:
-    # full을 단어 집합으로 만들어서 exclude 체크
+    """exclude는 단어 단위로만 체크해서 부분문자열 오매칭 방지."""
     full_tokens = set(full.split())
 
-    for cat, data in CATEGORY_KEYWORDS.items():
-        if cat == '기타':
-            continue
-        includes = data.get('include', [])
-        excludes = data.get('exclude', [])
-        # exclude: 단어 단위로 체크 (부분문자열 오매칭 방지)
-        if any(ex in full_tokens or ex in full for ex in excludes):
+    for cat, includes in _CATEGORY_INCLUDES:
+        excludes = _CATEGORY_EXCLUDES.get(cat, set())
+        # ★ 단어 단위로만 체크 (반지 in 반지갑 오매칭 방지)
+        if any(ex in full_tokens for ex in excludes):
             continue
         if any(kw in full for kw in includes):
             return cat
@@ -228,7 +239,7 @@ def infer_category(full: str) -> str:
 def fetch_meta_from_gist(gist_owner: str, gist_id: str) -> dict:
     url = f'https://gist.githubusercontent.com/{gist_owner}/{gist_id}/raw/meta.json'
     try:
-        req = urllib.request.Request(url, headers={'User-Agent': 'resell-classifier/6.0'})
+        req = urllib.request.Request(url, headers={'User-Agent': 'resell-classifier/7.0'})
         with urllib.request.urlopen(req, timeout=15) as resp:
             return json.loads(resp.read().decode('utf-8'))
     except Exception as e:
@@ -242,7 +253,7 @@ def fetch_chunk_from_gist(gist_owner: str, gist_id: str, chunk_idx: int, max_ret
     print(f'[Gist] 다운로드: {url}')
     for attempt in range(max_retry):
         try:
-            req = urllib.request.Request(url, headers={'User-Agent': 'resell-classifier/6.0'})
+            req = urllib.request.Request(url, headers={'User-Agent': 'resell-classifier/7.0'})
             with urllib.request.urlopen(req, timeout=30) as resp:
                 data = json.loads(resp.read().decode('utf-8'))
                 print(f'[Gist] ✅ {len(data)}개 아이템 로드')
@@ -278,20 +289,19 @@ class SmartClassifier:
         self._cat_model_cache = {}
         self._all_model_cache = []
 
-        # 품번 직접 패턴
+        # ★ 품번 직접 패턴 (_build_cache에서 한 번만 컴파일)
         self._direct_patterns = [
             (re.compile(r'\b[Mm]\d{5}\b'), '루이비통'),
             (re.compile(r'\b[Nn]\d{5}\b'), '루이비통'),
+            (re.compile(r'\b1[A-Z]{2}\d{3}\b'), '루이비통'),  # 신형 품번 예: 1AB5DT
         ]
-
-        # ... 기존 코드 유지
 
         for brand, info in self.master.items():
             for pat in info.get('patterns', []):
                 try:
                     self._pattern_cache.append((brand, re.compile(pat)))
                 except re.error:
-                    pass  # 잘못된 패턴 skip
+                    pass
 
             for model, m_info in info.get('models', {}).items():
                 norm        = normalize(model)
@@ -365,12 +375,7 @@ class SmartClassifier:
         tokens   = set(full.split())
         core_tok = remove_brands(tokens)
 
-        # 0단계: 품번 직접 패턴 (M12345, N12345 형태)
-        _direct_patterns = [
-            (re.compile(r'\b[Mm]\d{5}\b'), '루이비통'),
-            (re.compile(r'\b[Nn]\d{5}\b'), '루이비통'),
-        ]
-        # 0단계: 품번 직접 패턴
+        # 0단계: 품번 직접 패턴 (원본 raw에서 검색 — normalize 전)
         for pat, brand in self._direct_patterns:
             if pat.search(raw):
                 return {'model_name': f'{brand} 품번매칭', 'confidence': 0.95, 'category': category}
@@ -408,13 +413,13 @@ class SmartClassifier:
 #  메인
 # ──────────────────────────────────────────────────────────────
 def main():
-    parser = argparse.ArgumentParser(description='Resell Classifier v6')
+    parser = argparse.ArgumentParser(description='Resell Classifier v7')
     parser.add_argument('--gist_id',    required=True)
     parser.add_argument('--gist_owner', required=True)
     parser.add_argument('--chunk_idx',  type=int, required=True)
     args = parser.parse_args()
 
-    print(f'=== Classifier v6 시작 === Gist:{args.gist_id[:8]}... / 청크:{args.chunk_idx}')
+    print(f'=== Classifier v7 시작 === Gist:{args.gist_id[:8]}... / 청크:{args.chunk_idx}')
 
     meta          = fetch_meta_from_gist(args.gist_owner, args.gist_id)
     brand_keyword = meta.get('brand_keyword', '')
@@ -435,9 +440,7 @@ def main():
             skipped += 1
             continue
 
-        # Gist에 category 필드가 있으면 그대로 사용
         category = item.get('category', '')
-
         res = classifier.classify(title, item.get('content', ''), category)
 
         if res['confidence'] >= 0.5 and res['model_name'] not in ('미분류', ''):
