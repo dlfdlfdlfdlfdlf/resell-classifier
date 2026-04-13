@@ -1,11 +1,21 @@
 """
-classifier.py  (v7 — 버그픽스 + 최적화)
+classifier.py  (v8 — normalize map + AI 분류 fallback)
 """
 
-import sys, json, time, random, re, os, argparse, urllib.request
+import sys, json, time, random, re, os, argparse, urllib.request, urllib.error
 
 MASTER_FILE = 'model_master.json'
 
+# ──────────────────────────────────────────────────────────────────────────────
+#  Groq API (GitHub Actions 환경변수에서 읽음)
+# ──────────────────────────────────────────────────────────────────────────────
+GROQ_API_KEY  = os.environ.get('GROQ_API_KEY', '').strip()
+GROQ_API_URL  = 'https://api.groq.com/openai/v1/chat/completions'
+GROQ_MODEL    = 'llama-3.1-8b-instant'
+
+# ──────────────────────────────────────────────────────────────────────────────
+#  브랜드명 / 노이즈 단어
+# ──────────────────────────────────────────────────────────────────────────────
 BRAND_NAMES = {
     '루이비통', '샤넬', '에르메스', '구찌', '프라다', '디올',
     '보테가베네타', '보테가', '발렌시아가', '고야드', '셀린느',
@@ -24,6 +34,99 @@ _NOISE_WORDS = {
     '미니', 'mini', '스몰', 'small', '라지', 'large',
 }
 
+# ──────────────────────────────────────────────────────────────────────────────
+#  유사 표기 통일 딕셔너리 (normalize 1단계)
+# ──────────────────────────────────────────────────────────────────────────────
+_NORMALIZE_MAP = {
+    # 팔레르모
+    '팔레모':       '팔레르모',
+
+    # 에튀 보야주
+    '에튀보야주':   '에튀 보야주',
+    '에뮬보야쥴':   '에튀 보야주',
+    '에뮬보야주':   '에튀 보야주',
+    '에뮬mm':       '에튀 보야주 mm',
+    '에뮬gm':       '에튀 보야주 gm',
+    '에뮬pm':       '에튀 보야주 pm',
+    '에뮬':         '에튀',
+
+    # 앙프렝뜨
+    '앙프렉뜨':     '앙프렝뜨',
+    '엠프렉뜨':     '앙프렝뜨',
+    '앙프레뜨':     '앙프렝뜨',
+    '앙프렁뜨':     '앙프렝뜨',
+
+    # 트루빌
+    '투루블':       '트루빌',
+    '트루블':       '트루빌',
+
+    # 룩스부리
+    '뤽부리':       '룩스부리',
+    '룩부리':       '룩스부리',
+    '록스부리':     '룩스부리',
+    '럭스부리':     '룩스부리',
+
+    # 도핀
+    '도피체인':     '도핀 체인',
+    '도피네':       '도핀',
+
+    # 일립스
+    '엘립스':       '일립스',
+    '엘리프스':     '일립스',
+
+    # 보야주
+    '보야쥴':       '보야주',
+    '보야지':       '보야주',
+
+    # 마들렌
+    '마들렝':       '마들렌',
+    '마들린':       '마들렌',
+
+    # 앗치
+    '아치백':       '앗치',
+    '앗치백':       '앗치',
+
+    # 포쉐트
+    '포세트':       '포쉐트',
+    '포쉐악':       '포쉐트 악세수아',
+    '포쉐악세수아': '포쉐트 악세수아',
+
+    # 카퓌신
+    '카푸신':       '카퓌신',
+    '카피쉰':       '카퓌신',
+    '카퓌쉰':       '카퓌신',
+    '카피신':       '카퓌신',
+
+    # 소뮈르
+    '소뮤르':       '소뮈르',
+
+    # 수플로
+    '수프로':       '수플로',
+
+    # 부아뜨 샤포
+    '샤포백':       '부아뜨 샤포',
+    '부아뜨샤포':   '부아뜨 샤포',
+
+    # 삭 플라
+    '삭플라':       '삭 플라',
+
+    # 쁘띠뜨 계열
+    '쁘띠팔레':     '쁘띠뜨 팔레',
+    '쁘띠노에':     '쁘띠뜨 노에',
+    '쁘띠말':       '쁘띠뜨 말',
+
+    # 그랑 팔레
+    '그랑팔레':     '그랑 팔레',
+    '그랑팔래':     '그랑 팔레',
+
+    # 수할리 (수플로 아님)
+    '수프로bb':     '수플로 bb',
+    '수프로mm':     '수플로 mm',
+}
+
+# ──────────────────────────────────────────────────────────────────────────────
+#  카테고리 키워드 (0단계 분류 전용)
+# ──────────────────────────────────────────────────────────────────────────────
 CATEGORY_KEYWORDS = {
     '가방': {
         'include': [
@@ -46,7 +149,7 @@ CATEGORY_KEYWORDS = {
             'woc', '월릿온체인', 'wallet on chain',
             '토트백', '토드백', '숄더백', '크로스백', '핸들백', '사첼백',
             '버킷백', '보이백', '드로우스트링백', '카메라백', '나노백',
-            '범백', 'fanny pack', '패니팩',
+            '범백', 'fanny pack', '패니팩', '힙색',
             '서류가방', '브리프케이스', 'briefcase',
             '메신저백', 'messenger',
             '올인', 'all in',
@@ -57,21 +160,16 @@ CATEGORY_KEYWORDS = {
             '스폰티니', 'spontini',
             '아포제', 'apogee',
             '시스티나', 'sistina',
-            # ── 추가 ──
-            '에코백', 'ecoback',
+            '에코백',
             '도빌백', '도빌',
-            '록스부리', '룩부리',
+            '룩스부리', '룩부리',
             '까르쥬엘', '카루셀',
             '멀티백', '대형백', '여성백', '남성백',
-            '아치백',
-            '독키트', '깐느', '바방', '앗치', '푹네프', '퓌르리', '카푸신',
+            '앗치', '독키트', '깐느', '바방', '카퓌신',
             '팔라스', '락킷', '소뮈르',
-            '보야지', '리드', '마레', '그랑팔레', '쁘띠팔레', '볼타',
+            '보야주', '리드', '마레', '그랑팔레', '쁘띠팔레', '볼타',
             '벨뷰', '네오', '루핑', '체리우드',
-            '퐁네프', '미라보', '익스프레스', '바빈', '마를린', '조르주',
-            '원핸들', '트위스트', '트위니', '카피쉰', '보마르셰', '랑제뉴',
-            '수할리', '바누', 'go-14', '소호', '팜미니', '파피용', '샤포',
-            '툴룸', '마리그난', '스티머',
+            '퐁네프', '미라보', '수할리', 'go-14',
             '베이비백',
         ],
         'exclude': [
@@ -82,11 +180,17 @@ CATEGORY_KEYWORDS = {
             '벨트', '스카프', '모자', '선글라스',
             '키링', '키체인',
             '박스', '상자',
+            '종이가방',
+            '이어폰', '무선이어폰', '블루투스이어폰',
+            '스피커',
+            '향수',
+            '시계',
+            '케이스',
         ],
     },
     '지갑': {
         'include': [
-            '지갑', '월렛', 'wallet', '카드지갑', '장지갑', '반지갑',
+            '지갑', '월릿', 'wallet', '카드지갑', '장지갑', '반지갑',
             '머니클립', '동전지갑', '코인퍼스',
             '오거나이저', 'organizer', '포켓오거나이저', 'pocket organizer',
             '브라짜', 'brazza', '빅토린', 'victorine', '클레망스', 'clemence',
@@ -94,36 +198,31 @@ CATEGORY_KEYWORDS = {
             '로잘리', 'rosalie', '조에', 'zoe', '카드홀더', 'card holder',
             '엔벨로프', 'envelope', '포르트폴리오', 'portfolio',
             '키파우치', 'key pouch', '키홀더', '키케이스',
-            '에삐', '에피', 'epi',
-            '쉐도우', '쉬도우', 'shadow',
+            '에피', '쉐도우', '섀도우', 'shadow',
             '앙프렉뜨', '엠프렉뜨', 'empreinte',
             '마르코', 'marco',
             '멀티플월릿', '다마뉴',
-            # ── 추가 ──
             '컴팩트월릿', '트래블월릿', '포켓월릿',
         ],
         'exclude': [
             '백팩', '토트', '숄더백', '크로스백', '핸드백',
             '목걸이', '귀걸이', '팔찌',
-        ]
+        ],
     },
     '신발': {
         'include': [
             '신발', '슈즈', '스니커즈', '로퍼', '부츠', '샌들', '슬리퍼',
             '힐', '플랫', 'shoes', 'sneakers', '뮬', '펌프스', '슬링백',
-            '트레이너', 'trainer', '런어웨이', 'run away', '비버리힐스',
+            '트레이너', 'trainer', '런어웨이', 'run away', '비버리힐즈',
             '구두', '운동화', '나이키', 'nike', '아디다스', 'adidas',
             '단화', '런닝화', '러닝화', '조깅화',
             '에어포스', 'air force',
-            # ── 추가 ──
-            '샌달', '쪼리', '워커',
-            '하이탑', '웨지힐', '앵클부츠', '부티',
-            '모카신', '에스파드류',
-            '런웨이',
+            '샌달', '쪼리', '워커', '하이탑', '웨지힐', '앵클부츠',
+            '부티', '모카신', '에스파드류',
         ],
         'exclude': [
             '가방', '지갑',
-        ]
+        ],
     },
     '의류': {
         'include': [
@@ -134,19 +233,14 @@ CATEGORY_KEYWORDS = {
             '윈드브레이커', '플리스', 'fleece', '니트', 'knit',
             '반팔', '긴팔', '풀오버', '인따르시아', '자카드',
             '트레이닝', '조거', '레깅스', '드레스', '점프수트', '저지',
-            '아웃터', 'outer', '폴로', '팬츠', '슬랙스',
+            '아우터', 'outer', '폴로', '팬츠', '슬랙스',
             '수영복', '비키니',
-            # ── 추가 ──
-            '집업', '세트업', '셋업',
-            '수트', '데님',
-            '바람막이',
-            '후디', '조끼', '트랙탑', '크롭티', '드로즈',
-            '무스탕', '베스트', '가운', '로브',
-            '파자마', '잠옷', '홈웨어',
+            '집업', '세트업', '셋업', '수트', '데님', '바람막이',
+            '후디', '조끼', '무스탕',
         ],
         'exclude': [
             '가방', '지갑', '신발', '슈즈',
-        ]
+        ],
     },
     '쥬얼리': {
         'include': [
@@ -154,39 +248,31 @@ CATEGORY_KEYWORDS = {
             'necklace', 'ring', 'bracelet',
             '네크리스', '브레이슬릿', '나노그램', 'nanogram',
             '에센셜v', 'essential v', '아이코닉', '이어링', '이어커프',
-            # ── 추가 ──
-            '뱅글', '발찌', '펜던트', '초커',
-            '귀찌', '피어싱',
-            '진주목걸이', '체인목걸이',
+            '뱅글', '발찌', '펜던트', '초커', '귀찌', '피어싱', '체인목걸이',
         ],
         'exclude': [
             '체인백', '체인가방', '체인스트랩', '반지갑',
             '가방', '지갑', '신발',
-        ]
+        ],
     },
     '패션악세서리': {
         'include': [
-            '벨트', '밸트',
-            '스카프', '머플러', '선글라스', '모자', '장갑', '넥타이',
+            '벨트', '스카프', '머플러', '선글라스', '모자', '장갑', '넥타이',
             '포켓스퀘어', '키링', '키체인',
             '방도', 'bandeau', '비니', 'beanie', '실크스카프',
             '이니셜벨트', 'initiales', '리버시블벨트',
-            '퐁뇌프', '캡', 'cap', '햇', 'hat',
+            '퍼플롭', '캡', 'cap', '햇', 'hat',
             '헤어핀', '헤어밴드', '선글래스', '안경',
             '페도라', 'fedora', '타이클립', '타이',
             '우산', '골프우산',
-            # ── 추가 ──
-            '머리핀', '머리띠', '헤어슈슈', '슈슈',
-            '양말', '스타킹',
-            '목도리',
-            '숄', '트윌리', '반도',
-            '힙색',
-            '여권케이스',
+            '머리핀', '머리띠', '헤어슈슈', '양말', '스타킹',
+            '목도리', '숄', '트윌리',
+            '여권케이스', '밸트',
         ],
         'exclude': [
             '파우치백', '키홀더지갑', '키케이스지갑',
             '가방', '지갑', '신발',
-        ]
+        ],
     },
     '기타': {
         'include': [
@@ -201,28 +287,18 @@ CATEGORY_KEYWORDS = {
             '옷걸이', '의류커버', '옷커버',
             '종이봉투', '봉투',
             '골프공', '골프티',
-            # ── 추가 ──
-            '네임택', '네임태그',
-            '열쇠고리', '참장식', '참체인',
-            '아트북', '화보집', '도록', '카탈로그',
-            '보존병', '물병',
-            '캔들', '양초',
-            '스티커',
-            '트럼프카드',
-            '립밤', '립스틱',
-            '액자',
-            '볼펜', '연필', '수첩',
-            '꽃병', '화병', '리드디퓨저', '룸스프레이',
-            '핸드크림', '바디로션',
-            '순금키링', '금장키링',
+            '네임택', '열쇠고리', '아트북', '보존병', '캔들',
+            '트럼프카드', '립밤', '핸드크림', '바디로션',
+            '의류커버', '가먼트',
+            '순금', '골드', '금장',
         ],
-        'exclude': []
+        'exclude': [],
     },
 }
 
-# ──────────────────────────────────────────────────────────────
+# ──────────────────────────────────────────────────────────────────────────────
 #  유틸
-# ──────────────────────────────────────────────────────────────
+# ──────────────────────────────────────────────────────────────────────────────
 def load_master() -> dict:
     if os.path.exists(MASTER_FILE):
         with open(MASTER_FILE, 'r', encoding='utf-8') as f:
@@ -234,6 +310,9 @@ def normalize(text: str) -> str:
     text = text.lower()
     text = re.sub(r'[^\w\s]', ' ', text)
     text = re.sub(r'\s+', ' ', text).strip()
+    # 유사 표기 통일
+    for wrong, right in _NORMALIZE_MAP.items():
+        text = text.replace(wrong, right)
     return text
 
 
@@ -251,7 +330,7 @@ def remove_brands(tokens: set) -> set:
     }
 
 
-# exclude 단어 집합 미리 컴파일 (성능 최적화)
+# exclude 단어 집합 / include 목록 미리 컴파일
 _CATEGORY_EXCLUDES: dict = {}
 _CATEGORY_INCLUDES: list = []
 
@@ -276,7 +355,6 @@ def infer_category(full: str) -> str:
 
     for cat, includes in _CATEGORY_INCLUDES:
         excludes = _CATEGORY_EXCLUDES.get(cat, set())
-        # ★ 단어 단위로만 체크 (반지 in 반지갑 오매칭 방지)
         if any(ex in full_tokens for ex in excludes):
             continue
         if any(kw in full for kw in includes):
@@ -289,13 +367,13 @@ def infer_category(full: str) -> str:
     return ''
 
 
-# ──────────────────────────────────────────────────────────────
+# ──────────────────────────────────────────────────────────────────────────────
 #  Gist 통신
-# ──────────────────────────────────────────────────────────────
+# ──────────────────────────────────────────────────────────────────────────────
 def fetch_meta_from_gist(gist_owner: str, gist_id: str) -> dict:
     url = f'https://gist.githubusercontent.com/{gist_owner}/{gist_id}/raw/meta.json'
     try:
-        req = urllib.request.Request(url, headers={'User-Agent': 'resell-classifier/7.0'})
+        req = urllib.request.Request(url, headers={'User-Agent': 'resell-classifier/8.0'})
         with urllib.request.urlopen(req, timeout=15) as resp:
             return json.loads(resp.read().decode('utf-8'))
     except Exception as e:
@@ -309,7 +387,7 @@ def fetch_chunk_from_gist(gist_owner: str, gist_id: str, chunk_idx: int, max_ret
     print(f'[Gist] 다운로드: {url}')
     for attempt in range(max_retry):
         try:
-            req = urllib.request.Request(url, headers={'User-Agent': 'resell-classifier/7.0'})
+            req = urllib.request.Request(url, headers={'User-Agent': 'resell-classifier/8.0'})
             with urllib.request.urlopen(req, timeout=30) as resp:
                 data = json.loads(resp.read().decode('utf-8'))
                 print(f'[Gist] ✅ {len(data)}개 아이템 로드')
@@ -322,9 +400,65 @@ def fetch_chunk_from_gist(gist_owner: str, gist_id: str, chunk_idx: int, max_ret
     return None
 
 
-# ──────────────────────────────────────────────────────────────
+# ──────────────────────────────────────────────────────────────────────────────
+#  AI 분류 (Groq — 2단계 fallback)
+# ──────────────────────────────────────────────────────────────────────────────
+def ai_classify_title(title: str, model_names: list) -> str | None:
+    """
+    모델명을 못 찾은 가방 제목에서 번개장터 공식 모델명 추출.
+    Returns: 매칭된 모델명 or None
+    """
+    if not GROQ_API_KEY:
+        return None
+    if not model_names:
+        return None
+
+    # 상위 200개 모델명만 사용 (토큰 절약)
+    top_models = model_names[:200]
+    models_str = '\n'.join(top_models)
+
+    prompt = (
+        f'루이비통 중고 매물 제목에서 아래 공식 모델명 중 가장 유사한 것을 찾아라.\n\n'
+        f'매물 제목: "{title}"\n\n'
+        f'공식 모델명 목록:\n{models_str}\n\n'
+        '규칙:\n'
+        '1. 목록에 있는 모델명 중 하나만 정확히 출력\n'
+        '2. 확실하지 않으면 없음 출력\n'
+        '3. 다른 설명 없이 모델명만 출력\n\n'
+        '정답:'
+    )
+
+    payload = json.dumps({
+        'model':       GROQ_MODEL,
+        'messages':    [{'role': 'user', 'content': prompt}],
+        'max_tokens':  60,
+        'temperature': 0,
+    }).encode('utf-8')
+
+    try:
+        req = urllib.request.Request(
+            GROQ_API_URL,
+            data=payload,
+            headers={
+                'Authorization': f'Bearer {GROQ_API_KEY}',
+                'Content-Type':  'application/json',
+            },
+            method='POST',
+        )
+        with urllib.request.urlopen(req, timeout=8) as resp:
+            result = json.loads(resp.read().decode('utf-8'))
+            answer = result['choices'][0]['message']['content'].strip()
+            if answer == '없음' or answer not in top_models:
+                return None
+            return answer
+    except Exception as e:
+        print(f'[Groq] 오류: {e}')
+        return None
+
+
+# ──────────────────────────────────────────────────────────────────────────────
 #  분류기
-# ──────────────────────────────────────────────────────────────
+# ──────────────────────────────────────────────────────────────────────────────
 class SmartClassifier:
     def __init__(self, brand_filter: str = ''):
         raw_master        = load_master()
@@ -340,6 +474,19 @@ class SmartClassifier:
 
         self._build_cache()
 
+        # AI용 가방 모델명 목록 (거래 횟수 내림차순 정렬은 master에 없으니 그냥 나열)
+        self._bag_model_names = self._collect_bag_model_names()
+
+    def _collect_bag_model_names(self) -> list:
+        """model_master에서 가방 카테고리 모델명 수집."""
+        names = []
+        for brand, info in self.master.items():
+            for model, m_info in info.get('models', {}).items():
+                cat = m_info.get('category', '')
+                if cat == '가방':
+                    names.append(model)
+        return names
+
     def _build_cache(self):
         self._pattern_cache   = []
         self._cat_model_cache = {}
@@ -347,9 +494,9 @@ class SmartClassifier:
 
         # ★ 품번 직접 패턴 (_build_cache에서 한 번만 컴파일)
         self._direct_patterns = [
-            (re.compile(r'\b[Mm]\d{5}\b'), '루이비통'),
-            (re.compile(r'\b[Nn]\d{5}\b'), '루이비통'),
-            (re.compile(r'\b1[A-Z]{2}\d{3}\b'), '루이비통'),  # 신형 품번 예: 1AB5DT
+            (re.compile(r'\b[Mm]\d{5}\b'),      '루이비통'),
+            (re.compile(r'\b[Nn]\d{5}\b'),      '루이비통'),
+            (re.compile(r'\b1[A-Z]{2}\d{3}\b'), '루이비통'),  # 신형 품번: 1AB5DT
         ]
 
         for brand, info in self.master.items():
@@ -431,7 +578,7 @@ class SmartClassifier:
         tokens   = set(full.split())
         core_tok = remove_brands(tokens)
 
-        # 0단계: 품번 직접 패턴 (원본 raw에서 검색 — normalize 전)
+        # 0단계: 품번 직접 패턴 (normalize 전 원본에서 검색)
         for pat, brand in self._direct_patterns:
             if pat.search(raw):
                 return {'model_name': f'{brand} 품번매칭', 'confidence': 0.95, 'category': category}
@@ -441,7 +588,7 @@ class SmartClassifier:
             if pat.search(full):
                 return {'model_name': f'{brand} 품번매칭', 'confidence': 0.95, 'category': category}
 
-        # 카테고리 결정: Gist에서 받은 것 우선, 없으면 직접 추론
+        # 카테고리 결정
         resolved_cat = category if category and category not in ('미분류', '기타', '') \
                        else infer_category(full)
 
@@ -454,7 +601,7 @@ class SmartClassifier:
             if result:
                 return result
 
-        # 카테고리 매칭 실패 → 전체 모델 fallback
+        # 전체 모델 fallback
         result = self._match_models(
             self._all_model_cache,
             full, compact, core_tok,
@@ -464,18 +611,41 @@ class SmartClassifier:
 
         return {'model_name': '미분류', 'confidence': 0.0, 'category': resolved_cat}
 
+    def classify_with_ai(self, title: str, content: str = '', category: str = '') -> dict:
+        """
+        기존 분류 실패 시 가방 카테고리에 한해 Groq AI로 재시도.
+        """
+        result = self.classify(title, content, category)
 
-# ──────────────────────────────────────────────────────────────
+        # 미분류이고 가방 카테고리인 경우만 AI 시도
+        if result['model_name'] == '미분류' and result.get('category') == '가방':
+            ai_model = ai_classify_title(title, self._bag_model_names)
+            if ai_model:
+                result['model_name']    = ai_model
+                result['confidence']    = 0.75
+                result['ai_classified'] = True
+                print(f'[AI] "{title}" → {ai_model}')
+
+        return result
+
+
+# ──────────────────────────────────────────────────────────────────────────────
 #  메인
-# ──────────────────────────────────────────────────────────────
+# ──────────────────────────────────────────────────────────────────────────────
 def main():
-    parser = argparse.ArgumentParser(description='Resell Classifier v7')
+    parser = argparse.ArgumentParser(description='Resell Classifier v8')
     parser.add_argument('--gist_id',    required=True)
     parser.add_argument('--gist_owner', required=True)
     parser.add_argument('--chunk_idx',  type=int, required=True)
+    parser.add_argument('--use_ai',     action='store_true',
+                        help='가방 미분류 항목에 Groq AI 분류 적용')
     args = parser.parse_args()
 
-    print(f'=== Classifier v7 시작 === Gist:{args.gist_id[:8]}... / 청크:{args.chunk_idx}')
+    print(f'=== Classifier v8 시작 === Gist:{args.gist_id[:8]}... / 청크:{args.chunk_idx}')
+    if GROQ_API_KEY:
+        print(f'[Groq] API 키 로드됨 (use_ai={args.use_ai})')
+    else:
+        print('[Groq] API 키 없음 — AI 분류 비활성')
 
     meta          = fetch_meta_from_gist(args.gist_owner, args.gist_id)
     brand_keyword = meta.get('brand_keyword', '')
@@ -487,8 +657,10 @@ def main():
         sys.exit(1)
 
     classifier = SmartClassifier(brand_filter=brand_keyword)
+    use_ai     = args.use_ai and bool(GROQ_API_KEY)
     results    = {}
     skipped    = 0
+    ai_count   = 0
 
     for item in items:
         title = item.get('title', '').strip()
@@ -497,10 +669,16 @@ def main():
             continue
 
         category = item.get('category', '')
-        res = classifier.classify(title, item.get('content', ''), category)
+
+        if use_ai:
+            res = classifier.classify_with_ai(title, item.get('content', ''), category)
+        else:
+            res = classifier.classify(title, item.get('content', ''), category)
 
         if res['confidence'] >= 0.5 and res['model_name'] not in ('미분류', ''):
             results[title] = res['model_name']
+            if res.get('ai_classified'):
+                ai_count += 1
 
     out_file = f'classify_result_{args.chunk_idx}.json'
     with open(out_file, 'w', encoding='utf-8') as f:
@@ -509,7 +687,7 @@ def main():
     total   = len(items)
     matched = len(results)
     rate    = matched / total * 100 if total else 0
-    print(f'✅ 완료: {matched}/{total}건 ({rate:.1f}%) / 스킵 {skipped}건 → {out_file}')
+    print(f'✅ 완료: {matched}/{total}건 ({rate:.1f}%) / 스킵 {skipped}건 / AI분류 {ai_count}건 → {out_file}')
 
 
 if __name__ == '__main__':
