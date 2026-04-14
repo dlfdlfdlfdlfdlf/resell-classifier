@@ -221,11 +221,30 @@ _NORMALIZE_MAP = {
 # ──────────────────────────────────────────────────────────────
 #  유틸
 # ──────────────────────────────────────────────────────────────
+MASTER_FILE = 'model_master.json'  # 하위호환용 (단일파일도 지원)
+
 def load_master() -> dict:
-    if os.path.exists(MASTER_FILE):
+    merged = {}
+
+    # 1. 브랜드별 파일 (model_master_*.json) 우선 로드
+    import glob
+    brand_files = glob.glob('model_master_*.json')
+    for path in brand_files:
+        try:
+            with open(path, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+                merged.update(data)
+                print(f'[Master] {path} 로드 ({len(data)}개 브랜드)')
+        except Exception as e:
+            print(f'[Master] {path} 로드 실패: {e}')
+
+    # 2. 브랜드별 파일 없으면 기존 단일 파일 fallback
+    if not merged and os.path.exists(MASTER_FILE):
         with open(MASTER_FILE, 'r', encoding='utf-8') as f:
-            return json.load(f)
-    return {}
+            merged = json.load(f)
+            print(f'[Master] {MASTER_FILE} 로드 ({len(merged)}개 브랜드)')
+
+    return merged
 
 
 def normalize(text: str) -> str:
