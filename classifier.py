@@ -1,10 +1,11 @@
 """
-classifier.py  (v9.1 — 중복 제거 + infer_category 제거 + 영어 치환 제거)
+classifier.py  (v9.2 — 버그수정 + 멀티브랜드 지원)
 """
 
 import sys, json, time, random, re, os, argparse, urllib.request, urllib.error
 from typing import Optional
 
+# 하위호환용 단일 파일 경로
 MASTER_FILE = 'model_master.json'
 
 # ──────────────────────────────────────────────────────────────
@@ -36,124 +37,72 @@ _NOISE_WORDS = {
 }
 
 # ──────────────────────────────────────────────────────────────
-#  유사 표기 통일 딕셔너리 (중복 제거 완료)
+#  유사 표기 통일 딕셔너리
 # ──────────────────────────────────────────────────────────────
 _NORMALIZE_MAP = {
     # ── 가방 ──────────────────────────────────────────────────
-
-    # 팔레르모
     '팔레모':               '팔레르모',
-
-    # 에튀 보야주
     '에튀보야주':           '에튀 보야주',
     '에뮬보야쥴':           '에튀 보야주',
     '에뮬보야주':           '에튀 보야주',
     '에뮬mm':               '에튀 보야주 mm',
     '에뮬gm':               '에튀 보야주 gm',
     '에뮬pm':               '에튀 보야주 pm',
-
-    # 앙프렝뜨
     '앙프렉뜨':             '앙프렝뜨',
     '엠프렉뜨':             '앙프렝뜨',
     '앙프레뜨':             '앙프렝뜨',
     '앙프렁뜨':             '앙프렝뜨',
     '앙프랭뜨':             '앙프렝뜨',
     '엠프렝뜨':             '앙프렝뜨',
-
-    # 트루빌
     '투루블':               '트루빌',
     '트루블':               '트루빌',
-
-    # 룩스부리
     '뤽부리':               '룩스부리',
     '룩부리':               '룩스부리',
     '록스부리':             '룩스부리',
     '럭스부리':             '룩스부리',
-
-    # 도핀
     '도피체인':             '도핀 체인',
     '도피네':               '도핀',
-
-    # 일립스
     '엘립스':               '일립스',
     '엘리프스':             '일립스',
-
-    # 보야주
     '보야쥴':               '보야주',
     '보야지':               '보야주',
-
-    # 마들렌
     '마들렝':               '마들렌',
     '마들린':               '마들렌',
-
-    # 앗치
     '아치백':               '앗치',
     '앗치백':               '앗치',
-
-    # 포쉐트
     '포세트':               '포쉐트',
     '포쉐악':               '포쉐트 악세수아',
     '포쉐악세수아':         '포쉐트 악세수아',
-
-    # 카퓌신
     '카푸신':               '카퓌신',
     '카피쉰':               '카퓌신',
     '카퓌쉰':               '카퓌신',
     '카피신':               '카퓌신',
-
-    # 소뮈르
     '소뮤르':               '소뮈르',
-
-    # 수플로
     '수프로':               '수플로',
     '수프로bb':             '수플로 bb',
     '수프로mm':             '수플로 mm',
-
-    # 부아뜨 샤포
     '샤포백':               '부아뜨 샤포',
     '부아뜨샤포':           '부아뜨 샤포',
-
-    # 삭 플라
     '삭플라':               '삭 플라',
-
-    # 쁘띠뜨 계열
     '쁘띠팔레':             '쁘띠뜨 팔레',
     '쁘띠노에':             '쁘띠뜨 노에',
     '쁘띠말':               '쁘띠뜨 말',
-
-    # 그랑 팔레
     '그랑팔레':             '그랑 팔레',
     '그랑팔래':             '그랑 팔레',
 
     # ── 지갑 ──────────────────────────────────────────────────
-
-    # 에피 유사 표기
     '에삐':                 '에피',
     '에삐가죽':             '에피',
-
-    # 섀도우 유사 표기
     '새도우':               '섀도우',
-
-    # 오거나이저
     '오거나이져':           '오거나이저',
-
-    # 미디엄 컴팩트
     '미디엄컴팩트월릿':     '컴팩트 월릿',
     '미디엄컴팩트':         '컴팩트 월릿',
-
-    # 지피 월릿
     '지피월릿':             '지피 월릿',
     '지피월렛':             '지피 월릿',
-
-    # 슬렌더 월릿
     '슬렌더월릿':           '슬렌더 월릿',
     '슬렌더월렛':           '슬렌더 월릿',
-
-    # 포켓 오거나이저
     '포켓오거나이저':       '포켓 오거나이저',
     '포켓오거나이져':       '포켓 오거나이저',
-
-    # 멀티플 월릿
     '멀티장지갑':           '멀티플',
     '멀티월렛':             '멀티플 월렛',
     '멀티월릿':             '멀티플 월릿',
@@ -161,52 +110,30 @@ _NORMALIZE_MAP = {
     '멀티플윌렛':           '멀티플 월릿',
     '멀티플월렛':           '멀티플 월렛',
     '멀티플월릿':           '멀티플 월렛',
-
-    # 브라짜
     '브라자':               '브라짜',
     '브라짜월릿':           '브라짜 월릿',
     '브라짜월렛':           '브라짜 월릿',
-
-    # 빅토린
     '빅토렌':               '빅토린',
     '빅토리니':             '빅토린',
     '빅토린월렛':           '빅토린 월렛',
     '빅토린월릿':           '빅토린 월렛',
-
-    # 클레망스
     '클레망':               '클레망스',
     '클레멍스':             '클레망스',
     '클레망스월릿':         '클레망스 월릿',
     '클레망스월렛':         '클레망스 월릿',
-
-    # 에밀리
     '에밀리월릿':           '에밀리 월릿',
     '에밀리월렛':           '에밀리 월릿',
-
-    # 사라
     '사라월렛':             '사라 월렛',
     '사라월릿':             '사라 월릿',
-
-    # 리사
     '리사월릿':             '리사 월릿',
     '리사월렛':             '리사 월릿',
-
-    # 트위스트
     '트위스트월릿':         '트위스트 에피 월릿',
     '트위스트월렛':         '트위스트 에피 월릿',
-
-    # 도핀 컴팩트
     '도핀컴팩트':           '도핀 컴팩트 월릿',
-
-    # 가스파
     '가스파월릿':           '가스파 월릿',
     '가스파월렛':           '가스파 월릿',
-
-    # 에피 프렌치 퍼스
     '프렌치퍼스':           '에피 프렌치 퍼스',
     '프렌치 퍼스':          '에피 프렌치 퍼스',
-
-    # 기타 지갑
     '로잘리동전지갑':       '로잘리 동전 지갑',
     '지피코인퍼스':         '지피 코인 퍼스',
     '패스포트커버':         '패스포트 커버',
@@ -221,14 +148,15 @@ _NORMALIZE_MAP = {
 # ──────────────────────────────────────────────────────────────
 #  유틸
 # ──────────────────────────────────────────────────────────────
-MASTER_FILE = 'model_master.json'  # 하위호환용
-
 def load_master() -> dict:
     import glob
     merged = {}
 
-    # 브랜드별 파일 우선 로드 (model_master_*.json)
-    brand_files = sorted(glob.glob('model_master_*.json'))
+    # backup/old 파일 제외하고 브랜드별 파일 로드
+    brand_files = [
+        f for f in sorted(glob.glob('model_master_*.json'))
+        if 'backup' not in f and 'old' not in f
+    ]
     for path in brand_files:
         try:
             with open(path, 'r', encoding='utf-8') as f:
@@ -276,7 +204,7 @@ def remove_brands(tokens: set) -> set:
 def fetch_meta_from_gist(gist_owner: str, gist_id: str) -> dict:
     url = f'https://gist.githubusercontent.com/{gist_owner}/{gist_id}/raw/meta.json'
     try:
-        req = urllib.request.Request(url, headers={'User-Agent': 'resell-classifier/9.1'})
+        req = urllib.request.Request(url, headers={'User-Agent': 'resell-classifier/9.2'})
         with urllib.request.urlopen(req, timeout=15) as resp:
             return json.loads(resp.read().decode('utf-8'))
     except Exception as e:
@@ -286,11 +214,11 @@ def fetch_meta_from_gist(gist_owner: str, gist_id: str) -> dict:
 
 def fetch_chunk_from_gist(gist_owner: str, gist_id: str, chunk_idx: int, max_retry: int = 4):
     filename = f'chunk_{chunk_idx}.json'
-    url = f'https://gist.githubusercontent.com/{gist_owner}/{gist_id}/raw/{filename}'
+    url = f'https://gist.githubusercontent.com/{gist_owner}/{gist_id}/raw/{filename}?t={int(time.time())}'
     print(f'[Gist] 다운로드: {url}')
     for attempt in range(max_retry):
         try:
-            req = urllib.request.Request(url, headers={'User-Agent': 'resell-classifier/9.1'})
+            req = urllib.request.Request(url, headers={'User-Agent': 'resell-classifier/9.2'})
             with urllib.request.urlopen(req, timeout=30) as resp:
                 data = json.loads(resp.read().decode('utf-8'))
                 print(f'[Gist] ✅ {len(data)}개 아이템 로드')
@@ -304,15 +232,15 @@ def fetch_chunk_from_gist(gist_owner: str, gist_id: str, chunk_idx: int, max_ret
 
 
 # ──────────────────────────────────────────────────────────────
-#  AI 분류 (Groq — 가방 미분류 fallback)
+#  AI 분류 (Groq — 미분류 fallback)
 # ──────────────────────────────────────────────────────────────
-def ai_classify_title(title: str, model_names: list) -> Optional[str]:
+def ai_classify_title(title: str, model_names: list, brand: str = '루이비통') -> Optional[str]:
     if not GROQ_API_KEY or not model_names:
         return None
     top_models = model_names[:200]
     models_str = '\n'.join(top_models)
     prompt = (
-        f'루이비통 중고 매물 제목에서 아래 공식 모델명 중 가장 유사한 것을 찾아라.\n\n'
+        f'{brand} 중고 매물 제목에서 아래 공식 모델명 중 가장 유사한 것을 찾아라.\n\n'
         f'매물 제목: "{title}"\n\n'
         f'공식 모델명 목록:\n{models_str}\n\n'
         '규칙:\n'
@@ -365,14 +293,15 @@ class SmartClassifier:
             print(f'[SmartClassifier] 전체: {len(self.master)}개 브랜드')
 
         self._build_cache()
-        self._bag_model_names = self._collect_bag_model_names()
+        self._bag_model_names = self._collect_model_names_by_cat('가방')
         self._style_to_model  = self._build_style_map()
 
-    def _collect_bag_model_names(self) -> list:
+    def _collect_model_names_by_cat(self, category: str) -> list:
+        """특정 카테고리 모델명을 거래수 내림차순으로 반환"""
         entries = []
         for brand, info in self.master.items():
             for model, m_info in info.get('models', {}).items():
-                if m_info.get('category', '') == '가방':
+                if m_info.get('category', '') == category:
                     trade_count = m_info.get('trade_count', 0) or 0
                     entries.append((trade_count, model))
         entries.sort(key=lambda x: x[0], reverse=True)
@@ -390,18 +319,18 @@ class SmartClassifier:
         return style_map
 
     def _build_cache(self):
-    self._pattern_cache   = []
-    self._cat_model_cache = {}
-    self._all_model_cache = []
+        self._pattern_cache   = []
+        self._cat_model_cache = {}
+        self._all_model_cache = []
 
-    self._direct_patterns = [
-        (re.compile(r'\b[MNmn]\d{4,5}[A-Z0-9]?\b'),         '루이비통'),  # M41528, M0341V, N41221
-        (re.compile(r'\b1[A-Z0-9]{5}\b'),                    '루이비통'),  # 1AFFE8, 1A9SZM, 1AC2AM
-        (re.compile(r'\b[Mm][A-Z]{1,2}\d{3,4}[A-Z0-9]?\b'), '루이비통'),  # MP2745, MI1918, MLL002
-        (re.compile(r'\b[Qq]\d{4,5}[A-Z0-9]{0,2}\b'),        '루이비통'),  # Q93559, Q9N91I, Q9K97A
-    ]
+        self._direct_patterns = [
+            (re.compile(r'\b[MNmn]\d{4,5}[A-Z0-9]?\b'),         '루이비통'),  # M41528, M0341V, N41221
+            (re.compile(r'\b1[A-Z0-9]{5}\b'),                    '루이비통'),  # 1AFFE8, 1A9SZM, 1AC2AM
+            (re.compile(r'\b[Mm][A-Z]{1,2}\d{3,4}[A-Z0-9]?\b'), '루이비통'),  # MP2745, MI1918, MLL002
+            (re.compile(r'\b[Qq]\d{4,5}[A-Z0-9]{0,2}\b'),        '루이비통'),  # Q93559, Q9N91I, Q9K97A
+        ]
 
-    for brand, info in self.master.items():
+        for brand, info in self.master.items():
             for pat in info.get('patterns', []):
                 try:
                     self._pattern_cache.append((brand, re.compile(pat)))
@@ -469,10 +398,6 @@ class SmartClassifier:
         return {}
 
     def classify(self, title: str, content: str = '', category: str = '') -> dict:
-        """
-        category: app.py가 Gist에 실어 보낸 카테고리. 있으면 우선 사용.
-        infer_category 없음 — app.py가 못 잡으면 여기서도 못 잡으므로 빈 문자열로 처리.
-        """
         raw      = title + ' ' + content
         full     = normalize(raw)
         compact  = normalize_compact(raw)
@@ -503,7 +428,7 @@ class SmartClassifier:
             if pat.search(full):
                 return {'model_name': f'{brand} 품번매칭', 'confidence': 0.95, 'category': category}
 
-        # 카테고리 결정 — app.py가 보낸 값 우선, 없으면 빈 문자열
+        # 카테고리 결정
         resolved_cat = category if category and category not in ('미분류', '기타', '') else ''
 
         # 카테고리 범위로 먼저 시도
@@ -528,7 +453,9 @@ class SmartClassifier:
     def classify_with_ai(self, title: str, content: str = '', category: str = '') -> dict:
         result = self.classify(title, content, category)
         if result['model_name'] == '미분류' and result.get('category') == '가방':
-            ai_model = ai_classify_title(title, self._bag_model_names)
+            # 브랜드 필터가 있으면 해당 브랜드명으로 AI 분류
+            brand = self.brand_filter if self.brand_filter else '명품'
+            ai_model = ai_classify_title(title, self._bag_model_names, brand=brand)
             if ai_model:
                 result['model_name']    = ai_model
                 result['confidence']    = 0.75
@@ -541,7 +468,7 @@ class SmartClassifier:
 #  메인
 # ──────────────────────────────────────────────────────────────
 def main():
-    parser = argparse.ArgumentParser(description='Resell Classifier v9.1')
+    parser = argparse.ArgumentParser(description='Resell Classifier v9.2')
     parser.add_argument('--gist_id',    required=True)
     parser.add_argument('--gist_owner', required=True)
     parser.add_argument('--chunk_idx',  type=int, required=True)
@@ -549,7 +476,7 @@ def main():
                         help='가방 미분류 항목에 Groq AI 분류 적용')
     args = parser.parse_args()
 
-    print(f'=== Classifier v9.1 시작 === Gist:{args.gist_id[:8]}... / 청크:{args.chunk_idx}')
+    print(f'=== Classifier v9.2 시작 === Gist:{args.gist_id[:8]}... / 청크:{args.chunk_idx}')
     if GROQ_API_KEY:
         print(f'[Groq] API 키 로드됨 (use_ai={args.use_ai})')
     else:
@@ -584,7 +511,7 @@ def main():
             res = classifier.classify(title, item.get('content', ''), category)
 
         if res['confidence'] >= 0.6 and res['model_name'] not in ('미분류', ''):
-    results[title] = res['model_name'].strip()  # ← .strip() 추가
+            results[title] = res['model_name'].strip()
             if res.get('ai_classified'):
                 ai_count += 1
 
