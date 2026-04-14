@@ -1,0 +1,4749 @@
+{
+  "에르메스": {
+    "models": {
+      "에르메스 바운싱 스니커즈 스포츠 스웨이드 고트스킨 & 블랑 느와르": {
+        "category": "신발",
+        "synonyms": [
+          "Hermes Bouncing Sneakers Graphic Mesh Suede Goatskin & Blanc"
+        ],
+        "trade_count": 132,
+        "avg_price": 883000
+      },
+      "에르메스 오란 샌들 카프스킨 & 골드 피케르 에크루즈": {
+        "category": "신발",
+        "synonyms": [
+          "Hermes Oran Sandal Calfskin & Gold Piqures Ecrues"
+        ],
+        "trade_count": 106,
+        "avg_price": 543000
+      },
+      "에르메스 샹달 엔체이니 링 스몰 스털링 실버": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Chaine D'ancre Enchainee Ring Small Steriling Silver"
+        ],
+        "trade_count": 65,
+        "avg_price": 539000
+      },
+      "에르메스 이즈미르 샌들 글레이즈드 카프스킨 & 느와르": {
+        "category": "신발",
+        "synonyms": [
+          "Hermes Izmir Sandal Glazed Calfskin & Noir"
+        ],
+        "trade_count": 55,
+        "avg_price": 570000
+      },
+      "에르메스 바운싱 스니커즈 메쉬 스웨이드 고트스킨 & 느와르 블랑": {
+        "category": "신발",
+        "synonyms": [
+          "Hermes Bouncing Sneakers Mesh Suede Goatskin & Noir Blanc"
+        ],
+        "trade_count": 47,
+        "avg_price": 1088000
+      },
+      "에르메스 바운싱 스니커즈 캔버스 스웨이드 고트스킨 & 블랑 오렌지": {
+        "category": "신발",
+        "synonyms": [
+          "Hermes Bouncing Sneakers Canvas Suede Goatskin & Blanc Orange"
+        ],
+        "trade_count": 46,
+        "avg_price": 1130000
+      },
+      "에르메스 시프레 샌들 카프스킨 & 누아": {
+        "category": "신발",
+        "synonyms": [
+          "Hermes Chypre Sandal Calfskin & Noir"
+        ],
+        "trade_count": 45,
+        "avg_price": 935000
+      },
+      "에르메스 MC² 유클리드 엡솜 카드홀더 에토프": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes MC² Euclide Epsom Card Holder Etoupe"
+        ],
+        "trade_count": 42,
+        "avg_price": 706000
+      },
+      "에르메스 에제리 샌들 느와르": {
+        "category": "신발",
+        "synonyms": [
+          "Hermes Egerie Sandal Noir"
+        ],
+        "trade_count": 41,
+        "avg_price": 122000
+      },
+      "에르메스 투니스 트레세 브레이슬릿 팔라듐 하드웨어 & 스위프트 누아": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Tournis Tresse Bracelet Palladium Plated & Swift Noir"
+        ],
+        "trade_count": 38,
+        "avg_price": 380000
+      },
+      "에르메스 클릭 H 브레이슬릿 PM 골드 하드웨어 블랑 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Clic H Bracelet PM Gold Plated Blanc Enamel"
+        ],
+        "trade_count": 36,
+        "avg_price": 380000
+      },
+      "에르메스 파리 로퍼 고트스킨 & 팔라듐 하드웨어 느와르": {
+        "category": "신발",
+        "synonyms": [
+          "Hermes Paris Loafers Goatskin & Palladium Noir"
+        ],
+        "trade_count": 33,
+        "avg_price": 906000
+      },
+      "에르메스 미니 팝 H 펜던트 네크리스 팔라듐 하드웨어 블랑 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Mini Pop H Pendant Necklace Palladium Plated Blanc Enamel"
+        ],
+        "trade_count": 32,
+        "avg_price": 611000
+      },
+      "에르메스 바운싱 스니커즈 그래픽 메쉬 스웨이드 고트스킨 & 블랑": {
+        "category": "신발",
+        "synonyms": [
+          "Hermes Bouncing Sneakers Graphic Mesh Suede Goatskin & Blanc"
+        ],
+        "trade_count": 31,
+        "avg_price": 734000
+      },
+      "에르메스 (W) 에르메스 오아시스 샌들 카프스킨 & 골드 피케르 에크루즈": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Hermes Oasis Sandal Calfskin & Gold Piqures Ecrues"
+        ],
+        "trade_count": 31,
+        "avg_price": 663000
+      },
+      "에르메스 MC² 유클리드 엡솜 카드홀더 누아": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes MC² Euclide Epsom Card Holder Noir"
+        ],
+        "trade_count": 30,
+        "avg_price": 780000
+      },
+      "에르메스 오란 샌들 카프스킨 & 블랑 피케르 하바네": {
+        "category": "신발",
+        "synonyms": [
+          "Hermes Oran Sandal Calfskin & Blanc Piqures Havane"
+        ],
+        "trade_count": 30,
+        "avg_price": 595000
+      },
+      "에르메스 오란 샌들 카프스킨 & 느와르 피케르 에크루즈": {
+        "category": "신발",
+        "synonyms": [
+          "Hermes Oran Sandal Calfskin & Noir Piqures Ecrues"
+        ],
+        "trade_count": 28,
+        "avg_price": 645000
+      },
+      "에르메스 미니 팝 H 펜던트 네크리스 골드 하드웨어 블랑 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Mini Pop H Pendant Necklace Gold Plated Blanc Enamel"
+        ],
+        "trade_count": 26,
+        "avg_price": 586000
+      },
+      "에르메스 바운싱 스니커즈 카프스킨 스웨이드 고트스킨 & 느와르": {
+        "category": "신발",
+        "synonyms": [
+          "Hermes Bouncing Sneakers Calfskin Suede Goatskin & Noir"
+        ],
+        "trade_count": 26,
+        "avg_price": 615000
+      },
+      "에르메스 미니 팝 H 펜던트 네크리스 로즈 골드 하드웨어 블랑 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Mini Pop H Pendant Necklace Rose Gold Plated Blanc Enamel"
+        ],
+        "trade_count": 25,
+        "avg_price": 690000
+      },
+      "에르메스 스카프": {
+        "category": "패션 악세서리",
+        "synonyms": [
+          "Hermes Scarf"
+        ],
+        "trade_count": 24,
+        "avg_price": 268000
+      },
+      "에르메스 미니 팝 H 펜던트 네크리스 골드 하드웨어 마롱 글라세 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Mini Pop H Pendant Necklace Gold Plated Marron Glace Enamel"
+        ],
+        "trade_count": 23,
+        "avg_price": 1010000
+      },
+      "에르메스 이즈미르 샌들 카프스킨 & 골드": {
+        "category": "신발",
+        "synonyms": [
+          "Hermes Izmir Sandal Calfskin & Gold"
+        ],
+        "trade_count": 23,
+        "avg_price": 480000
+      },
+      "에르메스 바운싱 스니커즈 메쉬 스웨이드 고트스킨 & 블랑 블랑": {
+        "category": "신발",
+        "synonyms": [
+          "Hermes Bouncing Sneakers Mesh Suede Goatskin & Blanc Blanc"
+        ],
+        "trade_count": 22,
+        "avg_price": 729000
+      },
+      "에르메스 미니 팝 H 펜던트 네크리스 골드 하드웨어 누아 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Mini Pop H Pendant Necklace Gold Plated Noir Enamel"
+        ],
+        "trade_count": 21,
+        "avg_price": 710000
+      },
+      "에르메스 코트": {
+        "category": "의류",
+        "synonyms": [
+          "Hermes Coat"
+        ],
+        "trade_count": 20,
+        "avg_price": 2225000
+      },
+      "에르메스 칼비 엡솜 & 팔라듐 하드웨어 카드홀더 에토프": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes Calvi Epsom & Palladium Card Holder Etoupe"
+        ],
+        "trade_count": 17,
+        "avg_price": 300000
+      },
+      "에르메스 클릭 H 브레이슬릿 PM 팔라듐 하드웨어 누아 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Clic H Bracelet PM Palladium Plated Noir Enamel"
+        ],
+        "trade_count": 17,
+        "avg_price": 498000
+      },
+      "에르메스 스웨터": {
+        "category": "의류",
+        "synonyms": [
+          "Hermes Knit"
+        ],
+        "trade_count": 17,
+        "avg_price": 505000
+      },
+      "에르메스 알로하 샌들 러버 & 누아": {
+        "category": "신발",
+        "synonyms": [
+          "Hermes Aloha Sandal Rubber & Noir"
+        ],
+        "trade_count": 16,
+        "avg_price": 70000
+      },
+      "에르메스 산토리니 샌들 카프스킨 & 누아": {
+        "category": "신발",
+        "synonyms": [
+          "Hermes Santorini Sandal Calfskin & Noir"
+        ],
+        "trade_count": 16,
+        "avg_price": 490000
+      },
+      "에르메스 에제리 샌들 버트 엠브룬": {
+        "category": "신발",
+        "synonyms": [
+          "Hermes Egerie Sandal Vert Embrun"
+        ],
+        "trade_count": 16,
+        "avg_price": 245000
+      },
+      "에르메스 칼비 엡솜 & 팔라듐 하드웨어 카드홀더 누아": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes Calvi Epsom & Palladium Card Holder Noir"
+        ],
+        "trade_count": 15,
+        "avg_price": 300000
+      },
+      "에르메스 에블린 3 클레망스 & 팔라듐 하드웨어 29 에토프": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Evelyne 3 Clemence & Palladium 29 Etoupe"
+        ],
+        "trade_count": 15,
+        "avg_price": 2800000
+      },
+      "에르메스 가디건": {
+        "category": "의류",
+        "synonyms": [
+          "Hermes Cardigan"
+        ],
+        "trade_count": 15,
+        "avg_price": 716000
+      },
+      "에르메스 오란 샌들 앱송 & 에토프": {
+        "category": "신발",
+        "synonyms": [
+          "Hermes Oran Sandal Epsom & Etoupe"
+        ],
+        "trade_count": 15,
+        "avg_price": 693000
+      },
+      "에르메스 에르백 밀리터리 캔버스 헌터 카우하이드 & 팔라듐 하드웨어 집 31 베통 포브": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Herbag Military Canvas Hunter Cowhide & Palladium Zip 31 Beton Fauve"
+        ],
+        "trade_count": 14,
+        "avg_price": 3500000
+      },
+      "에르메스 에블린 클레망스 & 팔라듐 하드웨어 아마존 16 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Evelyne Clemence & Palladium Amazone 16 Noir"
+        ],
+        "trade_count": 14,
+        "avg_price": 3720000
+      },
+      "에르메스 셔츠": {
+        "category": "의류",
+        "synonyms": [
+          "Hermes Shirt"
+        ],
+        "trade_count": 14,
+        "avg_price": 182000
+      },
+      "에르메스 에블린 클레망스 & 골드 하드웨어 아마존 16 골드": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Evelyne Clemence & Gold Amazone 16 Gold"
+        ],
+        "trade_count": 13,
+        "avg_price": 3494000
+      },
+      "에르메스 시프레 샌들 카프스킨 & 블랑": {
+        "category": "신발",
+        "synonyms": [
+          "Hermes Chypre Sandal Calfskin & Blanc"
+        ],
+        "trade_count": 13,
+        "avg_price": 700000
+      },
+      "에르메스 (W) 에르메스 오아시스 샌들 카프스킨 & 블랑": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Hermes Oasis Sandal Calfskin & Blanc"
+        ],
+        "trade_count": 13,
+        "avg_price": 465000
+      },
+      "에르메스 티셔츠": {
+        "category": "의류",
+        "synonyms": [
+          "Hermes T-shirt"
+        ],
+        "trade_count": 13,
+        "avg_price": 472000
+      },
+      "에르메스 에르백 셀리에 H 베를린 캔버스 & 팔라듐 하드웨어 집 31 누아 에크류": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Herbag Sellier H Berllin Canvas & Palladium Zip 31 Noir Ecru"
+        ],
+        "trade_count": 12,
+        "avg_price": 1640000
+      },
+      "에르메스 에르백 르투르네 캔버스 & 골드 하드웨어 집 31 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Herbag Retourne Canvas & Gold Zip 31 Noir"
+        ],
+        "trade_count": 12,
+        "avg_price": 3983000
+      },
+      "에르메스 에르백 밀리터리 캔버스 헌터 카우하이드 & 팔라듐 하드웨어 집 31 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Herbag Military Canvas Hunter Cowhide & Palladium Zip 31 Noir"
+        ],
+        "trade_count": 12,
+        "avg_price": 1100000
+      },
+      "에르메스 피코탄 락 클레망스 & 팔라듐 하드웨어 22 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Picotin Lock Clemence & Palladium 22 Noir"
+        ],
+        "trade_count": 12,
+        "avg_price": 3920000
+      },
+      "에르메스 에블린 클레망스 & 골드 하드웨어 아마존 16 에토프 블루 인디고": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Evelyne Clemence & Gold Amazone 16 Etoupe Bleu Indigo"
+        ],
+        "trade_count": 12,
+        "avg_price": 2835000
+      },
+      "에르메스 브리드 어 브랙 케이스 캔버스 스몰 나뛰렐": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Bride A Brac Case Canvas Small Naturel"
+        ],
+        "trade_count": 12,
+        "avg_price": 880000
+      },
+      "에르메스 베안 엡솜 & 팔라듐 하드웨어 장지갑 골드": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes Bearn Epsom & Palladium Hardware Long Wallet Gold"
+        ],
+        "trade_count": 11,
+        "avg_price": 2000000
+      },
+      "에르메스 베안 엡솜 & 골드 하드웨어 장지갑 누아": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes Bearn Epsom & Gold Hardware Long Wallet Noir"
+        ],
+        "trade_count": 11,
+        "avg_price": 2500000
+      },
+      "에르메스 베안 엡솜 & 골드 하드웨어 장지갑 골드": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes Bearn Epsom & Gold Hardware Long Wallet Gold"
+        ],
+        "trade_count": 11,
+        "avg_price": 2550000
+      },
+      "에르메스 샹달 팬던트 네크리스 스털링 실버": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Chaine D'ancre Pendant Necklace Steriling Silver"
+        ],
+        "trade_count": 11,
+        "avg_price": 641000
+      },
+      "에르메스 가든 파티 네곤다 & 팔라듐 하드웨어 30 에토프": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Garden Party Negonda & Palladium 30 Etoupe"
+        ],
+        "trade_count": 11,
+        "avg_price": 4200000
+      },
+      "에르메스 에블린 3 클레망스 & 골드 하드웨어 29 에토프": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Evelyne 3 Clemence & Gold 29 Etoupe"
+        ],
+        "trade_count": 11,
+        "avg_price": 4825000
+      },
+      "에르메스 피코탄 락 클레망스 & 팔라듐 하드웨어 22 에토프": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Picotin Lock Clemence & Palladium 22 Etoupe"
+        ],
+        "trade_count": 11,
+        "avg_price": 2566000
+      },
+      "에르메스 가든 파티 밀리터리 캔버스 네곤다 & 팔라듐 하드웨어 36 에크류 까시스 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Garden Party Canvas Negonda & Palladium 36 Ecru Cassis Noir"
+        ],
+        "trade_count": 11,
+        "avg_price": 1566000
+      },
+      "에르메스 (W) 에르메스 오아시스 샌들 카프스킨 & 누아": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Hermes Oasis Sandal Calfskin & Noir"
+        ],
+        "trade_count": 11,
+        "avg_price": 718000
+      },
+      "에르메스 H 버클 & 리버시블 벨트": {
+        "category": "패션 악세서리",
+        "synonyms": [
+          "Hermes H Buckle & Reversible Belt"
+        ],
+        "trade_count": 10,
+        "avg_price": 536000
+      },
+      "에르메스 칼비 엡솜 & 팔라듐 하드웨어 카드홀더 골드": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes Calvi Epsom & Palladium Card Holder Gold"
+        ],
+        "trade_count": 10,
+        "avg_price": 271000
+      },
+      "에르메스 샹달 브레이슬릿 미디엄 스털링 실버": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Chaine D'ancre Bracelet Medium Steriling Silver"
+        ],
+        "trade_count": 10,
+        "avg_price": 1942000
+      },
+      "에르메스 브리드 어 브랙 케이스 캔버스 라지 나뛰렐": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Bride A Brac Case Canvas Large Naturel"
+        ],
+        "trade_count": 10,
+        "avg_price": 930000
+      },
+      "에르메스 스웨트셔츠": {
+        "category": "의류",
+        "synonyms": [
+          "Hermes Sweatshirt"
+        ],
+        "trade_count": 10,
+        "avg_price": 560000
+      },
+      "에르메스 베안 마담 & 골드 하드웨어 카드홀더 골드": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes Bearn Madame & Gold Card Holder Gold"
+        ],
+        "trade_count": 9,
+        "avg_price": 1625000
+      },
+      "에르메스 샹달 엔체이니 링 스몰 로즈 골드": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Chaine D'ancre Enchainee Ring Small Rose Gold"
+        ],
+        "trade_count": 9,
+        "avg_price": 1854000
+      },
+      "에르메스 피코탄 락 클레망스 & 골드 하드웨어 18 에토프": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Picotin Lock Clemence & Gold 18 Etoupe"
+        ],
+        "trade_count": 9,
+        "avg_price": 3495000
+      },
+      "에르메스 피코탄 락 클레망스 & 골드 하드웨어 18 골드": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Picotin Lock Clemence & Gold 18 Gold"
+        ],
+        "trade_count": 9,
+        "avg_price": 3550000
+      },
+      "에르메스 가든 파티 네곤다 & 팔라듐 하드웨어 30 블루 인디고": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Garden Party Negonda & Palladium 30 Bleu Indigo"
+        ],
+        "trade_count": 9,
+        "avg_price": 6600000
+      },
+      "에르메스 에블린 클레망스 & 팔라듐 하드웨어 아마존 16 골드": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Evelyne Clemence & Palladium Amazone 16 Gold"
+        ],
+        "trade_count": 9,
+        "avg_price": 3425000
+      },
+      "에르메스 에블린 클레망스 & 골드 하드웨어 아마존 16 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Evelyne Clemence & Gold Amazone 16 Noir"
+        ],
+        "trade_count": 9,
+        "avg_price": 3420000
+      },
+      "에르메스 에블린 클레망스 & 골드 하드웨어 아마존 16 에토프": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Evelyne Clemence & Gold Amazone 16 Etoupe"
+        ],
+        "trade_count": 9,
+        "avg_price": 2625000
+      },
+      "에르메스 숏슬리브 스웨터": {
+        "category": "의류",
+        "synonyms": [
+          "Hermes Short Sleeve Swaeter"
+        ],
+        "trade_count": 9,
+        "avg_price": 420000
+      },
+      "에르메스 칼비 엡솜 & 팔라듐 하드웨어 듀오 카드홀더 에토프": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes Calvi Epsom & Palladium Duo Card Holder Etoupe"
+        ],
+        "trade_count": 8,
+        "avg_price": 394000
+      },
+      "에르메스 베안 엡솜 & 골드 하드웨어 장지갑 에토프": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes Bearn Epsom & Gold Hardware Long Wallet Etoupe"
+        ],
+        "trade_count": 8,
+        "avg_price": 1650000
+      },
+      "에르메스 클릭 HH 브레이슬릿 쏘 블랙 하드웨어 누아 마뜨 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Clic HH Bracelet So Black Metal Noir Mat Enamel"
+        ],
+        "trade_count": 8,
+        "avg_price": 600000
+      },
+      "에르메스 가든 파티 네곤다 & 팔라듐 하드웨어 30 골드": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Garden Party Negonda & Palladium 30 Gold"
+        ],
+        "trade_count": 8,
+        "avg_price": 5750000
+      },
+      "에르메스 가든 파티 네곤다 & 팔라듐 하드웨어 30 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Garden Party Negonda & Palladium 30 Noir"
+        ],
+        "trade_count": 8,
+        "avg_price": 5925000
+      },
+      "에르메스 에블린 3 클레망스 & 팔라듐 하드웨어 29 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Evelyne 3 Clemence & Palladium 29 Noir"
+        ],
+        "trade_count": 8,
+        "avg_price": 3950000
+      },
+      "에르메스 에블린 3 클레망스 & 골드 하드웨어 29 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Evelyne 3 Clemence & Gold 29 Noir"
+        ],
+        "trade_count": 8,
+        "avg_price": 3000000
+      },
+      "에르메스 반소매 폴로 티셔츠": {
+        "category": "의류",
+        "synonyms": [
+          "Hermes Polo T-shirt"
+        ],
+        "trade_count": 8
+      },
+      "에르메스 이즈미르 샌들 카프스킨 & 블랑": {
+        "category": "신발",
+        "synonyms": [
+          "Hermes Izmir Sandal Calfskin & Blanc"
+        ],
+        "trade_count": 8,
+        "avg_price": 740000
+      },
+      "에르메스 디파트 스니커즈 니트 카프스킨 & 블랑": {
+        "category": "신발",
+        "synonyms": [
+          "Hermes Depart Sneakers Knit Calfskin & Blanc"
+        ],
+        "trade_count": 8,
+        "avg_price": 836000
+      },
+      "에르메스 투니스 트레세 브레이슬릿 쏘 블랙 하드웨어 & 스위프트 누아": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Tournis Tresse Bracelet So Black Metal & Swift Noir"
+        ],
+        "trade_count": 7,
+        "avg_price": 328000
+      },
+      "에르메스 클릭 H 브레이슬릿 PM 로즈 골드 하드웨어 마롱 글라세 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Clic H Bracelet PM Rose Gold Plated Marron Glace Enamel"
+        ],
+        "trade_count": 7,
+        "avg_price": 482000
+      },
+      "에르메스 클릭 HH 브레이슬릿 브러쉬드 골드 하드웨어 누아 마뜨 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Clic HH Bracelet Brushed Gold Plated Noir Mat Enamel"
+        ],
+        "trade_count": 7,
+        "avg_price": 530000
+      },
+      "에르메스 가든 파티 네곤다 & 팔라듐 하드웨어 36 에토프": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Garden Party Negonda & Palladium 36 Etoupe"
+        ],
+        "trade_count": 7,
+        "avg_price": 5650000
+      },
+      "에르메스 (W) 에르메스 오아시스 샌들 앱송 & 에뚜쁘": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Hermes Oasis Sandal Epsom & Etoupe"
+        ],
+        "trade_count": 7,
+        "avg_price": 950000
+      },
+      "에르메스 후드 집업": {
+        "category": "의류",
+        "synonyms": [
+          "Hermes Zipped Hoodie"
+        ],
+        "trade_count": 7,
+        "avg_price": 640000
+      },
+      "에르메스 테일러드 자켓": {
+        "category": "의류",
+        "synonyms": [
+          "Hermes Tailored Jacket"
+        ],
+        "trade_count": 7,
+        "avg_price": 368000
+      },
+      "에르메스 로얄 로퍼 고트스킨 & 퍼마브래스 하드웨어 느와르": {
+        "category": "신발",
+        "synonyms": [
+          "Hermes Royal Loafers Calfskin & Permabrass Blanc"
+        ],
+        "trade_count": 7,
+        "avg_price": 1300000
+      },
+      "에르메스 에제리 샌들 블루 아웃리머": {
+        "category": "신발",
+        "synonyms": [
+          "Hermes Egerie Sandal Bleu Outremer"
+        ],
+        "trade_count": 7,
+        "avg_price": 350000
+      },
+      "에르메스 에르라인 후루토 캔버스 토트백 GM 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Eraline Furuto Canvas Tote Bag GM Gray"
+        ],
+        "trade_count": 6,
+        "avg_price": 296000
+      },
+      "에르메스 R.M.S 에버컬러 & 팔라듐 하드웨어 카드홀더 골드": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes R.M.S Evercolor & Palladium Card Holder Gold"
+        ],
+        "trade_count": 6,
+        "avg_price": 1130000
+      },
+      "에르메스 미니 팝 H 펜던트 네크리스 골드 하드웨어 로즈 드라제 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Mini Pop H Pendant Necklace Gold Plated Rose Dragee Enamel"
+        ],
+        "trade_count": 6,
+        "avg_price": 596000
+      },
+      "에르메스 클릭 H 브레이슬릿 PM 팔라듐 하드웨어 블랑 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Clic H Bracelet PM Palladium Plated Blanc Enamel"
+        ],
+        "trade_count": 6,
+        "avg_price": 411000
+      },
+      "에르메스 샹달 브레이슬릿 베리 라지 스털링 실버": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Chaine D'ancre Bracelet Very Large Steriling Silver"
+        ],
+        "trade_count": 6,
+        "avg_price": 2400000
+      },
+      "에르메스 피코탄 락 클레망스 & 골드 하드웨어 18 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Picotin Lock Clemence & Gold 18 Noir"
+        ],
+        "trade_count": 6,
+        "avg_price": 6250000
+      },
+      "에르메스 피코탄 락 클레망스 & 팔라듐 하드웨어 18 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Picotin Lock Clemence & Palladium 18 Noir"
+        ],
+        "trade_count": 6,
+        "avg_price": 4150000
+      },
+      "에르메스 에블린 클레망스 & 팔라듐 하드웨어 아마존 16 에토프 블루 인디고": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Evelyne Clemence & Palladium Amazone 16 Etoupe Bleu Indigo"
+        ],
+        "trade_count": 6,
+        "avg_price": 2825000
+      },
+      "에르메스 가든 파티 바이킹 캔버스 네곤다 & 팔라듐 하드웨어 36 에크류 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Garden Party Viking Canvas Negonda & Palladium 36 Ecru Noir"
+        ],
+        "trade_count": 6,
+        "avg_price": 1700000
+      },
+      "에르메스 가든 파티 밀리터리 캔버스 네곤다 & 팔라듐 하드웨어 36 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Garden Party Military Canvas Negonda & Palladium 36 Noir"
+        ],
+        "trade_count": 6,
+        "avg_price": 2123000
+      },
+      "에르메스 가든 파티 네곤다 & 팔라듐 하드웨어 36 골드": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Garden Party Negonda & Palladium 36 Gold"
+        ],
+        "trade_count": 6,
+        "avg_price": 3500000
+      },
+      "에르메스 (W) 에르메스 엑스트라 샌들 나파 & 블랑": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Hermes Extra Sandal Nappa & Blanc"
+        ],
+        "trade_count": 6,
+        "avg_price": 1400000
+      },
+      "에르메스 시프레 샌들 스웨이드 고트스킨 & 에뚜쁘": {
+        "category": "신발",
+        "synonyms": [
+          "Hermes Chypre Sandal Suede Goatskin & Etoupe"
+        ],
+        "trade_count": 6,
+        "avg_price": 900000
+      },
+      "에르메스 로얄 로퍼 카프스킨 & 퍼마브래스 하드웨어 블랑": {
+        "category": "신발",
+        "synonyms": [
+          "Hermes Royal Loafers Calfskin & Permabrass Blanc"
+        ],
+        "trade_count": 6,
+        "avg_price": 827000
+      },
+      "에르메스 켈리 클래식 앱송 & 팔라듐 하드웨어 월렛 에토프": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes Kelly Classic Epsom & Palladium Wallet Etoupe"
+        ],
+        "trade_count": 5
+      },
+      "에르메스 시티즌 엡솜 트윌 컴팩트 카드홀더 골드 에크류 베르 앱생트": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes Citizen Epsom Twill Compact Card Holder Gold Ecru Vert Absinthe"
+        ],
+        "trade_count": 5,
+        "avg_price": 1686000
+      },
+      "에르메스 베안 엡솜 & 팔라듐 하드웨어 컴팩트 지갑 골드": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes Bearn Epsom & Palladium Compact Wallet Gold"
+        ],
+        "trade_count": 5,
+        "avg_price": 1650000
+      },
+      "에르메스 베안 엡솜 & 팔라듐 하드웨어 장지갑 누아": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes Bearn Epsom & Palladium Hardware Long Wallet Noir"
+        ],
+        "trade_count": 5,
+        "avg_price": 6750000
+      },
+      "에르메스 미니 팝 H 펜던트 네크리스 로즈 골드 하드웨어 로즈 드라제 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Mini Pop H Pendant Necklace Rose Gold Plated Rose Dragee Enamel"
+        ],
+        "trade_count": 5,
+        "avg_price": 610000
+      },
+      "에르메스 미니 팝 H 펜던트 네크리스 팔라듐 하드웨어 로즈 드라제 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Mini Pop H Pendant Necklace Palladium Plated Rose Dragee Enamel"
+        ],
+        "trade_count": 5,
+        "avg_price": 486000
+      },
+      "에르메스 클릭 H 브레이슬릿 PM 로즈 골드 하드웨어 로즈 드라제 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Clic H Bracelet PM Rose Gold Plated Rose Dragee Enamel"
+        ],
+        "trade_count": 5,
+        "avg_price": 476000
+      },
+      "에르메스 클릭 H 브레이슬릿 PM 로즈 골드 하드웨어 크렘 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Clic H Bracelet PM Rose Gold Plated Creme Enamel"
+        ],
+        "trade_count": 5,
+        "avg_price": 432000
+      },
+      "에르메스 미니 팝 H 이어링 골드 하드웨어 누아 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Mini Pop H Earrings Gold Plated Noir Enamel"
+        ],
+        "trade_count": 5,
+        "avg_price": 466000
+      },
+      "에르메스 샹달 브레이슬릿 라지 스털링 실버": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Chaine D'ancre Bracelet Large Steriling Silver"
+        ],
+        "trade_count": 5,
+        "avg_price": 2425000
+      },
+      "에르메스 파랑돌 팬던트 네크리스 스몰 로즈 골드": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Farandole Pendant Necklace small Rose Gold"
+        ],
+        "trade_count": 5,
+        "avg_price": 1718000
+      },
+      "에르메스 에블린 3 클레망스 & 팔라듐 하드웨어 29 골드": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Evelyne 3 Clemence & Palladium 29 Gold"
+        ],
+        "trade_count": 5,
+        "avg_price": 4416000
+      },
+      "에르메스 에르백 메신저 밀리터리 캔버스 헌터 & 팔라듐 하드웨어 39 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Herbag Massenger Military Canvas Hunter & Palladium 39 Noir"
+        ],
+        "trade_count": 5,
+        "avg_price": 3650000
+      },
+      "에르메스 에르백 메신저 H 바이킹 캔버스 헌터 & 팔라듐 하드웨어 39 에크류 베쥬 포브": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Herbag Massenger H Viking Canvas Hunter & Palladium 39 Ecru Beige Fauve"
+        ],
+        "trade_count": 5,
+        "avg_price": 3215000
+      },
+      "에르메스 에르백 H 베를린 캔버스 헌터 카우하이드 & 팔라듐 하드웨어 집 39 누아 에크류 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Herbag H Berlin Canvas Hunter & Palladium Zip 39 Noir Ecru Noir"
+        ],
+        "trade_count": 5,
+        "avg_price": 2070000
+      },
+      "에르메스 피코탄 락 클레망스 & 골드 하드웨어 22 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Picotin Lock Clemence & Gold 22 Noir"
+        ],
+        "trade_count": 5,
+        "avg_price": 3544000
+      },
+      "에르메스 에블린 클레망스 & 골드 하드웨어 아마존 16 나타": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Evelyne Clemence & Gold Amazone 16 Nata"
+        ],
+        "trade_count": 5,
+        "avg_price": 3200000
+      },
+      "에르메스 버킨 토고 & 골드 하드웨어 30 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Birkin Togo & Gold 30 Noir"
+        ],
+        "trade_count": 5,
+        "avg_price": 3000000
+      },
+      "에르메스 산토리니 샌들 앱송 & 팔라듐 하드웨어 에뚜쁘": {
+        "category": "신발",
+        "synonyms": [
+          "Hermes Santorini Sandal Epsom & Palladium Etoupe"
+        ],
+        "trade_count": 5,
+        "avg_price": 1100000
+      },
+      "에르메스 테일러드 팬츠": {
+        "category": "의류",
+        "synonyms": [
+          "Hermes Tailored Pants"
+        ],
+        "trade_count": 5,
+        "avg_price": 250000
+      },
+      "에르메스 블루종": {
+        "category": "의류",
+        "synonyms": [
+          "Hermes Blouson"
+        ],
+        "trade_count": 5
+      },
+      "에르메스 클릭 H 브레이슬릿 PM 골드 하드웨어 누아 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Clic H Bracelet PM Gold Hardware Noir Enamel"
+        ],
+        "trade_count": 4,
+        "avg_price": 420000
+      },
+      "에르메스 켈리 클래식 앱송 & 골드 하드웨어 월렛 에토프": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes Kelly Classic Epsom & Gold Wallet Etoupe"
+        ],
+        "trade_count": 4,
+        "avg_price": 1850000
+      },
+      "에르메스 칼비 엡솜 & 팔라듐 하드웨어 듀오 카드홀더 누아": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes Calvi Epsom & Palladium Duo Card Holder Noir"
+        ],
+        "trade_count": 4,
+        "avg_price": 750000
+      },
+      "에르메스 베안 엡솜 & 골드 하드웨어 카드홀더 에토프": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes Bearn Epsom & Gold Card Holder Etoupe"
+        ],
+        "trade_count": 4,
+        "avg_price": 1700000
+      },
+      "에르메스 도곤 토고 & 팔라듐 하드웨어 듀오 장지갑 누아": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes Dogon Togo & Palladium Hardware Duo Long Wallet Noir"
+        ],
+        "trade_count": 4,
+        "avg_price": 2000000
+      },
+      "에르메스 미니 팝 H 펜던트 네크리스 팔라듐 하드웨어 누아 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Mini Pop H Pendant Necklace Palladium Plated Noir Enamel"
+        ],
+        "trade_count": 4,
+        "avg_price": 553000
+      },
+      "에르메스 파랑돌 이어링 베리 스몰 로즈 골드": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Farandole Earrings Very Small Rose Gold"
+        ],
+        "trade_count": 4,
+        "avg_price": 1800000
+      },
+      "에르메스 미니 팝 H 이어링 로즈 골드 하드웨어 블랑 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Mini Pop H Earrings Rose Gold Plated Blanc Enamel"
+        ],
+        "trade_count": 4,
+        "avg_price": 592000
+      },
+      "에르메스 미니 켈리 더블 투어 브레이슬릿 골드 하드웨어 & 스위프트 누아": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Mini Kelly Double Tour Bracelet Gold Plated & Swift Noir"
+        ],
+        "trade_count": 4,
+        "avg_price": 240000
+      },
+      "에르메스 피코탄 락 클레망스 & 골드 하드웨어 18 블루 빨": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Picotin Lock Clemence & Gold 18 Bleu Pale"
+        ],
+        "trade_count": 4,
+        "avg_price": 3800000
+      },
+      "에르메스 가든 파티 네곤다 & 팔라듐 하드웨어 30 그리 메이어": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Garden Party Negonda & Palladium 30 Gris Meyer"
+        ],
+        "trade_count": 4,
+        "avg_price": 6437000
+      },
+      "에르메스 에르백 셀리에 밀리터리 캔버스 헌터 카우하이드 & 팔라듐 하드웨어 집 39 에토프 에벤": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Herbag Selier Military Canvas Huter & Palladium Zip 39 Noir Etoupe Ebene"
+        ],
+        "trade_count": 4,
+        "avg_price": 1900000
+      },
+      "에르메스 린디 클레망스 & 팔라듐 하드웨어 26 에토프": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Lindy Clemence & Palladium 26 Etoupe"
+        ],
+        "trade_count": 4
+      },
+      "에르메스 빅토리아 토고 & 팔라듐 라이트 브리프 케이스 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Victoria Togo & Palladium Light Briefcase Noir"
+        ],
+        "trade_count": 4,
+        "avg_price": 5200000
+      },
+      "에르메스 브리드 어 브랙 케이스 캔버스 스몰 오랑쥬 프": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Bride A Brac Case Canvas Small Orange Feu"
+        ],
+        "trade_count": 4,
+        "avg_price": 1074000
+      },
+      "에르메스 산토리니 샌들 카프스킨 & 블랑": {
+        "category": "신발",
+        "synonyms": [
+          "Hermes Santorini Sandal Calfskin & Blanc"
+        ],
+        "trade_count": 4,
+        "avg_price": 890000
+      },
+      "에르메스 시프레 샌들 앱송 & 에뚜쁘": {
+        "category": "신발",
+        "synonyms": [
+          "Hermes Chypre Sandal Epsom & Etoupe"
+        ],
+        "trade_count": 4,
+        "avg_price": 600000
+      },
+      "에르메스 시프레 샌들 카프스킨 & 나뛰렐": {
+        "category": "신발",
+        "synonyms": [
+          "Hermes Chypre Sandal Calfskin & Naturel"
+        ],
+        "trade_count": 4,
+        "avg_price": 1230000
+      },
+      "에르메스 파리 로퍼 고트스킨 & 퍼마브래스 하드웨어 느와르": {
+        "category": "신발",
+        "synonyms": [
+          "Hermes Paris Loafers Goatskin & Permabrass Noir"
+        ],
+        "trade_count": 4,
+        "avg_price": 1200000
+      },
+      "에르메스 에르라인 후루토 캔버스 백팩 MM 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Eraline Furuto Canvas Backpack MM Gray"
+        ],
+        "trade_count": 3,
+        "avg_price": 450000
+      },
+      "에르메스 MC² 코페르닉 엡솜 컴팩트 월렛 에토프": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes MC² Copernic Epsom Compact wallet Etoupe"
+        ],
+        "trade_count": 3
+      },
+      "에르메스 켈리 엡솜 & 골드 하드웨어 컴팩트 월렛 골드": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes Kelly Epsom & Gold Compact Wallet Gold"
+        ],
+        "trade_count": 3,
+        "avg_price": 1470000
+      },
+      "에르메스 칼비 엡솜 & 팔라듐 하드웨어 듀오 카드홀더 골드": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes Calvi Epsom & Palladium Duo Card Holder Gold"
+        ],
+        "trade_count": 3,
+        "avg_price": 610000
+      },
+      "에르메스 도곤 토고 & 팔라듐 하드웨어 듀오 장지갑 에토프": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes Dogon Togo & Palladium Hardware Duo Long Wallet Etoupe"
+        ],
+        "trade_count": 3
+      },
+      "에르메스 미니 켈리 더블 투어 브레이슬릿 골드 하드웨어 & 스위프트 에뚜쁘": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Mini Kelly Double Tour Bracelet Gold Plated & Swift Etoupe"
+        ],
+        "trade_count": 3,
+        "avg_price": 400000
+      },
+      "에르메스 미니 클릭 샹달 브레이슬릿 PM 로즈 골드 하드웨어 크림 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Mini Clic Chaine D'ancre Bracelet PM Rise Gold Plated Creme Enamel"
+        ],
+        "trade_count": 3,
+        "avg_price": 705000
+      },
+      "에르메스 파랑돌 브레이슬릿 라지 스털링 실버": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Farandole Bracelet Large Steriling Silver"
+        ],
+        "trade_count": 3,
+        "avg_price": 873000
+      },
+      "에르메스 H 아워 스몰 25mm 쿼츠 골드 케이스 화이트 선버스트 스탬프 모티프 골드 엡솜 카프스킨": {
+        "category": "시계",
+        "synonyms": [
+          "Hermes Heure H Small 25mm Quartz Gold White Sunburst Stamped Motif Gold Epsom Calskin"
+        ],
+        "trade_count": 3,
+        "avg_price": 2243000
+      },
+      "에르메스 피코탄 락 클레망스 & 팔라듐 하드웨어 18 로즈 사쿠라": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Picotin Lock Clemence & Palladium 18 Rose Sakura"
+        ],
+        "trade_count": 3,
+        "avg_price": 3710000
+      },
+      "에르메스 에르백 밀리터리 캔버스 헌터 카우하이드 & 팔라듐 하드웨어 집 31 베통 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Herbag Military Canvas Hunter Cowhide & Palladium Zip 31 Beton Noir"
+        ],
+        "trade_count": 3
+      },
+      "에르메스 버킨 토고 & 팔라듐 하드웨어 35 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Birkin Togo & Palladium 35 Noir"
+        ],
+        "trade_count": 3
+      },
+      "에르메스 에블린 3 클레망스 & 골드 하드웨어 29 골드": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Evelyne 3 Clemence & Gold 29 Gold"
+        ],
+        "trade_count": 3,
+        "avg_price": 4000000
+      },
+      "에르메스 에르백 밀리터리 캔버스 헌터 카우하이드 & 골드 하드웨어 집 39 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Herbag Military Canvas Hunter & Gold Zip 39 Noir"
+        ],
+        "trade_count": 3,
+        "avg_price": 5450000
+      },
+      "에르메스 버킨 토고 & 골드 하드웨어 25 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Birkin Togo & Gold 25 Noir"
+        ],
+        "trade_count": 3
+      },
+      "에르메스 피코탄 락 클레망스 & 골드 하드웨어 22 에토프": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Picotin Lock Clemence & Gold 22 Etoupe"
+        ],
+        "trade_count": 3,
+        "avg_price": 3600000
+      },
+      "에르메스 에블린 클레망스 & 팔라듐 하드웨어 아마존 16 나타 시트론 루즈 아쉬 모브": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Evelyne Clemence & Palladium Amazone 16 Nata Citron Rouge H Mauve"
+        ],
+        "trade_count": 3,
+        "avg_price": 3650000
+      },
+      "에르메스 에블린 클레망스 & 팔라듐 하드웨어 아마존 16 퀴브레": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Evelyne Clemence & Palladium Amazone 16 Cuivre"
+        ],
+        "trade_count": 3
+      },
+      "에르메스 브리드 어 브랙 케이스 캔버스 스몰 마린": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Bride A Brac Case Canvas Small Marine"
+        ],
+        "trade_count": 3,
+        "avg_price": 575000
+      },
+      "에르메스 (W) 에르메스 엑스트라 샌들 나파 & 누아": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Hermes Extra Sandal Nappa & Noir"
+        ],
+        "trade_count": 3,
+        "avg_price": 980000
+      },
+      "에르메스 숏슬리브 셔츠": {
+        "category": "의류",
+        "synonyms": [
+          "Hermes Short Sleeve Shirt"
+        ],
+        "trade_count": 3,
+        "avg_price": 180000
+      },
+      "에르메스 다운 자켓": {
+        "category": "의류",
+        "synonyms": [
+          "Hermes Down Jacket"
+        ],
+        "trade_count": 3
+      },
+      "에르메스 드레스": {
+        "category": "의류",
+        "synonyms": [
+          "Hermes Dress"
+        ],
+        "trade_count": 3
+      },
+      "에르메스 미니 켈리 더블 투어 브레이슬릿 팔라듐 하드웨어 & 복스 & 스위프트 누아": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Mini Kelly Double Tour Bracelet Palladium Plated & Box & Swift Noir"
+        ],
+        "trade_count": 2,
+        "avg_price": 205000
+      },
+      "에르메스 H 아워 미디엄": {
+        "category": "시계",
+        "synonyms": [
+          "Hermes H Hour Medium"
+        ],
+        "trade_count": 2,
+        "avg_price": 1435000
+      },
+      "에르메스 점보 브레이슬릿": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Jumbo Bracelet"
+        ],
+        "trade_count": 2,
+        "avg_price": 350000
+      },
+      "에르메스 힌지 브레이슬릿": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Hinged Bracelet"
+        ],
+        "trade_count": 2,
+        "avg_price": 322000
+      },
+      "에르메스 미니 팝 H 펜던트 네크리스 로즈 골드 하드웨어 누아 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Mini Pop H Pendant Necklace Rose Gold Plated Noir Enamel"
+        ],
+        "trade_count": 2,
+        "avg_price": 595000
+      },
+      "에르메스 (W) 에르메스 바운싱 스니커즈 텍스쳐드 메쉬 스웨이드 고트스킨 & 누아": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Hermes Bouncing Sneakers Textured Mesh Suede Goatskin & Noir"
+        ],
+        "trade_count": 2,
+        "avg_price": 640000
+      },
+      "에르메스 에르라인 후루토 캔버스 토트백 PM 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Eraline Furuto Canvas Tote Bag PM Gray"
+        ],
+        "trade_count": 2,
+        "avg_price": 280000
+      },
+      "에르메스 MC² 플레밍 엡솜 월렛 블루 인디고": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes MC² Fleming Epsom Wallet Bleu Indigo"
+        ],
+        "trade_count": 2,
+        "avg_price": 730000
+      },
+      "에르메스 베안 엡솜 & 골드 하드웨어 컴팩트 지갑 누아": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes Bearn Epsom & Gold Compact Wallet Noir"
+        ],
+        "trade_count": 2,
+        "avg_price": 3500000
+      },
+      "에르메스 도곤 토고 & 팔라듐 하드웨어 듀오 장지갑 골드": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes Dogon Togo & Palladium Hardware Duo Long Wallet Gold"
+        ],
+        "trade_count": 2,
+        "avg_price": 800000
+      },
+      "에르메스 비하피 더블 투어 브레이슬릿 골드 하드웨어 & 스위프트 누아 포브": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Behapi Double Tour Bracelet Gold Plated & Swift Noir Fauve"
+        ],
+        "trade_count": 2,
+        "avg_price": 325000
+      },
+      "에르메스 비하피 더블 투어 브레이슬릿 골드 하드웨어 & 스위프트 에뚜쁘 나타": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Behapi Double Tour Bracelet Gold Plated & Swift Etoupe Nata"
+        ],
+        "trade_count": 2,
+        "avg_price": 230000
+      },
+      "에르메스 비하피 더블 투어 브레이슬릿 로즈 골드 하드웨어 & 스위프트 에뚜쁘 나타": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Behapi Double Tour Bracelet Rose Gold Plated & Swift Etoupe Nata"
+        ],
+        "trade_count": 2,
+        "avg_price": 320000
+      },
+      "에르메스 투니스 트레세 브레이슬릿 골드 하드웨어 & 스위프트 누아": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Tournis Tresse Bracelet Gold Plated & Swift Noir"
+        ],
+        "trade_count": 2,
+        "avg_price": 465000
+      },
+      "에르메스 미니 팝 H 펜던트 네크리스 골드 하드웨어 오랑쥬 소이 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Mini Pop H Pendant Necklace Gold Plated Orange Soie Enamel"
+        ],
+        "trade_count": 2,
+        "avg_price": 665000
+      },
+      "에르메스 미니 팝 H 이어링 로즈 골드 하드웨어 로즈 드라제 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Mini Pop H Earrings Rose Gold Plated Rose Dragee Enamel"
+        ],
+        "trade_count": 2,
+        "avg_price": 600000
+      },
+      "에르메스 미니 팝 H 이어링 팔라듐 하드웨어 누아 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Mini Pop H Earrings Palladium Plated Noir Enamel"
+        ],
+        "trade_count": 2,
+        "avg_price": 420000
+      },
+      "에르메스 미니 팝 H 이어링 골드 하드웨어 블랑 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Mini Pop H Earrings Gold Plated Blanc Enamel"
+        ],
+        "trade_count": 2,
+        "avg_price": 600000
+      },
+      "에르메스 유니 뱅글 골드 하드웨어 크렘 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Uni Bangle Gold Plated Creme Enamel"
+        ],
+        "trade_count": 2,
+        "avg_price": 237000
+      },
+      "에르메스 리발 브레이슬릿 미니 골드 하드웨어 & 스위프트 모브 빨": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Rivale Bracelet Mini Gold Plated & Swift Mauve Pale"
+        ],
+        "trade_count": 2,
+        "avg_price": 175000
+      },
+      "에르메스 리발 브레이슬릿 미니 골드 하드웨어 & 스위프트 누아": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Rivale Bracelet Mini Gold Plated & Swift Noir"
+        ],
+        "trade_count": 2,
+        "avg_price": 240000
+      },
+      "에르메스 오켈리 팬던트 네크리스 스몰 골드 하드웨어 & 스위프트 누아": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes O'kelly Pendant Necklace Small Gold Plated & Swift Noir"
+        ],
+        "trade_count": 2,
+        "avg_price": 210000
+      },
+      "에르메스 클릭 클락 H 브레이슬릿 PM 팔라듐 하드웨어 블랑 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Clic Clac H Bracelet PM Palladium Plated Blanc Enamel"
+        ],
+        "trade_count": 2,
+        "avg_price": 497000
+      },
+      "에르메스 H08 42mm 에르메스 오토매틱 새틴 브러쉬드 티타늄 블랙 니켈 누아 러버": {
+        "category": "시계",
+        "synonyms": [
+          "Hermes H08 42mm Hermes Satin-Brushed Titanium Black Nickel Noir Rubber"
+        ],
+        "trade_count": 2,
+        "avg_price": 1440000
+      },
+      "에르메스 클리퍼 24mm 쿼츠 스틸 케이스 핑크": {
+        "category": "시계",
+        "synonyms": [
+          "Hermes Clipper 24mm Quartz Steel Pink"
+        ],
+        "trade_count": 2,
+        "avg_price": 650000
+      },
+      "에르메스 케이프 코드 스몰 31mm 쿼츠 스틸 케이스 오팔린 실버 에토프 스위프트 카프스킨 더블": {
+        "category": "시계",
+        "synonyms": [
+          "Hermes Cape Cod Small 31mm Quartz Steel Opaline Silvered Dial Etoupe Swift Calfskin Double Strap"
+        ],
+        "trade_count": 2,
+        "avg_price": 2290000
+      },
+      "에르메스 H 아워 미니 21mm 쿼츠 스틸 케이스 화이트 선버스트 스탬프 모티프 에토프 스위프트 카프스킨": {
+        "category": "시계",
+        "synonyms": [
+          "Hermes Heure H Mini 21mm Quartz Steel White Sunburst Stamped Motif Etoupe Swift Calfskin"
+        ],
+        "trade_count": 2,
+        "avg_price": 1950000
+      },
+      "에르메스 피코탄 락 클레망스 & 골드 하드웨어 18 베통": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Picotin Lock Clemence & Gold 18 Beton"
+        ],
+        "trade_count": 2,
+        "avg_price": 3900000
+      },
+      "에르메스 피코탄 락 클레망스 & 골드 하드웨어 18 소지": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Picotin Lock Clemence & Gold 18 Sauge"
+        ],
+        "trade_count": 2,
+        "avg_price": 5085000
+      },
+      "에르메스 피코탄 락 클레망스 & 팔라듐 하드웨어 18 오랑쥬": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Picotin Lock Clemence & Palladium 18 Orage"
+        ],
+        "trade_count": 2
+      },
+      "에르메스 피코탄 락 클레망스 & 팔라듐 하드웨어 18 로즈 아잘레": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Picotin Lock Clemence & Palladium 18 Rose Azalee"
+        ],
+        "trade_count": 2,
+        "avg_price": 3945000
+      },
+      "에르메스 에르백 르투르네 바이킹 까드리유 캔버스 & 팔라듐 하드웨어 집 31 에크류 블랑 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Herbag Retourne Viking Quadrille Canvas & Palladium Zip 31 Ecru Blanc Noir"
+        ],
+        "trade_count": 2,
+        "avg_price": 1700000
+      },
+      "에르메스 에르백 밀리터리 캔버스 헌터 카우하이드 & 팔라듐 하드웨어 집 31 블루 마린 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Herbag Military Canvas Hunter Cowhide & Palladium Zip 31 Bleu Marine Noir"
+        ],
+        "trade_count": 2
+      },
+      "에르메스 린디 클레망스 & 골드 하드웨어 30 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Lindy Clemence & Gold 30 Noir"
+        ],
+        "trade_count": 2
+      },
+      "에르메스 켈리 엡솜 & 팔라듐 하드웨어 데페쉬 브리프케이스 36 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Kelly Epsom & Palladium Depeches Briefcase 36 Noir"
+        ],
+        "trade_count": 2,
+        "avg_price": 8300000
+      },
+      "에르메스 볼리드 1923 엡솜 & 골드 하드웨어 25 골드": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Bolide 1923 Epsom & Gold 25 Gold"
+        ],
+        "trade_count": 2,
+        "avg_price": 10300000
+      },
+      "에르메스 할잔 클레망스 & 팔라듐 25 오랑쥬 미니옴": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Halzan Clemence & Palladium 25 Orange Minium"
+        ],
+        "trade_count": 2
+      },
+      "에르메스 에블린 3 클레망스 & 팔라듐 하드웨어 29 오랑쥬": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Evelyne 3 Clemence & Palladium 29 Orange"
+        ],
+        "trade_count": 2
+      },
+      "에르메스 에르백 밀리터리 캔버스 헌터 카우하이드 & 팔라듐 하드웨어 집 39 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Herbag Military Canvas Hunter & Palldium Zip 39 Noir"
+        ],
+        "trade_count": 2,
+        "avg_price": 1290000
+      },
+      "에르메스 꺄백 엘란 뜨왈 오피시에 & 팔라듐 하드웨어 토트PM 오랑쥬": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Cabag Toile Officier & Palladium Elan Tote PM Orange"
+        ],
+        "trade_count": 2,
+        "avg_price": 1100000
+      },
+      "에르메스 빅토리아 토고 & 팔라듐 라이트 브리프 케이스 골드": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Victoria Togo & Palladium Light Briefcase Gold"
+        ],
+        "trade_count": 2,
+        "avg_price": 11000000
+      },
+      "에르메스 집시에르 클레망스 & 팔라듐 하드웨어 28 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Jypsiere Clemence & Palldium 28 Noir"
+        ],
+        "trade_count": 2,
+        "avg_price": 6600000
+      },
+      "에르메스 에블린 클레망스 & 팔라듐 하드웨어 아마존 16 로즈 익스트림": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Evelyne Clemence & Palladium Amazone 16 Rose Extreme"
+        ],
+        "trade_count": 2,
+        "avg_price": 3500000
+      },
+      "에르메스 볼리드 클레망스 & 팔라듐 하드웨어 31 블루 진": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Bolide Clemence & Palladium 31 Bleu Jean"
+        ],
+        "trade_count": 2,
+        "avg_price": 3650000
+      },
+      "에르메스 볼리드 엡솜 & 골드 하드웨어 27 골드": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Bolide Epsom & Gold 27 Gold"
+        ],
+        "trade_count": 2
+      },
+      "에르메스 버킨 토고 & 골드 하드웨어 30 에뚜쁘": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Birkin Togo & Gold 30 Etoupe"
+        ],
+        "trade_count": 2
+      },
+      "에르메스 브리드 어 브랙 카브리올 케이스 캔버스 라지 그리 뻬를르": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Bride A Brac Cabriole Case Canvas Large Gris Perle"
+        ],
+        "trade_count": 2,
+        "avg_price": 1280000
+      },
+      "에르메스 브리드 어 브랙 케이스 캔버스 라지 오랑쥬 프": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Bride A Brac Case Canvas Large Orange Feu"
+        ],
+        "trade_count": 2,
+        "avg_price": 550000
+      },
+      "에르메스 브리드 어 브랙 케이스 캔버스 스몰 히비스커스": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Bride A Brac Case Canvas Small Hibiscus"
+        ],
+        "trade_count": 2,
+        "avg_price": 690000
+      },
+      "에르메스 브리드 어 브랙 H 나테 케이스 울 스몰 베르 포레": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Bride A Brac H Natte Case Wool Small Vert Foret"
+        ],
+        "trade_count": 2
+      },
+      "에르메스 가든 파티 밀리터리 캔버스 네곤다 & 팔라듐 하드웨어 36 베통 에벤": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Garden Party Military Canvas Negonda & Palladium 36 Beton Ebene"
+        ],
+        "trade_count": 2,
+        "avg_price": 2000000
+      },
+      "에르메스 빅토리아 2 클레망스 & 팔라듐 하드웨어 푸르투 35 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Victoria 2 Clemence & Palladium Fourre Tout 35 Noir"
+        ],
+        "trade_count": 2
+      },
+      "에르메스 산토리니 샌들 카프스킨 & 나뛰렐": {
+        "category": "신발",
+        "synonyms": [
+          "Hermes Santorini Sandal Calfskin & Naturel"
+        ],
+        "trade_count": 2
+      },
+      "에르메스 H 큐브 네크리스 골드 오랑쥬": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes H Cube Necklace Gold Orange"
+        ],
+        "trade_count": 1,
+        "avg_price": 300000
+      },
+      "에르메스 트레일 스니커즈 카프스킨 스웨이드 고트스킨 & 마린": {
+        "category": "신발",
+        "synonyms": [
+          "Hermes Trail Sneakers Calfskin Suede Goatskin & Marine"
+        ],
+        "trade_count": 1,
+        "avg_price": 350000
+      },
+      "에르메스 콘스탄스 3 스위프트 카프스킨 & 골드 하드웨어 18 미니 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Constance 3 Swift Calfskin & Gold Hardware 18 Mini Noir"
+        ],
+        "trade_count": 1,
+        "avg_price": 6000000
+      },
+      "에르메스 에르백 셀리에 뜨왈 아쉬 & 팔라듐 하드웨어 집 31 씨엘 나뛰렐": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Herbag Sellier Toile H & Palladium Hardware Zip 31 Ciel Natural"
+        ],
+        "trade_count": 1,
+        "avg_price": 1500000
+      },
+      "에르메스 (W) 에르메스 제인 발레리나 플랫 고트스킨 & 누아": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Hermes Jane Ballet Flat Goatskin & Noir"
+        ],
+        "trade_count": 1,
+        "avg_price": 767000
+      },
+      "에르메스 딥 스니커즈 네이비": {
+        "category": "신발",
+        "synonyms": [
+          "Hermes Deep Sneakers Navy"
+        ],
+        "trade_count": 1,
+        "avg_price": 350000
+      },
+      "에르메스 기욤 로퍼 스웨이드 베이지 듄": {
+        "category": "신발",
+        "synonyms": [
+          "Hermès Guillaume Loafer Suede Beige Dune"
+        ],
+        "trade_count": 1,
+        "avg_price": 722000
+      },
+      "에르메스 베안 장지갑 미조레 고트스킨 & 팔라듐 하드웨어 에토프": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes Bearn Wallet Mysore Goatskin & Palladium Etoupe"
+        ],
+        "trade_count": 1,
+        "avg_price": 1100000
+      },
+      "에르메스 클릭 클락 H 브레이슬릿 GM 골드 하드웨어 죤 마드라스": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Clic Clac H Bracelet GM Gold Plated Jaune Madras"
+        ],
+        "trade_count": 1,
+        "avg_price": 325000
+      },
+      "에르메스 미니 메일론 펜던트 네크리스 스몰 팔라듐 하드웨어 크렘 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Mini Mailon Pendant Neckalace Palldium Plated Creme"
+        ],
+        "trade_count": 1,
+        "avg_price": 600000
+      },
+      "에르메스 H 아워 미니 21mm 쿼츠 골드 케이스 화이트 선버스트 스탬프 모티프 누아 엡솜 카프스킨": {
+        "category": "시계",
+        "synonyms": [
+          "Hermes Heure H Mini 21mm Quartz Steel Gold Sunburst Stamped Motif Noir Epsom Calfskin"
+        ],
+        "trade_count": 1,
+        "avg_price": 1750000
+      },
+      "에르메스 빅토리아 2 클레망스 & 팔라듐 하드웨어 푸르투 백 35 블루진": {
+        "category": "가방",
+        "synonyms": [
+          "Hermès Victoria II Clemence Leather with Palladium Hardware Fourre-Tout Bag 35 Bleu Jean"
+        ],
+        "trade_count": 1,
+        "avg_price": 3140000
+      },
+      "에르메스 시티즌 트윌 보 스위프트 카드 홀더 베르 모아이": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermès Citizen Twill Veau Swift Card Holder Vert Moyen"
+        ],
+        "trade_count": 1,
+        "avg_price": 700000
+      },
+      "에르메스 클릭 H 브레이슬릿 PM 골드 하드웨어 블루 엥뻬리알 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermès Clic H Bracelet PM Gold Hardware Bleu Impérial Enamel"
+        ],
+        "trade_count": 1,
+        "avg_price": 360000
+      },
+      "에르메스 켈리 클래식 앱송 & 팔라듐 하드웨어 월렛 골드": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermès Kelly Classic Epsom & Palladium Hardware Wallet Gold"
+        ],
+        "trade_count": 1,
+        "avg_price": 1470000
+      },
+      "에르메스 에트리비에르 벨트": {
+        "category": "패션 악세서리",
+        "synonyms": [
+          "Hermès Etrivière Belt"
+        ],
+        "trade_count": 1,
+        "avg_price": 300000
+      },
+      "에르메스 (W) 에르메스 바운싱 파라슈트 패브릭 스웨이드 고트스킨 스니커즈 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Hermès Bouncing Parachute Fabric Suede & Goatskin Sneakers Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 500000
+      },
+      "에르메스 에버 샹달 링 미디엄 스털링 실버": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Ever Chaine d'Ancre Ring Medium Sterling Silver"
+        ],
+        "trade_count": 1,
+        "avg_price": 550000
+      },
+      "에르메스 H 아워 라지": {
+        "category": "시계",
+        "synonyms": [
+          "Hermes H Hour Large"
+        ],
+        "trade_count": 1,
+        "avg_price": 550000
+      },
+      "에르메스 오메일론 펜던트 네크리스": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes O'Maillon Pendant Necklace"
+        ],
+        "trade_count": 1,
+        "avg_price": 375000
+      },
+      "에르메스 텐덤": {
+        "category": "시계",
+        "synonyms": [
+          "Hermes Tandem Watch"
+        ],
+        "trade_count": 1,
+        "avg_price": 500000
+      },
+      "에르메스 MC² 코페르닉 엡솜 컴팩트 월렛 베르 망그로브": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes MC² Copernic Epsom Compact Wallet Vert Mangrove"
+        ],
+        "trade_count": 1,
+        "avg_price": 636000
+      },
+      "에르메스 H로고 큐브 이어링 스틸 블랙": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes H Logo Cube Earrings Steel Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 180000
+      },
+      "에르메스 몽크 싱글 스트랩 부츠 루즈 아쉬": {
+        "category": "신발",
+        "synonyms": [
+          "Hermes Monk Single Strap Boots Rouge H"
+        ],
+        "trade_count": 1,
+        "avg_price": 297000
+      },
+      "에르메스 데이 카프스킨 스니커즈 누아": {
+        "category": "신발",
+        "synonyms": [
+          "Hermes Day Calfskin Sneaker Noir"
+        ],
+        "trade_count": 1,
+        "avg_price": 400000
+      },
+      "에르메스 (W) 에르메스 퍼스트 옥스포드 슈즈 글레이즈드 카프스킨 & 팔라듐 하드웨어 누아": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Hermes First Oxford Shoe Glazed Calfskin & Palladium Noir"
+        ],
+        "trade_count": 1,
+        "avg_price": 750000
+      },
+      "에르메스 (W) 에르메스 엔볼 스니커즈 테크니컬 캔버스 스웨이드 고트스킨 누아": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Hermes Envol Sneaker Technical Canvas Suede Goatskin Noir"
+        ],
+        "trade_count": 1,
+        "avg_price": 400000
+      },
+      "에르메스 (W) 에르메스 도핀 70 로퍼 누아": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Hermes Dauphine 70 Loafers Noir"
+        ],
+        "trade_count": 1,
+        "avg_price": 300000
+      },
+      "에르메스 에르백 르투르네 바이킹 캔버스 & 골드 하드웨어 집 31 에크류 베쥬 에벤": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Herbag Retourne Viking Canvas & Gold Zip 31 Ecru Beige Ebene"
+        ],
+        "trade_count": 1,
+        "avg_price": 4500000
+      },
+      "에르메스 실크인 앱송 장지갑 골드": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes Silk'In Epsom Long Wallet Gold"
+        ],
+        "trade_count": 1,
+        "avg_price": 240000
+      },
+      "에르메스 오즈 뮬 고트스킨 & 시어링 나뛰렐": {
+        "category": "신발",
+        "synonyms": [
+          "Hermes OZ mule Goatskin & Shealing Naturel"
+        ],
+        "trade_count": 1,
+        "avg_price": 700000
+      },
+      "에르메스 듀크 로퍼 글로스드 카프스킨 & 누아": {
+        "category": "신발",
+        "synonyms": [
+          "Hermes Duke Loafers Glossed Calfskin & Noir"
+        ],
+        "trade_count": 1,
+        "avg_price": 680000
+      },
+      "에르메스 후루토 캔버스 클러치 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Furuto Canvas Clutch Gray"
+        ],
+        "trade_count": 1,
+        "avg_price": 320000
+      },
+      "에르메스 에르백 셀리에 H 베를린 캔버스 & 팔라듐 하드웨어 집 31 벙부 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Herbag Sellier H Berllin Canvas & Palladium Zip 31 Bambou Noir"
+        ],
+        "trade_count": 1,
+        "avg_price": 1700000
+      },
+      "에르메스 클릭 H 브레이슬릿 팔라듐 하드웨어 PM 로즈 플라밍고 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermès Clic H Bracelet Palladium Plated PM Rose Flamingo Ename"
+        ],
+        "trade_count": 1,
+        "avg_price": 280000
+      },
+      "에르메스 클릭 클락 H 브레이슬릿 PM 골드 하드웨어 파파예 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Click Clock H Bracelet PM Gold Hardware Papaye Enamel"
+        ],
+        "trade_count": 1,
+        "avg_price": 200000
+      },
+      "에르메스 자바 10 브레이슬릿 스위프트 & 팔라듐 하드웨어 포브": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Java 10 Bracelet Swift & Palladium Fauve"
+        ],
+        "trade_count": 1,
+        "avg_price": 162000
+      },
+      "에르메스 H 아워 미니 21mm 쿼츠 골드 케이스 화이트 선버스트 스탬프 모티프 바레니아 카프스킨": {
+        "category": "시계",
+        "synonyms": [
+          "Hermes Heure H Mini 21mm Quartz Gold White Sunburst Stamped Motif Natural Barenia Calfskin"
+        ],
+        "trade_count": 1,
+        "avg_price": 950000
+      },
+      "에르메스 비하피 더블 투어 브레이슬릿 골드 하드웨어 & 스위프트 골드 오랑쥬": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Behapi Double Tour Bracelet Gold Plated & Swift Gold Orange"
+        ],
+        "trade_count": 1,
+        "avg_price": 200000
+      },
+      "에르메스 클릭 클락 H 브레이슬릿 GM 골드 하드웨어 블랑 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Clic Clac H Bracelet GM Gold Plated Blanc Enamel"
+        ],
+        "trade_count": 1,
+        "avg_price": 425000
+      },
+      "에르메스 (W) 에르메스 바운싱 스니커즈 그래픽 메쉬 스웨이드 고트스킨 & 그리 룰레아 블랑": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Hermes Bouncing Sneakers Graphic Mesh Suede Goatskin & Gril Lulea Blanc"
+        ],
+        "trade_count": 1,
+        "avg_price": 650000
+      },
+      "에르메스 베안 에프솜 카프스킨 & 팔라듐 하드웨어 장지갑 블루 사피르": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermès Béarn Epsom Calfskin & Palladium Hardware Long Wallet Bleu Saphir"
+        ],
+        "trade_count": 1,
+        "avg_price": 900000
+      },
+      "에르메스 칼비 듀오 에프솜 카프스킨 카드 케이스 스몰 네이비 & 그린": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermès Calvi Duo Epsom Calfskin Card Case Small Navy & Green"
+        ],
+        "trade_count": 1,
+        "avg_price": 350000
+      },
+      "에르메스 후루토 카바스 캔버스 토트백 베이지 오렌지": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Furuto Cabas Canvas Tote Bag Beige Orange"
+        ],
+        "trade_count": 1,
+        "avg_price": 350000
+      },
+      "에르메스 후루토 캔버스 토트백 PM 블랙 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Furuto Canvas Tote Bag PM Black Gray"
+        ],
+        "trade_count": 1,
+        "avg_price": 330000
+      },
+      "에르메스 후루토 캔버스 토트백 PM 카키": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Furuto Canvas Tote Bag PM Khaki"
+        ],
+        "trade_count": 1,
+        "avg_price": 200000
+      },
+      "에르메스 뉴 H 빠썽 뚜떵맹 앱송 & 팔라듐 하드웨어 장지갑 골드": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes New H Passant Toutenmain Wallet Epsom & Palladium Gold"
+        ],
+        "trade_count": 1,
+        "avg_price": 3000000
+      },
+      "에르메스 샹달 컨투어 링 미디엄 로즈 골드 & 다이아몬드 33P": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Chaine D'ancre Contour Ring Medium Rose Gold & Diamond 33P"
+        ],
+        "trade_count": 1,
+        "avg_price": 2800000
+      },
+      "에르메스 H 큐브 네크리스 팔라듐 래커 로즈 드라제": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermès H Cube Necklace Palladium & Lacquer Rose Dragee"
+        ],
+        "trade_count": 1,
+        "avg_price": 300000
+      },
+      "에르메스 할잔 스위프트 & 팔라듐 하드웨어 31 로즈 자이푸르": {
+        "category": "가방",
+        "synonyms": [
+          "Hermès Halzan Clemence & Palladium Hardware 31 Rose Jaipur"
+        ],
+        "trade_count": 1,
+        "avg_price": 5900000
+      },
+      "에르메스 켈리 브레이슬릿 스몰 로즈 골드 & 다이아몬드 61P": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermès Kelly Bracelet Small Rose Gold & Diamond 61P"
+        ],
+        "trade_count": 1,
+        "avg_price": 11000000
+      },
+      "에르메스 미니 팝 H 이어링 팔라듐 하드웨어 마롱 글라세": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermès Mini Pop H Earrings Palladium Hardware & Marron Glacé"
+        ],
+        "trade_count": 1,
+        "avg_price": 500000
+      },
+      "에르메스 올랭프 이어 커프 스몰 골드 메탈 & 카프 스킨": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermès Olympe Ear Cuff Small Gold Metal & Calfskin"
+        ],
+        "trade_count": 1,
+        "avg_price": 400000
+      },
+      "에르메스 볼리드 1923 미조레 고트스킨 & 팔라듐 하드웨어 미니 로즈달링": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Bolide 1923 Mysore Goatskin & Palladium Hardware Mini Rose Darling"
+        ],
+        "trade_count": 1,
+        "avg_price": 4200000
+      },
+      "에르메스 켈리 엡송 레더 & 골드 하드웨어 28 루즈 카자크": {
+        "category": "가방",
+        "synonyms": [
+          "Hermès Kelly Epsom Leather & Gold Hardware 28 Rouge Casaque"
+        ],
+        "trade_count": 1,
+        "avg_price": 10400000
+      },
+      "에르메스 마르와리 클레망스 숄더백 GM 나뛰렐": {
+        "category": "가방",
+        "synonyms": [
+          "Hermès Marwari Clemence Shoulder Bag GM Natural"
+        ],
+        "trade_count": 1,
+        "avg_price": 1385000
+      },
+      "에르메스 H 셀리에 에버컬러 7CC 카드홀더 골드": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes H Sellier Evercolor 7CC Card Holder Gold"
+        ],
+        "trade_count": 1,
+        "avg_price": 1250000
+      },
+      "에르메스 일리아드 갤롭 데르메스 카우하이드 & 팔라듐 하드웨어 컴팩트 카드홀더 누아": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes Iliade Galop d'Hermes Cowhide & Palladium Compact Card Holder Noir"
+        ],
+        "trade_count": 1,
+        "avg_price": 1000000
+      },
+      "에르메스 켈리 클래식 앱송 & 팔라듐 하드웨어 월렛 누아": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes Kelly Classic Epsom & Palladium Wallet Noir"
+        ],
+        "trade_count": 1
+      },
+      "에르메스 베안 엡솜 & 골드 하드웨어 컴팩트 지갑 에토프": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes Bearn Epsom & Gold Compact Wallet Etoupe"
+        ],
+        "trade_count": 1
+      },
+      "에르메스 베안 엡솜 & 팔라듐 하드웨어 장지갑 로즈 아잘레": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes Bearn Epsom & Palladium Hardware Long Wallet Rose Azalée"
+        ],
+        "trade_count": 1,
+        "avg_price": 590000
+      },
+      "에르메스 베안 엡솜 & 팔라듐 하드웨어 장지갑 오랑쥬": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes Bearn Epsom & Palladium Hardware Long Wallet Orange"
+        ],
+        "trade_count": 1
+      },
+      "에르메스 베안 엡솜 & 골드 하드웨어 장지갑 세잠": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes Bearn Epsom & Gold Hardware Long Wallet Sesame"
+        ],
+        "trade_count": 1
+      },
+      "에르메스 베안 엡솜 & 골드 하드웨어 장지갑 루즈 아쉬": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes Bearn Epsom & Gold Hardware Long Wallet Rouge H"
+        ],
+        "trade_count": 1,
+        "avg_price": 4070000
+      },
+      "에르메스 도곤 토고 & 팔라듐 하드웨어 듀오 장지갑 오랑쥬": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes Dogon Togo & Palladium Hardware Duo Long Wallet Orange"
+        ],
+        "trade_count": 1
+      },
+      "에르메스 꼴리에 드 샹 링 스몰 스털링 실버": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Collier De Chien Ring Small Steriling Silver"
+        ],
+        "trade_count": 1,
+        "avg_price": 979000
+      },
+      "에르메스 에버 헤라클레스 웨딩 밴드 화이트 골드 다이아몬드 11P": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Ever Herakles Wedding Band White Gold Diamond 11P"
+        ],
+        "trade_count": 1,
+        "avg_price": 1600000
+      },
+      "에르메스 에버 헤라클레스 웨딩 밴드 로즈 골드": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Ever Herakles Wedding Band Rose Gold"
+        ],
+        "trade_count": 1,
+        "avg_price": 576000
+      },
+      "에르메스 크로아제트 링 라지 스털링 실버": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Croisette Ring Large Steriling Silver"
+        ],
+        "trade_count": 1,
+        "avg_price": 650000
+      },
+      "에르메스 비하피 더블 투어 브레이슬릿 쏘 블랙 하드웨어 & 스위프트 & 엡솜 누아": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Behapi Double Tour Bracelet So Black Metal & Swift & Epsom Noir"
+        ],
+        "trade_count": 1,
+        "avg_price": 170000
+      },
+      "에르메스 미니 팝 H 펜던트 네크리스 팔라듐 하드웨어 로즈 멕시코 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Mini Pop H Pendant Necklace Palladium Plated Rose Mexico Enamel"
+        ],
+        "trade_count": 1,
+        "avg_price": 700000
+      },
+      "에르메스 미니 팝 H 펜던트 네크리스 골드 하드웨어 블루 랑 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Mini Pop H Pendant Necklace Gold Plated Blue Lin Enamel"
+        ],
+        "trade_count": 1,
+        "avg_price": 300000
+      },
+      "에르메스 클릭 H 브레이슬릿 PM 골드 하드웨어 오랑쥬 프루이트 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Clic H Bracelet PM Gold Plated Orange Fruite Enamel"
+        ],
+        "trade_count": 1,
+        "avg_price": 300000
+      },
+      "에르메스 클릭 HH 브레이슬릿 브러쉬드 팔라듐 하드웨어 블루 드 비아리츠 마뜨 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Clic HH Bracelet Brushed Palladium Plated Bleu De Biarritz Mat Enamel"
+        ],
+        "trade_count": 1,
+        "avg_price": 620000
+      },
+      "에르메스 미니 팝 H 이어링 로즈 골드 하드웨어 오랑쥬 소이 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Mini Pop H Earrings Rose Gold Plated Orange Soie Enamel"
+        ],
+        "trade_count": 1,
+        "avg_price": 520000
+      },
+      "에르메스 유니 뱅글 골드 하드웨어 마롱 글라세 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Uni Bangle Gold Plated Marron Glace Enamel"
+        ],
+        "trade_count": 1,
+        "avg_price": 280000
+      },
+      "에르메스 글레난 브레이슬릿 팔라듐 하드웨어 & 스위프트 누아": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Glenan Bracelet Palladium Plated & Swift Noir"
+        ],
+        "trade_count": 1,
+        "avg_price": 550000
+      },
+      "에르메스 글레난 더블 투어 브레이슬릿 골드 하드웨어 & 스위프트 골드": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Glenan Double Tour Bracelet Gold Plated & Swift Gold"
+        ],
+        "trade_count": 1,
+        "avg_price": 180000
+      },
+      "에르메스 리발 더블 투어 브레이슬릿 팔라듐 하드웨어 & 복스 누아": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Rivale Double Tour Bracelet Palladium Plated & Box Noir"
+        ],
+        "trade_count": 1,
+        "avg_price": 225000
+      },
+      "에르메스 미니 켈리 더블 투어 브레이슬릿 로즈 골드 하드웨어 & 스위프트 에뚜프": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Mini Kelly Double Tour Bracelet Rose Gold Plated & Swift Etoupe"
+        ],
+        "trade_count": 1,
+        "avg_price": 430000
+      },
+      "에르메스 오스모스 링 라지 스털링 실버": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Osmose Ring Larege Steriling Silver"
+        ],
+        "trade_count": 1,
+        "avg_price": 850000
+      },
+      "에르메스 클릭 클락 H 브레이슬릿 PM 골드 하드웨어 누아 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Clic Clac H Bracelet PM Gold Plated Noir Enamel"
+        ],
+        "trade_count": 1,
+        "avg_price": 450000
+      },
+      "에르메스 클리퍼 24mm 쿼츠 스틸 & 골드 케이스 화이트": {
+        "category": "시계",
+        "synonyms": [
+          "Hermes Clipper 24mm Quartz Steel & Gold White"
+        ],
+        "trade_count": 1,
+        "avg_price": 400000
+      },
+      "에르메스 셀리에 데이트 31mm 쿼츠 스틸 & 골드 케이스 화이트": {
+        "category": "시계",
+        "synonyms": [
+          "Hermes Sellier Date 31mm Quartz Steel & Gold White"
+        ],
+        "trade_count": 1,
+        "avg_price": 450000
+      },
+      "에르메스 H 아워 스몰 25mm 쿼츠 골드 케이스 화이트 선버스트 스탬프 모티프 에토프 스위프트 카프스킨": {
+        "category": "시계",
+        "synonyms": [
+          "Hermes Heure H Small 25mm Quartz Gold White Sunburst Stamped Motif Etoupe Swift Calfskin"
+        ],
+        "trade_count": 1,
+        "avg_price": 1890000
+      },
+      "에르메스 H 아워 스몰 25mm 쿼츠 스틸 케이스 화이트 선버스트 스탬프 모티프 누아 엡솜 카프스킨": {
+        "category": "시계",
+        "synonyms": [
+          "Hermes Heure H Small 25mm Quartz Steel White Sunburst Stamped Motif Noir Epsom Calfskin"
+        ],
+        "trade_count": 1,
+        "avg_price": 6400000
+      },
+      "에르메스 H 아워 스몰 25mm 쿼츠 골드 케이스 화이트 선버스트 스탬프 모티프 누아 엡솜 카프스킨": {
+        "category": "시계",
+        "synonyms": [
+          "Hermes Heure H Small 25mm Quartz Gold White Sunburst Stamped Motif Noir Epsom Calfskin"
+        ],
+        "trade_count": 1,
+        "avg_price": 1350000
+      },
+      "에르메스 H 아워 미니 21mm 쿼츠 스틸 케이스 화이트 선버스트 스탬프 모티프 내츄럴 바레니아 카프스킨": {
+        "category": "시계",
+        "synonyms": [
+          "Hermes Heure H Mini 21mm Quartz Steel White Sunburst Stamped Motif Natural Barenia Calfskin"
+        ],
+        "trade_count": 1,
+        "avg_price": 1170000
+      },
+      "에르메스 핵 아 도 토고 & 팔라듐 하드웨어 백팩 PM 에토프": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Hac a Dos Togo & Palladium Backpack PM Etoupe"
+        ],
+        "trade_count": 1,
+        "avg_price": 11100000
+      },
+      "에르메스 카바 H 엔 비에 H 캔버스 스위프트 27 에크류 나뛰렐 골드": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Cabas H En Biais H Canvas Swfit 27 Ecru Naturel Gold"
+        ],
+        "trade_count": 1,
+        "avg_price": 2000000
+      },
+      "에르메스 더 그루밍 캔버스 블루 네이비 프": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes The Grooming Canvas Bleu Navy Feu"
+        ],
+        "trade_count": 1,
+        "avg_price": 2150000
+      },
+      "에르메스 에일린 캔버스 그루밍 크레 골드": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Aline Canvas Grooming Craie Gold"
+        ],
+        "trade_count": 1
+      },
+      "에르메스 피코탄 락 클레망스 & 골드 하드웨어 18 그리 빨": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Picotin Lock Clemence & Gold 18 Gris Pale"
+        ],
+        "trade_count": 1,
+        "avg_price": 4650000
+      },
+      "에르메스 피코탄 락 클레망스 & 골드 하드웨어 18 트렌치": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Picotin Lock Clemence & Gold 18 Trench"
+        ],
+        "trade_count": 1
+      },
+      "에르메스 피코탄 락 클레망스 & 팔라듐 하드웨어 18 블루 뉘": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Picotin Lock Clemence & Palladium 18 Bleu Nuit"
+        ],
+        "trade_count": 1
+      },
+      "에르메스 피코탄 락 클레망스 & 팔라듐 하드웨어 18 카방": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Picotin Lock Clemence & Palladium 18 Caban"
+        ],
+        "trade_count": 1
+      },
+      "에르메스 피코탄 락 클레망스 & 팔라듐 하드웨어 18 루즈 카사크": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Picotin Lock Clemence & Palladium 18 Rouge Casaque"
+        ],
+        "trade_count": 1
+      },
+      "에르메스 에르백 르투르네 캔버스 & 팔라듐 하드웨어 집 31 오랑쥬 미니옴 포브": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Herbag Retourne Canvas & Palladium Zip 31 Orange Minium Fauve"
+        ],
+        "trade_count": 1
+      },
+      "에르메스 에르백 밀리터리 캔버스 헌터 카우하이드 & 팔라듐 하드웨어 집 31 바니유 나뛰렐 사블르": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Herbag Military Canvas Hunter Cowhide & Palladium Zip 31 Vanille Naturel Sable"
+        ],
+        "trade_count": 1
+      },
+      "에르메스 에르백 밀리터리 캔버스 헌터 카우하이드 & 팔라듐 하드웨어 집 31 루즈 아쉬": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Herbag Military Canvas Hunter Cowhide & Palladium Zip 31 Rouge H"
+        ],
+        "trade_count": 1
+      },
+      "에르메스 버킨 엡솜 & 팔라듐 하드웨어 35 로즈 티리엔": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Birkin Epsom & Palladium 35 Rose Tyrien"
+        ],
+        "trade_count": 1,
+        "avg_price": 8300000
+      },
+      "에르메스 버킨 토고 & 골드 하드웨어 35 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Birkin Togo & Gold 35 Noir"
+        ],
+        "trade_count": 1,
+        "avg_price": 14000000
+      },
+      "에르메스 린디 클레망스 & 팔라듐 하드웨어 30 에토프": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Lindy Clemence & Palladium 30 Etoupe"
+        ],
+        "trade_count": 1
+      },
+      "에르메스 가든 파티 네곤다 & 팔라듐 하드웨어 30 루즈 셀리에": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Garden Party Negonda & Palladium 30 Rouge Sellier"
+        ],
+        "trade_count": 1
+      },
+      "에르메스 가든 파티 그랜드 쉐브론 캔버스 네곤다 & 팔라듐 하드웨어 30 누아 블루 인디고": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Garden Party Grand Chevron Canvas Negonda & Palladium 30 Noir Bleu Indigo"
+        ],
+        "trade_count": 1
+      },
+      "에르메스 가든 파티 뜨왈 아쉬 네곤다 & 팔라듐 하드웨어 30 에크류 까시스": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Garden Party Toile H Negonda & Palladium 30 Ecru Cassis"
+        ],
+        "trade_count": 1
+      },
+      "에르메스 켈리 토고 & 팔라듐 하드웨어 데페쉬 브리프케이스 36 그리 미스티": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Kelly Togo & Palladium Depeches Briefcase 36 Gris Misty"
+        ],
+        "trade_count": 1,
+        "avg_price": 4000000
+      },
+      "에르메스 켈리 토고 & 팔라듐 하드웨어 데페쉬 브리프케이스 36 골드": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Kelly Togo & Palladium Depeches Briefcase 36 Gold"
+        ],
+        "trade_count": 1
+      },
+      "에르메스 볼리드 1923 엡솜 & 팔라듐 하드웨어 25 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Bolide 1923 Epsom & Palladium 25 Noir"
+        ],
+        "trade_count": 1
+      },
+      "에르메스 에블린 3 클레망스 & 팔라듐 하드웨어 33 에토프": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Evelyne 3 Clemence & Palladium 33 Etoupe"
+        ],
+        "trade_count": 1
+      },
+      "에르메스 에블린 3 클레망스 & 골드 하드웨어 33 에토프": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Evelyne 3 Clemence & Gold 33 Etoupe"
+        ],
+        "trade_count": 1,
+        "avg_price": 2500000
+      },
+      "에르메스 에블린 3 클레망스 & 팔라듐 하드웨어 29 카방": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Evelyne 3 Clemence & Palladium 29 Caban"
+        ],
+        "trade_count": 1,
+        "avg_price": 2800000
+      },
+      "에르메스 에블린 3 클레망스 & 팔라듐 하드웨어 29 루비스": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Evelyne 3 Clemence & Palladium 29 Rubis"
+        ],
+        "trade_count": 1,
+        "avg_price": 1710000
+      },
+      "에르메스 에블린 3 클레망스 & 팔라듐 하드웨어 29 블루 글라시에": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Evelyne 3 Clemence & Palladium 29 Bleu Glacier"
+        ],
+        "trade_count": 1
+      },
+      "에르메스 에블린 3 클레망스 & 골드 하드웨어 29 아네몬느": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Evelyne 3 Clemence & Gold 29 Anemone"
+        ],
+        "trade_count": 1
+      },
+      "에르메스 버킨 토고 & 팔라듐 하드웨어 25 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Birkin Togo & Palladium 25 Noir"
+        ],
+        "trade_count": 1,
+        "avg_price": 18500000
+      },
+      "에르메스 린디 클레망스 & 팔라듐 하드웨어 26 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Lindy Clemence & Palladium 26 Noir"
+        ],
+        "trade_count": 1
+      },
+      "에르메스 콘스탄스 3 엡솜 & 골드 하드웨어 18 미니 에토프": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Constance 3 Epsom & Gold 18 Mini Etoupe"
+        ],
+        "trade_count": 1,
+        "avg_price": 14500000
+      },
+      "에르메스 콘스탄스 3 엡솜 & 골드 하드웨어 18 미니 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Constance 3 Epsom & Gold 18 Mini Noir"
+        ],
+        "trade_count": 1
+      },
+      "에르메스 콘스탄스 3 엡솜 & 골드 하드웨어 18 미니 벙부": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Constance 3 Epsom & Gold 18 Mini Bambou"
+        ],
+        "trade_count": 1
+      },
+      "에르메스 콘스탄스 3 박스 카프스킨 & 팔라듐 24 하드웨어 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Constance 3 Box Calfskin & Palldium 24 Noir"
+        ],
+        "trade_count": 1,
+        "avg_price": 15500000
+      },
+      "에르메스 켈리 토고 & 팔라듐 하드웨어 데페쉬 파우치 25 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Kelly Togo & Palladium Depeches Pouch 25 Noir"
+        ],
+        "trade_count": 1,
+        "avg_price": 6500000
+      },
+      "에르메스 지제 엘란 스위프트 클러치 29 베통": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Jige Elan Swift Clutch 29 Beton"
+        ],
+        "trade_count": 1,
+        "avg_price": 1800000
+      },
+      "에르메스 켈리 토고 & 골드 하드웨어 25 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Kelly Togo & Gold 25 Noir"
+        ],
+        "trade_count": 1,
+        "avg_price": 28500000
+      },
+      "에르메스 에블린 클레망스 & 팔라듐 하드웨어 아마존 16 블루 로아얄": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Evelyne Clemence & Palladium Amazone 16 Bleu Royal"
+        ],
+        "trade_count": 1,
+        "avg_price": 2730000
+      },
+      "에르메스 에블린 클레망스 & 골드 하드웨어 아마존 16 뉴 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Evelyne Clemence & Gold Amazone 16 New White"
+        ],
+        "trade_count": 1
+      },
+      "에르메스 에블린 클레망스 & 골드 하드웨어 아마존 16 오랑쥬": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Evelyne Clemence & Gold Amazone 16 Orange"
+        ],
+        "trade_count": 1
+      },
+      "에르메스 볼리드 클레망스 & 팔라듐 하드웨어 31 에토프": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Bolide Clemence & Palladium 31 Etoupe"
+        ],
+        "trade_count": 1,
+        "avg_price": 6700000
+      },
+      "에르메스 버킨 토고 & 팔라듐 하드웨어 30 골드": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Birkin Togo & Palldium 30 Gold"
+        ],
+        "trade_count": 1,
+        "avg_price": 3000000
+      },
+      "에르메스 볼리드 1923 엡솜 & 골드 하드웨어 30 골드": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Bolide 1923 30 Epsom & Gold Gold"
+        ],
+        "trade_count": 1
+      },
+      "에르메스 켈리 엡솜 & 팔라듐 하드웨어 클래식 투 고 월렛 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Kelly Epsom & Palladium Classique To Go Wallet Noir"
+        ],
+        "trade_count": 1
+      },
+      "에르메스 켈리 엡솜 & 골드 하드웨어 클래식 투 고 월렛 골드": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Kelly Epsom & Gold Classique To Go Wallet Gold"
+        ],
+        "trade_count": 1,
+        "avg_price": 6300000
+      },
+      "에르메스 브리드 어 브랙 카브리올 케이스 캔버스 라지 테라코타": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Bride A Brac Cabriole Case Canvas Large Terracotta"
+        ],
+        "trade_count": 1,
+        "avg_price": 560000
+      },
+      "에르메스 브리드 어 브랙 오 까레 케이스 울 스몰 세이글": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Bride A Brac Au Carre Case Wool Small Seigle"
+        ],
+        "trade_count": 1,
+        "avg_price": 950000
+      },
+      "에르메스 린디 클레망스 & 골드 하드웨어 미니 에토프": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Lindy Clemence & Gold Mini Etoupe"
+        ],
+        "trade_count": 1
+      },
+      "에르메스 빅토리아 2 클레망스 & 팔라듐 하드웨어 푸르투 35 골드": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Victoria 2 Clemence & Palladium Fourre Tout 35 Gold"
+        ],
+        "trade_count": 1
+      },
+      "에르메스 블라우스": {
+        "category": "의류",
+        "synonyms": [
+          "Hermes Blouse"
+        ],
+        "trade_count": 1
+      },
+      "에르메스 MC² 코페르닉 에버컬러 컴팩트 월렛 그리 에땅": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes MC² Copernic Evercolor Compact Wallet Gris Etain"
+        ],
+        "trade_count": 1450000
+      },
+      "에르메스 시티즌 반지갑 엡솜 골드 베르 퐁쎄": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermès Citizen Bi-Fold Wallet Epsom Leather Gold Vert Foncé"
+        ],
+        "trade_count": 770000
+      },
+      "에르메스 난투켓 17mm 쿼츠 스틸 오팔린 엘리게이터 레더": {
+        "category": "시계",
+        "synonyms": [
+          "Hermès Nantucket 17mm Quartz Stainless Opaline  Alligator Leather"
+        ],
+        "trade_count": 1980000
+      },
+      "에르메스 가든 파티 뜨왈 아쉬 네곤다 & 팔라듐 하드웨어 30 로즈 텍사스 루즈 H": {
+        "category": "가방",
+        "synonyms": [
+          "Hermès Garden Party Toile H & Negonda Palladium Hardware 30 Rose Texas Rouge H"
+        ],
+        "trade_count": 3430000
+      },
+      "에르메스 후루토 캔버스 토트백 MM 네이비 브라운": {
+        "category": "가방",
+        "synonyms": [
+          "Hermès Furuto Canvas Tote Bag MM Navy Brown 입니다."
+        ],
+        "trade_count": 0
+      },
+      "에르메스 린디 클레망스 & 팔라듐 하드웨어 30 오랑쥬": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Lindy Clemence & Palladium 30 Orange"
+        ],
+        "trade_count": 6350000
+      },
+      "에르메스 커시브 벨트": {
+        "category": "패션 악세서리",
+        "synonyms": [
+          "Hermes Cursives Belt"
+        ],
+        "trade_count": 450000
+      },
+      "에르메스 쁘띠 H 크로코다일 & 엡솜 랜야드 카드 홀더 5P 핑크 죤": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes Petite H Crocodile & Epsom Lanyard Card Holder 5P Pink Jaune"
+        ],
+        "trade_count": 700000
+      },
+      "에르메스 후루토 캔버스 토트백 MM 네이비": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Herbag Canvas Tote Bag MM Navy"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 (W) 에르메스 로얄 로퍼 고트스킨 & 페르마브라스 하드웨어 나뛰렐": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Hermes Royal Loafers Goatskin & Permabrass Naturel"
+        ],
+        "trade_count": 850000
+      },
+      "에르메스 콘스탄스 포 드 포르 & 골드 하드웨어 슬림 월렛 토피": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermès Constance Peau de Porc & Gold Hardware Slim Wallet Toffee"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 시티즌 트윌 컴팩트 카드 홀더 스위프트 & 실크 클로셰 그리 메이어 카방": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermès Citizen Twill Swift & Silk Clochette Compact Card Holder Gris Meyer Caban"
+        ],
+        "trade_count": 270000
+      },
+      "에르메스 콘스탄스 엡솜  & 골드 하드웨어 18 미니 블루 셀레스트": {
+        "category": "가방",
+        "synonyms": [
+          "Hermès Constance 18 Mini Epsom Leather & Gold Hardware Bleu Celeste"
+        ],
+        "trade_count": 9000000
+      },
+      "에르메스 켈리 아도 에버컬러 & 골드 하드웨어 22 아네모네": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Kelly Ado Evercolor & Gold 22 Anemone"
+        ],
+        "trade_count": 16000000
+      },
+      "에르메스 미니 팝 H 펜던트 네크리스 골드 하드웨어 뉴 골드": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Mini Pop H Pendant Necklace Gold Hardware New Gold"
+        ],
+        "trade_count": 500000
+      },
+      "에르메스 미니 메일론 펜던트 네크리스 스몰 로즈골드 하드웨어 크렘 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermès Mini Maillon Pendant Necklace Small Rose Gold Hardware Crème Enamel"
+        ],
+        "trade_count": 550000
+      },
+      "에르메스 리미트 앵클 부츠 스웨이드 카프스킨 & 베이지 알바트르": {
+        "category": "신발",
+        "synonyms": [
+          "Hermes Limite Ankle Boots Suede Calfskin & Beige Albatre"
+        ],
+        "trade_count": 1300000
+      },
+      "에르메스 카바스 드 플라주 토트백 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Cabas de Plage Tote Bag Grey"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 올랭프 브레이슬릿 엘로우 골드 도금 크레": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Olympe Bracelet Yellow Gold-plated Craie"
+        ],
+        "trade_count": 550000
+      },
+      "에르메스 메도르 브레이슬릿": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Medor Bracelet"
+        ],
+        "trade_count": 470000
+      },
+      "에르메스 호른 네크리스": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Horn Necklace"
+        ],
+        "trade_count": 340000
+      },
+      "에르메스 메도르 워치": {
+        "category": "시계",
+        "synonyms": [
+          "Hermes Medor Watch"
+        ],
+        "trade_count": 2000000
+      },
+      "에르메스 켈리 2 워치": {
+        "category": "시계",
+        "synonyms": [
+          "Hermes Kelly 2 Watch"
+        ],
+        "trade_count": 720000
+      },
+      "에르메스 켈리 워치": {
+        "category": "시계",
+        "synonyms": [
+          "Hermes Kelly Watch"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 케이프 코드 싱글 투어 라지": {
+        "category": "시계",
+        "synonyms": [
+          "Hermes Cape Cord Single Tour Large"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 켈리 18 골드 앱솜 벨트": {
+        "category": "패션 악세서리",
+        "synonyms": [
+          "Hermès Kelly 18 Gold Epsom Belt"
+        ],
+        "trade_count": 1160000
+      },
+      "에르메스 (W) 에르메스 데마르슈 숏부츠": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Hermes Demarche Short Boots"
+        ],
+        "trade_count": 740000
+      },
+      "에르메스 시티 4CC 앱송 카드 홀더 에벤": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermès City 4CC Card Holder Epsom Ebene"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 임펄스 스니커즈 누아": {
+        "category": "신발",
+        "synonyms": [
+          "Hermes Impulse Sneakers Noir"
+        ],
+        "trade_count": 1460000
+      },
+      "에르메스 밀라디 나파 카프스킨 앵클부츠": {
+        "category": "신발",
+        "synonyms": [
+          "Hermès Milady Nappa Calfskin Ankle Boots"
+        ],
+        "trade_count": 600000
+      },
+      "에르메스 에르백 셀리에 뜨왈 아쉬 & 팔라듐 하드웨어 집 31 오랑쥬 포브": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Herbag Sellier H Berllin Canvas & Palladium Zip 31 Orange Fauve"
+        ],
+        "trade_count": 2790000
+      },
+      "에르메스 버킨 엘리게이터 & 골드 하드웨어 25 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Birkin Alligator & Gold Hardware 25 Noir"
+        ],
+        "trade_count": 60000000
+      },
+      "에르메스 파리스 봄베이 클레망스 & 팔라듐 하드웨어 루즈 가랑스": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Paris Bombay Clemence & Palladium Hardware Rouge Garance"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 H 오 까레 버클 리버서블 벨트": {
+        "category": "패션 악세서리",
+        "synonyms": [
+          "Hermès H au Carre Buckle Reversible Belt"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 켈리 셀리에 엡솜 & 골드 하드웨어 25 그라파이트": {
+        "category": "가방",
+        "synonyms": [
+          "Hermès Kelly Sellier Epsom Leather Gold Hardware 25 Graphite"
+        ],
+        "trade_count": 33000000
+      },
+      "에르메스 에트리에 네클리스 래커 메탈 & 팔라듐 하드웨어 누아": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Etrier Necklace Laquered Metal & Palladium Noir"
+        ],
+        "trade_count": 1000000
+      },
+      "에르메스 꼴리에 드 시엥 브레이슬릿 스털링 실버": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermès Collier de Chien Bracelet Sterling Silver"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 에샤페 링 미디엄 스털링 실버": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Echappee Ring Medium Sterling Silver"
+        ],
+        "trade_count": 690000
+      },
+      "에르메스 쉐르세 미디 엡솜 & 골드 하드웨어 25 크레": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Cherche Midi Epsom & Gold 25 Craie"
+        ],
+        "trade_count": 3500000
+      },
+      "에르메스 티 포 투 뱅글 골드 하드웨어 트로피끄 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Tea for Two Bangle Gold Plated Tropique Enamel"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 데이 카프스킨 스니커즈 블랑": {
+        "category": "신발",
+        "synonyms": [
+          "Hermès Day Calfskin Sneaker Blanc"
+        ],
+        "trade_count": 1390000
+      },
+      "에르메스 바운싱 스니커즈 카프스킨 스웨이드 고트스킨 & 베쥬 에스키스": {
+        "category": "신발",
+        "synonyms": [
+          "Hermès Bouncing Sneakers Calfskin Suede Goatskin & Beige Esquisse"
+        ],
+        "trade_count": 730000
+      },
+      "에르메스 아말피 나파 샹달 스트랩 샌들 누아": {
+        "category": "신발",
+        "synonyms": [
+          "Hermès Amalfi Nappa Chaine d'Ancre Strap Sandals Noir"
+        ],
+        "trade_count": 490000
+      },
+      "에르메스 리발 브레이슬릿 미니 골드 하드웨어 & 스위프트 크레": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermès Rivale Bracelet Mini Gold Hardware & Swift Craie"
+        ],
+        "trade_count": 770000
+      },
+      "에르메스 후루토 캔버스 토트백 PM 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Furuto Canvas Tote Bag PM Red"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 볼리드 릴렉스 시킴 & 팔라듐 하드웨어 45 루즈 비프": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Bolide Relax Sikkim & Palladium 45 Rouge Vif"
+        ],
+        "trade_count": 4000000
+      },
+      "에르메스 에르라인 후루토 바사 캔버스 브라운": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Eraline Furuto Basses Canvas Brown"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 에르라인 후루토 캔버스 토트백 브라운": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Eraline Furuto Canvas Tote Bag Brown"
+        ],
+        "trade_count": 220000
+      },
+      "에르메스 후루토 캔버스 토트백  블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Furuto Canvas Tote Bag Black"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 에르라인 후루토 바사 캔버스 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Eraline Furuto Basses Canvas Gray"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 에르라인 후루토 카바스 캔버스 토트백 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Eraline Furuto Cabas Canvas Tote Bag Gray"
+        ],
+        "trade_count": 350000
+      },
+      "에르메스 후루토 캔버스 토트백 스카이블루": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Furuto Canvas Tote Bag Skyblue"
+        ],
+        "trade_count": 180000
+      },
+      "에르메스 에르백 셀리에 캔버스 & 팔라듐 하드웨어 집 31 뀌브르 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Herbag Sellier Canvas & Palladium Zip 31 Cuivre Noir"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 볼리드 클레망스 & 골드 하드웨어 31 로즈 자이푸르": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Bolide Clemence & Gold Hardware 31 Rose Jaipur"
+        ],
+        "trade_count": 7110000
+      },
+      "에르메스 켈리 토고 & 골드 하드웨어 32 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermès Kelly Togo & Gold Hardware 32 Noir"
+        ],
+        "trade_count": 16650000
+      },
+      "에르메스 에르백 셀리에 밀리터리 캔버스 헌터 카우하이드 & 팔라듐 하드웨어 집 39 에크류 포브 베르 크리케": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Herbag Sellier Military Canvas Hunter & Palladium Zip 39 Ecru Fauve Vert Criquet"
+        ],
+        "trade_count": 3650000
+      },
+      "에르메스 에르백 르투르네 밀리터리 캔버스 헌터 카우하이드 & 팔라듐 하드웨어 아 도 집 백팩 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Herbag Retourne Military Canvas Hunter & Palladium a Dos Zip Backpack Noir"
+        ],
+        "trade_count": 3490000
+      },
+      "에르메스 에르백 오피시에 캔버스 & 팔라듐 하드웨어 31 블루 인디고": {
+        "category": "가방",
+        "synonyms": [
+          "Hermès Herbag Officier Canvas & Palladium Hardware Shoulder Bag 31 Bleu Indigo"
+        ],
+        "trade_count": 2700000
+      },
+      "에르메스 가든 파일 오피시에 캔버스 & 팔라듐 하드웨어 37 에크루": {
+        "category": "가방",
+        "synonyms": [
+          "Hermès Garden File Officier Canvas & Palladium Hardware Tote Bag 37 Ecru"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 가든 파일 오피시에 캔버스 & 팔라듐 하드웨어 37 루즈 아쉬": {
+        "category": "가방",
+        "synonyms": [
+          "Hermès Garden File Officier Canvas & Palladium Hardware Tote Bag 37 Rouge H"
+        ],
+        "trade_count": 1600000
+      },
+      "에르메스 에일린 캔버스 그루밍 GM 크레 블루 진": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Aline Canvas Grooming GM Craie Bleu Jean"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 콘스탄스 엡솜 & 골드 하드웨어 18 미니 블루 글레이셔": {
+        "category": "가방",
+        "synonyms": [
+          "Hermès Constance Epsom & Gold Hardware 18 Mini Bleu Glacier"
+        ],
+        "trade_count": 15700000
+      },
+      "에르메스 글레난 브레이슬릿 골드 하드웨어 & 스위프트 오랑쥬": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermès Glenan Bracelet Gold Hardware & Swift Orange"
+        ],
+        "trade_count": 520000
+      },
+      "에르메스 에트리에 브레이슬릿 스위프트 카프스킨 골드 하드웨어 & 골드": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermès Etrier Bracelet Swift Calfskin Gold Hardware & Gold"
+        ],
+        "trade_count": 520000
+      },
+      "에르메스 팝 H 더블 투어 브레이슬릿 스위프트 카프스킨 & 누아": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermès Pop H Double Tour Bracelet Swift Calfskin & Noir"
+        ],
+        "trade_count": 950000
+      },
+      "에르메스 미니 클릭 켈리 브레이슬릿 GM 로즈 골드 코팅 & 에나멜 블루 폴레르": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermès Mini Clic Kelly Bracelet GM Rose Gold Plated & Enamel Bleu Polaire"
+        ],
+        "trade_count": 1060000
+      },
+      "에르메스 미니 클릭 켈리 브레이슬릿 PM 로즈 골드 코팅 & 에나멜 마롱 글라세": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermès Mini Clic Kelly Bracelet PM Rose Gold Plated & Enamel Marron Glacé"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 미니 클릭 켈리 브레이슬릿 GM 로즈 골드 코팅 & 에나멜 마롱 글라세": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermès Mini Clic Kelly Bracelet GM Rose Gold Plated & Enamel Marron Glacé"
+        ],
+        "trade_count": 1060000
+      },
+      "에르메스 리발 브레이슬릿 미니 골드 하드웨어 & 스위프트 골드": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermès Rivale Bracelet Mini Gold Hardware & Swift Gold"
+        ],
+        "trade_count": 770000
+      },
+      "에르메스 클릭 H 브레이슬릿 GM 팔라듐 하드웨어 오랑쥬 프루이트 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermès Clic H Bracelet GM Palladium Hardware Orange Fruité Enamel"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 리발 브레이슬릿 미니 팔라듐 하드웨어 & 스위프트 로즈 사쿠라": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermès Rivale Bracelet Mini Palladium Hardware & Swift Rose Sakura"
+        ],
+        "trade_count": 770000
+      },
+      "에르메스 리발 브레이슬릿 미니 팔라듐 하드웨어 & 스위프트 에토프": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermès Rivale Bracelet Mini Palladium Hardware & Swift Étoupe"
+        ],
+        "trade_count": 490000
+      },
+      "에르메스 린디 스위프트 & 팔라듐 하드웨어 미니 그리스 페일": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Lindy Swift & Palladium Mini Gris Perle"
+        ],
+        "trade_count": 9000000
+      },
+      "에르메스 콘스탄스 3 엡솜 & 골드 하드웨어 24 에토프": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Constance 3 Epsom & Gold 24 Etoupe"
+        ],
+        "trade_count": 16800000
+      },
+      "에르메스 스티브 라이트 토고 & 팔라듐 하드웨어 메신저백 카방": {
+        "category": "가방",
+        "synonyms": [
+          "Hermès Steve Light Togo & Palladium Hardware Messenger Bag Kaban"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 삭 아 데페쉬 엡솜 & 팔라듐 하드웨어 라이트 2 38 브리프케이스 그리 에땅": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Sac A Depeches Epsom & Palladium Light 2 38 Briefcase Gris Etain"
+        ],
+        "trade_count": 7000000
+      },
+      "에르메스 에르백 비브라토 & 골드 하드웨어 31 에벤": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Herbag Vibrato & Gold 31 Ebene"
+        ],
+        "trade_count": 2650000
+      },
+      "에르메스 아틀리에 싱글 이어링 팔라듐 래커드 누아": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Etrier Single Earring Lacquered Metal Noir"
+        ],
+        "trade_count": 300000
+      },
+      "에르메스 쇼츠": {
+        "category": "의류",
+        "synonyms": [
+          "Hermes Shorts"
+        ],
+        "trade_count": 560000
+      },
+      "에르메스 미니 팝 H 펜던트 네크리스 로즈 골드 하드웨어 블루 사튀르 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Mini Pop H Pendant Necklace Rose Gold Plated Bleu Sature Enamel"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 미니 팝 H 펜던트 네크리스 팔라듐 하드웨어 로즈 트로피케 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Mini Pop H Pendant Necklace Palladium Plated Rose Tropique Enamel"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 미니 팝 H 이어링 팔라듐 하드웨어 블랑 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Mini Pop H Earrings Palladium Plated Blanc Enamel"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 헤리티지 에퀘스트레 에트리에 이어링 스몰 골드 하드웨어 & 누아 카프스킨 레더": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Heritage Equestre Etrier earrings small Gold Plated & Noir Calfskin Leather"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 카바셀리에 끌레망스 토트백 46 에토프": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Cavassellier Clemence Tote Bag 46 Etoupe"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 리콜 카프스킨 버킷백 17 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Licole 17 Calfskin Bucket Bag White"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 켈리 토고 & 팔라듐 하드웨어 32 블루 랑": {
+        "category": "가방",
+        "synonyms": [
+          "Hermès Kelly Togo & Palladium Hardware 32 Bleu Lin"
+        ],
+        "trade_count": 10500000
+      },
+      "에르메스 가든 파티 앱송 & 팔라듐 하드웨어 30 로즈 텍사스": {
+        "category": "가방",
+        "synonyms": [
+          "Hermès Garden Party Epsom & Palladium Hardware 30 Rose Texas"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 오타크루와 버킨 토고 & 실버 하드웨어 40 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermès Haut à Courroies Birkin Togo & Silver Hardware 40 Noir"
+        ],
+        "trade_count": 26500000
+      },
+      "에르메스 버킨 토고 & 실버 하드웨어 30 로즈 립스틱": {
+        "category": "가방",
+        "synonyms": [
+          "Hermès Birkin Togo & Silver Hardware 30 Rose Lipstick"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 툴박스 스위프트 & 팔라듐 하드웨어 토트백 26 오랑쥬": {
+        "category": "가방",
+        "synonyms": [
+          "Hermès Toolbox Swift & Palladium Tote Bag 26 Orange"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 볼리드 클레망스 & 팔라듐 하드웨어 35 블루 생 시르": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Bolide Clemence & Palladium 35 Blue Saint Cyr"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 에르백 르투르네 크리스 바이킹 캔버스 & 팔라듐 하드웨어 아 도 집 백팩 에크류 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Herbag Retourne Criss Viking Canvas & Palladium a Dos Zip Backpack Ecru Noir"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 버킨 토고 & 골드 하드웨어 30 루즈 그르나": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Birkin Togo & Gold 30 Rouge Grenat"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 린디 에버컬러 & 골드 하드웨어 26 그리스 메이어": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Lindy Evercolor & Gold 26 Gris Meyer"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 버킨 오타크로와 토고 & 팔라듐 하드웨어 40 골드": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Birkin Haut a Courroies Togo & Palladium 40 Gold"
+        ],
+        "trade_count": 24500000
+      },
+      "에르메스 볼리드 아 도스 보 토고 백팩 블루 드 프뤼스": {
+        "category": "가방",
+        "synonyms": [
+          "Hermès Bolide à Dos Veau Togo Backpack Bleu de Prusse"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 비드포쉬 토고 & 팔라듐 하드웨어 그리 팡땅": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Videpoches Togo & Palladium Gris Pantin"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 에블린 3 클레망스 & 골드 하드웨어 29 크레": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Evelyne 3 Clemence & Gold 29 Craie"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 멜리 멜로 네클리스 스위프트 혼 메탈 & 팔라듐 하드웨어 골드 블루 랑": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Meli Melo Necklace Swift Horn Metal & Palladium Gold Bleu Lin"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 아뮬레뜨 콘스탄스 펜던트 네크리스 로즈 골드 & 다이아몬드 44P": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermès Amulette Constance Pendant Necklace Rose Gold & Diamond 44P"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 미니 팝 H 이어링 팔라듐 하드웨어 뉴골드": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermès Mini Pop H Earrings Palladium Hardware New Gold"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 미니 팝 H 이어링 팔라듐 하드웨어 로즈 멕시코": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Mini Pop H Earrings Palladium & Rose Mexico"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 에뮬렛 마로퀸 이어링 골드 하드웨어 &버팔로 호른": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Amulette Maroquinier earrings Gold Plated buffalo horn"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 미니 팝 H 이어링 로즈 골드 하드웨어 누아 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Mini Pop H Earrings Rose Gold Plated Noir Enamel"
+        ],
+        "trade_count": 860000
+      },
+      "에르메스 실크인 앱송 동전지갑 블루 사피르": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermès Silk'In Epsom Coin Purse Bleu Saphir"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 콘스탄스 3 에버컬러 & 골드 하드웨어 24 프람부아즈": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Constance 3 Evercolor & Gold 24 Framboise"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 볼리드 1923 앱송 & 팔라듐 하드웨어 30 루즈 라디유": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Bolide 1923 Appson & Palladium Hardware 30 Rouge Radieux"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 에르백 메신저 H 바이킹 캔버스 헌터 & 팔라듐 하드웨어 20 에크루 아르두아즈": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Herbag Messenger H Viking Canvas Hunter & Palladium Hardware 20 Ecru Ardoise"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 켈리 셀리에 엡솜 & 골드 하드웨어 25 루즈 카사크": {
+        "category": "가방",
+        "synonyms": [
+          "Hermès Kelly Sellier Epsom & Gold Hardware Tote Bag 25 Rouge Casaque"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 버킨 토고 가죽 & 골드 하드웨어 토트백 25 블루 뉘": {
+        "category": "가방",
+        "synonyms": [
+          "Hermès Birkin Togo Leather & Gold Hardware Tote Bag 25 Blue Nuit"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 볼리드 엡솜 가죽 & 팔라듐 백 27 카퓌신": {
+        "category": "가방",
+        "synonyms": [
+          "Hermès Bolide Epsom Leather & Palladium Bag 27 Capucine"
+        ],
+        "trade_count": 6800000
+      },
+      "에르메스 버킨 토고 가죽 & 팔라듐 토트 백 25 베르 드 그리스": {
+        "category": "가방",
+        "synonyms": [
+          "Hermès Birkin Togo Leather & Palladium Hardware Tote Bag 25 Vert de Gris"
+        ],
+        "trade_count": 31000000
+      },
+      "에르메스 버킨 토뤼옹 노빌로 가죽 & 실버 메탈 토트백 30 뀌브르 브라운": {
+        "category": "가방",
+        "synonyms": [
+          "Hermès Birkin Taurillon Novillo Leather & Palladium Hardware Tote Bag 30 Cuivre Brown"
+        ],
+        "trade_count": 24900000
+      },
+      "에르메스 린디 스위프트 & 팔라듐 하드웨어 26 그리 빨": {
+        "category": "가방",
+        "synonyms": [
+          "Hermès Lindy Swift & Palladium Hardware 26 Mini Gris Perle"
+        ],
+        "trade_count": 10000000
+      },
+      "에르메스 에르백 밀리터리 캔버스 헌터 카우하이드 & 팔라듐 하드웨어 집 31 베르 망그로브 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Herbag Military Canvas Hunter Cowhide & Palladium Zip 31 Vert Mangrove Noir"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 슈발 스위프트 맥세이프 카드홀더 골드": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes Cheval Swift Magsafe Card Holder Gold"
+        ],
+        "trade_count": 810000
+      },
+      "에르메스 H 셀리에 에버컬러 카드홀더 골드": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes H Sellier Evercolor Card Holder Gold"
+        ],
+        "trade_count": 700000
+      },
+      "에르메스 R.M.S 에버컬러 & 팔라듐 하드웨어 카드홀더 에토프": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes R.M.S Evercolor & Palladium Card Holder Etoupe"
+        ],
+        "trade_count": 1360000
+      },
+      "에르메스 MC² 플레밍 엡솜 월렛 그리 메이어": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes MC² Fleming Epsom Wallet Gris Meyer"
+        ],
+        "trade_count": 3100000
+      },
+      "에르메스 MC² 플레밍 엘리게이터 월렛 누아": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes MC² Fleming Alligator Wallet Noir"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 MC² 코페르닉 엡솜 컴팩트 월렛 누아": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes MC² Copernic Epsom Compact wallet Noir"
+        ],
+        "trade_count": 1500000
+      },
+      "에르메스 콘스탄스 엡솜 & 골드 하드웨어 슬림 월렛 에토프": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes Constance Epsom & Gold Slim Wallet Etoupe"
+        ],
+        "trade_count": 3850000
+      },
+      "에르메스 켈리 엡솜 & 골드 하드웨어 컴팩트 월렛 누아": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes Kelly Epsom & Gold Compact Wallet Noir"
+        ],
+        "trade_count": 1500000
+      },
+      "에르메스 칼비 마담 & 팔라듐 하드웨어 카드홀더 로즈 익스트림": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes Calvi Madame & Palladium Card Holder Rose Extreme"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 도곤 토고 & 팔라듐 하드웨어 컴팩트 월렛 크레": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes Dogon Togo & Palladium Compact Wallet Craie"
+        ],
+        "trade_count": 2800000
+      },
+      "에르메스 MC² 유클리드 에버컬러 카드홀더 그리 메이어": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes MC² Euclide Evercolor Card Holder Gris Meyer"
+        ],
+        "trade_count": 1470000
+      },
+      "에르메스 베안 엡솜 & 팔라듐 하드웨어 카드홀더 누아": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes Bearn Epsom & Palladium Card Holder Noir"
+        ],
+        "trade_count": 3250000
+      },
+      "에르메스 베안 엡솜 & 골드 하드웨어 카드홀더 크레": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes Bearn Epsom & Gold Card Holder Craie"
+        ],
+        "trade_count": 1270000
+      },
+      "에르메스 베안 엡솜 & 골드 하드웨어 컴팩트 지갑 블루 사피흐": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes Bearn Epsom & Gold Compact Wallet Bleu Saphir"
+        ],
+        "trade_count": 1320000
+      },
+      "에르메스 베안 엘리게이터 & 골드 하드웨어 장지갑 로즈 퍼플": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes Bearn Alligator & Gold Hardware Long Wallet Rose Purple"
+        ],
+        "trade_count": 3910000
+      },
+      "에르메스 베안 엘리게이터 & 팔라듐 하드웨어 장지갑 누아": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes Bearn Alligator & Palladium Hardware Long Wallet Noir"
+        ],
+        "trade_count": 5400000
+      },
+      "에르메스 베안 셰브르 미조레 & 골드 하드웨어 장지갑 오랑쥬": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes Bearn Chevre Mysore & Gold Hardware Long Wallet Orange"
+        ],
+        "trade_count": 400000
+      },
+      "에르메스 베안 셰브르 미조레 & 팔라듐 하드웨어 장지갑 오랑쥬": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes Bearn Chevre Mysore & Palladium Hardware Long Wallet Orange"
+        ],
+        "trade_count": 2520000
+      },
+      "에르메스 도곤 에버컬러 & 팔라듐 하드웨어 듀오 장지갑 에토프": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes Dogon Evercolor & Palladium Hardware Duo Long Wallet Etoupe"
+        ],
+        "trade_count": 2500000
+      },
+      "에르메스 도곤 토고 & 팔라듐 하드웨어 듀오 장지갑 루즈 그르나": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes Dogon Togo & Palladium Hardware Duo Long Wallet Rouge Grenat"
+        ],
+        "trade_count": 920000
+      },
+      "에르메스 도곤 토고 & 팔라듐 하드웨어 듀오 장지갑 블루 진": {
+        "category": "지갑",
+        "synonyms": [
+          "Hermes Dogon Togo & Palladium Hardware Duo Long Wallet Bleu Jean"
+        ],
+        "trade_count": 640000
+      },
+      "에르메스 꼴리에 드 샹 링 스몰 로즈 골드": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Collier De Chien Ring Small Rose Gold"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 미니 팝 H 펜던트 네크리스 로즈 골드 하드웨어 베르 페퍼민트 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Mini Pop H Pendant Necklace Rose Gold Plated Vert Peppermint Enamel"
+        ],
+        "trade_count": 790000
+      },
+      "에르메스 미니 팝 H 펜던트 네크리스 골드 하드웨어 로즈 익스트림 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Mini Pop H Pendant Necklace Gold Plated Rose Extreme Enamel"
+        ],
+        "trade_count": 680000
+      },
+      "에르메스 미니 팝 H 펜던트 네크리스 골드 하드웨어 말라카이트 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Mini Pop H Pendant Necklace Gold Plated Malachite Enamel"
+        ],
+        "trade_count": 1050000
+      },
+      "에르메스 미니 팝 H 펜던트 네크리스 골드 하드웨어 릴라 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Mini Pop H Pendant Necklace Gold Plated Lilas Enamel"
+        ],
+        "trade_count": 660000
+      },
+      "에르메스 클릭 H 브레이슬릿 PM 로즈 골드 하드웨어 릴라 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Clic H Bracelet PM Rose Gold Plated Lilas Enamel"
+        ],
+        "trade_count": 740000
+      },
+      "에르메스 미니 팝 H 이어링 로즈 골드 하드웨어 마롱 글라세 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Mini Pop H Earrings Rose Gold Plated Marron Glace Enamel"
+        ],
+        "trade_count": 500000
+      },
+      "에르메스 미니 팝 H 이어링 골드 하드웨어 마롱 글라세 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Mini Pop H Earrings Gold Plated Marron Glace Enamel"
+        ],
+        "trade_count": 850000
+      },
+      "에르메스 미니 팝 H 이어링 골드 하드웨어 말라카이트 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Mini Pop H Earrings Gold Plated Malachite Enamel"
+        ],
+        "trade_count": 620000
+      },
+      "에르메스 글레난 브레이슬릿 골드 하드웨어 & 스위프트 누아": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Glenan Bracelet Gold Plated & Swift Noir"
+        ],
+        "trade_count": 420000
+      },
+      "에르메스 글레난 더블 투어 브레이슬릿 골드 하드웨어 & 스위프트 누아": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Glenan Double Tour Bracelet Gold Plated & Swift Noir"
+        ],
+        "trade_count": 420000
+      },
+      "에르메스 리발 더블 투어 브레이슬릿 골드 하드웨어 & 복스 누아": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Rivale Double Tour Bracelet Gold Plated & Box Noir"
+        ],
+        "trade_count": 320000
+      },
+      "에르메스 미니 켈리 더블 투어 브레이슬릿 로즈 골드 하드웨어 & 스위프트 누아": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Mini Kelly Double Tour Bracelet Rose Gold Plated & Swift Noir"
+        ],
+        "trade_count": 480000
+      },
+      "에르메스 미니 클릭 샹달 브레이슬릿 PM 골드 하드웨어 베르 자드 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Mini Clic Chaine D'ancre Bracelet PM Gold Plated Vert Jade Enamel"
+        ],
+        "trade_count": 680000
+      },
+      "에르메스 미니 클릭 샹달 브레이슬릿 PM 골드 하드웨어 오르페르브 죤 오르 블랑 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Mini Clic Chaine D'ancre Bracelet PM Gold Plated Orfèvre Jaun Or Blanc Enamel"
+        ],
+        "trade_count": 1490000
+      },
+      "에르메스 미니 클릭 샹달 브레이슬릿 PM 골드 하드웨어 샤테뉴 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Mini Clic Chaine D'ancre Bracelet PM Gold Plated Chataigne Enamel"
+        ],
+        "trade_count": 900000
+      },
+      "에르메스 오켈리 팬던트 네크리스 스몰 팔라듐 하드웨어 & 스위프트 누아": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes O'kelly Pendant Necklace Small Palladium Plated & Swift Noir"
+        ],
+        "trade_count": 530000
+      },
+      "에르메스 클릭 클락 H 브레이슬릿 PM 팔라듐 하드웨어 오랑쥬 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Clic Clac H Bracelet PM Palladium Plated Orange Enamel"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 클릭 클락 H 브레이슬릿 PM 팔라듐 하드웨어 누아 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Clic Clac H Bracelet PM Palladium Plated Noir Enamel"
+        ],
+        "trade_count": 520000
+      },
+      "에르메스 클릭 클락 H 브레이슬릿 PM 골드 하드웨어 오랑쥬 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Clic Clac H Bracelet PM Gold Plated Oragne Enamel"
+        ],
+        "trade_count": 660000
+      },
+      "에르메스 클릭 클락 H 브레이슬릿 PM 골드 하드웨어 블랑 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Hermes Clic Clac H Bracelet PM Gold Plated Blanc Enamel"
+        ],
+        "trade_count": 790000
+      },
+      "에르메스 클리퍼 24mm 쿼츠 스틸 케이스 블랙": {
+        "category": "시계",
+        "synonyms": [
+          "Hermes Clipper 24mm Quartz Steel Black"
+        ],
+        "trade_count": 940000
+      },
+      "에르메스 아쏘 그랑 룬 43mm 셀프 와인딩 무브먼트 스틸 케이스 블루 어비스 블루 엘리게이터": {
+        "category": "시계",
+        "synonyms": [
+          "Hermes Arceau Grande Lune 43mm Self-Winding Movement Steel Bleu Abysse Bleu Alligator"
+        ],
+        "trade_count": 4800000
+      },
+      "에르메스 케이프 코드 스몰 31mm 쿼츠 다이아몬트 세팅 스틸 다이아몬드 세팅 자개 밀라니즈 메쉬": {
+        "category": "시계",
+        "synonyms": [
+          "Hermes Cape Cod Small 31mm Quartz Diamond-Set Steel Diamond-Set Mother-Of-Pearl Milanese Mesh Bracelet"
+        ],
+        "trade_count": 9200000
+      },
+      "에르메스 H 아워 스몰 25mm 쿼츠 스틸 케이스 화이트 선버스트 스탬프 모티프": {
+        "category": "시계",
+        "synonyms": [
+          "Hermes Heure H Small 25mm Quartz Steel White Sunburst Stamped Motif"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 H 아워 스몰 25mm 쿼츠 다이아몬드 세팅 케이스 로즈 골드 다이아몬드 블랑 엘리게이터": {
+        "category": "시계",
+        "synonyms": [
+          "Hermes Heure H Small 25mm Quartz Diamond-Set Rose Gold Diamond Blanc Alligator"
+        ],
+        "trade_count": 14350000
+      },
+      "에르메스 H 아워 스몰 25mm 쿼츠 스틸 케이스 화이트 선버스트 스탬프 모티프 에토프 스위프트 카프스킨 더블": {
+        "category": "시계",
+        "synonyms": [
+          "Hermes Heure H Small 25mm Quartz Steel White Sunburst Stamped Motif Etoupe Swift Calfskin Double Strap"
+        ],
+        "trade_count": 2790000
+      },
+      "에르메스 H 아워 미니 21mm 쿼츠 스틸 케이스 화이트 선버스트 스탬프 모티프 누아 엡솜 카프스킨": {
+        "category": "시계",
+        "synonyms": [
+          "Hermes Heure H Mini 21mm Quartz Steel White Sunburst Stamped Motif Noir Epsom Calfskin"
+        ],
+        "trade_count": 3990000
+      },
+      "에르메스 울트라플라 토고 & 팔라듐 하드웨어 PM 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Ultrapla Togo & Palldium PM Noir"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 가든 파티 밀리터리 캔버스 네곤다 & 팔라듐 하드웨어 포켓 버티컬 누아 베르 시프레": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Garden Party Military Canvas Negonda & Palladium Pockets Vertical Noir Vert Cypres"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 네오베인 발수 소재 플랫 케이스 미디엄 블루 마린": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Neobain Water Repellent Flat Case Medium Bleu Marine"
+        ],
+        "trade_count": 270000
+      },
+      "에르메스 지펭고 샹달 에버컬러 & 팔라듐 하드웨어 클러치 GM 골드": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Zipengo Chaine d'Ancre Evercolor & Palladium Pouch GM Gold"
+        ],
+        "trade_count": 4500000
+      },
+      "에르메스 지펭고 샹달 에버컬러 & 팔라듐 하드웨어 클러치 GM 모브 빨": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Zipengo Chaine d'Ancre Evercolor & Palladium Pouch GM Mauve Pale"
+        ],
+        "trade_count": 3240000
+      },
+      "에르메스 핵 아 도 토고 & 팔라듐 하드웨어 백팩 PM 블루 네이비": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Hac a Dos Togo & Palladium Backpack PM Bleu Navy"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 핵 아 도 토고 & 팔라듐 하드웨어 백팩 PM 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Hac a Dos Togo & Palladium Backpack PM Noir"
+        ],
+        "trade_count": 17120000
+      },
+      "에르메스 델라 카벨레리아 II 엡솜 & 골드 하드웨어 미니 골드": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Della Cavalleria II Epsom & Gold Mini Gold"
+        ],
+        "trade_count": 6000000
+      },
+      "에르메스 에르백 르투르네 크리스 바이킹 캔버스 & 팔라듐 하드웨어 아 도 집 백팩 에크류 베쥬 포브": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Herbag Retourne Criss Viking Canvas & Palladium a Dos Zip Backpack Ecru Beige Fauve"
+        ],
+        "trade_count": 2390000
+      },
+      "에르메스 카바 H 엔 비에 H 캔버스 스위프트 27 에크류 베쥬 블루 빨 프랑브아즈": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Cabas H En Biais H Canvas Swift 27Ecru Beige Bleu Pale Framboise"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 피코탄 락 클레망스 & 팔라듐 하드웨어 18 베르 꼬믹": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Picotin Lock Clemence & Palladium 18 Vert Comics"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 피코탄 락 클레망스 & 팔라듐 하드웨어 18 라임": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Picotin Lock Clemence & Palladium 18 Lime"
+        ],
+        "trade_count": 4700000
+      },
+      "에르메스 피코탄 락 클레망스 & 팔라듐 하드웨어 18 루즈 아쉬": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Picotin Lock Clemence & Palladium 18 Rouge H"
+        ],
+        "trade_count": 4450000
+      },
+      "에르메스 에르백 셀리에 H 베를린 캔버스 & 팔라듐 하드웨어 집 31 루즈 피망 루즈 아쉬": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Herbag Sellier H Berllin Canvas & Palladium Zip 31 Rouge Piment Rouge H"
+        ],
+        "trade_count": 3030000
+      },
+      "에르메스 에르백 셀리에 H 베를린 캔버스 & 팔라듐 하드웨어 집 31 라임 에크류 베쥬 나뛰렐": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Herbag Sellier H Berllin Canvas & Palladium Zip 31 Lime Ecru Beige Naturel"
+        ],
+        "trade_count": 3460000
+      },
+      "에르메스 에르백 크리스 바이킹 캔버스 헌터 카우하이드 & 골드 하드웨어 집 31 에크류 베쥬 포브": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Herbag Criss Viking Canvas Hunter Cowhide & Gold Zip 31 Ecru Beige Fauve"
+        ],
+        "trade_count": 5020000
+      },
+      "에르메스 에르백 르투르네 바이킹 까드리유 캔버스 & 팔라듐 하드웨어 집 31 누아 블랑 나뛰렐 사블르": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Herbag Retourne Viking Quadrille Canvas & Palladium Zip 31 Noir Blanc Naturel Sable"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 에르백 밀리터리 캔버스 헌터 카우하이드 & 팔라듐 하드웨어 집 31 오랑쥬 메카노 포브": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Herbag Military Canvas Hunter Cowhide & Palladium Zip 31 Orange Mecano Fauve"
+        ],
+        "trade_count": 3800000
+      },
+      "에르메스 에르백 밀리터리 캔버스 헌터 카우하이드 & 팔라듐 하드웨어 집 31 오랑쥬 메카노 나뛰렐": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Herbag Military Canvas Hunter Cowhide & Palladium Zip 31 Orange Mecano Naturel"
+        ],
+        "trade_count": 2990000
+      },
+      "에르메스 에르백 밀리터리 캔버스 헌터 카우하이드 & 팔라듐 하드웨어 집 31 에토프 블루 인디고": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Herbag Military Canvas Hunter Cowhide & Palladium Zip 31 Etoupe Bleu Indigo"
+        ],
+        "trade_count": 3020000
+      },
+      "에르메스 에르백 밀리터리 캔버스 헌터 카우하이드 & 팔라듐 하드웨어 집 31 차이 포브": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Herbag Military Canvas Hunter Cowhide & Palladium Zip 31 Chai Fauve"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 버킨 토고 & 골드 하드웨어 35 마론 댕드": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Birkin Togo & Gold 35 Marron D'inde"
+        ],
+        "trade_count": 13000000
+      },
+      "에르메스 버킨 토고 & 골드 하드웨어 35 에토프": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Birkin Togo & Gold 35 Etoupe"
+        ],
+        "trade_count": 12380000
+      },
+      "에르메스 버킨 토고 & 팔라듐 하드웨어 35 크레": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Birkin Togo & Palladium 35 Craie"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 버킨 토고 & 팔라듐 하드웨어 35 쇼꼴라": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Birkin Togo & Palladium 35 Chocolate"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 버킨 토고 & 팔라듐 하드웨어 35 베르 아니스": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Birkin Togo & Palladium 35 Vert Anis"
+        ],
+        "trade_count": 9300000
+      },
+      "에르메스 버킨 토고 & 팔라듐 하드웨어 35 블루 일렉트릭": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Birkin Togo & Palladium 35 Bleu Electrique"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 린디 클레망스 & 팔라듐 하드웨어 30 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Lindy Clemence & Palladium 30 Noir"
+        ],
+        "trade_count": 6300000
+      },
+      "에르메스 린디 클레망스 & 골드 하드웨어 30 블루 뉘": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Lindy Clemence & Gold 30 Bleu Nuit"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 린디 클레망스 & 골드 하드웨어 30 골드": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Lindy Clemence & Gold 30 Gold"
+        ],
+        "trade_count": 14190000
+      },
+      "에르메스 가든 파티 네곤다 & 팔라듐 하드웨어 30 알장": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Garden Party Negonda & Palladium 30 Alezan"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 가든 파티 네곤다 & 팔라듐 하드웨어 30 루즈 아쉬": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Garden Party Negonda & Palladium 30 Rouge H"
+        ],
+        "trade_count": 20900000
+      },
+      "에르메스 켈리 토고 & 골드 하드웨어 데페쉬 브리프케이스 36 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Kelly Togo & Gold Depeches Briefcase 36 Noir"
+        ],
+        "trade_count": 19000000
+      },
+      "에르메스 켈리 토고 & 팔라듐 하드웨어 데페쉬 브리프케이스 36 블루 뉘": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Kelly Togo & Palladium Depeches Briefcase 36 Bleu Nuit"
+        ],
+        "trade_count": 13270000
+      },
+      "에르메스 켈리 토고 & 팔라듐 하드웨어 데페쉬 브리프케이스 36 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Kelly Togo & Palladium Depeches Briefcase 36 Noir"
+        ],
+        "trade_count": 16250000
+      },
+      "에르메스 볼리드 캔버스 케이스 미디엄 모델 오랑쥬 프": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Bolide Canvas Case Medium Model Orange Feu"
+        ],
+        "trade_count": 260000
+      },
+      "에르메스 볼리드 캔버스 케이스 미니 모델 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Bolide Canvas Case Mini Model Noir"
+        ],
+        "trade_count": 520000
+      },
+      "에르메스 볼리드 1923 엡솜 & 골드 하드웨어 25 에토프": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Bolide 1923 Epsom & Gold 25 Etoupe"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 에블린 3 클레망스 & 팔라듐 하드웨어 29 베통": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Evelyne 3 Clemence & Palladium 29 Beton"
+        ],
+        "trade_count": 5500000
+      },
+      "에르메스 에르백 메신저 H 바이킹 캔버스 헌터 & 팔라듐 하드웨어 39 에크류 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Herbag Massenger H Viking Canvas Hunter & Palladium 39 Ecru Noir"
+        ],
+        "trade_count": 5440000
+      },
+      "에르메스 에르백 밀리터리 캔버스 헌터 카우하이드 & 골드 하드웨어 집 39 블루 탈라사 블루 인디고": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Herbag Military Canvas Hunter & Gold Zip 39 Bleu Thalassa Bleu Indigo"
+        ],
+        "trade_count": 6500000
+      },
+      "에르메스 에르백 셀리에 밀리터리 캔버스 헌터 카우하이드 & 팔라듐 하드웨어 집 39 블루 프랑스 포브": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Herbag Sellier Military Canvas Hunter & Palladium Zip 39 Bleu France fauve"
+        ],
+        "trade_count": 2700000
+      },
+      "에르메스 버킨 토고 & 골드 하드웨어 25 차이": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Birkin Togo & Gold 25 Chai"
+        ],
+        "trade_count": 33000000
+      },
+      "에르메스 버킨 토고 & 골드 하드웨어 25 에토프": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Birkin Togo & Gold 25 Etoupe"
+        ],
+        "trade_count": 29200000
+      },
+      "에르메스 버킨 토고 & 골드 하드웨어 25 골드": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Birkin Togo & Gold 25 Gold"
+        ],
+        "trade_count": 30810000
+      },
+      "에르메스 린디 클레망스 & 골드 하드웨어 26 베흐미용": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Lindy Clemence & Gold 26 Vermillon"
+        ],
+        "trade_count": 12750000
+      },
+      "에르메스 린디 클레망스 & 골드 하드웨어 26 나타": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Lindy Clemence & Gold 26 Nata"
+        ],
+        "trade_count": 14950000
+      },
+      "에르메스 린디 클레망스 & 팔라듐 하드웨어 26 오랑쥬": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Lindy Clemence & Palladium 26 Orange"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 린디 에버컬러 & 팔라듐 하드웨어 26 플라밍고": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Lindy Evercolor & Palladium 26 Flamingo"
+        ],
+        "trade_count": 10600000
+      },
+      "에르메스 콘스탄스 3 엡솜 & 팔라듐 하드웨어 18 미니 골드": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Constance 3 Epsom & Palladium 18 Mini Gold"
+        ],
+        "trade_count": 15950000
+      },
+      "에르메스 콘스탄스 3 엡솜 & 골드 하드웨어 18 미니 골드": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Constance 3 Epsom & Gold 18 Mini Gold"
+        ],
+        "trade_count": 16430000
+      },
+      "에르메스 콘스탄스 3 엡솜 & 골드 하드웨어 24 그래파이트": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Constance 3 Epsom & Gold 24 Graphite"
+        ],
+        "trade_count": 17000000
+      },
+      "에르메스 콘스탄스 3 엡솜 & 로즈 골드 하드웨어 24 크레": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Constance 3 Epsom & Gold 24 Craie"
+        ],
+        "trade_count": 17000000
+      },
+      "에르메스 콘스탄스 엡솜 & 골드 하드웨어 롱 투 고 월렛 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Constance Epsom & Gold Long To Go Wallet Noir"
+        ],
+        "trade_count": 10920000
+      },
+      "에르메스 삭 아 데페쉬 토고 & 팔라듐 하드웨어 라이트 1 37 브리프케이스 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Sac A Depeches Togo & Palladium Light 1 37 Briefcase Noir"
+        ],
+        "trade_count": 6800000
+      },
+      "에르메스 켈리 에버컬러 & 팔라듐 하드웨어 데페쉬 파우치 25 베통": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Kelly Evercolor & Palldium Depeches Pouch 25 Beton"
+        ],
+        "trade_count": 12870000
+      },
+      "에르메스 켈리 토고 & 팔라듐 하드웨어 데페쉬 파우치 25 에벤": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Kelly Togo & Palladium Depeches Pouch 25 Ebene"
+        ],
+        "trade_count": 11000000
+      },
+      "에르메스 켈리 토고 & 팔라듐 하드웨어 데페쉬 파우치 25 그리 에땅": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Kelly Togo & Palladium Depeches Pouch 25 Gris Etain"
+        ],
+        "trade_count": 7600000
+      },
+      "에르메스 켈리 토고 & 팔라듐 하드웨어 데페쉬 파우치 25 골드": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Kelly Togo & Palladium Depeches Pouch 25 Gold"
+        ],
+        "trade_count": 13300000
+      },
+      "에르메스 빅토리아 토고 & 팔라듐 라이트 브리프 케이스 베쥬 마르파": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Victoria Togo & Palladium Light Briefcase Beige Marf"
+        ],
+        "trade_count": 11900000
+      },
+      "에르메스 빅토리아 토고 & 팔라듐 라이트 브리프 케이스 에토프": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Victoria Togo & Palladium Light Briefcase Etoupe"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 인 더 루프 뜨왈 아쉬 캔버스 스위프트 & 골드 하드웨어 18 에크류 베쥬 골드": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes In The Loop Toile H Canvas Swift & Gold 18 Ecru Beige Gold"
+        ],
+        "trade_count": 6380000
+      },
+      "에르메스 인 더 루프 클레망스 스위프트 & 골드 하드웨어 18 골드": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes In The Loop Clemence Swift & Gold 18 Gold"
+        ],
+        "trade_count": 6920000
+      },
+      "에르메스 지제 엘란 스위프트 클러치 29 베르 베흐티고": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Jige Elan Swift Clutch 29 Vert Vertigo"
+        ],
+        "trade_count": 1990000
+      },
+      "에르메스 지제 엘란 스위프트 클러치 29 그리 빨": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Jige Elan Swift Clutch 29 Gris Pale"
+        ],
+        "trade_count": 3480000
+      },
+      "에르메스 피코탄 락 트레사쥬 엡솜 & 팔라듐 하드웨어 22 블루 잉크": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Picotin Lock Tressage Epsom & Palladium 22 bleu encre"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 피코탄 락 클레망스 & 팔라듐 하드웨어 22 블루 드 프뤼스": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Picotin Lock Clemence & Palladium 22 Bleu De Prusse"
+        ],
+        "trade_count": 4200000
+      },
+      "에르메스 피코탄 락 클레망스 & 팔라듐 하드웨어 22 루즈 아쉬": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Picotin Lock Clemence & Palladium 22 Rouge H"
+        ],
+        "trade_count": 4470000
+      },
+      "에르메스 켈리 토고 & 팔라듐 하드웨어 25 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Kelly Togo & Palladium 25 Noir"
+        ],
+        "trade_count": 300000
+      },
+      "에르메스 켈리 셀리에 엡솜 & 골드 하드웨어 25 골드": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Kelly Sellier Epsom & Gold 25 Gold"
+        ],
+        "trade_count": 27420000
+      },
+      "에르메스 켈리 셀리에 엡솜 & 골드 하드웨어 25 에토프": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Kelly Sellier Epsom & Gold 25 Etoupe"
+        ],
+        "trade_count": 32830000
+      },
+      "에르메스 켈리 셀리에 엡솜 & 골드 하드웨어 25 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Kelly Sellier Epsom & Gold 25 Noir"
+        ],
+        "trade_count": 30970000
+      },
+      "에르메스 에블린 클레망스 & 팔라듐 하드웨어 아마존 16 루즈 아쉬": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Evelyne Clemence & Palladium Amazone 16 Rouge H"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 볼리드 클레망스 & 팔라듐 하드웨어 31 로즈 자이푸르": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Bolide Clemence & Palladium 31 Rose Jaipur"
+        ],
+        "trade_count": 5820000
+      },
+      "에르메스 볼리드 클레망스 & 팔라듐 하드웨어 31 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Bolide Clemence & Palladium 31 Noir"
+        ],
+        "trade_count": 8680000
+      },
+      "에르메스 버킨 토고 & 팔라듐 하드웨어 30 로즈 포푸레": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Birkin Togo & Palldium 30 Rose Pourpre"
+        ],
+        "trade_count": 19500000
+      },
+      "에르메스 버킨 토고 & 골드 하드웨어 30 골드": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Birkin Togo & Gold 30 Gold"
+        ],
+        "trade_count": 26840000
+      },
+      "에르메스 버킨 토고 & 골드 하드웨어 30 베통": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Birkin Togo & Gold 30 Beton"
+        ],
+        "trade_count": 33300000
+      },
+      "에르메스 버킨 토고 & 골드 하드웨어 30 크레": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Birkin Togo & Gold 30 Craie"
+        ],
+        "trade_count": 32000000
+      },
+      "에르메스 볼리드 1923 선셋 레인보우 엡솜 & 팔라듐 하드웨어 30 아프리코 블루 아갓 매그놀리아 루즈 카사크": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Bolide 1923 Sunset Rainbow Epsom & Palldium 30 Apricot Bleu Agate Magnolia Rouge Casaque"
+        ],
+        "trade_count": 20000000
+      },
+      "에르메스 켈리 엡솜 & 팔라듐 하드웨어 클래식 투 고 월렛 베르 피즈": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Kelly Epsom & Palladium Classique To Go Wallet Vert Fizz"
+        ],
+        "trade_count": 6120000
+      },
+      "에르메스 켈리 엡솜 & 팔라듐 하드웨어 클래식 투 고 월렛 에토프": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Kelly Epsom & Palladium Classique To Go Wallet Etoupe"
+        ],
+        "trade_count": 9000000
+      },
+      "에르메스 켈리 엡솜 & 골드 하드웨어 클래식 투 고 월렛 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Kelly Epsom & Gold Classique To Go Wallet Noir"
+        ],
+        "trade_count": 9100000
+      },
+      "에르메스 켈리 엡솜 & 골드 하드웨어 클래식 투 고 월렛 죤 드 나폴리": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Kelly Epsom & Gold Classique To Go Wallet Jaune de Naples"
+        ],
+        "trade_count": 7050000
+      },
+      "에르메스 켈리 셰브르 미조레 & 골드 하드웨어 클래식 투 고 월렛 라임": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Kelly Chevre Mysore & Gold Classique To Go Wallet Lime"
+        ],
+        "trade_count": 5100000
+      },
+      "에르메스 켈리 셰브르 미조레 & 팔라듐 하드웨어 클래식 투 고 월렛 로즈 멕시코": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Kelly Chevre Mysore & Palladium Classique To Go Wallet Rose Mexico"
+        ],
+        "trade_count": 6120000
+      },
+      "에르메스 버킨 셀리에 엡솜 & 골드 하드웨어 30 크레": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Birkin Sellier Epsom & Gold 30 Craie"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 브리드 어 브랙 H 나테 케이스 울 라지 토메테": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Bride A Brac H Natte Case Wool Large Tomette"
+        ],
+        "trade_count": 1420000
+      },
+      "에르메스 브리드 어 브랙 카브리올 케이스 캔버스 라지 비스뀌": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Bride A Brac Cabriole Case Canvas Large Biscuit"
+        ],
+        "trade_count": 1180000
+      },
+      "에르메스 켈리 토고 & 골드 하드웨어 32 오랑쥬 포피": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Kelly Togo & Gold 32 Orange Poppy"
+        ],
+        "trade_count": 10800000
+      },
+      "에르메스 켈리 엡솜 & 골드 하드웨어 32 로즈 자이푸르": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Kelly Epsom & Gold 32 Rose Jaipur"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 켈리 셀리에 보 박스 & 골드 하드웨어 32 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Kelly Sellier Veau Box & Gold 32 Noir"
+        ],
+        "trade_count": 8400000
+      },
+      "에르메스 켈리 셀리에 엡솜 & 팔라듐 하드웨어 32 골드": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Kelly Sellier Epsom & Palladium 32 Gold"
+        ],
+        "trade_count": 27900000
+      },
+      "에르메스 켈리 토고 & 골드 하드웨어 28 블랑": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Kelly Togo & Gold 28 Blanc"
+        ],
+        "trade_count": 21000000
+      },
+      "에르메스 켈리 토고 & 골드 하드웨어 28 크레": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Kelly Togo & Gold 28 Craie"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 켈리 토고 & 팔라듐 하드웨어 28 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Kelly Togo & Palladium 28 noir"
+        ],
+        "trade_count": 30000000
+      },
+      "에르메스 켈리 셀리에 엡솜 & 팔라듐 하드웨어 28 골드": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Kelly Sellier Epsom & Palladium 28 Gold"
+        ],
+        "trade_count": 29000000
+      },
+      "에르메스 켈리 셀리에 엡솜 & 팔라듐 하드웨어 28 에토프": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Kelly Sellier Epsom & Palladium 28 Etoupe"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 볼리드 클레망스 & 팔라듐 하드웨어 35 로즈 자이푸르": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Bolide Clemence & Palladium 35 Rose Jaipur"
+        ],
+        "trade_count": 4660000
+      },
+      "에르메스 볼리드 클레망스 & 팔라듐 하드웨어 35 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Bolide Clemence & Palladium 35 Noir"
+        ],
+        "trade_count": 5120000
+      },
+      "에르메스 린디 클레망스 & 골드 하드웨어 미니 까시스": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Lindy Clemence & Gold Mini Cassis"
+        ],
+        "trade_count": 0
+      },
+      "에르메스 린디 클레망스 & 골드 하드웨어 미니 뉴 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Lindy Clemence & Gold Mini New White"
+        ],
+        "trade_count": 8500000
+      },
+      "에르메스 린디 클레망스 & 팔라듐 하드웨어 미니 로즈 텍사스": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Lindy Clemence & Palladium Mini Rose Texas"
+        ],
+        "trade_count": 8600000
+      },
+      "에르메스 가든 파티 뜨왈 오피시에 네곤다 & 팔라듐 하드웨어 36 보르도": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Garden Party Toile Officer Negonda & Palladium 36 Bordeaux"
+        ],
+        "trade_count": 1590000
+      },
+      "에르메스 가든 파티 네곤다 & 팔라듐 하드웨어 36 부겐빌리에": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Garden Party Negonda & Palladium 36 Bougainvillier"
+        ],
+        "trade_count": 3700000
+      },
+      "에르메스 가든 파티 네곤다 & 팔라듐 하드웨어 36 블루 잔지바": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Garden Party Negonda & Palladium 36 Bleu Zanzibar"
+        ],
+        "trade_count": 4500000
+      },
+      "에르메스 24/24 에버컬러 스위프트 & 골드 하드웨어 21 에토프": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes 24/24 Evercolor Swift & Gold 21 Etoupe"
+        ],
+        "trade_count": 10640000
+      },
+      "에르메스 빅토리아 2 클레망스 & 팔라듐 하드웨어 12H 누아": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Victoria 2 Clemence & Palladium 12H Noir"
+        ],
+        "trade_count": 9480000
+      },
+      "에르메스 빅토리아 2 클레망스 & 팔라듐 하드웨어 푸르투 35 루즈 카사크": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Victoria 2 Clemence & Palladium Fourre Tout 35 Rouge Casaque"
+        ],
+        "trade_count": 4030000
+      },
+      "에르메스 빅토리아 2 클레망스 & 팔라듐 하드웨어 푸르투 35 에토프": {
+        "category": "가방",
+        "synonyms": [
+          "Hermes Victoria 2 Clemence & Palladium Fourre Tout 35 Etoupe"
+        ],
+        "trade_count": 4500000
+      },
+      "에르메스 (W) 에르메스 오란 샌들 울스킨 & 버트 도으": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Hermes Oran Sandal Woolskin & Vert Deau"
+        ],
+        "trade_count": 910000
+      }
+    }
+  }
+}

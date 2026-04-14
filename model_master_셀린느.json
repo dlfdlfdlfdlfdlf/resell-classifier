@@ -1,0 +1,2250 @@
+{
+  "셀린느": {
+    "models": {
+      "셀린느 아바 트리옹프 캔버스 & 카프스킨 백 미디엄 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Ava Triomphe Canvas & Calfskin Bag Medium Tan"
+        ],
+        "trade_count": 25,
+        "avg_price": 1895000
+      },
+      "셀린느 클로드 샤이니 카프스킨 백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Claude Shiny Calfskin Bag Mini Black"
+        ],
+        "trade_count": 267,
+        "avg_price": 904000
+      },
+      "셀린느 트리옹프 캔버스 & 카프스킨 버킷백 스몰 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Triomphe Canvas & Calfskin Bucket Bag Small Tan"
+        ],
+        "trade_count": 233,
+        "avg_price": 1396000
+      },
+      "셀린느 베사체 트리옹프 캔버스 & 카프스킨 미니 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Besace Triomphe Canvas & Calfskin Bag Mini Tan"
+        ],
+        "trade_count": 193,
+        "avg_price": 1054000
+      },
+      "셀린느 폴코 트리옹프 캔버스 & 카프스킨 백 미디엄 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Folco Triomphe Canvas & Calfskin Bag Medium Tan"
+        ],
+        "trade_count": 185,
+        "avg_price": 1052000
+      },
+      "셀린느 트리옹프 샤이니 카프스킨 플랩 카드 지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Celine Triomphe Shiny Calfskin Flap Card Wallet Black"
+        ],
+        "trade_count": 181,
+        "avg_price": 400000
+      },
+      "셀린느 오발 트리옹프 스무스 카프스킨 가죽 백 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Oval Triomphe Smooth Calfskin Leather Bag Tan"
+        ],
+        "trade_count": 142,
+        "avg_price": 867000
+      },
+      "셀린느 트리옹프 캔버스 카프스킨 플랩 카드 지갑 탠": {
+        "category": "지갑",
+        "synonyms": [
+          "Celine Triomphe Canvas Calfskin Flap Card Wallet Tan"
+        ],
+        "trade_count": 138,
+        "avg_price": 390000
+      },
+      "셀린느 트리옹프 캔버스 & 카프스킨 버킷백 미디엄 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Triomphe Canvas & Calfskin Bucket Bag Medium Tan"
+        ],
+        "trade_count": 137,
+        "avg_price": 1495000
+      },
+      "셀린느 트리옹프 캔버스 & 램스킨 체인 클러치 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Triomphe Canvas & Lambskin Chain Clutch Tan"
+        ],
+        "trade_count": 133,
+        "avg_price": 787000
+      },
+      "셀린느 폴코 트리옹프 캔버스 & 카프스킨 백팩 미니 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Folco Triomphe Canvas & Calfskin Backpack Mini Tan"
+        ],
+        "trade_count": 126,
+        "avg_price": 1519000
+      },
+      "셀린느 트리옹프 샤이니 카프스킨 백 틴 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Triomphe Shiny Calfskin Bag Teen Black"
+        ],
+        "trade_count": 124,
+        "avg_price": 2351000
+      },
+      "셀린느 프린트 트리옹프 캔버스 카프스킨 카드홀더 탠": {
+        "category": "지갑",
+        "synonyms": [
+          "Celine Print Triomphe Canvas Calfskin Card Holder Tan"
+        ],
+        "trade_count": 88,
+        "avg_price": 186000
+      },
+      "셀린느 그레인드 카프스킨 벨트백 나노 라이트 토프": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Grained Calfskin Belt Bag Nano Light Taupe"
+        ],
+        "trade_count": 85,
+        "avg_price": 1369000
+      },
+      "셀린느 트리옹프 캔버스 샤이니 카프스킨 플랩 중지갑 스몰 탠": {
+        "category": "지갑",
+        "synonyms": [
+          "Celine Triomphe Canvas Shiny Calfskin Flap Wallet Small Tan"
+        ],
+        "trade_count": 80,
+        "avg_price": 464000
+      },
+      "셀린느 트리옹프 캔버스 아바 백 미니 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Triomphe Canvas Ava Bag Mini Tan"
+        ],
+        "trade_count": 74,
+        "avg_price": 995000
+      },
+      "셀린느 클로드 트리옹프 캔버스 & 카프스킨 백 미니 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Claude Triomphe Canvas & Calfskin Bag Mini Tan"
+        ],
+        "trade_count": 73,
+        "avg_price": 893000
+      },
+      "셀린느 퀴르 트리옹프 캔버스 카프스킨 보스턴 백 스몰 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Cuir Triomphe Canvas Calfskin Boston Bag Small Tan"
+        ],
+        "trade_count": 68,
+        "avg_price": 1727000
+      },
+      "셀린느 트리옹프 캔버스 파우치 스몰 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Triomphe Canvas Pouch Small Tan"
+        ],
+        "trade_count": 65,
+        "avg_price": 354000
+      },
+      "셀린느 테디 자켓": {
+        "category": "의류",
+        "synonyms": [
+          "Celine Teddy Jacket"
+        ],
+        "trade_count": 63,
+        "avg_price": 1760000
+      },
+      "셀린느 후드": {
+        "category": "의류",
+        "synonyms": [
+          "Celine Hoodie"
+        ],
+        "trade_count": 59,
+        "avg_price": 735000
+      },
+      "셀린느 트리옹프 샤이니 카프스킨 플랩 중지갑 스폴 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Celine Triomphe Shiny Calfskin Flap Wallet Small Black"
+        ],
+        "trade_count": 57,
+        "avg_price": 411000
+      },
+      "셀린느 트리옹프 캔버스 & 카프스킨 드로우스트링 백 스몰 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Triomphe Canvas & Calfskin Drawstring Bag Small Tan"
+        ],
+        "trade_count": 53,
+        "avg_price": 1116000
+      },
+      "셀린느 하프 문 트리옹프 캔버스 케이스 미니 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Half Moon Triomphe Canvas Case Mini Tan"
+        ],
+        "trade_count": 50,
+        "avg_price": 1575000
+      },
+      "셀린느 트리옹프 캔버스 & 셀린느 프린트 카프스킨 버티컬 카바스 미니 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Triomphe Canvas & Celine Print Calfskin Vertical Cabas Mini Tan"
+        ],
+        "trade_count": 50,
+        "avg_price": 927000
+      },
+      "셀린느 루즈 티셔츠": {
+        "category": "의류",
+        "synonyms": [
+          "Celine Loose T-shirt"
+        ],
+        "trade_count": 49,
+        "avg_price": 400000
+      },
+      "셀린느 아바 트리옹프 캔버스 & 카프스킨 백 미디엄 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Ava Triomphe Canvas & Calfskin Bag Medium White"
+        ],
+        "trade_count": 48,
+        "avg_price": 1146000
+      },
+      "셀린느 클로드 체인 샤이니 카프스킨 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Claude Chain Shiny Calfskin Shoulder Bag Black"
+        ],
+        "trade_count": 43,
+        "avg_price": 1290000
+      },
+      "셀린느 데님 팬츠": {
+        "category": "의류",
+        "synonyms": [
+          "Celine Denim Pants"
+        ],
+        "trade_count": 42,
+        "avg_price": 347000
+      },
+      "셀린느 클로드 샤이니 카프스킨 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Claude Shiny Calfskin Shoulder Bag Black"
+        ],
+        "trade_count": 41,
+        "avg_price": 1979000
+      },
+      "셀린느 클래식 트리옹프 샤이니 카프스킨 백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Classic Triomphe Shiny Calfskin Bag Medium Black"
+        ],
+        "trade_count": 40,
+        "avg_price": 2481000
+      },
+      "셀린느 러기지 드럼 카프스킨 백 나노 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Luggage Drummed Calfskin Bag Nano Black"
+        ],
+        "trade_count": 40,
+        "avg_price": 1318000
+      },
+      "셀린느 트라이앵글 CELINE 프린트 트리옹프 캔버스 백 스몰 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Triangle CELINE Print Triomphe Canvas Bag Small Tan"
+        ],
+        "trade_count": 40,
+        "avg_price": 811000
+      },
+      "셀린느 클로드 트리옹프 캔버스 & 카프스킨 숄더백 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Claude Triomphe Canvas & Calfskin Shoulder Bag Tan"
+        ],
+        "trade_count": 38,
+        "avg_price": 1923000
+      },
+      "셀린느 아바 트리옹프 스무스 카프스킨 백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Ava Triomphe Smooth Calfskin Bag Medium Black"
+        ],
+        "trade_count": 38,
+        "avg_price": 2078000
+      },
+      "셀린느 립드 울 후드 스웨터": {
+        "category": "의류",
+        "synonyms": [
+          "Celine Sweater with Hood in Ribbed Wool"
+        ],
+        "trade_count": 34,
+        "avg_price": 1484000
+      },
+      "셀린느 트리옹프 캔버스 & 램스킨 스트랩 라운드 퍼스 블랙 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Triomphe Canvas & Lambskin Round Purse on Strap Black Tan"
+        ],
+        "trade_count": 33,
+        "avg_price": 612000
+      },
+      "셀린느 러기지 드럼 카프스킨 백 나노 수리": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Luggage Drummed Calfskin Bag Nano Souris"
+        ],
+        "trade_count": 32,
+        "avg_price": 1248000
+      },
+      "셀린느 CELINE 오버사이즈 스웨터": {
+        "category": "의류",
+        "synonyms": [
+          "Celine CELINE Oversized Sweater"
+        ],
+        "trade_count": 32,
+        "avg_price": 1111000
+      },
+      "셀린느 트리옹프 캔버스 카프스킨 카드홀더 탠": {
+        "category": "지갑",
+        "synonyms": [
+          "Celine Triomphe Canvas Calfskin Card Holder Tan"
+        ],
+        "trade_count": 31,
+        "avg_price": 306000
+      },
+      "셀린느 그레인드 카프스킨 벨트백 나노 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Grained Calfskin Belt Bag Nano Black"
+        ],
+        "trade_count": 29,
+        "avg_price": 1226000
+      },
+      "셀린느 클래식 파니에 팜 리프 & 카프스킨 백 틴 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Classic Panier Palm Leaf & Calfskin Bag Teen Tan"
+        ],
+        "trade_count": 29,
+        "avg_price": 590000
+      },
+      "셀린느 그레인드 카프스킨 벨트백 나노 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Grained Calfskin Belt Bag Nano Grey"
+        ],
+        "trade_count": 28,
+        "avg_price": 1334000
+      },
+      "셀린느 파리 티셔츠": {
+        "category": "의류",
+        "synonyms": [
+          "Celine Paris T-shirt"
+        ],
+        "trade_count": 28,
+        "avg_price": 336000
+      },
+      "셀린느 트리오 스무드 램스킨 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Trio Smooth Lambskin Small Black"
+        ],
+        "trade_count": 26,
+        "avg_price": 307000
+      },
+      "셀린느 가디건": {
+        "category": "의류",
+        "synonyms": [
+          "Celine Cardigan"
+        ],
+        "trade_count": 26,
+        "avg_price": 1300000
+      },
+      "셀린느 틸리 샤이니 카프스킨 백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Tilly Shiny Calfskin Bag Medium Black"
+        ],
+        "trade_count": 25,
+        "avg_price": 1800000
+      },
+      "셀린느 그레인드 카프스킨 벨트백 마이크로 라이트 토프": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Grained Calfskin Belt Bag Micro Light Taupe"
+        ],
+        "trade_count": 25,
+        "avg_price": 1049000
+      },
+      "셀린느 트리옹프 캔버스 & 램스킨 플랩 휴대폰 파우치 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Triomphe Canvas & Lambskin Phone Pouch with Flap Tan"
+        ],
+        "trade_count": 25,
+        "avg_price": 452000
+      },
+      "셀린느 스웨터": {
+        "category": "의류",
+        "synonyms": [
+          "Celine Sweater"
+        ],
+        "trade_count": 25,
+        "avg_price": 280000
+      },
+      "셀린느 트리옹프 캔버스 & 램스킨 카드 지갑 골드 로고 탠": {
+        "category": "지갑",
+        "synonyms": [
+          "Celine Triomphe Canvas & Lambskin Cardholder Gold Logo Tan"
+        ],
+        "trade_count": 24,
+        "avg_price": 221000
+      },
+      "셀린느 트리옹프 샤이니 카프스킨 중지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Celine Triomphe Shiny Calfskin Wallet Black"
+        ],
+        "trade_count": 24,
+        "avg_price": 292000
+      },
+      "셀린느 트리옹프 캔버스 & 카프스킨 백 틴 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Triomphe Canvas and Calfskin Bag Teen Tan"
+        ],
+        "trade_count": 24,
+        "avg_price": 1866000
+      },
+      "셀린느 CELINE 프린트 트리옹프 캔버스 메신저백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Celine CELINE Print Triomphe Canvas Messenger Bag Medium Black"
+        ],
+        "trade_count": 23,
+        "avg_price": 876000
+      },
+      "셀린느 티셔츠": {
+        "category": "의류",
+        "synonyms": [
+          "Celine T-shirt"
+        ],
+        "trade_count": 23,
+        "avg_price": 150000
+      },
+      "셀린느 마고 샤이니 카프스킨 체인 지갑 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Margo Chain Shiny Calfskin Wallet Black"
+        ],
+        "trade_count": 22,
+        "avg_price": 1339000
+      },
+      "셀린느 그레인드 카프스킨 벨트백 마이크로 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Grained Calfskin Belt Bag Micro Black"
+        ],
+        "trade_count": 22,
+        "avg_price": 1842000
+      },
+      "셀린느 클레아 베사체 샤이니 카프스킨 백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Clea Besace Shiny Calfskin Bag Mini Black"
+        ],
+        "trade_count": 21,
+        "avg_price": 2261000
+      },
+      "셀린느 셀린느 프린트 텍스타일 & 카프스킨 버티컬 카바스 미니 내츄럴 아니스": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Celine Print Textile & Calfskin Vertical Cabas Mini Natural Anise"
+        ],
+        "trade_count": 1,
+        "avg_price": 450000
+      },
+      "셀린느 오발 트리옹프 스무스 카프스킨 가죽 백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Oval Triomphe Smooth Calfskin Leather Bag Black"
+        ],
+        "trade_count": 21,
+        "avg_price": 860000
+      },
+      "셀린느 클래식 카프스킨 박스백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Classic Calfskin Box Bag Medium Black"
+        ],
+        "trade_count": 20,
+        "avg_price": 1120000
+      },
+      "셀린느 클래식 카프스킨 박스백 미디엄 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Classic Calfskin Box Bag Medium Tan"
+        ],
+        "trade_count": 19,
+        "avg_price": 1293000
+      },
+      "셀린느 후드 집업": {
+        "category": "의류",
+        "synonyms": [
+          "Celine Zipped Hoodie"
+        ],
+        "trade_count": 19,
+        "avg_price": 1386000
+      },
+      "셀린느 퀴르 트리옹프 램 스킨 & 카프스킨 카드홀더 탠": {
+        "category": "지갑",
+        "synonyms": [
+          "Celine Cuir Triomphe Lambskin & Calfskin Card Holder Tan"
+        ],
+        "trade_count": 18,
+        "avg_price": 268000
+      },
+      "셀린느 트리옹프 샤이니 램 스킨 & 카프스킨 플랩 중지갑 스몰 탠": {
+        "category": "지갑",
+        "synonyms": [
+          "Celine Triomphe Shiny Lambskin & Calfskin Flap Wallet Small Tan"
+        ],
+        "trade_count": 18,
+        "avg_price": 280000
+      },
+      "셀린느 트리옹프 캔버스 샤이니 카프스킨 중지갑 브라운": {
+        "category": "지갑",
+        "synonyms": [
+          "Celine Triomphe Canvas Shiny Calfskin Wallet Brown"
+        ],
+        "trade_count": 18,
+        "avg_price": 392000
+      },
+      "셀린느 트리옹프 네크리스 골드 크리스탈": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Celine Triomphe Necklace Gold Crystal"
+        ],
+        "trade_count": 18,
+        "avg_price": 545000
+      },
+      "셀린느 배니티 트리옹프 캔버스 & 카프스킨 케이스 미니": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Vanity Triomphe Canvas & Calfskin Case Mini"
+        ],
+        "trade_count": 18,
+        "avg_price": 878000
+      },
+      "셀린느 타부 스무스 카프스킨 클러치 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Tabou Smooth Calfskin Clutch Tan"
+        ],
+        "trade_count": 17,
+        "avg_price": 959000
+      },
+      "셀린느 트리옹프 캔버스 & 카프스킨 카바스 버티컬 스몰 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Triomphe Canvas & Calfskin Cabas Vertical Small Tan"
+        ],
+        "trade_count": 17,
+        "avg_price": 953000
+      },
+      "셀린느 트리옹프 캔버스 빅 버킷백 나노 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Triomphe Canvas Big Bucket Bag Nano Black"
+        ],
+        "trade_count": 17
+      },
+      "셀린느 셔츠": {
+        "category": "의류",
+        "synonyms": [
+          "Celine Shirt"
+        ],
+        "trade_count": 17,
+        "avg_price": 560000
+      },
+      "셀린느 트리옹프 카프스킨 카드홀더 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Celine Triomphe Calfskin Card Holder Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 130000
+      },
+      "셀린느 트리옹프 캔버스 코인 카드 지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Celine Triomphe Canvas Coin Card Wallet Black"
+        ],
+        "trade_count": 16,
+        "avg_price": 240000
+      },
+      "셀린느 트리옹프 네크리스 실버 크리스탈": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Celine Triomphe Necklace Silver Crystal"
+        ],
+        "trade_count": 16,
+        "avg_price": 542000
+      },
+      "셀린느 베사체 퀴르 트리옹프 스무스 카프스킨 백 미니 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Besace Smooth Calfskin Triomphe Bag Mini Tan"
+        ],
+        "trade_count": 16,
+        "avg_price": 780000
+      },
+      "셀린느 트리옹프 캔버스 & 카프스킨 카바스 버티컬 스몰 내추럴 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Celine Print Calfskin Vertical Cabas Small Natural Tan"
+        ],
+        "trade_count": 15,
+        "avg_price": 630000
+      },
+      "셀린느 러기지 드럼 카프스킨 백 미니 누아르": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Luggage Drummed Calfskin Bag Mini Noir"
+        ],
+        "trade_count": 14,
+        "avg_price": 1233000
+      },
+      "셀린느 클레아 베사체 트리옹프 캔버스 & 카프스킨 백 미니 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Clea Besace Triomphe Canvas & Calfskin Bag Mini Tan"
+        ],
+        "trade_count": 13,
+        "avg_price": 1955000
+      },
+      "셀린느 트리옹프 캔버스 & 카프스킨 버킷백 스몰 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Triomphe Canvas & Calfskin Bucket Bag Small White"
+        ],
+        "trade_count": 13,
+        "avg_price": 1166000
+      },
+      "셀린느 트리옹프 캔버스 & 램스킨 체인 클러치 화이트 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Triomphe Canvas & Lambskin Chain Clutch White Tan"
+        ],
+        "trade_count": 13,
+        "avg_price": 805000
+      },
+      "셀린느 트리옹프 샤이니 카프스킨 체인 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Triomphe Shiny Calfskin Chain Shoulder Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 1800000
+      },
+      "셀린느 클래식 파니에 팜 리프 & 카프스킨 백 미디엄 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Classic Panier Palm Leaf & Calfskin Bag Medium Tan"
+        ],
+        "trade_count": 13,
+        "avg_price": 583000
+      },
+      "셀린느 트라이앵글 CELINE 프린트 트리옹프 캔버스 백 미니 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Triangle CELINE Print Triomphe Canvas Bag Mini Tan"
+        ],
+        "trade_count": 13,
+        "avg_price": 510000
+      },
+      "셀린느 트라이앵글 CELINE 프린트 스무스 카프스킨 백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Triangle CELINE Print Smooth Calfskin Bag Small Black"
+        ],
+        "trade_count": 13,
+        "avg_price": 510000
+      },
+      "셀린느 코트": {
+        "category": "의류",
+        "synonyms": [
+          "Celine Coat"
+        ],
+        "trade_count": 13,
+        "avg_price": 682000
+      },
+      "셀린느 트리옹프 캔버스 & 램스킨 스몰 3단 중지갑 브라운": {
+        "category": "지갑",
+        "synonyms": [
+          "Celine Triomphe Canvas & Lambskin Small 3 fold Wallet Brown"
+        ],
+        "trade_count": 12,
+        "avg_price": 269000
+      },
+      "셀린느 트리옹프 샤이니 카프스킨 플랩 카드 지갑 브론즈": {
+        "category": "지갑",
+        "synonyms": [
+          "Celine Triomphe Shiny Calfskin Flap Card Wallet Bronze"
+        ],
+        "trade_count": 12,
+        "avg_price": 366000
+      },
+      "셀린느 소프트 그레인드 카프스킨 카바스 팬텀 토트백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Soft Grained Calfskin Cabas Phantom Tote Bag Small Black"
+        ],
+        "trade_count": 12,
+        "avg_price": 803000
+      },
+      "셀린느 트리옹프 캔버스 & 카프스킨 체인 숄더백 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Triomphe Canvas & Calfskin Chain Shoulder Bag Tan"
+        ],
+        "trade_count": 12,
+        "avg_price": 2775000
+      },
+      "셀린느 유니온 워시 데님 팬츠": {
+        "category": "의류",
+        "synonyms": [
+          "Celine Union Wash Denim Pants"
+        ],
+        "trade_count": 12,
+        "avg_price": 515000
+      },
+      "셀린느 트리옹프 컴팩트 카프스킨 중지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Celine Triomphe Compact Calfskin Wallet Black"
+        ],
+        "trade_count": 11,
+        "avg_price": 528000
+      },
+      "셀린느 틸리 트리옹프 캔버스 & 카프스킨 백 미디엄 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Tilly Triomphe Canvas & Calfskin Bag Medium Tan"
+        ],
+        "trade_count": 11,
+        "avg_price": 1500000
+      },
+      "셀린느 소프트 그레인드 카프스킨 상글 버킷백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Soft Grained Calfskin Sangle Bucket Bag Medium Black"
+        ],
+        "trade_count": 11,
+        "avg_price": 966000
+      },
+      "셀린느 오발 트리옹프 스무스 카프스킨 가죽 크로스바디 퍼스 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Oval TriompheSmooth Calfskin Leather Crossbody Purse Black"
+        ],
+        "trade_count": 11,
+        "avg_price": 1250000
+      },
+      "셀린느 봄버 자켓": {
+        "category": "의류",
+        "synonyms": [
+          "Celine Bomber Jacket"
+        ],
+        "trade_count": 11,
+        "avg_price": 719000
+      },
+      "셀린느 테일러드 자켓": {
+        "category": "의류",
+        "synonyms": [
+          "Celine Tailored Jacket"
+        ],
+        "trade_count": 11,
+        "avg_price": 963000
+      },
+      "셀린느 그레인드 카프스킨 벨트백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Grained Calfskin Belt Bag Mini Black"
+        ],
+        "trade_count": 10,
+        "avg_price": 770000
+      },
+      "셀린느 다운 자켓": {
+        "category": "의류",
+        "synonyms": [
+          "Celine Puffer Jacket"
+        ],
+        "trade_count": 10,
+        "avg_price": 1300000
+      },
+      "셀린느 트리옹프 캔버스 스몰 스트랩 램 스킨 & 카프 스킨 중지갑 브라운": {
+        "category": "지갑",
+        "synonyms": [
+          "Celine Triomphe Canvas Small Strap Lambskin & Calfskin Wallet Brown"
+        ],
+        "trade_count": 9,
+        "avg_price": 535000
+      },
+      "셀린느 프린트 트리옹프 캔버스 램스킨 카드홀더 화이트 & 탠": {
+        "category": "지갑",
+        "synonyms": [
+          "Celine Print Triomphe Canvas Lambskin Card Holder White & Tan"
+        ],
+        "trade_count": 9,
+        "avg_price": 137000
+      },
+      "셀린느 트리옹프 캔버스 카프스킨 플랩 중지갑 스몰 화이트 & 탠": {
+        "category": "지갑",
+        "synonyms": [
+          "Celine Triomphe Canvas Calfskin Flap Wallet Small White & Tan"
+        ],
+        "trade_count": 9,
+        "avg_price": 450000
+      },
+      "셀린느 그레인드 카프스킨 벨트백 마이크로 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Grained Calfskin Belt Bag Micro Grey"
+        ],
+        "trade_count": 9,
+        "avg_price": 1433000
+      },
+      "셀린느 그레인드 카프스킨 컴팩트 트로터백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Grained Calfskin Compact Trotter Bag Small Black"
+        ],
+        "trade_count": 9,
+        "avg_price": 517000
+      },
+      "셀린느 트리옹프 샤이니 카프스킨 플랩 카드 지갑 페일 블루": {
+        "category": "지갑",
+        "synonyms": [
+          "Celine Triomphe Shiny Calfskin Flap Card Wallet Pale Blue"
+        ],
+        "trade_count": 7,
+        "avg_price": 413000
+      },
+      "셀린느 러기지 드럼 카프스킨 백 마이크로 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Luggage Drummed Calfskin Bag Micro Black"
+        ],
+        "trade_count": 7,
+        "avg_price": 850000
+      },
+      "셀린느 스웨트셔츠": {
+        "category": "의류",
+        "synonyms": [
+          "Celine Sweatshirt"
+        ],
+        "trade_count": 7,
+        "avg_price": 425000
+      },
+      "셀린느 CELINE 프린트 트리옹프 캔버스 램 스킨 지퍼 카드 지갑 탠": {
+        "category": "지갑",
+        "synonyms": [
+          "Celine CELINE Printed Triomphe Canvas Lambskin Zipped Card Holder Tan"
+        ],
+        "trade_count": 6,
+        "avg_price": 155000
+      },
+      "셀린느 트리옹프 애시메트릭 브레이슬릿 골드": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Celine Triomphe Asymmetric Bracelet Gold"
+        ],
+        "trade_count": 6,
+        "avg_price": 360000
+      },
+      "셀린느 폴코 트리옹프 스무스 카프스킨 가죽 백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Folco Cuir Triomphe Smooth Calfskin Bag Black"
+        ],
+        "trade_count": 6,
+        "avg_price": 1160000
+      },
+      "셀린느 퀴르 트리옹프 스무스 카프스킨 드로우스트링 카바스 스몰 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Cuir Triomphe Smooth Calfskin Drawstring Cabas Small Tan"
+        ],
+        "trade_count": 6,
+        "avg_price": 2566000
+      },
+      "셀린느 트리옹프 캔버스 & 카프스킨 버티컬 카바스 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Triomphe Canvas & Calfskin Vertical Cabas Large Black"
+        ],
+        "trade_count": 6
+      },
+      "셀린느 클래식 트리옹프 트리옹프 캔버스 & 카프스킨 백 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Classic Triomphe Triomphe Canvas & Calfskin Bag Tan"
+        ],
+        "trade_count": 6,
+        "avg_price": 2250000
+      },
+      "셀린느 트리옹프 캔버스 & 셀린느 프린트 버티컬 카바스 미니 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Triomphe Canvas & Celine Print Vertical Cabas Mini White"
+        ],
+        "trade_count": 6,
+        "avg_price": 955000
+      },
+      "셀린느 그레인드 카프스킨 벨트백 미니 라이트 토프": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Grained Calfskin Belt Bag Mini Light Taupe"
+        ],
+        "trade_count": 6,
+        "avg_price": 1100000
+      },
+      "셀린느 러기지 베이비 드럼 카프스킨 백 나노 콜": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Luggage Baby Drummed Calfskin Bag Nano Kohl"
+        ],
+        "trade_count": 6,
+        "avg_price": 850000
+      },
+      "셀린느 오발 트리옹프 텍스타일 & 카프스킨 가죽 백 내츄럴 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Oval Triomphe Textile & Calfskin Leather Bag Natural Tan"
+        ],
+        "trade_count": 6,
+        "avg_price": 975000
+      },
+      "셀린느 폴로 셔츠": {
+        "category": "의류",
+        "synonyms": [
+          "Celine Polo Shirt"
+        ],
+        "trade_count": 6,
+        "avg_price": 105000
+      },
+      "셀린느 라운드 자켓": {
+        "category": "의류",
+        "synonyms": [
+          "Celine Rounded Jacket"
+        ],
+        "trade_count": 6,
+        "avg_price": 533000
+      },
+      "셀린느 트리옹프 캔버스 & 카프스킨 월렛 온 스트랩 스몰 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Strap Triomphe Canvas & Calfskin Wallet On Strap Small Tan"
+        ],
+        "trade_count": 5,
+        "avg_price": 908000
+      },
+      "셀린느 트리옹프 카프스킨 카드 지갑 탠": {
+        "category": "지갑",
+        "synonyms": [
+          "Celine Triomphe Calfskin Card Holder Tan"
+        ],
+        "trade_count": 5,
+        "avg_price": 285000
+      },
+      "셀린느 퀴르 트리옹프 램 스킨 & 카프스킨 지퍼 카드 지갑 탠": {
+        "category": "지갑",
+        "synonyms": [
+          "Celine Cuir Triomphe Lambskin & Calfskin Zipper Cardholder Tan"
+        ],
+        "trade_count": 5,
+        "avg_price": 208000
+      },
+      "셀린느 퀴르 트리옹프 샤이니 카프스킨 카드홀더 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Celine Cuir Triomphe Lambskin & Calfskin Card Holder Black"
+        ],
+        "trade_count": 5,
+        "avg_price": 232000
+      },
+      "셀린느 폴코 퀴르 트리옹프 스무스 카프스킨 백 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Folco Cuir Triomphe Smooth Calfskin Bag Tan"
+        ],
+        "trade_count": 5,
+        "avg_price": 1316000
+      },
+      "셀린느 러기지 스웨이드 카프스킨 백 미니 수리": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Luggage Suede Calfskin Bag Mini Souris"
+        ],
+        "trade_count": 5,
+        "avg_price": 885000
+      },
+      "셀린느 트라이앵글 CELINE 프린트 스무스 카프스킨 백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Triangle CELINE Print Smooth Calfskin Bag Mini Black"
+        ],
+        "trade_count": 5,
+        "avg_price": 560000
+      },
+      "셀린느 드레스": {
+        "category": "의류",
+        "synonyms": [
+          "Celine Dress"
+        ],
+        "trade_count": 5,
+        "avg_price": 50000
+      },
+      "셀린느 스커트": {
+        "category": "의류",
+        "synonyms": [
+          "Celine Skirt"
+        ],
+        "trade_count": 5
+      },
+      "셀린느 트리옹프 캔버스 램 스킨 카프스킨 명함 지갑 탠": {
+        "category": "지갑",
+        "synonyms": [
+          "Celine Triomphe Canvas Lambskin Calfskin Business Card Wallet Tan"
+        ],
+        "trade_count": 4,
+        "avg_price": 275000
+      },
+      "셀린느 컴팩트 지퍼 카프스킨 중지갑 그레이": {
+        "category": "지갑",
+        "synonyms": [
+          "Celine Compact Zipper Calfskin Wallet Grey"
+        ],
+        "trade_count": 4,
+        "avg_price": 175000
+      },
+      "셀린느 퀴르 트리옹프 스무스 카프스킨 버킷백 스몰 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Cuir Triomphe Smooth Calfskin Bucket Bag Small Tan"
+        ],
+        "trade_count": 4,
+        "avg_price": 1385000
+      },
+      "셀린느 클래식 트리옹프 샤이니 카프스킨 백 미디엄 페블": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Classic Triomphe Shiny Calfskin Pebble Bag Medium"
+        ],
+        "trade_count": 4,
+        "avg_price": 4000000
+      },
+      "셀린느 클래식 카프스킨 박스백 틴 카멜": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Classic Calfskin Box Bag Teen Camel"
+        ],
+        "trade_count": 4,
+        "avg_price": 1385000
+      },
+      "셀린느 소프트 그레인드 카프스킨 상글 버킷백 미디엄 토프": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Soft Grained Calfskin Sangle Bucket Bag Medium Taupe"
+        ],
+        "trade_count": 4,
+        "avg_price": 1250000
+      },
+      "셀린느 그레인드 카프스킨 트로터백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Grained Calfskin Trotter Bag Medium Black"
+        ],
+        "trade_count": 4
+      },
+      "셀린느 트리오 스무드 램스킨 스몰 버건디": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Trio Smooth Lambskin Small Burgundy"
+        ],
+        "trade_count": 4,
+        "avg_price": 196000
+      },
+      "셀린느 트리옹프 캔버스 & 램스킨 플랩 휴대폰 파우치 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Triomphe Canvas & Lambskin Phone Pouch with Flap Black"
+        ],
+        "trade_count": 4,
+        "avg_price": 990000
+      },
+      "셀린느 CELINE 프린트 트리옹프 캔버스 스트랩 파우치 스몰 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine CELINE Print Triomphe Canvas Strap Pouch Small Tan"
+        ],
+        "trade_count": 4,
+        "avg_price": 550000
+      },
+      "셀린느 테일러드 팬츠": {
+        "category": "의류",
+        "synonyms": [
+          "Celine Tailored Pants"
+        ],
+        "trade_count": 4,
+        "avg_price": 250000
+      },
+      "셀린느 퀴르 트리옹프 베사체 카프스킨 숄더백 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Cuir Triomphe Vesace Calf Skin Shoulder Bag Tan"
+        ],
+        "trade_count": 3,
+        "avg_price": 1266000
+      },
+      "셀린느 트리옹프 캔버스 카프스킨 플랩 중지갑 스몰 내추럴 & 탠": {
+        "category": "지갑",
+        "synonyms": [
+          "Celine Triomphe Canvas Calfskin Flap Wallet Small Natural & Tan"
+        ],
+        "trade_count": 3
+      },
+      "셀린느 트라이폴드 카프스킨 중지갑 스몰 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Celine Tri fold Calfskin Wallet Small Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 356000
+      },
+      "셀린느 노트 후프 이어링 스몰 실버": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Celine Knot Hoop Earring Small Silver"
+        ],
+        "trade_count": 3,
+        "avg_price": 420000
+      },
+      "셀린느 노트 후프 이어링 스몰 골드": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Celine Knot Hoop Earring Small Gold"
+        ],
+        "trade_count": 3,
+        "avg_price": 383000
+      },
+      "셀린느 엘로이즈 트리옹프 캔버스 & 카프스킨 백 미디엄 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Eloise Triomphe Canvas & Calfskin Bag Medium Tan"
+        ],
+        "trade_count": 3,
+        "avg_price": 1920000
+      },
+      "셀린느 마고 트리옹프 캔버스 & 카프스킨 체인 지갑 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Margo Chain Triomphe Canvas & Calfskin Wallet Tan"
+        ],
+        "trade_count": 3,
+        "avg_price": 1600000
+      },
+      "셀린느 소프트 그레인드 카프스킨 카바스 팬텀 토트백 스몰 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Soft Grained Calfskin Cabas Phantom Tote Bag Small Grey"
+        ],
+        "trade_count": 3
+      },
+      "셀린느 트리옹프 샤이니 카프스킨 백 틴 페블": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Triomphe Shiny Calfskin Teen Bag Pebble"
+        ],
+        "trade_count": 3,
+        "avg_price": 2100000
+      },
+      "셀린느 클래식 카프스킨 박스백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Classic Calfskin Box Bag Small Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 875000
+      },
+      "셀린느 트리옹프 캔버스 & 셀린느 프린트 버티컬 카바스 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Triomphe Canvas & Celine Print Vertical Cabas Medium Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 1133000
+      },
+      "셀린느 아바 트리옹프 스무스 카프스킨 백 미디엄 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Ava Triomphe Smooth Calfskin Bag Medium Tan"
+        ],
+        "trade_count": 3,
+        "avg_price": 1986000
+      },
+      "셀린느 트리옹프 캔버스 아바 백 미니 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Triomphe Canvas Ava Bag Mini White"
+        ],
+        "trade_count": 3,
+        "avg_price": 750000
+      },
+      "셀린느 그레인드 카프스킨 벨트백 미니 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Grained Calfskin Belt Bag Mini Grey"
+        ],
+        "trade_count": 3
+      },
+      "셀린느 퀴르 트리옹프 스무스 카프스킨 보스턴 백 스몰 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Cuir Triomphe Smooth Calfskin Boston Bag Small Tan"
+        ],
+        "trade_count": 3,
+        "avg_price": 1600000
+      },
+      "셀린느 바이 카바스 버티컬 토트백 스몰 크림 & 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Cabas Vertical Tote Bag Small Cream & Black"
+        ],
+        "trade_count": 3
+      },
+      "셀린느 베사체 16 내츄럴 카프스킨 스몰 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Besace 16 Natural Calfskin Bag Small Tan"
+        ],
+        "trade_count": 3,
+        "avg_price": 435000
+      },
+      "셀린느 폴코 트리옹프 캔버스 & 카프스킨 백 미디엄 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Folco Triomphe Canvas & Calfskin Bag Medium White"
+        ],
+        "trade_count": 3
+      },
+      "셀린느 숏슬리브 셔츠": {
+        "category": "의류",
+        "synonyms": [
+          "Celine Short Sleeve Shirt"
+        ],
+        "trade_count": 3,
+        "avg_price": 350000
+      },
+      "셀린느 브레이디드 이펙트 트리옹프 벨트": {
+        "category": "패션 악세서리",
+        "synonyms": [
+          "Celine Braided Effect Triomphe Belt"
+        ],
+        "trade_count": 2,
+        "avg_price": 440000
+      },
+      "셀린느 트리오페 틴 룰루 숄더백 브라운": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Triomphe Teen Loulou Shoulder Bag Brown"
+        ],
+        "trade_count": 2,
+        "avg_price": 1800000
+      },
+      "셀린느 트리옹프 캔버스 & 트리옹프 자수 아바 백 미니 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Triomphe Canvas & Triomphe Embroided Ava Bag Mini Tan"
+        ],
+        "trade_count": 2,
+        "avg_price": 770000
+      },
+      "셀린느 마이옹 트리옹프 네클리스 골드톤 브래스": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Celine Maillon Triomphe Necklace in Gold Tone Brass"
+        ],
+        "trade_count": 2,
+        "avg_price": 307000
+      },
+      "셀린느 마카담 트리옹프 캔버스 & 카프스킨 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Macadam Triomphe Canvas & Calfskin Shoulder Bag Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 284000
+      },
+      "셀린느 트리옹프 캔버스 & 카프스킨 카메라백 스몰 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Triomphe Canvas & Calfskin Camera Bag Small Tan"
+        ],
+        "trade_count": 2,
+        "avg_price": 445000
+      },
+      "셀린느 퀴르 트리옹프 샤이니 카프스킨 지퍼 카드 지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Celine Cuir Triomphe Shiny Calfskin Zipper Cardholder Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 150000
+      },
+      "셀린느 아코디언 카프스킨 카드 지갑 슬레이트 블루": {
+        "category": "지갑",
+        "synonyms": [
+          "Celine Accordion Calfskin Cardholder Slate Blue"
+        ],
+        "trade_count": 2
+      },
+      "셀린느 아코디언 카프스킨 카드 지갑 그레이 아이보리": {
+        "category": "지갑",
+        "synonyms": [
+          "Celine Accordion Calfskin Cardholder Grey Ivory"
+        ],
+        "trade_count": 2,
+        "avg_price": 120000
+      },
+      "셀린느 트리옹프 샤이니 카프스킨 플랩 카드 지갑 라벤더": {
+        "category": "지갑",
+        "synonyms": [
+          "Celine Triomphe Shiny Calfskin Flap Card Wallet Lavender"
+        ],
+        "trade_count": 2,
+        "avg_price": 430000
+      },
+      "셀린느 트라이폴드 카프스킨 중지갑 스몰 그레이": {
+        "category": "지갑",
+        "synonyms": [
+          "Celine Tri fold Calfskin Wallet Small Grey"
+        ],
+        "trade_count": 2,
+        "avg_price": 150000
+      },
+      "셀린느 클로드 내추럴 카프스킨 숄더백 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Claude Natural Calfskin Shoulder Bag Tan"
+        ],
+        "trade_count": 2
+      },
+      "셀린느 클래식 카프스킨 박스백 미디엄 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Classic Calfskin Box Bag Medium Red"
+        ],
+        "trade_count": 2,
+        "avg_price": 1010000
+      },
+      "셀린느 텍스타일 셀린느 올오버 & 카프스킨 버티컬 카바스 스몰 화이트 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Textile Celine All over & Calfskin Vertical Cabas Small White Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 1530000
+      },
+      "셀린느 아바 스무스 카프스킨 스트랩 백 미디엄 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Ava Smooth Calfskin Strap Bag Medium Tan"
+        ],
+        "trade_count": 2,
+        "avg_price": 1500000
+      },
+      "셀린느 트리옹프 캔버스 빅 버킷백 나노 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Triomphe Canvas Big Bucket Bag Nano White"
+        ],
+        "trade_count": 2,
+        "avg_price": 615000
+      },
+      "셀린느 쇼츠": {
+        "category": "의류",
+        "synonyms": [
+          "Celine Shorts"
+        ],
+        "trade_count": 2
+      },
+      "셀린느 마카담 캔버스 돔 사첼백 브라운": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Macadam Canvas Dome Satchel Bag Brown"
+        ],
+        "trade_count": 1,
+        "avg_price": 150000
+      },
+      "셀린느 16 새틴 카프스킨 미니 라이트 라일락": {
+        "category": "가방",
+        "synonyms": [
+          "Celine 16 Satin Calfskin Mini Light Lilac"
+        ],
+        "trade_count": 1,
+        "avg_price": 1460000
+      },
+      "셀린느 퀴르 트리옹프 스무스 카프스킨 버킷백 스몰 아마존": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Cuir Triomphe Smooth Calfskin Bucket Bag Small Amazon"
+        ],
+        "trade_count": 1,
+        "avg_price": 1100000
+      },
+      "셀린느 트로터 그레인드 카프스킨 숄더백 스몰 포피": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Trotteur Grained Calfskin Shoulder Bag Small Poppy"
+        ],
+        "trade_count": 1,
+        "avg_price": 250000
+      },
+      "셀린느 트리옹프 캔버스 파우치 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Triomphe Canvas Pouch Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 225000
+      },
+      "셀린느 트리옹프 샤이니 카프스킨 레더 카드홀더 라이트 스톤": {
+        "category": "지갑",
+        "synonyms": [
+          "Celine Triomphe Shiny Calfskin Leather Card Holder Light Stone"
+        ],
+        "trade_count": 1,
+        "avg_price": 220000
+      },
+      "셀린느 파이톤 트라페즈 토트백 오렌지": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Python Trapeze Tote Bag Orange"
+        ],
+        "trade_count": 1,
+        "avg_price": 300000
+      },
+      "셀린느 메일론 트리오페 카프스킨 숄더백 미디엄 크림": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Maillon Triomphe Calfskin Shoulder Bag Medium Cream"
+        ],
+        "trade_count": 1,
+        "avg_price": 1090000
+      },
+      "셀린느 트리옹프 캔버스 빅 버킷백 브라운": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Triomphe Canvas Large Bucket Bag Brown"
+        ],
+        "trade_count": 1,
+        "avg_price": 700000
+      },
+      "셀린느 마카담 레더 백팩 브라운": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Macadam Leather Backpack Brown"
+        ],
+        "trade_count": 1,
+        "avg_price": 200000
+      },
+      "셀린느 트리옹프 캔버스 & 카프스킨 버티컬 트래블 백 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Triomphe Canvas & Calfskin Vertical Travel Bag Tan"
+        ],
+        "trade_count": 1,
+        "avg_price": 980000
+      },
+      "셀린느 러기지 카프스킨 백 미니 앤트러사이트": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Luggage Calfskin Bag Mini Anthraclte"
+        ],
+        "trade_count": 1,
+        "avg_price": 500000
+      },
+      "셀린느 트리옹프 카바스 드로우스트링 캔버스 숄더백 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Triomphe Cabas Drawstring Canvas Shoulder Bag Tan"
+        ],
+        "trade_count": 1,
+        "avg_price": 1075000
+      },
+      "셀린느 빅백 스무스 카프스킨 롱 스트랩 스몰 옐로우": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Big Bag Smooth Calfskin Long Strap Small Yellow"
+        ],
+        "trade_count": 1,
+        "avg_price": 450000
+      },
+      "셀린느 소프트 16 스무스 카프스킨 백 라지 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Soft 16 Smooth Calfskin Bag Large Tan"
+        ],
+        "trade_count": 1,
+        "avg_price": 1000000
+      },
+      "셀린느 빅투아르 카프스킨 숄더백 미디엄 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Victoire Calfskin Shoulder Bag Medium Beige"
+        ],
+        "trade_count": 1,
+        "avg_price": 1850000
+      },
+      "셀린느 트리옹프 아티큘레이티드 브레이슬릿 골드 브라스": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Celine Triomphe Articulated Bracelet Gold Finish Brass"
+        ],
+        "trade_count": 1,
+        "avg_price": 275000
+      },
+      "셀린느 트리옹프 카프스킨 카메라 숄더백 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Triomphe Calfskin Camera Shoulder Bag Tan"
+        ],
+        "trade_count": 1,
+        "avg_price": 1360000
+      },
+      "셀린느 트리옹프 캔버스 셀린느 프린트 호리존탈 파우치 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Horizontal Pouch in Triomphe Canvas with Celine Print Tan"
+        ],
+        "trade_count": 1,
+        "avg_price": 790000
+      },
+      "셀린느 트라이앵글 CELINE 프린트 트리옹프 캔버스 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Triangle CELINE Print Triomphe Canvas White"
+        ],
+        "trade_count": 1,
+        "avg_price": 720000
+      },
+      "셀린느 트리옹프 엠보스드 스웨이드 카프스킨 보스턴 백 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Triomphe Embossed Suede Calfskin Boston Bag Large Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 2100000
+      },
+      "셀린느 클로드 샤이니 카프스킨 백 미니 블루 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Claude Shiny Calfskin Bag Mini Blue Grey"
+        ],
+        "trade_count": 1,
+        "avg_price": 713000
+      },
+      "셀린느 카프스킨 트리오백 라이트 토프": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Calfskin Trio Bag Light Taupe"
+        ],
+        "trade_count": 1,
+        "avg_price": 200000
+      },
+      "셀린느 마이용 트리옹프 카프스킨 체인백 미디움 브라운": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Maillon Triomphe Chain Bag Medium Brown Calfskin"
+        ],
+        "trade_count": 1,
+        "avg_price": 810000
+      },
+      "셀린느 트리옹프 캔버스 폴코 메신저백 스몰 탄": {
+        "category": "가방",
+        "synonyms": [
+          "CELINE Triomphe Canvas FolcoMessenger Bag Small Tan"
+        ],
+        "trade_count": 1,
+        "avg_price": 1630000
+      },
+      "셀린느 헤리티지 네크리스 실버 메탈 오닉스": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Celine Heritage Necklace Silve Metal Onyx"
+        ],
+        "trade_count": 1,
+        "avg_price": 550000
+      },
+      "셀린느 트리옹프 멀티 링 브라스": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Celine Triomphe Multi Ring Brass"
+        ],
+        "trade_count": 1,
+        "avg_price": 200000
+      },
+      "셀린느 유니버시티 네크리스 실버 메탈 & 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Celine University Necklace Silver Metal & Enamel"
+        ],
+        "trade_count": 1,
+        "avg_price": 300000
+      },
+      "셀린느 클로드 샤이니 카프스킨 백 미니 선라이트": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Claude Shiny Calfskin Bag Mini Sun Light"
+        ],
+        "trade_count": 1,
+        "avg_price": 750000
+      },
+      "셀린느 소프트 16 스무스 카프스킨 백 미디엄 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Soft 16 Smooth Calfskin Bag Medium Tan"
+        ],
+        "trade_count": 1,
+        "avg_price": 1600000
+      },
+      "셀린느 버티컬 카프스킨 & 패브릭 카바스 백 스몰 내츄럴 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Small Vertical Cabas in Canvas & Calfskin Natural / Tan"
+        ],
+        "trade_count": 1,
+        "avg_price": 560000
+      },
+      "셀린느 트리옹프 골드 피니시 브라스 브레이슬릿": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Celine Triomphe Gold Finish Brass Bracelet"
+        ],
+        "trade_count": 1,
+        "avg_price": 250000
+      },
+      "셀린느 타이스 카바스 토트백 라지 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Thais Cabas Tote Bag Large Grey"
+        ],
+        "trade_count": 1,
+        "avg_price": 850000
+      },
+      "셀린느 호리존탈 카바스 텍스타일 & 카프스킨 토트백 그린 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Horizontal Cabas Textile & Calfskin Tote Bag Green Tan"
+        ],
+        "trade_count": 1,
+        "avg_price": 1050000
+      },
+      "셀린느 타부 스무스 카프스킨 숄더백 미디엄 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Tabou Smooth Calfskin Shoulder Bag Medium Tan"
+        ],
+        "trade_count": 1,
+        "avg_price": 1300000
+      },
+      "셀린느 빅투아르 카프스킨 숄더백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Victoire Calfskin Shoulder Bag Medium Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 1800000
+      },
+      "셀린느 트라이앵글 CELINE 프린트 스무스 카프스킨 백 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Triangle CELINE Print Smooth Calfskin Bag White"
+        ],
+        "trade_count": 1,
+        "avg_price": 400000
+      },
+      "셀린느 카바 스트라이프 로고 울 & 카프스킨 버킷백 스몰 화이트 그린": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Cabas Stripe Logo Wool & Calfskin Bucket Bag Small White Green"
+        ],
+        "trade_count": 1,
+        "avg_price": 840000
+      },
+      "셀린느 시미터리컬 카프스킨 크로스백 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Symmetrical Calfskin Crossbody Bag Red"
+        ],
+        "trade_count": 1,
+        "avg_price": 290000
+      },
+      "셀린느 트리옹프 캔버스 & 카프스킨 & 실버 메탈 트레블 백 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Triomphe Canvas & Calfskin & Silver Metal Travel Bag Large Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 1500000
+      },
+      "셀린느 클래식 카프스킨 박스백 스몰 카멜": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Classic Calfskin Box Bag Small Camel"
+        ],
+        "trade_count": 1,
+        "avg_price": 900000
+      },
+      "셀린느 마카담 MC96 트리옹프 캔버스 & 카프스킨 숄더백 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Macadam Triomphe Canvas & Calfskin Shoulder Bag Tan"
+        ],
+        "trade_count": 1,
+        "avg_price": 460000
+      },
+      "셀린느 마카담 트리옹프 캔버스 & 카프스킨 플랩 크로스백 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Macadam Triomphe Canvas & Calfskin Flap Crossbody Bag Beige"
+        ],
+        "trade_count": 1,
+        "avg_price": 210000
+      },
+      "셀린느 아바 스무스 카프스킨 백 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Ava Bag in Smooth Calfskin Tan"
+        ],
+        "trade_count": 1,
+        "avg_price": 1100000
+      },
+      "셀린느 러기지 드럼 카프스킨 백 나노 버밀리온": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Luggage Drummed Calfskin Bag Nano Vermillion"
+        ],
+        "trade_count": 1,
+        "avg_price": 195000
+      },
+      "셀린느 아코디언 그레인드 카프스킨 카드 지갑 버건디": {
+        "category": "지갑",
+        "synonyms": [
+          "Celine Accordion Grained Calfskin Card Holder Burgundy"
+        ],
+        "trade_count": 1,
+        "avg_price": 200000
+      },
+      "셀린느 상글 그레인드 카프스킨 버킷 백 스몰 셀러단": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Sangle Grained Calfskin Bucket Bag Small Celadon"
+        ],
+        "trade_count": 1,
+        "avg_price": 650000
+      },
+      "셀린느 아바 백 스무스 카프스킨 플라밍고": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Ava Bag in Smooth Calfskin Flamingo"
+        ],
+        "trade_count": 1,
+        "avg_price": 550000
+      },
+      "셀린느 퀴르 트리옹프 샤이니 카프스킨 체인 월렛 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Cuir Triomphe in Shiny Calfskin Wallet on Chain Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 1300000
+      },
+      "셀린느 바이컬러 스트랩 카프스킨 미디엄 중지갑 레드 & 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Celine Bicolor Strap Calfskin Wallet Midium Red & Black"
+        ],
+        "trade_count": 1
+      },
+      "셀린느 트라이폴드 카프스킨 중지갑 스몰 누드": {
+        "category": "지갑",
+        "synonyms": [
+          "Celine Tri fold Calfskin Wallet Small Nude"
+        ],
+        "trade_count": 1,
+        "avg_price": 120000
+      },
+      "셀린느 노트 브레이슬릿 엑스트라 씬 골드": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Celine Knot Bracelet Extra Thin Gold"
+        ],
+        "trade_count": 1,
+        "avg_price": 130000
+      },
+      "셀린느 마린 트리옹프 캔버스 버킷백 베이지 & 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Marine Triomphe Canvas Bucket Bag Beige & Tan"
+        ],
+        "trade_count": 1,
+        "avg_price": 1120000
+      },
+      "셀린느 소프트 그레인드 카프스킨 카바스 팬텀 토트백 스몰 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Soft Grained Calfskin Cabas Phantom Tote Bag Small Blue"
+        ],
+        "trade_count": 1,
+        "avg_price": 190000
+      },
+      "셀린느 트리옹프 샤이니 카프스킨 백 미니 소프트 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Triomphe Shiny Calfskin Bag Mini Soft Blue"
+        ],
+        "trade_count": 1,
+        "avg_price": 850000
+      },
+      "셀린느 트리옹프 샤이니 카프스킨 백 미니 아몬드 그린": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Triomphe Shiny Calfskin Bag Mini Almond Green"
+        ],
+        "trade_count": 1,
+        "avg_price": 850000
+      },
+      "셀린느 러기지 베이비 드럼 카프스킨 백 마이크로 콜": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Luggage Baby Drummed Calfskin Bag Micro Kohl"
+        ],
+        "trade_count": 1
+      },
+      "셀린느 16 새틴 카프스킨 백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Celine 16 Satinated Calfskin Bag Small Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 2000000
+      },
+      "셀린느 폴코 트리옹프 캔버스 & 카프스킨 백팩 미디엄 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Folco Triomphe Canvas & Calfskin Backpack Medium Tan"
+        ],
+        "trade_count": 1,
+        "avg_price": 1600000
+      },
+      "셀린느 라지 웨스턴 벨트": {
+        "category": "패션 악세서리",
+        "synonyms": [
+          "Celine Large Western Belt"
+        ],
+        "trade_count": 1,
+        "avg_price": 380000
+      },
+      "셀린느 롱슬리브 티셔츠": {
+        "category": "의류",
+        "synonyms": [
+          "Celine Long Sleeve T-shirt"
+        ],
+        "trade_count": 1
+      },
+      "셀린느 프린트 트리옹프 캔버스 카드홀더 그레지": {
+        "category": "지갑",
+        "synonyms": [
+          "Celine Print Triomphe Canvas Card Holder Grege"
+        ],
+        "trade_count": 160000
+      },
+      "셀린느 그레인드 카프스킨 플랩 월렛 라지 페블": {
+        "category": "지갑",
+        "synonyms": [
+          "Celine Grained Calfskin Flap Wallet Large Pebble"
+        ],
+        "trade_count": 310000
+      },
+      "셀린느 마차 패턴 코팅 캔버스 토트백 그레이 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Sulky Monogram Coated Canvas Tote Bag Grey White"
+        ],
+        "trade_count": 140000
+      },
+      "셀린느 퀴르 트리옹프 스무스 카프스킨 박스 스몰 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Cuir Triomphe Smooth Calfskin Box Small Tan"
+        ],
+        "trade_count": 980000
+      },
+      "셀린느 트리옹프 캔버스 카프스킨 보스턴 백 미디엄 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Triomphe Canvas Calfskin Boston Bag Medium Tan"
+        ],
+        "trade_count": 1700000
+      },
+      "셀린느 로미 카프스킨 숄더백 미디엄 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Romy Calfskin Shoulder Bag Medium Tan"
+        ],
+        "trade_count": 1900000
+      },
+      "셀린느 틴 루루 그레인드 카프스킨 숄더백 딥 버건디": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Tenn Lulu Grained Calfskin Shoulder Bag Depp Burgundy"
+        ],
+        "trade_count": 1750000
+      },
+      "셀린느 트리옹프 샤이니 카프스킨 백 나노 페일 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Triomphe Shiny Calfskin Bag Nano Pale Pink"
+        ],
+        "trade_count": 2160000
+      },
+      "셀린느 카바스 그레인드 카프스킨 토트백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Cabas Grained Calfskin Tote Bag Small Black"
+        ],
+        "trade_count": 1200000
+      },
+      "셀린느 러기지 팬텀 카프스킨 토트백 스몰 네이비 그린": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Luggage Phantom Calfskin Small Navy Green"
+        ],
+        "trade_count": 800000
+      },
+      "셀린느 레더 숄더백 레드 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Leather Shoulder Bag Red Black"
+        ],
+        "trade_count": 150000
+      },
+      "셀린느 틴 니노 카프스킨 숄더백 블리치드 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Teen Nino Calfskin Shoulder Bag Bleached Pink"
+        ],
+        "trade_count": 0
+      },
+      "셀린느 클레아 베사체 샤이니 카프스킨 백 미니 카르민": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Clea Besace Shiny Calfskin Bag Mini Carmin"
+        ],
+        "trade_count": 0
+      },
+      "셀린느 트리플 도트 드롭 이어링 골드": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Celine Triple Dot Drop Earing Gold"
+        ],
+        "trade_count": 180000
+      },
+      "셀린느 아바 스무스 카프스킨 백 소프트 옐로우": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Ava Smooth Calfskin Bag Soft Yellow"
+        ],
+        "trade_count": 0
+      },
+      "셀린느 트리옹프 캔버스 숄더백 탠 & 멀티 컬러": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Triomphe Canvas Sholder Bag Tan & Multi Color"
+        ],
+        "trade_count": 0
+      },
+      "셀린느 클래식 카프스킨 박스백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Classic Calfskin Box Bag Mini Black"
+        ],
+        "trade_count": 1430000
+      },
+      "셀린느 배니티 트리옹프 캔버스 & 카프스킨 케이스 미니 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Vanity Triomphe Canvas & Calfskin Case Mini Tan"
+        ],
+        "trade_count": 0
+      },
+      "셀린느 마카담 트리옹프 캔버스 & 카프스킨 숄더백 코랄 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Macadam Triomphe Canvas & Calfskin Shoulder Bag Coral Pink"
+        ],
+        "trade_count": 0
+      },
+      "셀린느 빅백 스무스 카프스킨 롱 스트랩 스몰 아미 그린": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Small Big Bag With Long Strap in Smooth Calfskin"
+        ],
+        "trade_count": 700000
+      },
+      "셀린느 클러치 온 스트랩 카프스킨 클러치백 옐로우": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Clutch on Strap Calfskin Clutch Bag Yellow"
+        ],
+        "trade_count": 850000
+      },
+      "셀린느 러기지 카프스킨 토트백 마이크로 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Luggage Calfskin Tote Bag Micro Black"
+        ],
+        "trade_count": 880000
+      },
+      "셀린느 러기지 카프스킨 토트백 스몰 로얄 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Phantom Luggage Calfskin Tote Bag Small Royal Blue"
+        ],
+        "trade_count": 0
+      },
+      "셀린느 그레인드 카프스킨 벨트백 피코 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Grained Calfskin Belt Bag Pico Grey"
+        ],
+        "trade_count": 1240000
+      },
+      "셀린느 카바스 타이스 자카드 스트라이프 텍스타일 토트백 스몰 화이트 & 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Cabas Ties Jacquard Stripe Textile Tote Bag Small White & Black"
+        ],
+        "trade_count": 1350000
+      },
+      "셀린느 트리옹프 카프스킨 숄더백 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Triomphe Calfskin Shoulder Bag Tan"
+        ],
+        "trade_count": 0
+      },
+      "셀린느 탐부르 트리옹프 카프스킨 라운드 숄더백 미디엄 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Tambour Triomphe Calfskin Round Shoulder Bag Medium Tan"
+        ],
+        "trade_count": 1420000
+      },
+      "셀린느 땅부르 트리옹프 캔버스 & 카프스킨 미디엄 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Tambour Triomphe Canvas & Calfskin Medium White"
+        ],
+        "trade_count": 0
+      },
+      "셀린느 클레아 베사체 샤이니 카프스킨 백 틴 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Clea Besace Shiny Calfskin Bag Teen Black"
+        ],
+        "trade_count": 2450000
+      },
+      "셀린느 마카담 MC99 트리옹프 캔버스 & 카프스킨 숄더백 미디엄 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Macadam Triomphe Canvas & Calfskin Shoulder Bag Tan"
+        ],
+        "trade_count": 490000
+      },
+      "셀린느 마카담 트리옹프 캔버스 & 카프스킨 토트백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Macadam Triomphe Canvas & Calfskin Tote Bag Black"
+        ],
+        "trade_count": 240000
+      },
+      "셀린느 트라페제 탑핸들 스웨이드 카프스킨 토트백 트라이컬러": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Trapeze Top Handle Suede & Calfskin Tote Bag Tricolor"
+        ],
+        "trade_count": 660000
+      },
+      "셀린느 러기지 그레인드 카프스킨 토트백 미니 카멜": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Luggage Grained Calfskin Tote Bag Mini Camel"
+        ],
+        "trade_count": 400000
+      },
+      "셀린느 아바 시퀸 체인 백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Ava Sequins Chain Bag Mini Medium Black"
+        ],
+        "trade_count": 0
+      },
+      "셀린느 트위스티드 카바스 내츄럴 워시드 캔버스 스몰 화이트 옐로우": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Twisted Cabas In Natural Washed Canvas Small White Yellow"
+        ],
+        "trade_count": 550000
+      },
+      "셀린느 아코디언 카프스킨 카드 지갑 누드 & 시트론": {
+        "category": "지갑",
+        "synonyms": [
+          "Celine Accordeon Calfskin Card Holder Nude & Citron"
+        ],
+        "trade_count": 220000
+      },
+      "셀린느 트리옹프 자수 부클레 텍스타일 아바백 네이비 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Ava Bag in Embroidered Bouclette Textile with Triomphe Navy Tan"
+        ],
+        "trade_count": 0
+      },
+      "셀린느 클래식 박스 카프스킨 백 틴 아마존": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Teen Classic Bag in Box Calfskin Amazone"
+        ],
+        "trade_count": 1900000
+      },
+      "셀린느 클로드 트리옹프 캔버스 & 카프스킨 숄더백 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Claude Triomphe Canvas & Calfskin Shoulder Bag in White"
+        ],
+        "trade_count": 1600000
+      },
+      "셀린느 16 스무스 카프스킨 버킷백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Celine 16 Smooth Calf Skin Bucket Bag Black"
+        ],
+        "trade_count": 2800000
+      },
+      "셀린느 아코디언 카프스킨 카드 지갑 레드": {
+        "category": "지갑",
+        "synonyms": [
+          "Celine Accordion Calfskin Cardholder Red"
+        ],
+        "trade_count": 200000
+      },
+      "셀린느 바이컬러 스트랩 카프스킨 중지갑 미디엄 그레이 & 빈티지 핑크": {
+        "category": "지갑",
+        "synonyms": [
+          "Celine Bicolor Strap Calfskin Wallet Midium Grey & Vintage Pink"
+        ],
+        "trade_count": 280000
+      },
+      "셀린느 트리옹프 샤이니 카프스킨 플랩 중지갑 스몰 라이트 클레이": {
+        "category": "지갑",
+        "synonyms": [
+          "Celine Triomphe Shiny Calfskin Flap Wallet Small Light Clay"
+        ],
+        "trade_count": 0
+      },
+      "셀린느 트라이폴드 카프스킨 중지갑 스몰 버건디": {
+        "category": "지갑",
+        "synonyms": [
+          "Celine Tri fold Calfskin Wallet Small Burgundy"
+        ],
+        "trade_count": 180000
+      },
+      "셀린느 노트 브레이슬릿 엑스트라 씬 실버": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Celine Knot Bracelet Extra Thin Silver"
+        ],
+        "trade_count": 400000
+      },
+      "셀린느 클로드 체인 트리옹프 캔버스 숄더백 브라운": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Claude Chain Triomphe Canvas Shoulder Bag Tan"
+        ],
+        "trade_count": 1880000
+      },
+      "셀린느 트리옹프 샤이니 카프스킨 백 틴 라이트 옐로우": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Teen Triomphe Shiny Calfskin Bag Light Yellow"
+        ],
+        "trade_count": 2300000
+      },
+      "셀린느 소프트 그레인드 카프스킨 상글 버킷백 스몰 아마존 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Soft Grained Calfskin Sangle Bucket Bag Small Amazon Grey"
+        ],
+        "trade_count": 1240000
+      },
+      "셀린느 그레인드 카프스킨 벨트백 미니 루비": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Grained Calfskin Belt Bag Mini Ruby"
+        ],
+        "trade_count": 550000
+      },
+      "셀린느 그레인드 카프스킨 벨트백 마이크로 오렌지": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Grained Calfskin Belt Bag Micro Orange"
+        ],
+        "trade_count": 700000
+      },
+      "셀린느 러기지 드럼 카프스킨 백 나노 라이스": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Luggage Drummed Calfskin Bag Nano Rice"
+        ],
+        "trade_count": 2000000
+      },
+      "셀린느 트리옹프 캔버스 카프스킨 보스턴 백 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Celine Triomphe Canvas Calfskin Boston Bag Tan"
+        ],
+        "trade_count": 1320000
+      },
+      "셀린느 숏슬리브 스웨터": {
+        "category": "의류",
+        "synonyms": [
+          "Celine Short-Sleeved Sweater"
+        ],
+        "trade_count": 90000
+      }
+    }
+  }
+}

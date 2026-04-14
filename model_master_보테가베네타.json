@@ -1,0 +1,2356 @@
+{
+  "보테가베네타": {
+    "models": {
+      "보테가베네타 인트레치아토 카프스킨 폴더형 지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Calfskin Bi Fold Wallet Black"
+        ],
+        "trade_count": 310,
+        "avg_price": 324000
+      },
+      "보테가베네타 램스킨 카세트 신용카드 케이스 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Lambskin Cassette Credit Card Case Black"
+        ],
+        "trade_count": 289,
+        "avg_price": 206000
+      },
+      "보테가베네타 카프스킨 카세트 플랩 카드 케이스 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Calfskin Cassette Flap Card Case Black"
+        ],
+        "trade_count": 188,
+        "avg_price": 326000
+      },
+      "보테가베네타 카세트 램스킨 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Lambskin Black"
+        ],
+        "trade_count": 177,
+        "avg_price": 1262000
+      },
+      "보테가베네타 램스킨 카세트 신용카드 케이스 패러킷": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Lambskin Cassette Credit Card Case Parakeet"
+        ],
+        "trade_count": 135,
+        "avg_price": 210000
+      },
+      "보테가베네타 카프스킨 카세트 폴더형 지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Calfskin Cassette Bi Fold Wallet Black"
+        ],
+        "trade_count": 125,
+        "avg_price": 332000
+      },
+      "보테가베네타 카프스킨 카세트 플랩 카드 케이스 패러킷": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Calfskin Cassette Flap Card Case Parakeet"
+        ],
+        "trade_count": 106,
+        "avg_price": 277000
+      },
+      "보테가베네타 인트레치아토 카프스킨 신용카드 케이스 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Calfskin Credit Card Case Black"
+        ],
+        "trade_count": 93,
+        "avg_price": 189000
+      },
+      "보테가베네타 인트레치아토 카프스킨 클러치 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Calfskin Clutch Medium Black"
+        ],
+        "trade_count": 92,
+        "avg_price": 275000
+      },
+      "보테가베네타 카세트 카프스킨 버킷백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Calfskin Bucket Bag Small Black"
+        ],
+        "trade_count": 71,
+        "avg_price": 811000
+      },
+      "보테가베네타 카세트 카프스킨 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Calfskin Mini Black"
+        ],
+        "trade_count": 69,
+        "avg_price": 559000
+      },
+      "보테가베네타 카세트 램스킨 벨트 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Lambskin Belt Mini Black"
+        ],
+        "trade_count": 60,
+        "avg_price": 778000
+      },
+      "보테가베네타 가죽 카세트 명함 케이스 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Leather Cassette Business Card Case Black"
+        ],
+        "trade_count": 59,
+        "avg_price": 226000
+      },
+      "보테가베네타 조디 가죽 클러치 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Jodie Leather Clutch Mini Black"
+        ],
+        "trade_count": 59,
+        "avg_price": 1945000
+      },
+      "보테가베네타 카프스킨 인트레치아토 플랩 카드 케이스 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Calfskin Flap Card Case Black"
+        ],
+        "trade_count": 54,
+        "avg_price": 261000
+      },
+      "보테가베네타 카세트 패디드 카프스킨 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Padded Calfskin Black"
+        ],
+        "trade_count": 54,
+        "avg_price": 1172000
+      },
+      "보테가베네타 인트레치아토 카프스킨 스트랩 클러치 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Calfskin Strap Clutch Black"
+        ],
+        "trade_count": 51,
+        "avg_price": 346000
+      },
+      "보테가베네타 인트레치아토 카프스킨 도큐먼트 케이스 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Calfskin Document Case Black"
+        ],
+        "trade_count": 51,
+        "avg_price": 325000
+      },
+      "보테가베네타 카세트 카프스킨 미니 패러킷": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Calfskin Mini Parakeet"
+        ],
+        "trade_count": 48,
+        "avg_price": 379000
+      },
+      "보테가베네타 인트레치아토 벨트": {
+        "category": "패션 악세서리",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Double Buckle Belt"
+        ],
+        "trade_count": 40,
+        "avg_price": 222000
+      },
+      "보테가베네타 조디 가죽 클러치 미니 아몬드": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Jodie Leather Clutch Mini Almond"
+        ],
+        "trade_count": 36,
+        "avg_price": 1210000
+      },
+      "보테가베네타 카세트 카프스킨 버킷백 스몰 포리지": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Calfskin Bucket Bag Small Porridge"
+        ],
+        "trade_count": 33,
+        "avg_price": 686000
+      },
+      "보테가베네타 트라이앵글 벨트": {
+        "category": "패션 악세서리",
+        "synonyms": [
+          "Bottega Veneta Triangle Belt"
+        ],
+        "trade_count": 33,
+        "avg_price": 267000
+      },
+      "보테가베네타 카프스킨 컨티넨탈 장지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Calfskin Continental Long Wallet Black"
+        ],
+        "trade_count": 30,
+        "avg_price": 170000
+      },
+      "보테가베네타 인트레치아토 카프스킨 클립형 지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Calfskin Bill Clip Wallet Black"
+        ],
+        "trade_count": 30
+      },
+      "보테가베네타 카세트 카프스킨 버킷백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Calfskin Bucket Bag Mini Black"
+        ],
+        "trade_count": 30,
+        "avg_price": 622000
+      },
+      "보테가베네타 가죽 카세트 명함 케이스 패러킷": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Leather Cassette Business Card Case Parakeet"
+        ],
+        "trade_count": 29,
+        "avg_price": 248000
+      },
+      "보테가베네타 카세트 램스킨 패러킷": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Lambskin Parakeet"
+        ],
+        "trade_count": 28,
+        "avg_price": 883000
+      },
+      "보테가베네타 카세트 패디드 테크 나일론 패러킷": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Padded Tech Nylon Parakeet"
+        ],
+        "trade_count": 26,
+        "avg_price": 650000
+      },
+      "보테가베네타 카프스킨 장지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Calfskin Long Wallet Black"
+        ],
+        "trade_count": 25,
+        "avg_price": 293000
+      },
+      "보테가베네타 인트레치아토 슬림 폴더형 지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Calfskin Slim Bi Fold Wallet Black"
+        ],
+        "trade_count": 23,
+        "avg_price": 200000
+      },
+      "보테가베네타 카프스킨 카세트 폴더형 지갑 패러킷": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Calfskin Cassette Bi Fold Wallet Parakeet"
+        ],
+        "trade_count": 22,
+        "avg_price": 337000
+      },
+      "보테가베네타 인트레치아토 카프스킨 지퍼 어라운드 지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Calfskin Zip Around Wallet Black"
+        ],
+        "trade_count": 22,
+        "avg_price": 320000
+      },
+      "보테가베네타 카세트 램스킨 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Lambskin White"
+        ],
+        "trade_count": 22,
+        "avg_price": 510000
+      },
+      "보테가베네타 카세트 패디드 테크 나일론 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Padded Tech Nylon Small Black"
+        ],
+        "trade_count": 21,
+        "avg_price": 980000
+      },
+      "보테가베네타 블루종 자켓": {
+        "category": "의류",
+        "synonyms": [
+          "Bottega Veneta Blouson Jacket"
+        ],
+        "trade_count": 21,
+        "avg_price": 1248000
+      },
+      "보테가베네타 아르코 카프스킨 토트백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Arco Calfskin Tote Bag Mini Black"
+        ],
+        "trade_count": 20,
+        "avg_price": 1125000
+      },
+      "보테가베네타 조디 가죽 클러치 미니 초크": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Jodie Leather Clutch Mini Chalk"
+        ],
+        "trade_count": 19,
+        "avg_price": 1240000
+      },
+      "보테가베네타 스웨터": {
+        "category": "의류",
+        "synonyms": [
+          "Bottega Veneta Sweater"
+        ],
+        "trade_count": 19,
+        "avg_price": 350000
+      },
+      "보테가베네타 인트레치아토 카프스킨 폴더형 지갑 스페이스": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Calfskin Bi Fold Wallet Space"
+        ],
+        "trade_count": 17
+      },
+      "보테가베네타 인트레치아토 카프스킨 슬림 장지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Calfskin Slim Intrecciato Long Wallet"
+        ],
+        "trade_count": 16,
+        "avg_price": 350000
+      },
+      "보테가베네타 카세트 패디드 카프스킨 초크": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Padded Calfskin Chalk"
+        ],
+        "trade_count": 15,
+        "avg_price": 1430000
+      },
+      "보테가베네타 카세트 램스킨 벨트 미니 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Lambskin Belt Mini White"
+        ],
+        "trade_count": 14,
+        "avg_price": 700000
+      },
+      "보테가베네타 카세트 패디드 카프스킨 패러킷": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Padded Calfskin Parakeet"
+        ],
+        "trade_count": 14,
+        "avg_price": 980000
+      },
+      "보테가베네타 인트레치아토 카프스킨 도큐먼트 케이스 위드 리스트렛 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Calfskin Document Case with Wristlet Small Black"
+        ],
+        "trade_count": 14,
+        "avg_price": 746000
+      },
+      "보테가베네타 램스킨 카세트 신용카드 케이스 트레버틴": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Lambskin Cassette Credit Card Case Travertine"
+        ],
+        "trade_count": 13,
+        "avg_price": 120000
+      },
+      "보테가베네타 조디 가죽 클러치 미니 패러킷": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Jodie Leather Clutch Mini Parakeet"
+        ],
+        "trade_count": 13,
+        "avg_price": 800000
+      },
+      "보테가베네타 카세트 램스킨 스몰 레인트리": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Lambskin Small Raintree"
+        ],
+        "trade_count": 13,
+        "avg_price": 837000
+      },
+      "보테가베네타 카세트 패디드 테크 나일론 플래스터": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Padded Tech Nylon Plaster"
+        ],
+        "trade_count": 13,
+        "avg_price": 730000
+      },
+      "보테가베네타 인트레치아토 카프스킨 폴더형 지갑 미드나잇 블루": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Calfskin Bi Fold Wallet Midnight Blue"
+        ],
+        "trade_count": 12,
+        "avg_price": 146000
+      },
+      "보테가베네타 카세트 카프스킨 미니 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Calfskin Mini White"
+        ],
+        "trade_count": 12,
+        "avg_price": 250000
+      },
+      "보테가베네타 셔츠": {
+        "category": "의류",
+        "synonyms": [
+          "Bottega Veneta Shirt"
+        ],
+        "trade_count": 12,
+        "avg_price": 630000
+      },
+      "보테가베네타 테일러드 팬츠": {
+        "category": "의류",
+        "synonyms": [
+          "Bottega Veneta Tailored Pants"
+        ],
+        "trade_count": 12,
+        "avg_price": 345000
+      },
+      "보테가베네타 카세트 패디드 테크 나일론 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Padded Tech Nylon Black"
+        ],
+        "trade_count": 11,
+        "avg_price": 825000
+      },
+      "보테가베네타 아르코 카프스킨 토트백 미니 토프": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Arco Calfskin Tote Bag Mini Toff"
+        ],
+        "trade_count": 11,
+        "avg_price": 1187000
+      },
+      "보테가베네타 가죽 파우치 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Leather Pouch Mini Black"
+        ],
+        "trade_count": 11,
+        "avg_price": 1136000
+      },
+      "보테가베네타 테일러드 자켓": {
+        "category": "의류",
+        "synonyms": [
+          "Bottega Veneta Tailored Jacket"
+        ],
+        "trade_count": 11,
+        "avg_price": 1207000
+      },
+      "보테가베네타 카프스킨 지퍼 카드 케이스 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Zipped Card Case Black"
+        ],
+        "trade_count": 10
+      },
+      "보테가베네타 인트레치아토 카프스킨 폴더형 지갑 패러킷": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Calfskin Bi Fold Wallet Parekeet"
+        ],
+        "trade_count": 10,
+        "avg_price": 550000
+      },
+      "보테가베네타 카세트 패디드 카프스킨 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Padded Calfskin Small Black"
+        ],
+        "trade_count": 10
+      },
+      "보테가베네타 램스킨 카세트 3단 폴더형 지퍼 지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Lambskin Cassette Tri Fold Zip Wallet Black"
+        ],
+        "trade_count": 9,
+        "avg_price": 100000
+      },
+      "보테가베네타 조디 가죽 클러치 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Jodie Leather Clutch Small Black"
+        ],
+        "trade_count": 9,
+        "avg_price": 3090000
+      },
+      "보테가베네타 인트레치아토 카프스킨 도큐먼트 케이스 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Calfskin Document Case Medium Black"
+        ],
+        "trade_count": 9,
+        "avg_price": 866000
+      },
+      "보테가베네타 코트": {
+        "category": "의류",
+        "synonyms": [
+          "Bottega Veneta Coat"
+        ],
+        "trade_count": 9,
+        "avg_price": 975000
+      },
+      "보테가베네타 보테가 베네타 레더 카세트백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Leather Cassette Bag Black"
+        ],
+        "trade_count": 8,
+        "avg_price": 1163000
+      },
+      "보테가베네타 가죽 카세트 명함 케이스 트레버틴": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Leather Cassette Business Card Case Travertine"
+        ],
+        "trade_count": 8,
+        "avg_price": 100000
+      },
+      "보테가베네타 카프스킨 카세트 3단 폴더형 지퍼 지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Calfskin Cassette Tri Fold Zip Wallet Black"
+        ],
+        "trade_count": 8,
+        "avg_price": 449000
+      },
+      "보테가베네타 카세트 램스킨 캐러멜": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Lambskin Caramel"
+        ],
+        "trade_count": 8,
+        "avg_price": 900000
+      },
+      "보테가베네타 카세트 카프스킨 버킷백 미니 포리지": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Calfskin Bucket Bag Mini Porridge"
+        ],
+        "trade_count": 8,
+        "avg_price": 400000
+      },
+      "보테가베네타 데님 팬츠": {
+        "category": "의류",
+        "synonyms": [
+          "Bottega Veneta Denim Pants"
+        ],
+        "trade_count": 8,
+        "avg_price": 200000
+      },
+      "보테가베네타 패디드 베스트": {
+        "category": "의류",
+        "synonyms": [
+          "Bottega Veneta Padded Vest"
+        ],
+        "trade_count": 8,
+        "avg_price": 765000
+      },
+      "보테가베네타 인트레치아토 카프스킨 명함 케이스 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Calfskin Intrecciato Business Card Case Black"
+        ],
+        "trade_count": 7,
+        "avg_price": 200000
+      },
+      "보테가베네타 카세트 카프스킨 미니 포리지": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Calfskin Mini Porridge"
+        ],
+        "trade_count": 7,
+        "avg_price": 297000
+      },
+      "보테가베네타 쇼츠": {
+        "category": "의류",
+        "synonyms": [
+          "Bottega Veneta Shorts"
+        ],
+        "trade_count": 7,
+        "avg_price": 220000
+      },
+      "보테가베네타 가디건": {
+        "category": "의류",
+        "synonyms": [
+          "Bottega Veneta Cardigan"
+        ],
+        "trade_count": 7,
+        "avg_price": 161000
+      },
+      "보테가베네타 안디아모 인트레치아토 램스킨 백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Andiamo Intrecciato Lambskin Bag Small Black"
+        ],
+        "trade_count": 6,
+        "avg_price": 4150000
+      },
+      "보테가베네타 인트레치아토 카프스킨 장지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Calfskin Long Wallet Black"
+        ],
+        "trade_count": 6,
+        "avg_price": 360000
+      },
+      "보테가베네타 카프스킨 인트레치아토 플랩 카드 케이스 패러킷": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Calfskin Flap Card Case Parakeet"
+        ],
+        "trade_count": 6,
+        "avg_price": 190000
+      },
+      "보테가베네타 클래식 카프스킨 백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Classic Calfskin BagMedium Black"
+        ],
+        "trade_count": 6,
+        "avg_price": 1120000
+      },
+      "보테가베네타 루프 카프스킨 카메라백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Loop Calfskin Camera Bag Mini Black"
+        ],
+        "trade_count": 6,
+        "avg_price": 1190000
+      },
+      "보테가베네타 카세트 카프스킨 버킷백 스몰 패러킷": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Calfskin Bucket Bag Small Parakeet"
+        ],
+        "trade_count": 6,
+        "avg_price": 650000
+      },
+      "보테가베네타 인트레치아토 카프스킨 도큐먼트 케이스 위드 리스트렛 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Calfskin Document Case with Wristlet Black"
+        ],
+        "trade_count": 6,
+        "avg_price": 960000
+      },
+      "보테가베네타 다운 자켓": {
+        "category": "의류",
+        "synonyms": [
+          "Bottega Veneta Down Jacket"
+        ],
+        "trade_count": 6,
+        "avg_price": 500000
+      },
+      "보테가베네타 보테가 베네타 카세트 비즈니스 램스킨 카드 케이스 블랙 패러킷": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Cassette Lambskin Business Card Case Black Parakeet"
+        ],
+        "trade_count": 5,
+        "avg_price": 216000
+      },
+      "보테가베네타 보테가 베네타 위빙 카세트 패브릭 크로스바디 백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Webbing Cassette Fabric Crossbody Bag Black"
+        ],
+        "trade_count": 5,
+        "avg_price": 875000
+      },
+      "보테가베네타 조디 가죽 클러치 미니 틸워시드": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Jodie Leather Clutch Mini Teal Washed"
+        ],
+        "trade_count": 5,
+        "avg_price": 1250000
+      },
+      "보테가베네타 파우치 틴 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Teen Pouch Black"
+        ],
+        "trade_count": 5,
+        "avg_price": 310000
+      },
+      "보테가베네타 카세트 램스킨 스몰 패러킷": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Lambskin Small Parakeet"
+        ],
+        "trade_count": 5,
+        "avg_price": 1062000
+      },
+      "보테가베네타 아르코 카프스킨 도큐먼트 케이스 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Arco Calfskin Document Case Black"
+        ],
+        "trade_count": 5,
+        "avg_price": 1260000
+      },
+      "보테가베네타 카고 트라우저": {
+        "category": "의류",
+        "synonyms": [
+          "Bottega Veneta Cargo Trouser"
+        ],
+        "trade_count": 5,
+        "avg_price": 370000
+      },
+      "보테가베네타 카세트 램스킨 크로스백 미니 그린": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Lambskin Crossbody Bag Mini Green"
+        ],
+        "trade_count": 4,
+        "avg_price": 360000
+      },
+      "보테가베네타 인트레치아토 카프스킨 명함 케이스 패러킷": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Calfskin Intrecciato Business Card Case Parakeet"
+        ],
+        "trade_count": 4,
+        "avg_price": 250000
+      },
+      "보테가베네타 카프스킨 지퍼 동전 지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Calfskin Zipped Card Case Black"
+        ],
+        "trade_count": 4
+      },
+      "보테가베네타 홉 카프스킨 백 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Hop Calfskin Bag Large Black"
+        ],
+        "trade_count": 4,
+        "avg_price": 4250000
+      },
+      "보테가베네타 인트레치아토 카프스킨 BV 트위스트 토트백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Calfskin BV Twist Tote Bag Medium Black"
+        ],
+        "trade_count": 4,
+        "avg_price": 1350000
+      },
+      "보테가베네타 조디 가죽 클러치 미니 아이스크림": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Jodie Leather Clutch Mini Ice Cream"
+        ],
+        "trade_count": 4,
+        "avg_price": 1030000
+      },
+      "보테가베네타 가죽 파우치 미니 초크": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Leather Pouch Mini Chalk"
+        ],
+        "trade_count": 4,
+        "avg_price": 450000
+      },
+      "보테가베네타 데님 자켓": {
+        "category": "의류",
+        "synonyms": [
+          "Bottega Veneta Denim Jacket"
+        ],
+        "trade_count": 4
+      },
+      "보테가베네타 폴로 셔츠": {
+        "category": "의류",
+        "synonyms": [
+          "Bottega Veneta Polo Shirt"
+        ],
+        "trade_count": 4,
+        "avg_price": 201000
+      },
+      "보테가베네타 티셔츠": {
+        "category": "의류",
+        "synonyms": [
+          "Bottega Veneta T-Shirt"
+        ],
+        "trade_count": 4
+      },
+      "보테가베네타 원피스": {
+        "category": "의류",
+        "synonyms": [
+          "Bottega Veneta Dress"
+        ],
+        "trade_count": 4
+      },
+      "보테가베네타 보테가 베네타 아르코 맥시 인트레치아토 카프스킨 토트백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta The Arco Maxi Intrecciato Calfskin Tote Bag Small Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 960000
+      },
+      "보테가베네타 조디백 레더 캔디 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Jodie Bag Leather Candy Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 1133000
+      },
+      "보테가베네타 램스킨 카세트 신용카드 케이스 그레이 알로에": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Lambskin Cassette Credit Card Case Grey Aloe"
+        ],
+        "trade_count": 3
+      },
+      "보테가베네타 인트레치아토 카프스킨 신용카드 케이스 패러킷": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Calfskin Credit Card Case Parakeet"
+        ],
+        "trade_count": 3
+      },
+      "보테가베네타 인트레치아토 카프스킨 코인 반지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Calfskin Bi Fold Wallet With Coin Purse Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 172000
+      },
+      "보테가베네타 인트레치아토 카프스킨 지퍼 어라운드 지갑 트래버틴": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Calfskin Zip Around Wallet Travertine"
+        ],
+        "trade_count": 3
+      },
+      "보테가베네타 인트레치아토 카프스킨 플랩 지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Calfskin Flap Wallet Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 201000
+      },
+      "보테가베네타 조디 가죽 클러치 캔디 트래버틴": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Jodie Leather Candy Clutch Travertine"
+        ],
+        "trade_count": 3,
+        "avg_price": 800000
+      },
+      "보테가베네타 아르코 카프스킨 토트백 미니 카멜": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Arco Calfskin Tote Bag Mini Caramel"
+        ],
+        "trade_count": 3,
+        "avg_price": 1583000
+      },
+      "보테가베네타 아르코 가죽 탑핸들백 스몰 우드": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Arco Leather Top Handle Bag Small Wood"
+        ],
+        "trade_count": 3,
+        "avg_price": 750000
+      },
+      "보테가베네타 카세트 카프스킨 미니 에이콘": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Calfskin Mini Acorn"
+        ],
+        "trade_count": 3,
+        "avg_price": 480000
+      },
+      "보테가베네타 카세트 카프스킨 맥시 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Calfskin Maxi Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 1700000
+      },
+      "보테가베네타 카세트 램스킨 스몰 바롤로": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Lambskin Small Barolo"
+        ],
+        "trade_count": 3,
+        "avg_price": 680000
+      },
+      "보테가베네타 카세트 패디드 카프스킨 블래스터": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Padded Calfskin Blaster"
+        ],
+        "trade_count": 3,
+        "avg_price": 870000
+      },
+      "보테가베네타 카세트 카프스킨 버킷백 미니 패러킷": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Calfskin Bucket Bag Mini Parakeet"
+        ],
+        "trade_count": 3,
+        "avg_price": 580000
+      },
+      "보테가베네타 인트레치아토 카프스킨 스트랩 클러치 브라운": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Calfskin Strap Clutch Brown"
+        ],
+        "trade_count": 3,
+        "avg_price": 160000
+      },
+      "보테가베네타 코튼 트라우저": {
+        "category": "의류",
+        "synonyms": [
+          "Bottega Veneta Cotton Trouser"
+        ],
+        "trade_count": 3,
+        "avg_price": 700000
+      },
+      "보테가베네타 봄버 자켓": {
+        "category": "의류",
+        "synonyms": [
+          "Bottega Veneta Bomber Jacket"
+        ],
+        "trade_count": 3,
+        "avg_price": 1090000
+      },
+      "보테가베네타 보테가 베네타 인트레치아토 카프스킨 신용카드 케이스 그레이": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Calfskin Credit Card Case Grey"
+        ],
+        "trade_count": 2,
+        "avg_price": 145000
+      },
+      "보테가베네타 보테가 베네타 램스킨 파우치 클러치 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Lambskin Pouch Clutch Large Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 265000
+      },
+      "보테가베네타 아르코 러버 쇼핑백 미니 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Arco Rubber Shopping Bag Mini White"
+        ],
+        "trade_count": 2,
+        "avg_price": 367000
+      },
+      "보테가베네타 인트레치아토 카프스킨 지퍼 카드홀더 블랙 & 매더 브라운": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Calfskin Zipped Card Holder Black & Madder brown"
+        ],
+        "trade_count": 2,
+        "avg_price": 425000
+      },
+      "보테가베네타 카세트 카프스킨 버킷백 미니 위스테리아": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Calfskin Bucket Bag Mini Wisteria"
+        ],
+        "trade_count": 2,
+        "avg_price": 452000
+      },
+      "보테가베네타 램스킨 카세트 신용카드 케이스 화이트": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Lambskin Cassette Credit Card Case White"
+        ],
+        "trade_count": 2,
+        "avg_price": 150000
+      },
+      "보테가베네타 인트레치아토 카프스킨 타이니 3단 폴더형 지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Calfskin Tiny Tri Fold Wallet Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 290000
+      },
+      "보테가베네타 램스킨 카세트 3단 폴더형 지퍼 지갑 트레버틴": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Lambskin Cassette Tri Fold Zip Wallet Travertine"
+        ],
+        "trade_count": 2
+      },
+      "보테가베네타 인트레치아토 카프스킨 신용카드 케이스 그레이": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Calfskin Credit Card Case Grey"
+        ],
+        "trade_count": 2,
+        "avg_price": 160000
+      },
+      "보테가베네타 인트레치아토 카프스킨 플랩 지갑 다크그린": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Calfskin Flap Wallet Dark Green"
+        ],
+        "trade_count": 2,
+        "avg_price": 150000
+      },
+      "보테가베네타 홉 카프스킨 백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Hop Calfskin Bag Mini Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 1900000
+      },
+      "보테가베네타 안디아모 인트레치아토 램스킨 백 미디엄 폰덴테": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Andiamo Intrecciato Lambskin Bag Medium Fondant"
+        ],
+        "trade_count": 2,
+        "avg_price": 5670000
+      },
+      "보테가베네타 아르코 가죽 탑핸들백 미니 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Arco Leather Top Handle Bag Mini White"
+        ],
+        "trade_count": 2,
+        "avg_price": 788000
+      },
+      "보테가베네타 아르코 가죽 탑핸들백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Arco Leather Top Handle Bag Mini Black"
+        ],
+        "trade_count": 2
+      },
+      "보테가베네타 카세트 카프스킨 미니 크랜베리": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Calfskin Mini Cranberry"
+        ],
+        "trade_count": 2,
+        "avg_price": 315000
+      },
+      "보테가베네타 카세트 카프스킨 슬링백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Calfskin Slingback Mini Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 700000
+      },
+      "보테가베네타 카세트 카프스킨 버킷백 스몰 폴른": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Calfskin Bucket Bag Small Pollen"
+        ],
+        "trade_count": 2,
+        "avg_price": 585000
+      },
+      "보테가베네타 더블 노트 카프스킨 백 아몬드": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Double Knot Bag Almond"
+        ],
+        "trade_count": 2,
+        "avg_price": 450000
+      },
+      "보테가베네타 블라우스": {
+        "category": "의류",
+        "synonyms": [
+          "Bottega Veneta Blouse"
+        ],
+        "trade_count": 2
+      },
+      "보테가베네타 보테가 베네타 카세트 카프스킨 폴더형 지퍼 지갑 스몰 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Cassette Calfskin Bi-Fold Zip Wallet Small Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 140000
+      },
+      "보테가베네타 보테가 베네타 인트레치아토 카프스킨 턴어라운드 반지갑 딥 블루": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Calfskin Turnaround Bi Fold Wallet Deep Blue"
+        ],
+        "trade_count": 1,
+        "avg_price": 240000
+      },
+      "보테가베네타 보테가 베네타 인트레치아토 카프스킨 폴더형 지갑 트래버틴 라이트 그래피트": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Calfskin Bi-Fold Wallet Travertine Light Graphite"
+        ],
+        "trade_count": 1,
+        "avg_price": 200000
+      },
+      "보테가베네타 보테가 베네타 인트레치아토 램스킨 반지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Lambskin Bi Fold Wallet Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 445000
+      },
+      "보테가베네타 보테가 베네타 카세트 레더 버킷백 미니 뉴 세이지": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Leather Bucket Bag Mini New Sage"
+        ],
+        "trade_count": 1,
+        "avg_price": 467000
+      },
+      "보테가베네타 보테가 베네타 인트레치아토 카프스킨 플랩 클러치 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Calfskin Flap Clutch Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 450000
+      },
+      "보테가베네타 보테가 베네타 인트레치아토 카스프킨 하프문 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Calfskin Half Moon Shoulder Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 670000
+      },
+      "보테가베네타 보테가 베네타 카세트 레더 버킷백 스몰 카멜": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Leather Bucket Bag Small Camel"
+        ],
+        "trade_count": 1,
+        "avg_price": 650000
+      },
+      "보테가베네타 카세트 비즈니스 카드 케이스 카멜": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Cassette Business Card Case Camel"
+        ],
+        "trade_count": 1,
+        "avg_price": 180000
+      },
+      "보테가베네타 나파 인트레치아토 우븐 WOC 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Nappa Intrecciato Woven WOC Pink"
+        ],
+        "trade_count": 1,
+        "avg_price": 216000
+      },
+      "보테가베네타 보테가 베네타 아르코 카프스킨 토트백 캔디 보르도": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Arco Calfskin Tote Bag Candy Bordeaux"
+        ],
+        "trade_count": 1,
+        "avg_price": 932000
+      },
+      "보테가베네타 인트레치아토 레더 토트백 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Leather Tote Bag Red"
+        ],
+        "trade_count": 1,
+        "avg_price": 650000
+      },
+      "보테가베네타 보테가 베네타 카세트 카프스킨 폴더형 지퍼 지갑 스몰 폴른": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Cassette Calfskin Bi Fold Zip Wallet Small Pollen"
+        ],
+        "trade_count": 1,
+        "avg_price": 125000
+      },
+      "보테가베네타 인트레치아토 나파 램스킨 호보백 다크 브라운": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Nappa Lambskin Hobo Bag Dark Brown"
+        ],
+        "trade_count": 1,
+        "avg_price": 900000
+      },
+      "보테가베네타 보테가 베네타 인트레치아토 메탈릭 토트백 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Metallic Tote Bag Beige"
+        ],
+        "trade_count": 1,
+        "avg_price": 166000
+      },
+      "보테가베네타 보테가 베네타 카세트 카프스킨 아르두아즈 글레이셔": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Calfskin Ardoise Glacier"
+        ],
+        "trade_count": 1,
+        "avg_price": 1300000
+      },
+      "보테가베네타 인트레치아토 카프스킨 동전지갑 퍼플": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Calfskin Coin Purse Purple"
+        ],
+        "trade_count": 1,
+        "avg_price": 150000
+      },
+      "보테가베네타 카프스킨 카세트 폴더형 지갑 다크그린": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Calfskin Cassette Bi Fold Wallet Dark Green"
+        ],
+        "trade_count": 1,
+        "avg_price": 100000
+      },
+      "보테가베네타 보테가 베네타 아르코 카프스킨 도큐먼트 케이스 카멜": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Arco Calfskin Document Case Camel"
+        ],
+        "trade_count": 1,
+        "avg_price": 650000
+      },
+      "보테가베네타 보테가 베네타 인트레치아토 램스킨 크로스바디백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Lambskin Crossbody Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 380000
+      },
+      "보테가베네타 보테가 베네타 카세트 카프스킨 토트백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Calfskin Tote Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 1200000
+      },
+      "보테가베네타 보테가 베네타 인트레치아토 카프스킨 브리프케이스 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Calfskin Briefcase Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 1400000
+      },
+      "보테가베네타 보테가 베네타 램스킨 & 카프스킨 카드 케이스 머스 워시드": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Lambskin & Calfskin Credit Card Case Mirth Washed"
+        ],
+        "trade_count": 1,
+        "avg_price": 155000
+      },
+      "보테가베네타 보테가 베네타 가죽 지퍼 카드 케이스 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Leather Zipped Card Case Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 215000
+      },
+      "보테가베네타 보테가 베네타 인트레치아토 패딩 카세트백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Padded Cassette Bag Mini Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 490000
+      },
+      "보테가베네타 비크 나파 가죽 범 백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Beak Nappa Leather Bum Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 500000
+      },
+      "보테가베네타 가죽 파우치 머스타드": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta leather pouch mustard"
+        ],
+        "trade_count": 1,
+        "avg_price": 450000
+      },
+      "보테가베네타 보테가 베네타 카세트 왁스드 레더 캔디 백 바롤로": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Waxed Leather Candy Barolo"
+        ],
+        "trade_count": 1,
+        "avg_price": 380000
+      },
+      "보테가베네타 보테가 베네타 인트레치아토 카프스킨 벌브 백 네로": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Calfskin Bulb Nero"
+        ],
+        "trade_count": 1,
+        "avg_price": 800000
+      },
+      "보테가베네타 인트레치아토 아코디언 카드지갑 보르도": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Accordion Card Holder Bordeaux"
+        ],
+        "trade_count": 1,
+        "avg_price": 112000
+      },
+      "보테가베네타 보테가 베네타 인트레치아토 램스킨 노디니백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Lambskin Nodini Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 3000000
+      },
+      "보테가베네타 보테가 베네타 더블 포켓 인트레치아토 레더 크로스백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Double Pocket Intrecciato Leather Crossbody Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 410000
+      },
+      "보테가베네타 보테가 베네타 골드 체인 카프스킨 파우치 숄더백 폰단테": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Gold Chain Calfskin Pouch Shoulder Bag Fondante"
+        ],
+        "trade_count": 1,
+        "avg_price": 700000
+      },
+      "보테가베네타 보테가 베네타 필로우 카세트 테크니컬 나일론 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Pillow Cassette Technical Nylon Shoulder Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 1070000
+      },
+      "보테가베네타 보테가 베네타 카세트 패디드 카프스킨 스몰 썬더": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Padded Calfskin Small Thunder"
+        ],
+        "trade_count": 1,
+        "avg_price": 925000
+      },
+      "보테가베네타 보테가 베네타 숄더 파우치 카프스킨 치프리아": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta The Shoulder Pouch Soft Calfskin Shoulder Bag Cipria"
+        ],
+        "trade_count": 1,
+        "avg_price": 800000
+      },
+      "보테가베네타 보테가 베네타 트래킹 캠핑 폴리아미드 토트백 필드 그린": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Tracking Camping Polyamide Tote Bag Field Green"
+        ],
+        "trade_count": 1,
+        "avg_price": 325000
+      },
+      "보테가베네타 보테가 베네타 카프스킨 컨티넨탈 장지갑 네이비": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Calfskin Continental Long Wallet Navy"
+        ],
+        "trade_count": 1,
+        "avg_price": 100000
+      },
+      "보테가베네타 보테가 베네타 바스켓 카프스킨 토트백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Basket Calfskin Tote Bag Small Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 675000
+      },
+      "보테가베네타 보테가 베네타 인트레치아토 벨라 나파 레더 토트백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Bella Nappa Leather Tote Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 920000
+      },
+      "보테가베네타 보테가 베네타 카세트 스웨이드 크로스백 폰단테": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Suede Cross Bag Fondant"
+        ],
+        "trade_count": 1,
+        "avg_price": 810000
+      },
+      "보테가베네타 보테가 베네타 테크니컬 나일론 메시 웨이스트백 다크 그린": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Technical Nylon Mesh Waist Bag Dark Green"
+        ],
+        "trade_count": 1,
+        "avg_price": 250000
+      },
+      "보테가베네타 카세트 램스킨 크로스백 미니 레인트리": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Lambskin Crossbody Bag Mini Raintree"
+        ],
+        "trade_count": 1,
+        "avg_price": 650000
+      },
+      "보테가베네타 탑핸들 카프스킨 팁 숄더백 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Top Handle Calfskin Tip Shoulder Bag Red"
+        ],
+        "trade_count": 1,
+        "avg_price": 370000
+      },
+      "보테가베네타 인트레치아토 카프스킨 빌 스트랩 클러치 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Calfskin Bill Strap Clutch Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 335000
+      },
+      "보테가베네타 카세트 패디드 테크 미디움 크로스백 크로커다일": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Padded Tech Medium Crossbody Bag Crocodile"
+        ],
+        "trade_count": 1,
+        "avg_price": 950000
+      },
+      "보테가베네타 보테가 베네타 카세트 카프스킨 파우치 미디엄 포리지": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Casette Calfskin Pouch Medium Porridge"
+        ],
+        "trade_count": 1,
+        "avg_price": 490000
+      },
+      "보테가베네타 인트레이차토 램스킨 L-지퍼 카드 케이스 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Lambskin L-Zipped Card Case Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 180000
+      },
+      "보테가베네타 인트레치아토 램스킨 장지갑 다크 브라운": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Lambskin Long Wallet Dark Brown"
+        ],
+        "trade_count": 1,
+        "avg_price": 200000
+      },
+      "보테가베네타 인트레치아토 위브 집 램스킨 장지갑 브라운": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Weave Zip Lambskin Long Wallet Brown"
+        ],
+        "trade_count": 1,
+        "avg_price": 160000
+      },
+      "보테가베네타 카프스킨 & 골드 실버 톤 메탈 장지갑 카멜": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Calfskin & Gold Silver Tone Metal Long Wallet Camel"
+        ],
+        "trade_count": 1,
+        "avg_price": 100000
+      },
+      "보테가베네타 인트레치아토 나파레더 지퍼 어라운드 장지갑 블루": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Nappa Leather Zip-Around Long Wallet Blue"
+        ],
+        "trade_count": 1,
+        "avg_price": 230000
+      },
+      "보테가베네타 카세트 카프스킨 버킷백 스몰 선버스": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Calfskin Bucket Bag Small sunburst"
+        ],
+        "trade_count": 1,
+        "avg_price": 500000
+      },
+      "보테가베네타 인트레치아토 가죽 플랩 지갑 라지 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Intrecciato leather Cassette Large Flap Wallet Black"
+        ],
+        "trade_count": 1
+      },
+      "보테가베네타 카세트 가죽 플랩 지갑 라지 패러킷": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Cassette Calfskin Flap Wallet Large Parakeet"
+        ],
+        "trade_count": 1,
+        "avg_price": 250000
+      },
+      "보테가베네타 카프스킨 카세트 플랩 카드 케이스 다크그린": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Calfskin Cassette Flap Card Case Dark green"
+        ],
+        "trade_count": 1
+      },
+      "보테가베네타 램스킨 카세트 신용카드 케이스 딥 퍼시픽": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Lambskin Cassette Credit Card Case Deep Pacific"
+        ],
+        "trade_count": 1
+      },
+      "보테가베네타 카프스킨 카세트 슬림 폴더형 지갑 패러킷": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Calfskin Cassette Slim Bi Fold Wallet Parakeet"
+        ],
+        "trade_count": 1,
+        "avg_price": 310000
+      },
+      "보테가베네타 인트레치아토 카프스킨 타이니 3단 폴더형 지갑 패러킷": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Calfskin Tiny Tri Fold Wallet Parakeet"
+        ],
+        "trade_count": 1
+      },
+      "보테가베네타 카프스킨 카세트 클립형 지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Calfskin Cassette Bill Clip Wallet Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 250000
+      },
+      "보테가베네타 인트레치아토 카프스킨 카세트 폴더형 지퍼 지갑 스몰 패러킷": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Calfskin Bi Fold Zip Wallet Small Parakeet"
+        ],
+        "trade_count": 1,
+        "avg_price": 120000
+      },
+      "보테가베네타 아르코 그레인드 가죽 토트백 스몰 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Arco Grained Leather Tote Bag Small White"
+        ],
+        "trade_count": 1
+      },
+      "보테가베네타 아르코 카프스킨 토트백 미니 페일블루": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Arco Calfskin Tote Bag Mini Pale Blue"
+        ],
+        "trade_count": 1,
+        "avg_price": 2900000
+      },
+      "보테가베네타 가죽 파우치 미니 리본": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Leather Pouch Mini Ribbon"
+        ],
+        "trade_count": 1,
+        "avg_price": 750000
+      },
+      "보테가베네타 파우치 틴 아몬드": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Teen Pouch Almond"
+        ],
+        "trade_count": 1,
+        "avg_price": 480000
+      },
+      "보테가베네타 카세트 카프스킨 미니 셔벗": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Calfskin Mini Sherbet"
+        ],
+        "trade_count": 1
+      },
+      "보테가베네타 카세트 카프스킨 미니 아몬드": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Calfskin Mini Almond"
+        ],
+        "trade_count": 1,
+        "avg_price": 540000
+      },
+      "보테가베네타 카세트 카프스킨 맥시 패러킷": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Calfskin Maxi Parakeet"
+        ],
+        "trade_count": 1
+      },
+      "보테가베네타 카세트 램스킨 스몰 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Lambskin Small White"
+        ],
+        "trade_count": 1
+      },
+      "보테가베네타 카세트 램스킨 틸워시드": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Lambskin Teal Washed"
+        ],
+        "trade_count": 1,
+        "avg_price": 600000
+      },
+      "보테가베네타 카세트 패디드 카프스킨 포리지": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Padded Calfskin Porridge"
+        ],
+        "trade_count": 1
+      },
+      "보테가베네타 카세트 카프스킨 크로스바디 버킷 스몰 셔벗": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Calfskin Crossbody Bucket Small Sherbet"
+        ],
+        "trade_count": 1,
+        "avg_price": 413000
+      },
+      "보테가베네타 인트레치아토 카프스킨 스트랩 클러치 네이비": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Calfskin Strap Clutch Navy"
+        ],
+        "trade_count": 1
+      },
+      "보테가베네타 레더 자켓": {
+        "category": "의류",
+        "synonyms": [
+          "Bottega Veneta Leather Jacket"
+        ],
+        "trade_count": 1
+      },
+      "보테가베네타 숏슬리브 셔츠": {
+        "category": "의류",
+        "synonyms": [
+          "Bottega Veneta Short Sleeve Shirt"
+        ],
+        "trade_count": 1
+      },
+      "보테가베네타 보테가 베네타 인트레치아토 카프스킨 신용카드 케이스 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Calfskin Credit Card Case Black"
+        ],
+        "trade_count": 240000
+      },
+      "보테가베네타 보테가 베네타 인트레치아토 카프스킨 지퍼 어라운드 장지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Calfskin Zip Around Long Wallet Black"
+        ],
+        "trade_count": 150000
+      },
+      "보테가베네타 보테가 베네타 프린티드 카프스킨 도큐먼트 케이스 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Printed Calfskin Document Case Black"
+        ],
+        "trade_count": 280000
+      },
+      "보테가베네타 보테가 베네타 카세트 램스킨 벨트백 머메이드": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Lambskin Belt Bag Mermaid"
+        ],
+        "trade_count": 680000
+      },
+      "보테가베네타 보테가 베네타 인트레치아토 포쉐트 카프스킨 폰케이스 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Pochette Calfskin Phone Case Black"
+        ],
+        "trade_count": 190000
+      },
+      "보테가베네타 보테가 베네타 안디아모 카프스킨 메신저백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Andiamo Calfskin Messenger Bag Small Black"
+        ],
+        "trade_count": 4930000
+      },
+      "보테가베네타 보테가 베네타 아르코 카프스킨 스몰 토트백 포리지": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Arco Calfskin Small Tote Bag Porridge"
+        ],
+        "trade_count": 1580000
+      },
+      "보테가베네타 보테가 베네타 엠보스드 레더 3단 메신저백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Embossed Leather 3 Compartment Messenger Bag Black"
+        ],
+        "trade_count": 800000
+      },
+      "보테가베네타 보테가 베네타 인트레치아토 램스킨 호보백 라지 버건디": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Lambskin Hobo Bag Large Burgundy"
+        ],
+        "trade_count": 1430000
+      },
+      "보테가베네타 보테가 베네타 인트레치아토 카프스킨 호보백 미디엄 네이비": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Calfskin Hobo Bag Medium Navy"
+        ],
+        "trade_count": 0
+      },
+      "보테가베네타 보테가 베네타 인트레치아토 카프스킨 스트랩 클러치 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Calfskin Strap Clutch Red"
+        ],
+        "trade_count": 240000
+      },
+      "보테가베네타 보테가 베네타 더 바디 램스킨 파우치백 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta The Body Lambskin Pouch Bag White"
+        ],
+        "trade_count": 650000
+      },
+      "보테가베네타 보테가 베네타 제멜리 인트레치아토 램스킨 백 라지 폰덴테": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Gemelli Intrecciato Lambskin Bag Large Fondant"
+        ],
+        "trade_count": 2200000
+      },
+      "보테가베네타 보테가 베네타 레더 카세트백 제스트 워시드": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Leather Cassette Zest Washed"
+        ],
+        "trade_count": 550000
+      },
+      "보테가베네타 보테가 베네타 인트레치아토 카프스킨 반지갑 뉴 라이트 그레이": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Calfskin Bi Fold Wallet New Light Grey"
+        ],
+        "trade_count": 120000
+      },
+      "보테가베네타 조디 가죽 클러치 캔디 초크": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Jodie Leather Candy Clutch Chalk"
+        ],
+        "trade_count": 1000000
+      },
+      "보테가베네타 보테가 베네타 레더 지퍼 카드 케이스 트래버틴": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Leather Zipped Card Case Travertine"
+        ],
+        "trade_count": 120000
+      },
+      "보테가베네타 보테가 베네타 아르코 이스트 웨스트 램스킨 토트백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Arco East West Lambskin Tote Bag Mini Black"
+        ],
+        "trade_count": 2080000
+      },
+      "보테가베네타 보테가 베네타 카세트 인트레치아토 카프스킨 숄더백 버터컵": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassete Intrecciato Calfskin Shoulder Bag Buttercup"
+        ],
+        "trade_count": 800000
+      },
+      "보테가베네타 보테가 베네타 인트레치아토 카프스킨 벨트백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Calfskin Belt Bag Black"
+        ],
+        "trade_count": 1650000
+      },
+      "보테가베네타 보테가 베네타 인트레치아토 레더 파우치 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Leather Pouch Black"
+        ],
+        "trade_count": 1180000
+      },
+      "보테가베네타 보테가 베네타 인트레치아토 카프스킨 백팩 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Calfskin Backpack Small Black"
+        ],
+        "trade_count": 1800000
+      },
+      "보테가베네타 보테가 베네타 인트레치아토 램스킨 폴더형 지갑 스카이 블루": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Lambskin Bi Fold Wallet Sky Blue"
+        ],
+        "trade_count": 150000
+      },
+      "보테가베네타 인트레치아토 나파 코스메틱 파우치 퍼플": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Napa Cosmetic Pouch Purple"
+        ],
+        "trade_count": 0
+      },
+      "보테가베네타 보테가 베네타 카세트 패디드 테크 나일론 화이트 미니": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Padded Tech White Mini"
+        ],
+        "trade_count": 450000
+      },
+      "보테가베네타 보테가 베네타 카세트 패디드 램스킨 체인 캐러멜": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Padded Lambskin Chain Caramel"
+        ],
+        "trade_count": 0
+      },
+      "보테가베네타 보테가 베네타 인트레치아토 나파 레더 플랩 크로스백 네이비": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Nappa Leather Flap Crossbody Bag Navy"
+        ],
+        "trade_count": 620000
+      },
+      "보테가베네타 보테가 베네타 브릭 카세트 램스킨 스몰 페넬": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Brick Cassette Lambskin Small Fennel"
+        ],
+        "trade_count": 1850000
+      },
+      "보테가베네타 보테가 베네타 인트레치아토 패딩 카세트 크로스백 딥그린": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Padded Cassette Crossbody Bag Deep Green"
+        ],
+        "trade_count": 1010000
+      },
+      "보테가베네타 보테가 베네타 아르코 가죽 & 캔버스 토트백 라지 내츄럴 폰덴테": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Arco Leather & Canvas Tote Bag Large Natural Fondant"
+        ],
+        "trade_count": 2500000
+      },
+      "보테가베네타 보테가 베네타 몬테벨로 스터드 퀄팅 나파 가죽 숄더백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Montebello Studded Quilted Nappa Leather Shoulder Bag Mini Black"
+        ],
+        "trade_count": 0
+      },
+      "보테가베네타 파라슈트 인트레치아토 램스킨 백 미디엄 루나": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Parachute Intrecciato Lambskin Bag Medium Lunar"
+        ],
+        "trade_count": 6400000
+      },
+      "보테가베네타 보테가 베네타 카세트 패디드 카프스킨 체인 미디엄 옐로우": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Padded Calfskin Chain Medium Yellow"
+        ],
+        "trade_count": 1370000
+      },
+      "보테가베네타 보더 스피어 인트레치아토 카프스킨 숄더백 브라운": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Border Sphere Intrecciato Calfskin Shoulder Bag Brown"
+        ],
+        "trade_count": 0
+      },
+      "보테가베네타 조디 가죽 클러치 미니 터콰이즈": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Jodie Leather Clutch Mini Turquoise"
+        ],
+        "trade_count": 0
+      },
+      "보테가베네타 조디 가죽 클러치 미니 파운틴": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Jodie Leather Clutch Mini Fountain"
+        ],
+        "trade_count": 0
+      },
+      "보테가베네타 마리 카프스킨 숄더백 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Marie Calfskin Shoulder Bag White"
+        ],
+        "trade_count": 500000
+      },
+      "보테가베네타 카세트 카프스킨 파우치 미디움 머스 워시드": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Calfskin Pouch Medium Mirth Washed"
+        ],
+        "trade_count": 330000
+      },
+      "보테가베네타 루나 나파 레더 숄더백 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Luna Nappa Leather Shoulder Bag Red"
+        ],
+        "trade_count": 0
+      },
+      "보테가베네타 파우치 틴 메탈릭": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Pouch Tin Metallic"
+        ],
+        "trade_count": 0
+      },
+      "보테가베네타 스윙 인트레치아토 카프스킨 메신저백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Swing Intrecciato Calfskin Messenger Bag Black"
+        ],
+        "trade_count": 1800000
+      },
+      "보테가베네타 나일론 버킷백 블랙 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Nylon Bucket Bag Black Blue"
+        ],
+        "trade_count": 400000
+      },
+      "보테가베네타 인트레치아토 램스킨 장지갑 블루": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Lampskin Long Wallet Blue"
+        ],
+        "trade_count": 0
+      },
+      "보테가베네타 패디드 페이퍼 카프스킨 클러치 틸 워시드": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Padded Paper Calfskin Clutch Teal Washed"
+        ],
+        "trade_count": 0
+      },
+      "보테가베네타 인트레치아토 카프스킨 토트백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Calfskin Tote Bag Black"
+        ],
+        "trade_count": 400000
+      },
+      "보테가베네타 인트레치아토 카프스킨 도큐먼트 케이스 클러치 네이비": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Calfskin Document Case Clutch Navy"
+        ],
+        "trade_count": 340000
+      },
+      "보테가베네타 보테가 베네타 더 클립 카프스킨 백 칠리": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta The Clip Calfskin Bag Chili"
+        ],
+        "trade_count": 700000
+      },
+      "보테가베네타 보테가 베네타 미니 벌브 인트레치아토 나파 백 미니 포리지": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Mini Bulb Intrecciato Nappa Leather Bag Mini Porridge"
+        ],
+        "trade_count": 2200000
+      },
+      "보테가베네타 보테가 베네타 올림피아 인트레치아토 나파 백 스몰 옐로우": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Olimpia Intrecciato Nappa Leather Bag Small Yellow"
+        ],
+        "trade_count": 480000
+      },
+      "보테가베네타 인트레치오 위빙 램스킨 카세트 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Weaving Lambskin Cassette Bag White"
+        ],
+        "trade_count": 900000
+      },
+      "보테가베네타 인트레치아토 카프스킨 & 나일론 백팩 캠핑": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Calfskin & Nylon Backpack Camping"
+        ],
+        "trade_count": 0
+      },
+      "보테가베네타 인트레치아토 나파레더 3단 중지갑 브라운": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Nappa Leather Tri-Fold Wallet Brown"
+        ],
+        "trade_count": 0
+      },
+      "보테가베네타 패티 레더 탑 핸들백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Patti Leather Top Handle Bag Black"
+        ],
+        "trade_count": 5200000
+      },
+      "보테가베네타 카네트백 레더 스몰 아두와즈": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Canette Bag Leather Small Adoise"
+        ],
+        "trade_count": 0
+      },
+      "보테가베네타 로고 디테일 패브릭 위빙 백팩 블랙 그린": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Logo Detail Fabric Weaving Backpack Black Green"
+        ],
+        "trade_count": 0
+      },
+      "보테가베네타 인트레치아토 위빙 카프스킨 토트백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Weaving Calfskin Tote Bag Small Black"
+        ],
+        "trade_count": 1250000
+      },
+      "보테가베네타 카세트 페이퍼 카프스킨 케이스백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Paper Calfskin Case Bag Black"
+        ],
+        "trade_count": 0
+      },
+      "보테가베네타 인트레치아토 카프스킨 크로스바디백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Calfskin Crossbody Bag Mini Black"
+        ],
+        "trade_count": 600000
+      },
+      "보테가베네타 버서타일 스트랩 카세트 카프스킨 폰덴테 내츄럴": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette with Versatile Strap Calfskin Fondant Natural"
+        ],
+        "trade_count": 2400000
+      },
+      "보테가베네타 카세트 램스킨 클래식 숄더백 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Classic Cassette Bag Lambskin Shoulder Bag White"
+        ],
+        "trade_count": 920000
+      },
+      "보테가베네타 코블 인트레치아토 램스킨 숄더백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cobble Intrecciato Lambskin Shoulder Bag Small Black"
+        ],
+        "trade_count": 2700000
+      },
+      "보테가베네타 인트레치아토 램스킨 토트백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Lambskin Tote Bag Small Black"
+        ],
+        "trade_count": 0
+      },
+      "보테가베네타 더블 노트 카프스킨 백 맬러드": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Double Knot Calfskin Bag Mallard"
+        ],
+        "trade_count": 800000
+      },
+      "보테가베네타 인트레치아토 카프스킨 리스트 파우치 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Calfskin Wrist Pouch Black"
+        ],
+        "trade_count": 600000
+      },
+      "보테가베네타 인트레치아토 나파 폴드오버 클러치 브릭": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Nappa Foldover Clutch Brick"
+        ],
+        "trade_count": 450000
+      },
+      "보테가베네타 더 트라이앵글 카프스킨 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta The Triangle Calfskin Shoulder Bag Black"
+        ],
+        "trade_count": 990000
+      },
+      "보테가베네타 하이드롤로지 나일론 크로스백 패러킷": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Hidrology Nylon Crossbody Bag Parakeet"
+        ],
+        "trade_count": 0
+      },
+      "보테가베네타 BV 트위스트 카프스킨 클러치백 카라멜": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta BV Twist Calfskin Clutch Bag Caramel"
+        ],
+        "trade_count": 0
+      },
+      "보테가베네타 인트레치아토 가죽 플랩 지갑 라지 틸 위시드": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Intrecciato leather Cassette Large Flap Wallet Teal Washed"
+        ],
+        "trade_count": 0
+      },
+      "보테가베네타 카프스킨 카세트 플랩 카드 케이스 스페이스": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Calfskin Cassette Flap Card Case Space"
+        ],
+        "trade_count": 0
+      },
+      "보테가베네타 인트레치아토 슬림 폴더형 지갑 다크그린": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Calfskin Slim Bi Fold Wallet Dark green"
+        ],
+        "trade_count": 0
+      },
+      "보테가베네타 인트레치아토 카프스킨 지퍼 어라운드 지갑 핑크": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Calfskin Zip Around Wallet Pink"
+        ],
+        "trade_count": 280000
+      },
+      "보테가베네타 인트레치아토 카프스킨 지퍼 어라운드 지갑 크루즈": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Calfskin Zip Around Wallet Cruise"
+        ],
+        "trade_count": 200000
+      },
+      "보테가베네타 인트레치아토 카프스킨 지퍼 어라운드 지갑 폰단트 마차": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Intrecciato Calfskin Zip Around Wallet Fondant Matcha"
+        ],
+        "trade_count": 380000
+      },
+      "보테가베네타 보테가 베네타 카세트 카프스킨 폴더형 지퍼 지갑 스몰 화이트": {
+        "category": "지갑",
+        "synonyms": [
+          "Bottega Veneta Cassette Calfskin Bi Fold Zip Wallet Small White"
+        ],
+        "trade_count": 250000
+      },
+      "보테가베네타 턴 카프스킨 파우치 미디엄 패러킷": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Turn Calfskin Pouch Medium Parakeet"
+        ],
+        "trade_count": 1630000
+      },
+      "보테가베네타 카프스킨 벨트 체인 파우치 미디엄 아몬드": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Calfskin Belt Chain Pouch Medium Almond"
+        ],
+        "trade_count": 0
+      },
+      "보테가베네타 보테가 베네타 카세트 패디드 카프스킨 체인 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Padded Calfskin Chain Medium Black"
+        ],
+        "trade_count": 1770000
+      },
+      "보테가베네타 아르코 카프스킨 토트백 캔디 틸워시드": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Arco Calfskin Candy Tote Bag Teal Washed"
+        ],
+        "trade_count": 2000000
+      },
+      "보테가베네타 아르코 카프스킨 토트백 캔디 머메이드": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Arco Calfskin Candy Tote Bag Mermaid"
+        ],
+        "trade_count": 1600000
+      },
+      "보테가베네타 아르코 카프스킨 토트백 스몰 셔벗": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Arco Calfskin Tote Bag Small Sherbet"
+        ],
+        "trade_count": 1600000
+      },
+      "보테가베네타 아르코 카프스킨 토트백 미디엄 아몬드": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Arco Calfskin Tote Bag Medium Almond"
+        ],
+        "trade_count": 1420000
+      },
+      "보테가베네타 보테가 베네타 아르코 카프스킨 토트백 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Arco Calfskin Tote Bag Large Black"
+        ],
+        "trade_count": 2300000
+      },
+      "보테가베네타 아르코 러버 쇼핑백 미니 레몬": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Arco Rubber Shopping Bag Mini Lemon"
+        ],
+        "trade_count": 350000
+      },
+      "보테가베네타 가죽 파우치 미니 탠저린": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Leather Pouch Mini Tangerine"
+        ],
+        "trade_count": 600000
+      },
+      "보테가베네타 가죽 파우치 미니 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Leather Pouch Mini Red"
+        ],
+        "trade_count": 0
+      },
+      "보테가베네타 루프 카프스킨 카메라백 미니 패러킷": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Loop Calfskin Camera Bag Mini Parakeet"
+        ],
+        "trade_count": 1050000
+      },
+      "보테가베네타 로마 인트레치아토 카프스킨 백 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Roma Intrecciato Calfskin Bag Large Black"
+        ],
+        "trade_count": 0
+      },
+      "보테가베네타 카세트 카프스킨 벨트 미니 패러킷": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Calfskin Belt Mini Parakeet"
+        ],
+        "trade_count": 1160000
+      },
+      "보테가베네타 카세트 카프스킨 벨트 미니 뉴세이지": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Calfskin Belt Mini New Sage"
+        ],
+        "trade_count": 440000
+      },
+      "보테가베네타 카세트 카프스킨 벨트 미니 에시드키위": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Calfskin Belt Mini Acid Kiwi"
+        ],
+        "trade_count": 550000
+      },
+      "보테가베네타 카세트 카프스킨 파우치 라지 머메이드": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Calfskin Pouch Large Mermaid"
+        ],
+        "trade_count": 0
+      },
+      "보테가베네타 카세트 카프스킨 플랫 파우치 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Calfskin Flat Pouch Large Black"
+        ],
+        "trade_count": 940000
+      },
+      "보테가베네타 카세트 카프스킨 플랫 파우치 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Cassette Calfskin Flat Pouch Small Black"
+        ],
+        "trade_count": 750000
+      },
+      "보테가베네타 아르코 카프스킨 도큐먼트 케이스 라이트카키": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Arco Calfskin Document Case Light Khaki"
+        ],
+        "trade_count": 0
+      },
+      "보테가베네타 더블 노트 카프스킨 백 패러킷": {
+        "category": "가방",
+        "synonyms": [
+          "Bottega Veneta Double Knot Bag Parakeet"
+        ],
+        "trade_count": 0
+      }
+    }
+  }
+}

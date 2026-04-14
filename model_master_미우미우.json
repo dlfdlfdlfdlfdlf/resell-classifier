@@ -1,0 +1,1027 @@
+{
+  "미우미우": {
+    "models": {
+      "미우미우 마테라쎄 모티프 나파 램스킨 카드홀더 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Miu Miu Matelasse Motif Nappa Lambskin Card Holder Black"
+        ],
+        "trade_count": 62,
+        "avg_price": 215000
+      },
+      "미우미우 미우 미우 스피릿 마테라쎄 페이턴트 가죽 미니백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Spirit Matelasse Patent Leather Mini Bag Black"
+        ],
+        "trade_count": 44,
+        "avg_price": 906000
+      },
+      "미우미우 가디건": {
+        "category": "의류",
+        "synonyms": [
+          "Miu Miu Cardigan"
+        ],
+        "trade_count": 43,
+        "avg_price": 546000
+      },
+      "미우미우 마테라쎼 나파 램 스킨 반지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Miu Miu Matelasse Nappa Lambskin Bi Fold Wallet Black"
+        ],
+        "trade_count": 8,
+        "avg_price": 363000
+      },
+      "미우미우 베이스볼 캡": {
+        "category": "패션 악세서리",
+        "synonyms": [
+          "Miu Miu Drill Baseball Cap"
+        ],
+        "trade_count": 42,
+        "avg_price": 317000
+      },
+      "미우미우 원피스": {
+        "category": "의류",
+        "synonyms": [
+          "Miu Miu Dress"
+        ],
+        "trade_count": 23,
+        "avg_price": 611000
+      },
+      "미우미우 미우 미우 완더 마테라쎄 나파 가죽 호보백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Wander Matelasse Nappa Leather Hobo Bag Small Black"
+        ],
+        "trade_count": 13,
+        "avg_price": 1648000
+      },
+      "미우미우 데님 베이스볼 캡": {
+        "category": "패션 악세서리",
+        "synonyms": [
+          "Miu Miu Logo Denim Baseball Cap"
+        ],
+        "trade_count": 22,
+        "avg_price": 315000
+      },
+      "미우미우 니트": {
+        "category": "의류",
+        "synonyms": [
+          "Miu Miu Knit"
+        ],
+        "trade_count": 21,
+        "avg_price": 945000
+      },
+      "미우미우 셔츠": {
+        "category": "의류",
+        "synonyms": [
+          "Miu Miu Shirt"
+        ],
+        "trade_count": 21,
+        "avg_price": 377000
+      },
+      "미우미우 미우 미우 아르카디 가죽 백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Arcadie Leather Bag Mini Black"
+        ],
+        "trade_count": 20,
+        "avg_price": 2077000
+      },
+      "미우미우 다운 자켓": {
+        "category": "의류",
+        "synonyms": [
+          "Miu Miu Down Jacket"
+        ],
+        "trade_count": 19,
+        "avg_price": 1157000
+      },
+      "미우미우 크롭 셔츠": {
+        "category": "의류",
+        "synonyms": [
+          "Miu Miu Cropped Shirt"
+        ],
+        "trade_count": 17,
+        "avg_price": 340000
+      },
+      "미우미우 미우 미우 아르카디 가죽 백 레귤러 코냑": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Arcadie Leather Bag Regular Cognac"
+        ],
+        "trade_count": 15,
+        "avg_price": 2700000
+      },
+      "미우미우 미우 미우 비텔로 샤이니 보우 사첼백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Vitello Shine Bow Satchel Bag Black"
+        ],
+        "trade_count": 15,
+        "avg_price": 433000
+      },
+      "미우미우 마테라쎄 모티프 나파 램 스킨 카드 지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Miu Miu Matelasse Motif Nappa Lambskin Card Wallet Black"
+        ],
+        "trade_count": 14,
+        "avg_price": 356000
+      },
+      "미우미우 마테라쎼 나파 램 스킨 반지갑 앨러배스터 핑크": {
+        "category": "지갑",
+        "synonyms": [
+          "Miu Miu Matelasse Nappa Lambskin Bi Fold Wallet Alabaster Pink"
+        ],
+        "trade_count": 14,
+        "avg_price": 208000
+      },
+      "미우미우 버킷햇": {
+        "category": "패션 악세서리",
+        "synonyms": [
+          "Miu Miu Bucket Hat"
+        ],
+        "trade_count": 14,
+        "avg_price": 313000
+      },
+      "미우미우 미우 미우 스피릿 마테라쎄 페이턴트 가죽 미니백 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Spirit Matelasse Patent Leather Mini Bag White"
+        ],
+        "trade_count": 13,
+        "avg_price": 900000
+      },
+      "미우미우 미우 미우 마테라쎄 나파 가죽 탑 핸들백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Matelasse Nappa Leather Top Handle Bag Black"
+        ],
+        "trade_count": 12,
+        "avg_price": 2050000
+      },
+      "미우미우 미우 미우 마테라쎄 나파 가죽 버킷백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Matelasse Nappa Leather Bucket Bag Black"
+        ],
+        "trade_count": 12,
+        "avg_price": 940000
+      },
+      "미우미우 미우 미우 아르카디 가죽 백 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Arcadie Leather Bag Large Black"
+        ],
+        "trade_count": 11,
+        "avg_price": 2150000
+      },
+      "미우미우 코트": {
+        "category": "의류",
+        "synonyms": [
+          "Miu Miu Coat"
+        ],
+        "trade_count": 11,
+        "avg_price": 559000
+      },
+      "미우미우 마테라쎄 나파 램 스킨 플랩 카드 지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Miu Miu Matelasse Nappa Lambskin Flap Card Wallet Black"
+        ],
+        "trade_count": 9,
+        "avg_price": 210000
+      },
+      "미우미우 미우 미우 아르카디 가죽 백 라지 코냑": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Arcadie Leather Bag Large Cognac"
+        ],
+        "trade_count": 9,
+        "avg_price": 2563000
+      },
+      "미우미우 미우 미우 완더 마테라쎄 나파 가죽 호보백 스몰 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Wander Matelasse Nappa Leather Hobo Bag Small White"
+        ],
+        "trade_count": 9,
+        "avg_price": 1160000
+      },
+      "미우미우 미우 미우 샤인 마테라쎄 가죽 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Shine Matelasse Leather Shoulder Bag Black"
+        ],
+        "trade_count": 8,
+        "avg_price": 870000
+      },
+      "미우미우 미우 미우 마테라쎄 나파 가죽 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Matelasse Nappa Leather Shoulder Bag Black"
+        ],
+        "trade_count": 5
+      },
+      "미우미우 블라우스": {
+        "category": "의류",
+        "synonyms": [
+          "Miu Miu Blouse"
+        ],
+        "trade_count": 8,
+        "avg_price": 412000
+      },
+      "미우미우 숏슬리브 니트": {
+        "category": "의류",
+        "synonyms": [
+          "Miu Miu Short Sleeve Knit"
+        ],
+        "trade_count": 8,
+        "avg_price": 42000
+      },
+      "미우미우 스몰 마테라쎄 나파 램스킨 중지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Miu Miu Small Matelasse Nappa Lambskin Compact Wallet Black"
+        ],
+        "trade_count": 7,
+        "avg_price": 215000
+      },
+      "미우미우 미우 미우 마테라쎄 나파 가죽 클러치 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Matelasse Nappa Leather Clutch Bag Black"
+        ],
+        "trade_count": 7,
+        "avg_price": 130000
+      },
+      "미우미우 미우 미우 아르카디 가죽 백 레귤러 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Arcadie Leather Bag Regular Black"
+        ],
+        "trade_count": 6,
+        "avg_price": 2275000
+      },
+      "미우미우 미우 미우 아르카디 마테라쎄 나파 가죽 백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Arcadie Matelasse Nappa Leather Bag Mini Black"
+        ],
+        "trade_count": 6,
+        "avg_price": 1500000
+      },
+      "미우미우 미우 미우 마테라쎄 나파 가죽 카메라백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Matelasse Nappa Leather Camera Bag Black"
+        ],
+        "trade_count": 6,
+        "avg_price": 382000
+      },
+      "미우미우 미우 미우 컨피덴셜 마테라쎄 가죽 백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Confidencial Matelasse Leather Bag Black"
+        ],
+        "trade_count": 6,
+        "avg_price": 750000
+      },
+      "미우미우 숏슬리브 니트 폴로 셔츠": {
+        "category": "의류",
+        "synonyms": [
+          "Miu Miu Short Sleeve Knit Polo Shirt"
+        ],
+        "trade_count": 6,
+        "avg_price": 600000
+      },
+      "미우미우 테일러드 자켓": {
+        "category": "의류",
+        "synonyms": [
+          "Miu Miu Tailored Jacket"
+        ],
+        "trade_count": 6,
+        "avg_price": 1700000
+      },
+      "미우미우 데님 자켓": {
+        "category": "의류",
+        "synonyms": [
+          "Miu Miu Denim Jacket"
+        ],
+        "trade_count": 6,
+        "avg_price": 675000
+      },
+      "미우미우 데님 팬츠": {
+        "category": "의류",
+        "synonyms": [
+          "Miu Miu Denim Pants"
+        ],
+        "trade_count": 6,
+        "avg_price": 430000
+      },
+      "미우미우 마테라쎄 나파 램 스킨 플랩 카드 지갑 앨러배스터 핑크": {
+        "category": "지갑",
+        "synonyms": [
+          "Miu Miu Matelasse Nappa Lambskin Flap Card Wallet Alabaster Pink"
+        ],
+        "trade_count": 5,
+        "avg_price": 150000
+      },
+      "미우미우 마테라쎄 지퍼 어라운드 나파 램 스킨 카드 지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Miu Miu Matelasse Zipper Around Nappa Lambskin Card Wallet Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 310000
+      },
+      "미우미우 마테라쎄 나파 램 스킨 장지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Miu Miu Matelasse Nappa Lambskin Long Wallet Black"
+        ],
+        "trade_count": 4,
+        "avg_price": 150000
+      },
+      "미우미우 미우 미우 로고 엠보싱 가죽 탑 핸들백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Logo Embossed Leather Top Handle Bag Black"
+        ],
+        "trade_count": 4,
+        "avg_price": 830000
+      },
+      "미우미우 미우 미우 아이비 가죽 토트백 미디엄 코냑": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Ivy Leather Handbag Medium Cognac"
+        ],
+        "trade_count": 4,
+        "avg_price": 1833000
+      },
+      "미우미우 미우 미우 아이비 가죽 백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Ivy Leather Handbag Medium Black"
+        ],
+        "trade_count": 4,
+        "avg_price": 1700000
+      },
+      "미우미우 미우 미우 마테라쎄 나파 가죽 탑 핸들백 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Matelasse Nappa Leather Top Handle Bag White"
+        ],
+        "trade_count": 4,
+        "avg_price": 2320000
+      },
+      "미우미우 미우 미우 완더 마테라쎄 나파 가죽 호보백 레귤러 앨러배스터 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Wander Matelasse Nappa Leather Hobo Bag Regular Alabaster Pink"
+        ],
+        "trade_count": 4,
+        "avg_price": 1536000
+      },
+      "미우미우 미우 미우 마테라쎄 나파 가죽 숄더백 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Matelasse Nappa Leather Shoulder Bag White"
+        ],
+        "trade_count": 3
+      },
+      "미우미우 나파 크리스탈 체인 크로스백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Nappa Crystal Chain Mini Crossbody Bag Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 435000
+      },
+      "미우미우 마테라쎄 나파 가죽 체인 숄더백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Matelasse Nappa Leather Chain Shoulder Bag Mini Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 372000
+      },
+      "미우미우 미우 미우 개버딘 파우치 초크 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Gabardine Pouch Chalk White"
+        ],
+        "trade_count": 2,
+        "avg_price": 582000
+      },
+      "미우미우 미우 미우 마테라쎄 나파 가죽 체인 토트백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Matelassé Nappa Leather Chain Tote Bag Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 1002000
+      },
+      "미우미우 미우 미우 마타라세 나파 램스킨 지퍼 카드 지갑 캐러멜": {
+        "category": "지갑",
+        "synonyms": [
+          "Miu Miu Matelasse Nappa Lambskin Zipped Card Wallet Caramel"
+        ],
+        "trade_count": 2,
+        "avg_price": 155000
+      },
+      "미우미우 마테라쎼 모니프 나파 램 스킨 카드 지갑 베고니아 핑크": {
+        "category": "지갑",
+        "synonyms": [
+          "Miu Miu Matelasse Motif Nappa Lambskin Card Wallet Begonia Pink"
+        ],
+        "trade_count": 2,
+        "avg_price": 140000
+      },
+      "미우미우 마테라쎼 나파 램 스킨 반지갑 파우더 핑크": {
+        "category": "지갑",
+        "synonyms": [
+          "Miu Miu Matelasse Nappa Lambskin Bi Fold Wallet Powder Pink"
+        ],
+        "trade_count": 2,
+        "avg_price": 365000
+      },
+      "미우미우 마테라쎄 지퍼 어라운드 나파 램 스킨 카드 지갑 핑크": {
+        "category": "지갑",
+        "synonyms": [
+          "Miu Miu Matelasse Zipper Around Nappa Lambskin Card Wallet Pink"
+        ],
+        "trade_count": 2,
+        "avg_price": 220000
+      },
+      "미우미우 마테라쎄 지퍼 어라운드 나파 램 스킨 카드 지갑 핫핑크": {
+        "category": "지갑",
+        "synonyms": [
+          "Miu Miu Matelasse Zipper Around Nappa Lambskin Card Wallet Hot Pink"
+        ],
+        "trade_count": 2,
+        "avg_price": 245000
+      },
+      "미우미우 마테라쎄 모티프 나파 램스킨 카드홀더 파우더 핑크": {
+        "category": "지갑",
+        "synonyms": [
+          "Miu Miu Matelasse Motif Nappa Lambskin Card Holder Powder Pink"
+        ],
+        "trade_count": 2,
+        "avg_price": 500000
+      },
+      "미우미우 마테라쎄 나파 램 스킨 지퍼 카드 지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Miu Miu Matelasse Nappa Lambskin Zipper Card Wallet Black"
+        ],
+        "trade_count": 150000
+      },
+      "미우미우 미우 미우 아이비 가죽 핸드백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Ivy Leather Handbag Small Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 2200000
+      },
+      "미우미우 미우 미우 컨피덴셜 마테라쎄 가죽 백 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Confidencial Matelasse Leather Bag White"
+        ],
+        "trade_count": 2,
+        "avg_price": 750000
+      },
+      "미우미우 미우 미우 완더 마테라쎄 나파 가죽 호보백 스몰 파우더 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Wander Matelasse Nappa Leather Hobo Bag Small Powder Pink"
+        ],
+        "trade_count": 2,
+        "avg_price": 3000000
+      },
+      "미우미우 미우 미우 크리스털 나파 가죽백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Crystal Leather Bag Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 800000
+      },
+      "미우미우 미우 미우 마테라쎄 모티프 나파 램스킨 카드홀더 레드": {
+        "category": "지갑",
+        "synonyms": [
+          "Miu Miu Matelasse Motif Nappa Lambskin Card Holder Red"
+        ],
+        "trade_count": 1,
+        "avg_price": 122000
+      },
+      "미우미우 미우 미우 나파 램스킨 미니백 브라운": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Nappa Lambskin Mini Bag Brown"
+        ],
+        "trade_count": 1,
+        "avg_price": 775000
+      },
+      "미우미우 미우 미우 개버딘 파우치 올리브 그린 옐로우": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Gabardine Pouch Olive Green Yellow"
+        ],
+        "trade_count": 1,
+        "avg_price": 690000
+      },
+      "미우미우 미우 미우 마테라쎄 나파 레더 핸드백 카메오": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Matelassé Nappa Leather Handbag Cameo"
+        ],
+        "trade_count": 1,
+        "avg_price": 1100000
+      },
+      "미우미우 마드라스 레더 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Madras Leather Shoulder Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 775000
+      },
+      "미우미우 미우 미우 크로커다일 엠보스드 레더 지퍼 장지갑 옐로우": {
+        "category": "지갑",
+        "synonyms": [
+          "Miu Miu Crocodile Embossed Leather Zip Around Wallet Yellow"
+        ],
+        "trade_count": 1,
+        "avg_price": 100000
+      },
+      "미우미우 자카드 로고 데님 토트백 카멜": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Jacquard Logo Denim Tote Bag Camel"
+        ],
+        "trade_count": 1,
+        "avg_price": 550000
+      },
+      "미우미우 미우 미우 나플락 페이턴트 레더 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Naplak Patent Leather Shoulder Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 826000
+      },
+      "미우미우 우븐 패브릭 드로스트링 토트백 미니 코냑": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Woven Fabric Drawstring Tote Bag Mini Cognac"
+        ],
+        "trade_count": 1,
+        "avg_price": 560000
+      },
+      "미우미우 미우 미우 완더 마테라쎄 나파 가죽 호보백 미니 베고니아 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Wander Matelasse Nappa Leather Hobo Bag Mini Begonia Pink"
+        ],
+        "trade_count": 1,
+        "avg_price": 1425000
+      },
+      "미우미우 미우 미우 마테라쎄 나파 클러치백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Matelassé Nappa Clutch Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 380000
+      },
+      "미우미우 미우 미우 마드라스 레더 숄더백 그린": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Madras Leather Shoulder Bag Green"
+        ],
+        "trade_count": 1,
+        "avg_price": 650000
+      },
+      "미우미우 레더 호보백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Leather Hobo Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 1627000
+      },
+      "미우미우 미우 미우 아르카디 가죽 백 레귤러 초크 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Arcadie Leather Bag Regular Chalk White"
+        ],
+        "trade_count": 1,
+        "avg_price": 1805000
+      },
+      "미우미우 가죽 탑 핸들백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Leather Top Handle Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 2300000
+      },
+      "미우미우 스냅 후크 카프스킨 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Snap Hook Calfskin Shoulder Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 940000
+      },
+      "미우미우 미우 미우 플래그 모티프 나일론 레더 벨트백 베이비 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Flag Motif Nylon Leather Belt Bag Baby Blue"
+        ],
+        "trade_count": 1,
+        "avg_price": 200000
+      },
+      "미우미우 아방뛰르 나파 가죽 숄더백 미디엄 오크": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Avanture Nappa Leather Shoulder Bag Medium Oak"
+        ],
+        "trade_count": 1,
+        "avg_price": 2900000
+      },
+      "미우미우 미우 미우 마테라쎄 나파 가죽 크리스탈 체인 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Matelasse Nappa Leather Crystal Chain Shoulder Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 450000
+      },
+      "미우미우 미우 미우 자수 로고 캔버스 토트백 초크": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Embroidered Logo Canvas Tote Bag Chalk"
+        ],
+        "trade_count": 1,
+        "avg_price": 750000
+      },
+      "미우미우 미우 미우 아르카디 마테라쎄 나파 레더 숄더백 카라멜": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Arcadie Matelasse Nappa Leather Bag Caramel"
+        ],
+        "trade_count": 1,
+        "avg_price": 2500000
+      },
+      "미우미우 미우 미우 스피릿 프린트 파유 토트백 체크": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Spirit Print Faille Tote Bag Check"
+        ],
+        "trade_count": 1,
+        "avg_price": 490000
+      },
+      "미우미우 미우 미우 마테라쎄 나파 가죽 버킷백 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Matelassé Nappa Leather Bucket Bag White"
+        ],
+        "trade_count": 1,
+        "avg_price": 290000
+      },
+      "미우미우 마테라쎄 모티프 나파 램 스킨 카드 지갑 파우더 핑크": {
+        "category": "지갑",
+        "synonyms": [
+          "Miu Miu Matelasse Motif Nappa Lambskin Card Wallet Powder Pink"
+        ],
+        "trade_count": 1
+      },
+      "미우미우 마테라쎄 지퍼 어라운드 나파 램 스킨 카드 지갑 카메오": {
+        "category": "지갑",
+        "synonyms": [
+          "Miu Miu Matelasse Zipper Around Napa Lambskin Card Holder Cameo"
+        ],
+        "trade_count": 1,
+        "avg_price": 210000
+      },
+      "미우미우 마테라쎄 나파 램 스킨 지퍼 카드 지갑 앨러배스터 핑크": {
+        "category": "지갑",
+        "synonyms": [
+          "Miu Miu Matelasse Nappa Lambskin Zipper Card Wallet Alabaster Pink"
+        ],
+        "trade_count": 1,
+        "avg_price": 380000
+      },
+      "미우미우 마테라쎄 나파 램 스킨 장지갑 핑크": {
+        "category": "지갑",
+        "synonyms": [
+          "Miu Miu Matelasse Nappa Lambskin Long Wallet Pink"
+        ],
+        "trade_count": 1
+      },
+      "미우미우 미우 미우 마테라쎄 나파 가죽 탑 핸들백 앨러배스터 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Matelasse Nappa Leather Top Handle Bag Alabaster Pink"
+        ],
+        "trade_count": 1,
+        "avg_price": 3000000
+      },
+      "미우미우 미우 미우 아르카디 마테라쎄 나파 가죽 백 미니 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Arcadie Matelasse Nappa Leather Bag Mini White"
+        ],
+        "trade_count": 1,
+        "avg_price": 950000
+      },
+      "미우미우 미우 미우 마테라쎄 나파 가죽 버킷백 파우더 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Matelasse Nappa Leather Bucket Bag Powder Pink"
+        ],
+        "trade_count": 1,
+        "avg_price": 800000
+      },
+      "미우미우 미우 미우 완더 시어링 호보 백 아이보리": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Wander Shearling Hobo Bag with Leather Details Ivory"
+        ],
+        "trade_count": 1,
+        "avg_price": 780000
+      },
+      "미우미우 미우 미우 컨피덴셜 마테라쎄 가죽 백 카메오 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Confidencial Matelasse Leather Bag Cameo Beige"
+        ],
+        "trade_count": 1,
+        "avg_price": 800000
+      },
+      "미우미우 미우 미우 컨피덴셜 마테라쎄 가죽 백 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Confidencial Matelasse Leather Bag Pink"
+        ],
+        "trade_count": 1,
+        "avg_price": 1000000
+      },
+      "미우미우 미우 미우 완더 마테라쎄 나파 가죽 호보백 레귤러 캐러멜": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Wander Matelasse Nappa Leather Hobo Bag Regular Caramel"
+        ],
+        "trade_count": 1,
+        "avg_price": 1200000
+      },
+      "미우미우 미우 미우 완더 마테라쎄 나파 가죽 호보백 스몰 캐러멜": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Wander Matelasse Nappa Leather Hobo Bag Small Caramel"
+        ],
+        "trade_count": 1,
+        "avg_price": 950000
+      },
+      "미우미우 미우 미우 아이코닉 크리스털 클로케 나파 가죽백 실버": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Crystal Cloqué Nappa leather bag Silver"
+        ],
+        "trade_count": 1,
+        "avg_price": 670000
+      },
+      "미우미우 미우 미우 크리스털 나파 가죽백 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Crystal Leather Bag White"
+        ],
+        "trade_count": 1,
+        "avg_price": 700000
+      },
+      "미우미우 미우 미우 마테라쎄 나파 가죽 플랩 체인 숄더백 카메오": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Matelasse Nappa Leather Flap Chain Shoulder Bag Cameo"
+        ],
+        "trade_count": 1
+      },
+      "미우미우 슬리브리스": {
+        "category": "의류",
+        "synonyms": [
+          "Miu Miu Sleeveless"
+        ],
+        "trade_count": 1,
+        "avg_price": 20000
+      },
+      "미우미우 미우 미우 마테라쎄 럭스 가죽 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Matelasse Lux Leather Shoulder Bag Black"
+        ],
+        "trade_count": 1450000
+      },
+      "미우미우 미우 미우 로고 엠보싱 가죽 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Logo Embossed Leather Shoulder Bag Black"
+        ],
+        "trade_count": 1250000
+      },
+      "미우미우 미우 미우 쌔씨 마테라쎄 나파 가죽 숄더백 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Matelasse Nappa Leather Shoulder Bag White"
+        ],
+        "trade_count": 700000
+      },
+      "미우미우 미우 미우 아르카디아 레더 핸들백 카메오": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Arcadie Leather Handle Bag Cameo"
+        ],
+        "trade_count": 0
+      },
+      "미우미우 미우 미우 완더 마테라쎄 벨벳 호보백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Wander Matelasse Velvet Hobo Bag Small Black"
+        ],
+        "trade_count": 1600000
+      },
+      "미우미우 미우 미우 마드라스 피오코 가죽 장지갑 투르케세": {
+        "category": "지갑",
+        "synonyms": [
+          "Miu Miu Madras Fiocco Leather Long Wallet Turchese"
+        ],
+        "trade_count": 0
+      },
+      "미우미우 미우 미우 하트 크로커다일 엠보스드 카프스킨 코인 퍼스 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Miu Miu Heart Crocodile Embossed Calfskin Coin Purse Black"
+        ],
+        "trade_count": 150000
+      },
+      "미우미우 미우 미우 마틀라세 체인 나파 체인 숄더백 화이트 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Matelassé Chain Nappa Sholderbag White Black"
+        ],
+        "trade_count": 600000
+      },
+      "미우미우 미우 미우 코듀로이 백팩 에보니": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Corduroy Backpack Ebony"
+        ],
+        "trade_count": 0
+      },
+      "미우미우 미우 미우 마테라쎄 나파 가죽 백 미니 아만다 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Matelassé Nappa Leather Mini Amanda Bag Red"
+        ],
+        "trade_count": 880000
+      },
+      "미우미우 아방뛰르 스웨이드 숄더백 미디엄 오크": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Aventure Suede Shoulder Bag Medium Oak"
+        ],
+        "trade_count": 2900000
+      },
+      "미우미우 마테라쎄 지퍼 어라운드 나파스킨 클러치백 카메오": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Matelassé Zip-Around Nappa Leather Clutch Cameo"
+        ],
+        "trade_count": 0
+      },
+      "미우미우 미우 미우 로고 레더 토트백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Logo Leather Tote Bag Black"
+        ],
+        "trade_count": 1290000
+      },
+      "미우미우 미우 미우 완더 마테라쎄 새틴 가죽 호보백 레귤러 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Wander Matelasse Satin Leather Hobo Bag Regular Black"
+        ],
+        "trade_count": 1470000
+      },
+      "미우미우 미우 미우 마테라쎄 나파 가죽 미니백 카메오": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Matelasse Nappa Leather Mini Bag Cameo"
+        ],
+        "trade_count": 0
+      },
+      "미우미우 미우 미우 마드라스 레더 크로스백 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Madras Leather Crossbody Bag Pink"
+        ],
+        "trade_count": 410000
+      },
+      "미우미우 미우 미우 마테라쎄 나파 레더 파우치 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Matelasse Nappa Leather Pouch Black"
+        ],
+        "trade_count": 0
+      },
+      "미우미우 캔버스 & 레더 보백 라지 베이지 & 브랜디": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Canvas & Leather Beau Bag Large Beige & Brandy"
+        ],
+        "trade_count": 2500000
+      },
+      "미우미우 미우 미우 바이컬러 마드라스 장지갑 미디엄 블루 & 라이트 블루": {
+        "category": "지갑",
+        "synonyms": [
+          "Miu Miu Bicolour Madras Long Wallet Medium Blue & Light Blue"
+        ],
+        "trade_count": 0
+      },
+      "미우미우 미우 미우 마드라스 스터드 가죽 토트백 오프 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Madras Stud Leather Tote bag Off White"
+        ],
+        "trade_count": 0
+      },
+      "미우미우 미우 미우 마테라쎄 베니티 나파 크로스백 브라운": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Matelassé Vanity Nappa Crossbody Bag Brown"
+        ],
+        "trade_count": 0
+      },
+      "미우미우 마테라쎼 나파 램 스킨 반지갑 피리테": {
+        "category": "지갑",
+        "synonyms": [
+          "Miu Miu Matelasse Nappa Lambskin Bi Fold Wallet Pyrite"
+        ],
+        "trade_count": 0
+      },
+      "미우미우 미우 미우 아이비 가죽 핸드백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Ivy Leather Handbag Mini Black"
+        ],
+        "trade_count": 0
+      },
+      "미우미우 미우 미우 마테라쎄 나파 가죽 미우 코퍼 핸드백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Matelasse Nappa Leather Miu Coffer Handbag Black"
+        ],
+        "trade_count": 1200000
+      },
+      "미우미우 미우 미우 아르카디 마테라쎄 나파 가죽 백 레귤러 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Arcadie Matelasse Nappa Leather Bag Regular White"
+        ],
+        "trade_count": 3400000
+      },
+      "미우미우 미우 미우 아르카디 마테라쎄 나파 가죽 백 레귤러 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Arcadie Matelasse Nappa Leather Bag Regular Black"
+        ],
+        "trade_count": 1880000
+      },
+      "미우미우 미우 미우 마테라쎄 나파 가죽 클러치 카메오": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Matelasse Nappa Leather Clutch Cameo"
+        ],
+        "trade_count": 470000
+      },
+      "미우미우 미우 미우 샤인 마테라쎄 가죽 숄더백 로지 블러쉬": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Shine Matelasse Leather Shoulder Bag Rosy Blush"
+        ],
+        "trade_count": 0
+      },
+      "미우미우 미우 미우 완더 마테라쎄 나파 가죽 호보백 레귤러 코냑": {
+        "category": "가방",
+        "synonyms": [
+          "Miu Miu Wander Matelasse Nappa Leather Hobo Bag Regular Cognac"
+        ],
+        "trade_count": 1500000
+      }
+    }
+  }
+}

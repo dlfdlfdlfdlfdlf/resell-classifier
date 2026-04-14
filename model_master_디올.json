@@ -1,0 +1,4311 @@
+{
+  "디올": {
+    "models": {
+      "디올 새들 블룸 디올 오블리크 자카드 카드 지갑 블루": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Saddle Bloom Dior Oblique Jacquard Card Holder Blue"
+        ],
+        "trade_count": 354,
+        "avg_price": 247000
+      },
+      "디올 디올 오블리크 자카드 버티컬 2단 카드 지갑 베이지 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Dior Oblique Jacquard Vertical Bi-Fold Card Holder Beige Black"
+        ],
+        "trade_count": 339,
+        "avg_price": 300000
+      },
+      "디올 디올 오블리크 자카드 반지갑 베이지 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Dior Oblique Jacquard Wallet Beige Black"
+        ],
+        "trade_count": 339,
+        "avg_price": 399000
+      },
+      "디올 디올 오블리크 자카드 & 그레인 송아지 가죽 카드 지갑 베이지 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Dior Oblique Jacquard & Grained Calfskin Card Holder Beige Black"
+        ],
+        "trade_count": 282,
+        "avg_price": 264000
+      },
+      "디올 디올 오블리크 자카드 버티컬 2단 카드 지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Dior Oblique Jacquard Vertical Bi-Fold Card Holder Black"
+        ],
+        "trade_count": 214,
+        "avg_price": 336000
+      },
+      "디올 오블리크 미차 스카프": {
+        "category": "패션 악세서리",
+        "synonyms": [
+          "Dior Oblique Mitzah Scarf"
+        ],
+        "trade_count": 212,
+        "avg_price": 206000
+      },
+      "디올 디올 오블리크 자카드 반지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Dior Oblique Jacquard Wallet Black"
+        ],
+        "trade_count": 189,
+        "avg_price": 399000
+      },
+      "디올 디올 오블리크 자카드 & 그레인 송아지 가죽 카드 지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Dior Oblique Jacquard & Grained Calfskin Card Holder Black"
+        ],
+        "trade_count": 137,
+        "avg_price": 290000
+      },
+      "디올 B27 로우탑 스니커즈 그레이": {
+        "category": "신발",
+        "synonyms": [
+          "Dior B27 Low-Top Sneakers Gray"
+        ],
+        "trade_count": 137,
+        "avg_price": 566000
+      },
+      "디올 B23 로우 디올 오블리크 화이트 & 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "Dior B23 Low Dior Oblique White & Black"
+        ],
+        "trade_count": 137,
+        "avg_price": 433000
+      },
+      "디올 30 몽테인 미차 스카프": {
+        "category": "패션 악세서리",
+        "synonyms": [
+          "Dior 30 Montaigne Mitzah Scarf"
+        ],
+        "trade_count": 133,
+        "avg_price": 192000
+      },
+      "디올 새들 벨트": {
+        "category": "패션 악세서리",
+        "synonyms": [
+          "Dior Saddle Belt"
+        ],
+        "trade_count": 132,
+        "avg_price": 460000
+      },
+      "디올 오블리크 다운 자켓": {
+        "category": "의류",
+        "synonyms": [
+          "Dior Oblique Down Jacket Navy Blue Technical Jacquard"
+        ],
+        "trade_count": 127,
+        "avg_price": 2761000
+      },
+      "디올 오블리크 인서트 스웨터": {
+        "category": "의류",
+        "synonyms": [
+          "Dior Sweater with Dior Oblique Inserts Cotton Jersey"
+        ],
+        "trade_count": 116,
+        "avg_price": 931000
+      },
+      "디올 데님 팬츠": {
+        "category": "의류",
+        "synonyms": [
+          "Dior Denim Pants"
+        ],
+        "trade_count": 115,
+        "avg_price": 552000
+      },
+      "디올 레이디 디올 까나쥬 그레인드 송아지 가죽 백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior Cannage Grained Calfskin Small Bag Black"
+        ],
+        "trade_count": 106,
+        "avg_price": 3250000
+      },
+      "디올 디올 오블리크 자카드 스트랩 지퍼 파우치 베이지 & 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Dior Oblique Jacquard Zipped Pouch with Strap Beige and Black"
+        ],
+        "trade_count": 98,
+        "avg_price": 1186000
+      },
+      "디올 새들 로터스 디올 오블리크 자카드 카드 지갑 블루": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Saddle Lotus Dior Oblique Jacquard Card Holder Blue"
+        ],
+        "trade_count": 96,
+        "avg_price": 272000
+      },
+      "디올 미차 스카프": {
+        "category": "패션 악세서리",
+        "synonyms": [
+          "Dior Mitzah Scarf"
+        ],
+        "trade_count": 96,
+        "avg_price": 184000
+      },
+      "디올 (W) 디올 워크앤디올 스니커즈 오블리크 자수 그레이": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Dior Walk'N'Dior Sneakers Oblique Gray"
+        ],
+        "trade_count": 96,
+        "avg_price": 519000
+      },
+      "디올 실크 스카프": {
+        "category": "패션 악세서리",
+        "synonyms": [
+          "Dior Silk Scarf"
+        ],
+        "trade_count": 94,
+        "avg_price": 262000
+      },
+      "디올 티셔츠": {
+        "category": "의류",
+        "synonyms": [
+          "Dior T-shirt"
+        ],
+        "trade_count": 93,
+        "avg_price": 359000
+      },
+      "디올 데님 자켓": {
+        "category": "의류",
+        "synonyms": [
+          "Dior Denim Jacket"
+        ],
+        "trade_count": 93,
+        "avg_price": 1326000
+      },
+      "디올 버티컬 디올 오블리크 자카드 장지갑 베이지 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Vertical Dior Oblique Jacquard Long Wallet Beige Black"
+        ],
+        "trade_count": 92,
+        "avg_price": 511000
+      },
+      "디올 새들 자스민 디올 오블리크 자카드 포켓 카드 지갑 블루": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Saddle Jasmine Dior Oblique Jacquard Pocket Card Holder Blue"
+        ],
+        "trade_count": 82,
+        "avg_price": 300000
+      },
+      "디올 디올 오블리크 자카드 지퍼 파우치 A4 베이지 & 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Dior Oblique Jacquard A4 Zipped Pouch Beige & Black"
+        ],
+        "trade_count": 77,
+        "avg_price": 576000
+      },
+      "디올 레이디 디올 까나쥬 양가죽 & 골드 메탈 백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior Cannage Lambskin & Gold Metal Bag Mini Black"
+        ],
+        "trade_count": 77,
+        "avg_price": 2713000
+      },
+      "디올 30 몽테인 디올 오블리크 자카드 파우치 나노 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior 30 Montaigne Dior Oblique Jacquard Nano Pouch Blue"
+        ],
+        "trade_count": 76,
+        "avg_price": 825000
+      },
+      "디올 B23 하이 디올 오블리크 캔버스 화이트 & 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "Dior B23 High Dior Oblique White & Black"
+        ],
+        "trade_count": 76,
+        "avg_price": 357000
+      },
+      "디올 레이디 디올 까나쥬 양가죽 백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior Cannage Lambskin Bag Medium Black"
+        ],
+        "trade_count": 73,
+        "avg_price": 4494000
+      },
+      "디올 (W) 디올 워크앤디올 스니커즈 캔버스 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Dior Walk'N'Dior Sneakers Canvas Black"
+        ],
+        "trade_count": 71,
+        "avg_price": 408000
+      },
+      "디올 스웨터": {
+        "category": "의류",
+        "synonyms": [
+          "Dior Sweater"
+        ],
+        "trade_count": 71,
+        "avg_price": 584000
+      },
+      "디올 (W) 디올 자디올 슬링백 펌프스 테크니컬 패브릭 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Dior J'adior Slingback Pumps Technical Fabric Black"
+        ],
+        "trade_count": 12,
+        "avg_price": 583000
+      },
+      "디올 새들 블룸 디올 오블리크 자카드 카드 지갑 그레이": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Saddle Bloom Dior Oblique Jacquard Card Holder Grey"
+        ],
+        "trade_count": 69,
+        "avg_price": 231000
+      },
+      "디올 30 몽테인 디올 오블리크 자카드 투인원 파우치 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior 30 Montaigne Dior Oblique Jacquard 2 In 1 Pouch Blue"
+        ],
+        "trade_count": 68,
+        "avg_price": 1218000
+      },
+      "디올 버티컬 디올 오블리크 자카드 장지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Vertical Dior Oblique Jacquard Long Wallet Black"
+        ],
+        "trade_count": 65,
+        "avg_price": 475000
+      },
+      "디올 뜨왈 드 주이 미차 스카프": {
+        "category": "패션 악세서리",
+        "synonyms": [
+          "Dior Toile De Jouy Sauvage Mitzah Scarf"
+        ],
+        "trade_count": 59,
+        "avg_price": 177000
+      },
+      "디올 30 몽테인 프리지아 디올 오블리크 자카드 카드 지갑 블루": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior 30 Montaigne Freesia Dior Oblique Jacquard Card Holder Blue"
+        ],
+        "trade_count": 57,
+        "avg_price": 246000
+      },
+      "디올 오블리크 오버셔츠": {
+        "category": "의류",
+        "synonyms": [
+          "DIOR OBLIQUE OVERSHIRT Navy Blue Cotton Jacquard"
+        ],
+        "trade_count": 57,
+        "avg_price": 1191000
+      },
+      "디올 B25 러너 스니커즈 블랙 스웨이드 화이트 테크니컬 메쉬 오블리크 캔버스": {
+        "category": "신발",
+        "synonyms": [
+          "Dior B25 Runner Sneakers Black Suede White Technical Mesh Black Dior Oblique Canvas"
+        ],
+        "trade_count": 56,
+        "avg_price": 797000
+      },
+      "디올 새들 그레인드 송아지 가죽 스트랩백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Saddle Grained Calfskin Bag with Strap Black"
+        ],
+        "trade_count": 55,
+        "avg_price": 2634000
+      },
+      "디올 30 몽테인 데아 디올 오블리크 자카드 파우치 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior 30 Montaigne Dea Dior Oblique Jacquard Pouch Blue"
+        ],
+        "trade_count": 52,
+        "avg_price": 650000
+      },
+      "디올 레이디 디올 블룸 페이턴트 까나쥬 송아지 가죽 카드 지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Lady Dior Bloom Patent Cannage Calfskin Card Holder Black"
+        ],
+        "trade_count": 51,
+        "avg_price": 324000
+      },
+      "디올 오버셔츠 디올 오블리크 카스리 코튼 데님": {
+        "category": "의류",
+        "synonyms": [
+          "Dior Overshirt Dior Oblique Kasuri Cotton Denim"
+        ],
+        "trade_count": 51,
+        "avg_price": 1201000
+      },
+      "디올 북 토트 디올 오블리크 자수 백 라지 에크루 & 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Book Tote Dior Oblique Embroidery Tote Large Ecru and Blue"
+        ],
+        "trade_count": 50,
+        "avg_price": 1916000
+      },
+      "디올 B24 오블리크 까나쥬 모티프 화이트": {
+        "category": "신발",
+        "synonyms": [
+          "Dior B24 Oblique Cannage Motif White"
+        ],
+        "trade_count": 50,
+        "avg_price": 666000
+      },
+      "디올 오블리크 코튼 테리 자카드 후드": {
+        "category": "의류",
+        "synonyms": [
+          "DIOR OBLIQUE HOODED SWEATSHIRT,"
+        ],
+        "trade_count": 49,
+        "avg_price": 1231000
+      },
+      "디올 디올 오블리크 자카드 트라이앵글 파우치 A5 베이지 & 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Dior Oblique Jacquard A5 Triangle Pouch Beige & Black"
+        ],
+        "trade_count": 48,
+        "avg_price": 422000
+      },
+      "디올 북 토트 디올 오블리크 자수 송아지 가죽 백 스몰 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Book Tote Dior Oblique Embroidery Calfskin Tote Small Blue"
+        ],
+        "trade_count": 48,
+        "avg_price": 2880000
+      },
+      "디올 레이디 디올 자스민 페이턴트 까나쥬 송아지 가죽 카드 지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Lady Dior Jasmine Patent Cannage Calfskin Card Holder Black"
+        ],
+        "trade_count": 47,
+        "avg_price": 341000
+      },
+      "디올 새들 디올 오블리크 자카드 벨트 파우치 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Saddle Dior Oblique Jacquard Belt Pouch Blue"
+        ],
+        "trade_count": 9000000
+      },
+      "디올 새들 디올 오블리크 자카드 백 베이지 & 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Saddle Dior Oblique Jacquard Bag Beige & Black"
+        ],
+        "trade_count": 46,
+        "avg_price": 2166000
+      },
+      "디올 30 몽테인 콜린 디올 디올 오블리크 자카드 휴대폰 홀더 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior 30 Montaigne Call'in Dior Dior Oblique Jacquard Phone Holder Blue"
+        ],
+        "trade_count": 46,
+        "avg_price": 686000
+      },
+      "디올 (W) 디올 워크앤디올 스니커즈 오블리크 자수 캔버스 블루": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Dior Walk'N'Dior Sneakers Oblique Navy"
+        ],
+        "trade_count": 46,
+        "avg_price": 471000
+      },
+      "디올 스웨트셔츠": {
+        "category": "의류",
+        "synonyms": [
+          "Dior Sweatshirt"
+        ],
+        "trade_count": 46,
+        "avg_price": 550000
+      },
+      "디올 카로 글리신 서플 까나쥬 송아지 가죽 지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Caro Glycine Supple Cannage Calfskin Wallet Black"
+        ],
+        "trade_count": 44,
+        "avg_price": 383000
+      },
+      "디올 북 토트 디올 오블리크 자수 백 미니 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Book Tote Dior Oblique Embroidery Tote Mini Blue"
+        ],
+        "trade_count": 44,
+        "avg_price": 1825000
+      },
+      "디올 레이디 디올 블룸 까나쥬 양가죽 카드 지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Lady Dior Bloom Cannage Lambskin Card Holder Black"
+        ],
+        "trade_count": 43,
+        "avg_price": 271000
+      },
+      "디올 오블리크 테리 코튼 자카드 티셔츠": {
+        "category": "의류",
+        "synonyms": [],
+        "trade_count": 43,
+        "avg_price": 675000
+      },
+      "디올 레이디 디올 까나쥬 램스킨 베니티 케이스 마이크로 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior Cannage Lambskin Vanity Case Micro Black"
+        ],
+        "trade_count": 41,
+        "avg_price": 1288000
+      },
+      "디올 가디건": {
+        "category": "의류",
+        "synonyms": [
+          "Dior Cardigan"
+        ],
+        "trade_count": 37,
+        "avg_price": 573000
+      },
+      "디올 뚜주흐 매크로까나쥬 송아지 가죽 백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Toujours Macrocannage Calfskin Medium Bag Black"
+        ],
+        "trade_count": 36,
+        "avg_price": 3250000
+      },
+      "디올 디올 오블리크 자카드 지퍼 장지갑 베이지 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Dior Oblique Jacquard Zipped Long Wallet Beige Black"
+        ],
+        "trade_count": 35,
+        "avg_price": 547000
+      },
+      "디올 카로 프리지아 서플 까나쥬 송아지 가죽 카드 지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Caro Freesia Cannage Calf Leather Leather Card Holder Black"
+        ],
+        "trade_count": 35,
+        "avg_price": 291000
+      },
+      "디올 디올 오블리크 자카드 파우치 A4 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Dior Oblique Jacquard A4 Pouch Black"
+        ],
+        "trade_count": 35,
+        "avg_price": 650000
+      },
+      "디올 봄버 자켓": {
+        "category": "의류",
+        "synonyms": [
+          "Dior Bomber Jacket"
+        ],
+        "trade_count": 35,
+        "avg_price": 1461000
+      },
+      "디올 반소매 스웨터": {
+        "category": "의류",
+        "synonyms": [],
+        "trade_count": 34,
+        "avg_price": 1104000
+      },
+      "디올 후드": {
+        "category": "의류",
+        "synonyms": [
+          "Dior Hooded Sweatshirt"
+        ],
+        "trade_count": 33,
+        "avg_price": 430000
+      },
+      "디올 레이디 디올 자스민 페이턴트 까나쥬 송아지 가죽 카드 지갑 체리 레드": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Lady Dior Jasmine Patent Cannage Calfskin Card Holder Cherry Red"
+        ],
+        "trade_count": 32,
+        "avg_price": 278000
+      },
+      "디올 비즈니스 디올 오블리크 자카드 카드 지갑 베이지 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Business Dior Oblique Jacquard Card Holder Beige Black"
+        ],
+        "trade_count": 32,
+        "avg_price": 183000
+      },
+      "디올 새들 디올 오블리크 자카드 파우치 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Saddle Dior Oblique Jacquard Pouch Blue"
+        ],
+        "trade_count": 20,
+        "avg_price": 1200000
+      },
+      "디올 스커트": {
+        "category": "의류",
+        "synonyms": [],
+        "trade_count": 32,
+        "avg_price": 127000
+      },
+      "디올 30 몽테인 디올 오블리크 자카드 카드 홀더 블루": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior 30 Montaigne Dior Oblique Jacquard Card Holder Blue"
+        ],
+        "trade_count": 31,
+        "avg_price": 195000
+      },
+      "디올 새들 그레인드 송아지 가죽 스트랩백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Saddle Grained Calfskin Mini Bag with Strap Black"
+        ],
+        "trade_count": 31,
+        "avg_price": 2249000
+      },
+      "디올 바비 그레인드 송아지 가죽 백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Bobby Grained Calfskin Medium Bag Black"
+        ],
+        "trade_count": 31,
+        "avg_price": 2120000
+      },
+      "디올 (W) 디올 디웨이 뮬 자수 코튼 딥 블루": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Dior Dway Mule Embroidered Cotton Deep Blue"
+        ],
+        "trade_count": 31,
+        "avg_price": 405000
+      },
+      "디올 뚜주흐 매크로까나쥬 송아지 가죽 백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Toujours Macrocannage Calfskin Small Bag Black"
+        ],
+        "trade_count": 30,
+        "avg_price": 3233000
+      },
+      "디올 (W) 디올 자디올 슬링백 발레리나 플랫 테크니컬 패브릭 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Dior J'adior Slingback Ballerina Flat Technical Fabric Black"
+        ],
+        "trade_count": 30,
+        "avg_price": 525000
+      },
+      "디올 코트": {
+        "category": "의류",
+        "synonyms": [
+          "Dior Coat"
+        ],
+        "trade_count": 30,
+        "avg_price": 228000
+      },
+      "디올 카로 서플 까나쥬 송아지 가죽 백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Caro Supple Cannage Calfskin Small Bag Black"
+        ],
+        "trade_count": 29,
+        "avg_price": 2691000
+      },
+      "디올 레이디 디올 마이 ABC디올 까나쥬 양가죽 백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior My ABCDior Cannage Lambskin Small Bag Black"
+        ],
+        "trade_count": 29,
+        "avg_price": 3526000
+      },
+      "디올 알파 샌들 베이지 & 블랙 디올 오블리크 자카드": {
+        "category": "신발",
+        "synonyms": [
+          "Dior Alpha Sandal Beige & Black Dior Oblique Jacquard"
+        ],
+        "trade_count": 29,
+        "avg_price": 910000
+      },
+      "디올 자켓": {
+        "category": "의류",
+        "synonyms": [
+          "Dior Jacket"
+        ],
+        "trade_count": 29,
+        "avg_price": 878000
+      },
+      "디올 트래블 디올 오블리크 자카드 트래블 키트 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Travel Dior Oblique Jacquard Travel Kit Blue"
+        ],
+        "trade_count": 27,
+        "avg_price": 771000
+      },
+      "디올 카로 서플 까나쥬 송아지 가죽 백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Caro Supple Cannage Calfskin Medium Bag Black"
+        ],
+        "trade_count": 26,
+        "avg_price": 3387000
+      },
+      "디올 레이디 디올 까나쥬 양가죽 투 톤 트렌치 백 스몰 베이지 & 비스킷": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior Cannage Lambskin Two Tone Trench Small Bag Beige & Biscuit"
+        ],
+        "trade_count": 26
+      },
+      "디올 레이디 디 조이 플랫 매크로까나쥬 양가죽 백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady D Joy Cannage Lambskin Bag Small Black"
+        ],
+        "trade_count": 26,
+        "avg_price": 3788000
+      },
+      "디올 레이디 디올 콜린 디올 까나쥬 양가죽 휴대폰 홀더 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior Call'in Dior Cannage Lambskin Phone Holder Black"
+        ],
+        "trade_count": 26,
+        "avg_price": 950000
+      },
+      "디올 레이디 디 조이 까나쥬 양가죽 백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady D Joy Cannage Lambskin Bag Medium Black"
+        ],
+        "trade_count": 25,
+        "avg_price": 4198000
+      },
+      "디올 반소매 폴로 셔츠": {
+        "category": "의류",
+        "synonyms": [],
+        "trade_count": 25,
+        "avg_price": 310000
+      },
+      "디올 (W) 디올 디웨이 뮬 힐 체크앤디올 자수 코튼 네이비 블루": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Dior Dway Mule Heel Check'n'Dior Embroidered Cotton Navy Blue"
+        ],
+        "trade_count": 24,
+        "avg_price": 500000
+      },
+      "디올 셔츠": {
+        "category": "의류",
+        "synonyms": [
+          "Dior Shirt"
+        ],
+        "trade_count": 24,
+        "avg_price": 1550000
+      },
+      "디올 오블리크 버킷햇": {
+        "category": "패션 악세서리",
+        "synonyms": [
+          "Dior Oblique Bucket Hat"
+        ],
+        "trade_count": 24,
+        "avg_price": 310000
+      },
+      "디올 디올 오블리크 자카드 스트랩 지퍼 파우치 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Dior Oblique Jacquard Zipped Pouch with Strap Black"
+        ],
+        "trade_count": 23,
+        "avg_price": 1183000
+      },
+      "디올 새들 디올 오블리크 자카드 버티컬 파우치 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Saddle Dior Oblique Jacquard Vertical Pouch Blue"
+        ],
+        "trade_count": 23,
+        "avg_price": 646000
+      },
+      "디올 마이 디올 까나쥬 램스킨 백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior My Dior Cannage Lambskin Bag Mini Black"
+        ],
+        "trade_count": 23,
+        "avg_price": 2075000
+      },
+      "디올 레이디 디올 까나쥬 그레인드 송아지 가죽 백 스몰 라떼": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior Cannage Grained Calfskin Small Bag Latte"
+        ],
+        "trade_count": 23,
+        "avg_price": 2500000
+      },
+      "디올 블레이저": {
+        "category": "의류",
+        "synonyms": [
+          "Dior Blazer"
+        ],
+        "trade_count": 23,
+        "avg_price": 182000
+      },
+      "디올 오블리크 스웨터 울 자카드": {
+        "category": "의류",
+        "synonyms": [
+          "Dior Oblique Sweater Navy Blue Wool Jacquard"
+        ],
+        "trade_count": 23,
+        "avg_price": 986000
+      },
+      "디올 디올 캠프 디올 오블리크 자수 백 미디엄 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Diorcamp Dior Oblique Embroidery Medium Bag Blue"
+        ],
+        "trade_count": 22,
+        "avg_price": 1880000
+      },
+      "디올 디올 오블리크 자카드 트라이앵글 파우치 A5 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Dior Oblique Jacquard A5 Triangle Pouch Black"
+        ],
+        "trade_count": 22,
+        "avg_price": 470000
+      },
+      "디올 새들 블룸 염소 가죽 카드 지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Saddle Bloom Goatskin Card Holder Black"
+        ],
+        "trade_count": 21,
+        "avg_price": 243000
+      },
+      "디올 레이디 디올 까나쥬 양가죽 파우치 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior Cannage Lambskin Pouch Black"
+        ],
+        "trade_count": 21,
+        "avg_price": 1300000
+      },
+      "디올 새들 디올 오블리크 자카드 백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Saddle Dior Oblique Jacquard Bag Black"
+        ],
+        "trade_count": 21,
+        "avg_price": 1966000
+      },
+      "디올 레이디 디올 페이턴트 까나쥬 송아지 가죽 파우치 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior Patent Cannage Calfskin Pouch Black"
+        ],
+        "trade_count": 20,
+        "avg_price": 1350000
+      },
+      "디올 반소매 셔츠": {
+        "category": "의류",
+        "synonyms": [],
+        "trade_count": 20,
+        "avg_price": 980000
+      },
+      "디올 오블리크 자카드 벨트": {
+        "category": "패션 악세서리",
+        "synonyms": [
+          "Dior Oblique Jacquard Bely"
+        ],
+        "trade_count": 20,
+        "avg_price": 512000
+      },
+      "디올 새들 코스모스 디올 오블리크 자카드 카드 지갑 블루": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Saddle Cosmos Dior Oblique Jacquard Card Holder Blue"
+        ],
+        "trade_count": 19,
+        "avg_price": 263000
+      },
+      "디올 디올 오블리크 자카드 파우치 A5 베이지 & 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Dior Oblique Jacquard A5 Pouch Beige & Black"
+        ],
+        "trade_count": 19,
+        "avg_price": 461000
+      },
+      "디올 새들 디올 오블리크 자카드 스트랩백 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Saddle Dior Oblique Jacquard Bag with Strap Blue"
+        ],
+        "trade_count": 19,
+        "avg_price": 1650000
+      },
+      "디올 B30 스니커즈 메쉬 테크니컬 패브릭 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "Dior B30 Sneakers Mesh Technical Fabric Black"
+        ],
+        "trade_count": 19,
+        "avg_price": 712000
+      },
+      "디올 사파리 디올 오블리크 자카드 스트랩백 미니 베이지 & 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Safari Dior Oblique Jacquard Bag with Mini Strap Beige and Black"
+        ],
+        "trade_count": 18,
+        "avg_price": 1570000
+      },
+      "디올 다운 자켓": {
+        "category": "의류",
+        "synonyms": [
+          "Dior Down Jacket"
+        ],
+        "trade_count": 18,
+        "avg_price": 2196000
+      },
+      "디올 CD 다이아몬드 캔버스 반지갑 그레이": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior CD Diamond Canvas Bi-Fold Wallet Grey"
+        ],
+        "trade_count": 17,
+        "avg_price": 402000
+      },
+      "디올 새들 디올 오블리크 자카드 블랙 그레인드 송아지 가죽 플랩 스트랩백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Saddle Dior Oblique Jacquard Black Grained Calfskin Small Messenger Bag with Flap Black"
+        ],
+        "trade_count": 17,
+        "avg_price": 2077000
+      },
+      "디올 북 토트 디올 오블리크 자수 백 미디엄 에크루 & 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Book Tote Dior Oblique Embroidery Tote Medium Ecru and Blue"
+        ],
+        "trade_count": 17,
+        "avg_price": 2130000
+      },
+      "디올 (W) 디올 워크앤디올 플랫폼 스니커즈 그레이 스톤 디올 오블리크": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Dior Walk'N'Dior Platform Sneakers Gray Stone Dior Oblique"
+        ],
+        "trade_count": 17,
+        "avg_price": 855000
+      },
+      "디올 블루종": {
+        "category": "의류",
+        "synonyms": [],
+        "trade_count": 17,
+        "avg_price": 525000
+      },
+      "디올 후드집업": {
+        "category": "의류",
+        "synonyms": [
+          "Dior Zipped Hoodie"
+        ],
+        "trade_count": 17,
+        "avg_price": 1445000
+      },
+      "디올 데님 오버셔츠": {
+        "category": "의류",
+        "synonyms": [
+          "Dior Denim Overshirt"
+        ],
+        "trade_count": 17,
+        "avg_price": 900000
+      },
+      "디올 머플러": {
+        "category": "패션 악세서리",
+        "synonyms": [
+          "Dior Muffler"
+        ],
+        "trade_count": 17,
+        "avg_price": 623000
+      },
+      "디올 새들 그레인드 송아지 가죽 벨트 파우치 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Saddle Grained Calfskin Belt Pouch Black"
+        ],
+        "trade_count": 16,
+        "avg_price": 662000
+      },
+      "디올 사파리 디올 오블리크 자카드 블랙 그레인드 송아지 가죽 스트랩백 맥시 베이지 & 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Safari Dior Oblique Jacquard Black Grained Calfskin Bag Maxi with Strap Beige and Black"
+        ],
+        "trade_count": 16,
+        "avg_price": 1620000
+      },
+      "디올 레이디 디올 페이턴트 까나쥬 송아지 가죽 백 미니 체리 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior Patent Cannage Calfskin Bag Mini Cherry Red"
+        ],
+        "trade_count": 16,
+        "avg_price": 3250000
+      },
+      "디올 레이디 디올 까나쥬 램스킨 휴대폰 파우치 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior Cannage Lambskin Phone Pouch Black"
+        ],
+        "trade_count": 16,
+        "avg_price": 1525000
+      },
+      "디올 레이디 디올 까나쥬 램스킨 베니티 케이스 마이크로 로즈 드 방": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior Cannage Lambskin Vanity Case Micro Rose Des Vents"
+        ],
+        "trade_count": 16,
+        "avg_price": 840000
+      },
+      "디올 (W) 디올 워크앤디올 플랫폼 스니커즈 딥 블루 디올 오블리크": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Dior Walk'N'Dior Platform Sneakers Deep Blue Dior Oblique"
+        ],
+        "trade_count": 16,
+        "avg_price": 480000
+      },
+      "디올 트래블 디올 오블리크 자수 베니티 케이스 숄더 스트랩 스몰 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Travel Dior Oblique Embroidery Small Vanity Case with Shoulder Strap Blue"
+        ],
+        "trade_count": 15,
+        "avg_price": 1952000
+      },
+      "디올 디올 오블리크 자카드 파우치 A4 베이지 & 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Dior Oblique Jacquard A4 Pouch Beige & Black"
+        ],
+        "trade_count": 15,
+        "avg_price": 490000
+      },
+      "디올 라이더 디올 오블리크 자카드 백팩 베이지 & 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Rider Dior Oblique Jacquard Backpack Beige & Black"
+        ],
+        "trade_count": 15,
+        "avg_price": 1650000
+      },
+      "디올 30 몽테인 디올 오블리크 자카드 백 미디엄 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior 30 Montaigne Dior Oblique Jacquard Bag Medium Blue"
+        ],
+        "trade_count": 15,
+        "avg_price": 2300000
+      },
+      "디올 B25 러너 스니커즈 그레이 블루 오블리크 캔버스 스웨이드": {
+        "category": "신발",
+        "synonyms": [
+          "Dior B25 Runner Sneakers Gray Suede White Technical Mesh Blue White Dior Oblique Canvas"
+        ],
+        "trade_count": 15,
+        "avg_price": 668000
+      },
+      "디올 디올 오블리크 자카드 지퍼 장지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Dior Oblique Jacquard Zipped Long Wallet Black"
+        ],
+        "trade_count": 14,
+        "avg_price": 542000
+      },
+      "디올 새들 디올 오블리크 자카드 그레인드 송아지 가죽 플랩 스트랩백 스몰 베이지 & 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Saddle Dior Oblique Jacquard Black Grained Calfskin Small Messenger Bag with Flap Beige and Black"
+        ],
+        "trade_count": 14,
+        "avg_price": 1906000
+      },
+      "디올 새들 디올 오블리크 자카드 트리플 파우치 베이지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Saddle Dior Oblique Jacquard Triple Pouch Beige Black"
+        ],
+        "trade_count": 14,
+        "avg_price": 1704000
+      },
+      "디올 B27 로우탑 스니커즈 화이트": {
+        "category": "신발",
+        "synonyms": [
+          "Dior B27 Low-Top Sneakers White"
+        ],
+        "trade_count": 14,
+        "avg_price": 433000
+      },
+      "디올 (W) 디올 워크앤디올 스니커즈 캔버스 화이트": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Dior Walk'N'Dior Sneakers Canvas White"
+        ],
+        "trade_count": 14,
+        "avg_price": 432000
+      },
+      "디올 카로 데일리 서플 까나쥬 송아지 가죽 파우치 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Caro Supple Cannage Calfskin Large Daily Pouch Black"
+        ],
+        "trade_count": 13,
+        "avg_price": 850000
+      },
+      "디올 레이디 디올 까나쥬 램스킨 백 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior Cannage Lambskin Bag LargeBlack"
+        ],
+        "trade_count": 13,
+        "avg_price": 4300000
+      },
+      "디올 크리스찬 디올 아뜰리에 티셔츠": {
+        "category": "의류",
+        "synonyms": [],
+        "trade_count": 13,
+        "avg_price": 365000
+      },
+      "디올 베스트": {
+        "category": "의류",
+        "synonyms": [
+          "Dior Vest"
+        ],
+        "trade_count": 13,
+        "avg_price": 444000
+      },
+      "디올 CD 다이아몬드 캔버스 반지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior CD Diamond Canvas Bi-Fold Wallet Black"
+        ],
+        "trade_count": 12,
+        "avg_price": 391000
+      },
+      "디올 레이디 디올 가드니아 까나쥬 양가죽 미니 지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Lady Cannage Sheepskin Leather Card Holder Mini Black"
+        ],
+        "trade_count": 12,
+        "avg_price": 315000
+      },
+      "디올 카로 매크로까나쥬 램스킨 백팩 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Caro Macrocannage Lambskin Medium Backpack Black"
+        ],
+        "trade_count": 12,
+        "avg_price": 3350000
+      },
+      "디올 새들 디올 오블리크 자카드 스트랩백 미니 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Saddle Dior Oblique Jacquard Bag Mini with Strap Blue"
+        ],
+        "trade_count": 12,
+        "avg_price": 1353000
+      },
+      "디올 북 토트 투왈 드 주이 리버스 자수 카프스킨 백 스몰 블루 & 에크루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Book Tote Toile de Jouy Reverse Embroidery Calfskin Tote Small Blue and Ecru"
+        ],
+        "trade_count": 12
+      },
+      "디올 북 토트 매크로까나쥬 송아지 가죽 스트랩 백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Book Tote Macrocannage Calfskin Tote Mini with Strap Black"
+        ],
+        "trade_count": 12,
+        "avg_price": 2596000
+      },
+      "디올 북 토트 투왈 드 주이 리버스 자수 백 라지 블루 & 에크루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Book Tote Toile de Jouy Reverse Embroidery Tote Large Blue and Ecru"
+        ],
+        "trade_count": 12,
+        "avg_price": 2185000
+      },
+      "디올 바비 박스 송아지 가죽 백 스몰 블랙 골드": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Bobby Box Calfskin Small Bag Black Gold"
+        ],
+        "trade_count": 12,
+        "avg_price": 1775000
+      },
+      "디올 바비 디올 오블리크 자카드 백 미디엄 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Bobby Dior Oblique Jacquard Medium Bag Blue"
+        ],
+        "trade_count": 12,
+        "avg_price": 1950000
+      },
+      "디올 레이디 디올 펄 까나쥬 양가죽 백 미니 로터스": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior Pearl Cannage Lambskin Bag Mini Lotus"
+        ],
+        "trade_count": 12,
+        "avg_price": 2275000
+      },
+      "디올 (W) 디올-ID 화이트 프렌치 블루 테크니컬 패브릭 스니커즈": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Dior-ID White French Blue Technical Fabric Sneakers"
+        ],
+        "trade_count": 12,
+        "avg_price": 523000
+      },
+      "디올 오블리크 가디건": {
+        "category": "의류",
+        "synonyms": [
+          "Dior Oblique Cardigan"
+        ],
+        "trade_count": 12,
+        "avg_price": 1866000
+      },
+      "디올 레이디 디올 자스민 페이턴트 까나쥬 송아지 가죽 카드 지갑 로즈 드 방": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Lady Dior Jasmine Patent Cannage Calfskin Card Holder Rose des Vents"
+        ],
+        "trade_count": 11,
+        "avg_price": 369000
+      },
+      "디올 새들 디올 오블리크 자카드 체인 파우치 스몰 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Saddle Dior Oblique Jacquard Small Pouch with Chain Blue"
+        ],
+        "trade_count": 11,
+        "avg_price": 1069000
+      },
+      "디올 레이디 디올 마이 ABC디올 까나쥬 양가죽 백 스몰 스톤 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior My ABCDior Cannage Lambskin Small Bag Stone Gray"
+        ],
+        "trade_count": 11,
+        "avg_price": 3571000
+      },
+      "디올 레이디 디올 펄 까나쥬 양가죽 백 미니 라떼": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior Pearlescent Cannage Lambskin Bag Mini Latte"
+        ],
+        "trade_count": 11,
+        "avg_price": 3950000
+      },
+      "디올 레이디 디올 까나쥬 양가죽 베니티 케이스 마이크로 클라우드 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior Cannage Lambskin Vanity Case Micro Cloud Blue"
+        ],
+        "trade_count": 11,
+        "avg_price": 1000000
+      },
+      "디올 갤롭 그레인드 송아지 가죽 슬링백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Gallop Grained Calfskin Sling Bag Black"
+        ],
+        "trade_count": 11,
+        "avg_price": 1815000
+      },
+      "디올 30 몽테인 복스 송아지 가죽 백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior 30 Montaigne Box Calfskin Bag Medium Black"
+        ],
+        "trade_count": 11,
+        "avg_price": 1726000
+      },
+      "디올옴므 리트로 스니커즈 화이트": {
+        "category": "신발",
+        "synonyms": [
+          "DIOR HOMME RETRO SNEAKERS WHITE"
+        ],
+        "trade_count": 11,
+        "avg_price": 172000
+      },
+      "디올 B23 슬립온 디올 오블리크 스니커즈": {
+        "category": "신발",
+        "synonyms": [
+          "Dior B23 Slip On Dior Oblique Sneakers"
+        ],
+        "trade_count": 11,
+        "avg_price": 243000
+      },
+      "디올 CD 다이아몬드 캔버스 버티컬 2단 카드 지갑 그레이": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior CD Diamond Canvas Vertical Bi-Fold Card Holder Grey"
+        ],
+        "trade_count": 10,
+        "avg_price": 210000
+      },
+      "디올 30 몽테인 로터스 디올 오블리크 자카드 지갑 베이지 블루": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior 30 Montaigne Lotus Dior Oblique Jacquard Wallet Beige Blue"
+        ],
+        "trade_count": 10,
+        "avg_price": 415000
+      },
+      "디올 오블리크 자카드 & 그레인 송아지 가죽 지퍼 카드 지갑 베이지 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Oblique Jacquard & Grained Calfskin Zipped Card Holder Beige Black"
+        ],
+        "trade_count": 10,
+        "avg_price": 250000
+      },
+      "디올 새들 디올 오블리크 자카드 슬림 파우치 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Saddle Dior Oblique Jacquard Slim Pouch Blue"
+        ],
+        "trade_count": 10,
+        "avg_price": 870000
+      },
+      "디올 북 토트 디올 조디악 자수 백 미디엄 라떼 & 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Book Tote Dior Zodiac Embroidery Tote Medium Latte and Black"
+        ],
+        "trade_count": 10,
+        "avg_price": 1900000
+      },
+      "디올 아쿠아 샌들 베이지 & 블랙 디올 오블리크 자카드": {
+        "category": "신발",
+        "synonyms": [
+          "Dior Aqua Sandal Beige & Black Dior Oblique Jacquard"
+        ],
+        "trade_count": 8,
+        "avg_price": 750000
+      },
+      "디올 (W) 디올 트왈 드 주이 자수 코튼 디웨이 뮬 그레이": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Dior Toile de Jouy Embroidered Cotton Dway Mule Grey"
+        ],
+        "trade_count": 10,
+        "avg_price": 293000
+      },
+      "디올 옴므 D버클 벨트": {
+        "category": "패션 악세서리",
+        "synonyms": [
+          "Dior Homme D-Point Belt"
+        ],
+        "trade_count": 10,
+        "avg_price": 494000
+      },
+      "디올 디올 그래비티 송아지 가죽 버티컬 2단 카드 지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Dior Gravity Calfskin Vertical Bifold Card Holder Black"
+        ],
+        "trade_count": 9,
+        "avg_price": 476000
+      },
+      "디올 비즈니스 디올 오블리크 자카드 카드 지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Business Dior Oblique Jacquard Card Holder Black"
+        ],
+        "trade_count": 9,
+        "avg_price": 440000
+      },
+      "디올 새들 로터스 염소 가죽 카드 지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Saddle Lotus Goatskin Card Holder Black"
+        ],
+        "trade_count": 9
+      },
+      "디올 카로 프리지아 서플 까나쥬 송아지 가죽 카드 지갑 파우더 핑크": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Caro Freesia Cannage Calf Leather Leather Card Holder Powder Pink"
+        ],
+        "trade_count": 9,
+        "avg_price": 280000
+      },
+      "디올 카로 프리지아 서플 까나쥬 송아지 가죽 카드 지갑 클라우드 블루": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Caro Freesia Cannage Calf Leather Leather Card Holder Cloud Blue"
+        ],
+        "trade_count": 9,
+        "avg_price": 316000
+      },
+      "디올 디올 캠프 디올 오블리크 자수 백 스몰 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Diorcamp Dior Oblique Embroidery Small Bag Blue"
+        ],
+        "trade_count": 9,
+        "avg_price": 2650000
+      },
+      "디올 디올 오블리크 자카드 파우치 A5 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Dior Oblique Jacquard A5 Pouch Black"
+        ],
+        "trade_count": 9,
+        "avg_price": 603000
+      },
+      "디올 새들 그레인드 송아지 가죽 스트랩백 미니 라떼": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Saddle Grained Calfskin Mini Bag with Strap Latte"
+        ],
+        "trade_count": 9,
+        "avg_price": 1600000
+      },
+      "디올 마이 디올 까나쥬 램스킨 백 미니 라떼": {
+        "category": "가방",
+        "synonyms": [
+          "Dior My Dior Cannage Lambskin Bag Mini Latte"
+        ],
+        "trade_count": 9,
+        "avg_price": 2000000
+      },
+      "디올 레이디 디올 까나쥬 양가죽 백 미디엄 웜 토프": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior Cannage Lambskin Medium Bag Warm Taupe"
+        ],
+        "trade_count": 9,
+        "avg_price": 4500000
+      },
+      "디올 갤롭 디올 오블리크 자카드 그레인드 송아지 가죽 슬링백 베이지 & 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Gallop Dior Oblique Jacquard Grained Calfskin Sling Bag Beige and Black"
+        ],
+        "trade_count": 9,
+        "avg_price": 2150000
+      },
+      "디올 30 몽테인 디올 오블리크 자카드 체인 백 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior 30 Montaigne Dior Oblique Jacquard Chain Bag Blue"
+        ],
+        "trade_count": 9,
+        "avg_price": 3180000
+      },
+      "디올 (W) 디올 디웨이 뮬 힐 트왈 드 주이 자수 코튼 그레이": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Dior Dway Mule Heel Toile de Jouy Embroidered Cotton Grey"
+        ],
+        "trade_count": 9,
+        "avg_price": 750000
+      },
+      "디올 크리스찬 디올 아뜰리에 스웨트셔츠": {
+        "category": "의류",
+        "synonyms": [],
+        "trade_count": 9,
+        "avg_price": 425000
+      },
+      "디올 아노락": {
+        "category": "의류",
+        "synonyms": [
+          "Dior Anorak"
+        ],
+        "trade_count": 9,
+        "avg_price": 384000
+      },
+      "디올 오블리크 슬리브리스 다운 자켓": {
+        "category": "의류",
+        "synonyms": [
+          "Dior Oblique Sleeveless Down Jacket"
+        ],
+        "trade_count": 9,
+        "avg_price": 2262000
+      },
+      "디올 30 몽테인 프리지아 디올 오블리크 자카드 카드 지갑 그레이": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior 30 Montaigne Freesia Dior Oblique Jacquard Card Holder Grey"
+        ],
+        "trade_count": 8,
+        "avg_price": 200000
+      },
+      "디올 레이디 디올 자스민 페이턴트 까나쥬 송아지 가죽 카드 지갑 스카이 블루": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Lady Dior Jasmine Patent Cannage Calfskin Card Holder Sky Blue"
+        ],
+        "trade_count": 8,
+        "avg_price": 240000
+      },
+      "디올 카로 매크로까나쥬 램스킨 백팩 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Caro Macrocannage Lambskin Small Backpack Black"
+        ],
+        "trade_count": 8,
+        "avg_price": 2956000
+      },
+      "디올 새들 그레인드 송아지 가죽 스트랩백 라떼": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Saddle Grained Calfskin Bag with Strap Latte"
+        ],
+        "trade_count": 8,
+        "avg_price": 2500000
+      },
+      "디올 사파리 디올 오블리크 자카드 스트랩백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Safari Dior Oblique Jacquard Bag with Strap Black"
+        ],
+        "trade_count": 8,
+        "avg_price": 1806000
+      },
+      "디올 30 몽테인 데아 디올 오블리크 자카드 파우치 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Dior 30 Montaigne Dea Dior Oblique Jacquard Pouch Gray"
+        ],
+        "trade_count": 8,
+        "avg_price": 400000
+      },
+      "디올 버킷햇": {
+        "category": "패션 악세서리",
+        "synonyms": [
+          "Dior Bucket Hat"
+        ],
+        "trade_count": 8,
+        "avg_price": 230000
+      },
+      "디올 롱슬리브 폴로 셔츠": {
+        "category": "의류",
+        "synonyms": [],
+        "trade_count": 8,
+        "avg_price": 415000
+      },
+      "디올 레이디 디올 가드니아 페이턴트 까나쥬 송아지 가죽 미니 지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Lady Dior Gardenia Patent Cannage Calfskin Mini Wallet Black"
+        ],
+        "trade_count": 7,
+        "avg_price": 474000
+      },
+      "디올 카로 서플 까나쥬 송아지 가죽 백 스몰 아이보리": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Caro Supple Cannage Calfskin Small Bag Ivory"
+        ],
+        "trade_count": 7,
+        "avg_price": 2125000
+      },
+      "디올 카로 서플 까나쥬 송아지 가죽 백 스몰 스톤 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Caro Supple Cannage Calfskin Small Bag Stone Gray"
+        ],
+        "trade_count": 7,
+        "avg_price": 3000000
+      },
+      "디올 카로 퀼트 매크로까나쥬 송아지 가죽 백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Caro Quilted Macrocannage Calfskin Medium Bag Black"
+        ],
+        "trade_count": 7,
+        "avg_price": 3450000
+      },
+      "디올 링고 CD 다이아몬드 캔버스 스무스 송아지 가죽 메신저백 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lingot CD Diamond Canvas Smooth Calfskin Messenger Bag Grey"
+        ],
+        "trade_count": 7,
+        "avg_price": 1250000
+      },
+      "디올 레이디 디올 페이턴트 까나쥬 송아지 가죽 체인 파우치 체리 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior Patent Cannage Calfskin Chain Pouch Cherry Red"
+        ],
+        "trade_count": 7,
+        "avg_price": 1008000
+      },
+      "디올 레이디 디올 마이 ABC디올 까나쥬 양가죽 백 스몰 블러쉬": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior My ABCDior Cannage Lambskin Small Bag Blush"
+        ],
+        "trade_count": 7,
+        "avg_price": 3878000
+      },
+      "디올 레이디 디올 페이턴트 까나쥬 송아지 가죽 백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior Patent Cannage Calfskin Small Bag Black"
+        ],
+        "trade_count": 7,
+        "avg_price": 3836000
+      },
+      "디올 레이디 디올 까나쥬 양가죽 백 미니 하이드레인저 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior Cannage Lambskin Bag Mini Hydrangea Pink"
+        ],
+        "trade_count": 7,
+        "avg_price": 3670000
+      },
+      "디올 B23 로우 오블리크 캔버스 블랙 & 화이트": {
+        "category": "신발",
+        "synonyms": [
+          "Dior B23 Low Dior Oblique Black & White"
+        ],
+        "trade_count": 7,
+        "avg_price": 400000
+      },
+      "디올 브이넥 스웨터": {
+        "category": "의류",
+        "synonyms": [],
+        "trade_count": 7,
+        "avg_price": 112000
+      },
+      "디올 롱슬리브 티셔츠": {
+        "category": "의류",
+        "synonyms": [],
+        "trade_count": 7,
+        "avg_price": 220000
+      },
+      "디올 레이디 디올 까나쥬 양가죽 & 실버 메탈 백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior Cannage Lambskin & Silver Metal Bag Mini Black"
+        ],
+        "trade_count": 6,
+        "avg_price": 2498000
+      },
+      "디올 CD 다이아몬드 캔버스 버티컬 장지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior CD Diamond Canvas Vertical Long Wallet Black"
+        ],
+        "trade_count": 6,
+        "avg_price": 475000
+      },
+      "디올 북 토트 플랜 드 파리 자수 백 미디엄 블랙 & 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Book Tote Plan de Paris Embroidery Tote Medium Black and White"
+        ],
+        "trade_count": 6,
+        "avg_price": 2688000
+      },
+      "디올 바비 이스트 웨스트 그레인드 송아지 가죽 백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Bobby East West Grained Calfskin Bag Black"
+        ],
+        "trade_count": 6,
+        "avg_price": 1950000
+      },
+      "디올 레이디 까나쥬 램스킨 파우치 헤이즐넛": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Cannage Lambskin Pouch Hazelnut"
+        ],
+        "trade_count": 6
+      },
+      "디올 레이디 디올 마이 ABC디올 까나쥬 양가죽 백 스몰 로즈 드 방": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior My ABCDior Cannage Lambskin Small Bag Rose des Vents"
+        ],
+        "trade_count": 6,
+        "avg_price": 2100000
+      },
+      "디올 x 캑터스 잭 B713 스니커즈 모카 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "Dior x Cactus Jack B713 Sneakers Mocha Black"
+        ],
+        "trade_count": 6,
+        "avg_price": 980000
+      },
+      "디올 익스플로러 로퍼 스무스 카프스킨 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "Dior Explorer Loafer Smooth Calfskin Black"
+        ],
+        "trade_count": 6,
+        "avg_price": 760000
+      },
+      "디올 인디올 뮬 베이지 & 블랙 디올 오블리크 자카드": {
+        "category": "신발",
+        "synonyms": [
+          "Dior Indior Mule Beige & Black Dior Oblique Jacquard"
+        ],
+        "trade_count": 6,
+        "avg_price": 780000
+      },
+      "디올 x 숀 B23 하이 오블리크 캔버스 꿀벌 자수 패치": {
+        "category": "신발",
+        "synonyms": [
+          "Dior x Shawn B23 High Dior Oblique Canvas Bee Embroidery Patch"
+        ],
+        "trade_count": 6,
+        "avg_price": 130000
+      },
+      "디올 B23 로우 디올 오블리크 화이트": {
+        "category": "신발",
+        "synonyms": [
+          "Dior B23 Low Dior Oblique White"
+        ],
+        "trade_count": 6,
+        "avg_price": 400000
+      },
+      "디올 터틀넥 스웨터": {
+        "category": "의류",
+        "synonyms": [],
+        "trade_count": 6,
+        "avg_price": 490000
+      },
+      "디올 지퍼 가디건": {
+        "category": "의류",
+        "synonyms": [
+          "Dior Zipped Cardigan"
+        ],
+        "trade_count": 6,
+        "avg_price": 720000
+      },
+      "디올 크리스찬 디올 아뜰리에 스웨터": {
+        "category": "의류",
+        "synonyms": [
+          "Dior Christian Dior Atelier Sweater"
+        ],
+        "trade_count": 6,
+        "avg_price": 1083000
+      },
+      "디올 (W) 디올 크로노 스니커즈 메시 & 가죽-이펙트 패널 화이트 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Dior Chrono Sneakers Mesh & Leather-Effect Panels White Black"
+        ],
+        "trade_count": 5,
+        "avg_price": 568000
+      },
+      "디올 카로 컴팩트 스칼렛 서플 까나쥬 송아지 가죽 지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Caro Compact Scarlet Supple Cannage Calfskin Wallet Black"
+        ],
+        "trade_count": 5
+      },
+      "디올 CD 다이아몬드 캔버스 카드 홀더 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior CD Diamond Canvas Card Holder Black"
+        ],
+        "trade_count": 5,
+        "avg_price": 220000
+      },
+      "디올 디올 오블리크 자카드 머니 클립 지갑 베이지 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Dior Oblique Jacquard Money Clip Wallet Beige Black"
+        ],
+        "trade_count": 5,
+        "avg_price": 330000
+      },
+      "디올 트래블 까나쥬 자수 베니티 케이스 라이트 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Travel Cannage Embroidery Vanity Case Light Grey"
+        ],
+        "trade_count": 5,
+        "avg_price": 775000
+      },
+      "디올 카로 서플 까나쥬 송아지 가죽 지퍼 파우치 체인 로즈 데 방": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Caro Supple Cannage Calfskin Zipped Pouch Chain Rose Des Vents"
+        ],
+        "trade_count": 5,
+        "avg_price": 910000
+      },
+      "디올 CD 다이아몬드 캔버스 파우치 A5 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Dior CD Diamond Canvas A5 Pouch Gray"
+        ],
+        "trade_count": 5,
+        "avg_price": 450000
+      },
+      "디올 새들 디올 오블리크 자카드 체인 파우치 미디엄 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Saddle Dior Oblique Jacquard Medium Pouch with Chain Blue"
+        ],
+        "trade_count": 5,
+        "avg_price": 662000
+      },
+      "디올 북 토트 매크로까나쥬 송아지 가죽 백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Book Tote Macrocannage Calfskin Tote Small Black"
+        ],
+        "trade_count": 5,
+        "avg_price": 3516000
+      },
+      "디올 링고 디올 오블리크 자카드 토일레트리 케이스 베이지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lingot Dior Oblique Jacquard Toiletry Case Beige Black"
+        ],
+        "trade_count": 5,
+        "avg_price": 1220000
+      },
+      "디올 레이디 디올 까나쥬 양가죽 백 스몰 파우더 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior Cannage Lambskin Small Bag Powder Pink"
+        ],
+        "trade_count": 5,
+        "avg_price": 3500000
+      },
+      "디올 레이디 디올 까나쥬 양가죽 백 미디엄 스톤 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior Cannage Lambskin Medium Bag Stone Gray"
+        ],
+        "trade_count": 5,
+        "avg_price": 2333000
+      },
+      "디올 30 몽테인 그레인드 송아지 가죽 투인원 파우치 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior 30 Montaigne Grained Calfskin 2 In 1 Pouch Black"
+        ],
+        "trade_count": 5,
+        "avg_price": 1050000
+      },
+      "디올 (W) 디올 자디올 슬링백 펌프스 누드 테크니컬 패브릭": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Dior J'adior Slingback Pumps Technical Fabric Nude"
+        ],
+        "trade_count": 3,
+        "avg_price": 652000
+      },
+      "디올 B25 러너 스니커즈 스무스 카프스킨 베이지 블랙 오블리크 자카드 그레이": {
+        "category": "신발",
+        "synonyms": [
+          "Dior B25 Runner Sneakers Smooth Calfskin and Beige & Black Dior Oblique Jacquard Grey"
+        ],
+        "trade_count": 5,
+        "avg_price": 800000
+      },
+      "디올 B27 미드탑 스니커즈 그레이": {
+        "category": "신발",
+        "synonyms": [
+          "Dior B27 Mid-Top Sneakers Gray"
+        ],
+        "trade_count": 5,
+        "avg_price": 270000
+      },
+      "디올 원피스": {
+        "category": "의류",
+        "synonyms": [],
+        "trade_count": 5,
+        "avg_price": 1350000
+      },
+      "디올 CD 다이아몬드 캔버스 지퍼 장지갑 그레이": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior CD Diamond Canvas Zipped Long Wallet Grey"
+        ],
+        "trade_count": 4,
+        "avg_price": 610000
+      },
+      "디올 30 몽테인 프리지아 데님 디올 오블리크 자카드 카드 지갑 블루": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior 30 Montaigne Freesia Denim Dior Oblique Jacquard Card Holder Blue"
+        ],
+        "trade_count": 4,
+        "avg_price": 300000
+      },
+      "디올 새들 블룸 염소 가죽 카드 지갑 클라우드 블루": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Saddle Bloom Goatskin Card Holder Cloud Blue"
+        ],
+        "trade_count": 4,
+        "avg_price": 236000
+      },
+      "디올 카로 글리신 서플 까나쥬 송아지 가죽 지갑 샌드": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Caro Glycine Supple Cannage Calfskin Wallet Sand"
+        ],
+        "trade_count": 4,
+        "avg_price": 333000
+      },
+      "디올 30 몽테인 로터스 그레인드 송아지 가죽 지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior 30 Montaigne Lotus Grained Calfskin Wallet Black"
+        ],
+        "trade_count": 4,
+        "avg_price": 320000
+      },
+      "디올 비즈니스 CD 다이아몬드 캔버스 카드 지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Business CD Diamond Canvas Card Holder Black"
+        ],
+        "trade_count": 4,
+        "avg_price": 195000
+      },
+      "디올 비즈니스 CD 다이아몬드 캔버스 카드 지갑 그레이": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Business CD Diamond Canvas Card Holder Grey"
+        ],
+        "trade_count": 4,
+        "avg_price": 392000
+      },
+      "디올 카로 서플 까나쥬 송아지 가죽 백 스몰 로프 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Caro Supple Cannage Calfskin Small Bag Rope Beige"
+        ],
+        "trade_count": 4,
+        "avg_price": 2850000
+      },
+      "디올 새들 디올 오블리크 자카드 트리플 파우치 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Saddle Dior Oblique Jacquard Triple Pouch Black"
+        ],
+        "trade_count": 4,
+        "avg_price": 1550000
+      },
+      "디올 북 토트 디올 오블리크 자수 송아지 가죽 백 미디엄 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Book Tote Dior Oblique Embroidery Calfskin Tote Medium Blue"
+        ],
+        "trade_count": 4,
+        "avg_price": 3250000
+      },
+      "디올 바비 디올 오블리크 자카드 백 스몰 블루 골드": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Bobby Dior Oblique Jacquard Small Bag Blue Gold"
+        ],
+        "trade_count": 4,
+        "avg_price": 2590000
+      },
+      "디올 마이 디올 백 미니 파우더 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Dior My Dior Bag Mini Powder Pink"
+        ],
+        "trade_count": 4,
+        "avg_price": 1525000
+      },
+      "디올 링고 디올 오블리크 자카드 백 50 베이지 & 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lingot Dior Oblique Jacquard 50 Bag Beige & Black"
+        ],
+        "trade_count": 4,
+        "avg_price": 2950000
+      },
+      "디올 레이디 디올 까나쥬 양가죽 백 미디엄 블러쉬": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior Cannage Lambskin Medium Bag Blush"
+        ],
+        "trade_count": 4,
+        "avg_price": 2800000
+      },
+      "디올 레이디 디올 까나쥬 양가죽 백 미니 샌드 컬러": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior Cannage Lambskin Bag Mini Sand Color"
+        ],
+        "trade_count": 4
+      },
+      "디올 레이디 디 라이트 투왈 드 주이 리버스 자수 백 미디엄 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady D Lite Toile de Jouy Reverse Embroidery Bag Medium Blue"
+        ],
+        "trade_count": 4
+      },
+      "디올 레이디 디 조이 까나쥬 양가죽 백 미디엄 비스킷": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady D Joy Cannage Lambskin Bag Medium Biscuit"
+        ],
+        "trade_count": 4,
+        "avg_price": 4866000
+      },
+      "디올 레이디 디올 콜린 디올 까나쥬 양가죽 휴대폰 홀더 파우더 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior Call'in Dior Cannage Lambskin Phone Holder Powder Beige"
+        ],
+        "trade_count": 4,
+        "avg_price": 790000
+      },
+      "디올 갤롭 디올 오블리크 자카드 그레인드 송아지 가죽 스트랩백 미니 베이지 & 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Gallop Dior Oblique Jacquard Grained Calfskin Mini Strap Bag Beige & Black"
+        ],
+        "trade_count": 4,
+        "avg_price": 2020000
+      },
+      "디올 B27 로우탑 스니커즈 화이트 그레이": {
+        "category": "신발",
+        "synonyms": [
+          "Dior B27 Low-Top Sneakers White Grey"
+        ],
+        "trade_count": 4,
+        "avg_price": 650000
+      },
+      "디올 카를로 더비 슈즈 블랙 폴리쉬드 카프스킨": {
+        "category": "신발",
+        "synonyms": [
+          "Dior Carlo Derby Shoe Black Polished Calfskin"
+        ],
+        "trade_count": 4,
+        "avg_price": 400000
+      },
+      "디올 익스플로러 로퍼 베이지 & 블랙 디올 오블리크 자카드": {
+        "category": "신발",
+        "synonyms": [
+          "Dior Explorer Loafer Beige & Black Dior Oblique Jacquard"
+        ],
+        "trade_count": 4,
+        "avg_price": 580000
+      },
+      "디올 (W) 디올 디올액트 램스킨 샌들 화이트": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Dior DiorAct Lambskin Sandal White"
+        ],
+        "trade_count": 4,
+        "avg_price": 320000
+      },
+      "디올 (W) 디올 D 커넥트 테크니컬 패브릭 누드": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Dior D-Connect Technical Fabric Nude"
+        ],
+        "trade_count": 4,
+        "avg_price": 200000
+      },
+      "디올 B23 하이 디올 오블리크 캔버스 블랙 & 화이트": {
+        "category": "신발",
+        "synonyms": [
+          "Dior B23 High Dior Oblique Canvas Black & White"
+        ],
+        "trade_count": 4,
+        "avg_price": 550000
+      },
+      "디올 트렌치 코트": {
+        "category": "의류",
+        "synonyms": [],
+        "trade_count": 4,
+        "avg_price": 475000
+      },
+      "디올 후드 블루종": {
+        "category": "의류",
+        "synonyms": [],
+        "trade_count": 4,
+        "avg_price": 1900000
+      },
+      "디올 토일레트리 오블리크 자카드 캔버스 클러치 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Toiletry Oblique Jacquard Canvas Clutch Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 1133000
+      },
+      "디올 오블리크 자카드 & 블랙 그레인드 카프스킨 스트랩 새들백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Oblique Jacquard & Black Grained Calfskin Strap Saddle Bag Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 1816000
+      },
+      "디올 30 몽테인 가죽 벨트": {
+        "category": "패션 악세서리",
+        "synonyms": [
+          "Dior 30 Montaigne Leather Belt"
+        ],
+        "trade_count": 3,
+        "avg_price": 480000
+      },
+      "디올 레이디 디올 가르데니아 까나쥬 페이턴트 송아지 가죽 미니 지갑 체리 레드": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Lady Dior Gardenia Cannage Patent Calfskin Mini Wallet Cherry Red"
+        ],
+        "trade_count": 3,
+        "avg_price": 183000
+      },
+      "디올 오블리크 자카드 캔버스 토일레트리 백 베이지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Oblique Jacquard Canvas Toiletry Bag Beige Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 725000
+      },
+      "디올 레이디 디올 로터스 페이턴트 까나쥬 송아지 가죽 지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Lady Dior Lotus Patent Cannage Calfskin Wallet Black"
+        ],
+        "trade_count": 3
+      },
+      "디올 CD 다이아몬드 캔버스 버티컬 2단 카드 지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior CD Diamond Canvas Vertical Bi-Fold Card Holder Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 300000
+      },
+      "디올 디올 오블리크 자카드 머니 클립 지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Dior Oblique Jacquard Money Clip Wallet Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 300000
+      },
+      "디올 트래블 까나쥬 자수 베니티 케이스 브와 드 로즈": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Travel Cannage Embroidery Vanity Case Bois De Rose"
+        ],
+        "trade_count": 3,
+        "avg_price": 800000
+      },
+      "디올 카로 서플 까나쥬 송아지 가죽 지퍼 파우치 체인 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Caro Supple Cannage Calfskin Zipped Pouch with Chain Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 1150000
+      },
+      "디올 새들 그레인드 송아지 가죽 소프트 백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Saddle Grained Calfskin Soft Bag Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 1725000
+      },
+      "디올 사파리 디올 오블리크 자카드 스트랩백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Safari Dior Oblique Jacquard Bag Mini with Strap Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 100000
+      },
+      "디올 북 토트 투왈 드 주이 조디악 자수 백 스몰 라떼 & 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Book Tote Toile de Jouy Zodiac Embroidery Tote Small Latte and Black"
+        ],
+        "trade_count": 3
+      },
+      "디올 북 토트 투왈 드 주이 자수 백 미디엄 에크루 & 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Book Tote Toile de Jouy Embroidery Medium Tote Ecru and Pink"
+        ],
+        "trade_count": 3,
+        "avg_price": 1833000
+      },
+      "디올 북 토트 투왈 드 주이 리버스 자수 백 미디엄 그레이 & 에크루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Book Tote Toile de Jouy Reverse Embroidery Tote Medium Gray & Ecru"
+        ],
+        "trade_count": 3,
+        "avg_price": 1950000
+      },
+      "디올 북 토트 투왈 드 주이 리버스 자수 백 미디엄 블루 & 에크루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Book Tote Toile de Jouy Reverse Embroidery Tote Medium Blue and Ecru"
+        ],
+        "trade_count": 3,
+        "avg_price": 3300000
+      },
+      "디올 북 토트 디올 오블리크 자수 백 미디엄 에크루 & 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Book Tote Dior Oblique Embroidery Tote Medium Ecru and Gray"
+        ],
+        "trade_count": 3,
+        "avg_price": 1058000
+      },
+      "디올 레이디 까나쥬 램스킨 파우치 클라우드 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Cannage Lambskin Pouch Cloud Blue"
+        ],
+        "trade_count": 3,
+        "avg_price": 1400000
+      },
+      "디올 레이디 디올 마이 ABC디올 까나쥬 양가죽 백 스몰 라떼": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior My ABCDior Cannage Lambskin Small Bag Latte"
+        ],
+        "trade_count": 3,
+        "avg_price": 3050000
+      },
+      "디올 뚜주흐 매크로까나쥬 송아지 가죽 백 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Toujours Macrocannage Calfskin Large Bag Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 3400000
+      },
+      "디올 알파 샌들 디올 오블리크 자카드 오프 화이트": {
+        "category": "신발",
+        "synonyms": [
+          "Dior Alpha Sandal Dior Oblique Jacquard Off White"
+        ],
+        "trade_count": 3,
+        "avg_price": 700000
+      },
+      "디올 (W) 디올 그랑빌 에스파드리유 딥 블루 디올 오블리크 자수 코튼": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Dior Granville Espadrille Deep Blue Dior Oblique Embroidered Cotton"
+        ],
+        "trade_count": 3,
+        "avg_price": 420000
+      },
+      "디올 (W) 디올 D 커넥트 테크니컬 패브릭 화이트": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Dior D-Connect Technical Fabric White"
+        ],
+        "trade_count": 3,
+        "avg_price": 70000
+      },
+      "디올 B23 하이 디올 오블리크 캔버스 화이트": {
+        "category": "신발",
+        "synonyms": [
+          "Dior B23 High Dior Oblique White"
+        ],
+        "trade_count": 3
+      },
+      "디올 B23 로우 디올 오블리크 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "Dior B23 Low Dior Oblique Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 437000
+      },
+      "디올 카로 울 플리스 자켓": {
+        "category": "의류",
+        "synonyms": [],
+        "trade_count": 3
+      },
+      "디올 오버셔츠 자켓": {
+        "category": "의류",
+        "synonyms": [],
+        "trade_count": 3
+      },
+      "디올 다운 베스트": {
+        "category": "의류",
+        "synonyms": [
+          "Dior Down Vest"
+        ],
+        "trade_count": 3,
+        "avg_price": 980000
+      },
+      "디올 새들 블룸 오블리크 자카드 카드 지갑 라이트 비스킷": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Saddle Bloom Oblique Jacquard Card Holder Flap Light Biscuit"
+        ],
+        "trade_count": 2,
+        "avg_price": 344000
+      },
+      "디올 새들 플랩 그레인 송아지 가죽 카드지갑 그레이": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Saddle Flap Grained Calfskin Card Holder Grey"
+        ],
+        "trade_count": 2,
+        "avg_price": 157000
+      },
+      "디올 레이디 디올 페이턴트 까나쥬 송아지 가죽 플랩 카드 지갑 체리 레드": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Lady Dior Patent Cannage Calfskin Flap Card Holder Cherry Red"
+        ],
+        "trade_count": 2,
+        "avg_price": 252000
+      },
+      "디올 북 토트 디올 오블리크 자수 백 라지 에크루 & 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Book Tote Dior Oblique Embroidery Bag Large Ecru & Grey"
+        ],
+        "trade_count": 2,
+        "avg_price": 1850000
+      },
+      "디올 레이디 디올 페이턴트 까나쥬 송아지 가죽 백 미니 스톤 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior Patent Cannage Calfskin Bag Mini Stone Gray"
+        ],
+        "trade_count": 2,
+        "avg_price": 3350000
+      },
+      "디올 새들 디올 오블리크 자카드 파우치 베이지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Saddle Dior Oblique Jacquard Pouch Beige Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 1265000
+      },
+      "디올 마이 디올 까나쥬 램스킨 백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior My Dior Cannage Lambskin Bag Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 2700000
+      },
+      "디올 씨에스트 오블리크 자카드 블루 & 블랙 버킷백 미디엄": {
+        "category": "가방",
+        "synonyms": [
+          "Dior C'est Oblique Jacquard Blue & Black Bucket Bag Medium"
+        ],
+        "trade_count": 2,
+        "avg_price": 2513000
+      },
+      "디올 크리스찬 디올 북 토트백 36 토일 드 주이 자카드 미디움 베이지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Christian Dior Book Tote 36 Toile de Jouy Embroidery Medium Beige Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 2825000
+      },
+      "디올 세 디올 백 CD 엠보스드 카프스킨 숄더백 미디움 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior C'est Dior Bag CD Embossed Calfskin Shoulder Bag Medium Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 2400000
+      },
+      "디올 북 토트 디올 오블리크 자카드 캔버스 토트백 미니 블루 & 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Book Tote Dior Oblique Jacquard Canvas Tote Bag Mini Blue & Beige"
+        ],
+        "trade_count": 2,
+        "avg_price": 2390000
+      },
+      "디올 레이디 디올 로터스 페이턴트 까나쥬 송아지 가죽 지갑 클라우드 블루": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Lady Dior Lotus Patent Cannage Calfskin Wallet Cloud Blue"
+        ],
+        "trade_count": 2,
+        "avg_price": 190000
+      },
+      "디올 레이디 디올 로터스 까나쥬 양가죽 지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Lady Dior Lotus Cannage Lambskin Wallet Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 100000
+      },
+      "디올 레이디 디올 프리지아 페이턴트 까나쥬 송아지 가죽 카드 지갑 클라우드 블루": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Lady Dior Freesia Patent Cannage Calfskin Card Holder Cloud Blue"
+        ],
+        "trade_count": 2,
+        "avg_price": 100000
+      },
+      "디올 카로 컴팩트 스칼렛 서플 까나쥬 송아지 가죽 지갑 로즈 드 방": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Caro Compact Scarlet Supple Cannage Calfskin Wallet Rose des Vents"
+        ],
+        "trade_count": 2,
+        "avg_price": 150000
+      },
+      "디올 카로 서플 까나쥬 송아지 가죽 파우치 체인 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Caro Supple Cannage Calfskin Pouch with Chain Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 1600000
+      },
+      "디올 카로 서플 까나쥬 송아지 가죽 백 미디엄 웜 토프": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Caro Supple Cannage Calfskin Medium Bag Warm Taupe"
+        ],
+        "trade_count": 2
+      },
+      "디올 카로 데일리 서플 까나쥬 송아지 가죽 파우치 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Caro Supple Cannage Calfskin Medium Daily Pouch Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 720000
+      },
+      "디올 새들 디올 오블리크 자카드 블랙 그레인드 송아지 가죽 파우치 A5 베이지 & 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Saddle Dior Oblique Jacquard Black Grained Calfskin A5 Pouch Beige and Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 650000
+      },
+      "디올 새들 디올 오블리크 자카드 소프트 백 베이지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Saddle Dior Oblique Jacquard Soft Bag Beige Black"
+        ],
+        "trade_count": 2
+      },
+      "디올 새들 디올 오블리크 자카드 벨트 백 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Saddle Dior Oblique Jacquard Belt Bag Blue"
+        ],
+        "trade_count": 2,
+        "avg_price": 1400000
+      },
+      "디올 새들 그레인드 송아지 가죽 & 블랙 디올 오블리크 자카드 메신저백 미니": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Saddle Grained Calfskin & Black Dior Oblique Jacquard Mini Messenger Bag"
+        ],
+        "trade_count": 2,
+        "avg_price": 1500000
+      },
+      "디올 새들 그레인드 송아지 가죽 메신저백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Saddle Grained Calfskin Messenger Bag Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 1800000
+      },
+      "디올 북 토트 매크로까나쥬 송아지 가죽 백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Book Tote Macrocannage Calfskin Tote Medium Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 2400000
+      },
+      "디올 북 토트 투왈 드 주이 자수 백 미디엄 에크루 & 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Book Tote Toile de Jouy Embroidery Medium Tote Ecru and Blue"
+        ],
+        "trade_count": 2,
+        "avg_price": 2050000
+      },
+      "디올 북 토트 매크로까나쥬 송아지 가죽 스트랩 백 미니 트렌치 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Book Tote Macrocannage Calfskin Tote Mini with Strap Trench Beige"
+        ],
+        "trade_count": 2,
+        "avg_price": 2625000
+      },
+      "디올 링고 토일레트리 백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lingot Toiletry Bag Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 1300000
+      },
+      "디올 디올 아무르 레이디 디올 까나쥬 양가죽 백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Dioramour Lady Dior Cannage Lambskin Small Bag Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 3150000
+      },
+      "디올 레이디 디올 페이턴트 까나쥬 송아지 가죽 백 미디엄 체리 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior Patent Cannage Calfskin Medium Bag Cherry Red"
+        ],
+        "trade_count": 2
+      },
+      "디올 레이디 디올 크링클 까나쥬 송아지 가죽 백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior Crinkled Cannage Calfskin Medium Bag Black"
+        ],
+        "trade_count": 2
+      },
+      "디올 라이더 디올 오블리크 자카드 백팩 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Rider Dior Oblique Jacquard Backpack Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 1450000
+      },
+      "디올 뚜주흐 매크로까나쥬 송아지 가죽 백 스몰 파우더 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Toujours Macrocannage Calfskin Small Bag Powder Beige"
+        ],
+        "trade_count": 2,
+        "avg_price": 3300000
+      },
+      "디올 30 몽테인 이스트 웨스트 송아지 가죽 체인 백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior 30 Montaigne East West Calfskin Bag with Chain Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 2100000
+      },
+      "디올 30 몽테인 복스 송아지 가죽 백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior 30 Montaigne Box Calfskin Bag Small Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 1900000
+      },
+      "디올 (W) 디올 솔라 슬립온 스니커즈 디올 오블리크 딥 블루": {
+        "category": "신발",
+        "synonyms": [
+          "Dior Solar Slip-On Sneakers Dior Oblique Deep Blue"
+        ],
+        "trade_count": 2
+      },
+      "디올 (W) 디올 솔라 슬립온 스니커즈 디올 오블리크 그레이 스톤": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Dior Solar Slip-On Sneakers Dior Oblique Gray Stone"
+        ],
+        "trade_count": 2
+      },
+      "디올 (W) 디올 그랑빌 에스파드리유 그레이 스톤 디올 오블리크 자수 코튼": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Dior Granville Espadrille Gray Stone Dior Oblique Embroidered Cotton"
+        ],
+        "trade_count": 2
+      },
+      "디올 (W) 디올 자디올 슬링백 펌프스 누드 페이턴트 카프스킨": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Dior J'adior Slingback Pumps Nude Patent Calfskin"
+        ],
+        "trade_count": 2,
+        "avg_price": 850000
+      },
+      "디올 (W) 디올 워크앤디올 스니커즈 디올 오블리크 자수 코튼 누드": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Dior Walk'N'Dior Sneakers Dior Oblique Embroidery Cotton Nude"
+        ],
+        "trade_count": 2
+      },
+      "디올 (W) 디올 워크앤디올 스니커즈 테크니컬 니트 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Dior Walk'N'Dior Sneakers Technical Knit Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 120000
+      },
+      "디올 바시티 자켓": {
+        "category": "의류",
+        "synonyms": [],
+        "trade_count": 2,
+        "avg_price": 1150000
+      },
+      "디올 파카 코트": {
+        "category": "의류",
+        "synonyms": [],
+        "trade_count": 2
+      },
+      "디올 B27 하이탑 스니커즈 블루 그레이": {
+        "category": "신발",
+        "synonyms": [
+          "Dior B27 High Top Sneakers Blue Grey"
+        ],
+        "trade_count": 1,
+        "avg_price": 380000
+      },
+      "디올 CD 아이콘 그레인 송아지 가죽 & 스무스 송아지 가죽 버티컬 2단 카드 지갑 딥 그레이": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior CD Icon Grained Calfskin & Smooth Calfskin Vertical Bifold Card Holder Deep Grey"
+        ],
+        "trade_count": 1,
+        "avg_price": 300000
+      },
+      "디올 디올 CD 다이아몬드 캔버스 파우치 스트랩 내츄럴": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Dior CD Diamond Canvas Pouch Strap Natural"
+        ],
+        "trade_count": 1,
+        "avg_price": 750000
+      },
+      "디올 CD 아이콘 시그니쳐 그레인드 카프스킨 카드 홀더 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior CD Icon Signature Grained Calfskin Card Holder Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 250000
+      },
+      "디올 B27 업타운 로우 탑 스니커즈 화이트 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "Dior B27 Uptown Low-Top Sneaker White Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 430000
+      },
+      "디올 오블리크 자카드 메신저백 베이지 & 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Oblique Jacquard Messenger Bag Beige & Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 1000000
+      },
+      "디올 디올 오블리크 자카드 버티컬 지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Dior Oblique Jacquard Vertical Wallet Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 350000
+      },
+      "디올 x 다니엘 아샴 B23 하이 화이트 캔버스 뉴스프린트 화이트": {
+        "category": "신발",
+        "synonyms": [
+          "Dior x Daniel Arsham B23 High White Canvas Newsprint White"
+        ],
+        "trade_count": 1,
+        "avg_price": 420000
+      },
+      "디올 오블리크 자카드 북 토트 라지 버건디": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Oblique Jacquard Book Tote Large Burgundy"
+        ],
+        "trade_count": 1,
+        "avg_price": 1000000
+      },
+      "디올 레벨 레더 토트백 브라운": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Rebel Leather Tote Bag Brown"
+        ],
+        "trade_count": 1,
+        "avg_price": 200000
+      },
+      "디올 디-펜스 벨트": {
+        "category": "패션 악세서리",
+        "synonyms": [
+          "Dior D-Fence Belt"
+        ],
+        "trade_count": 1,
+        "avg_price": 417000
+      },
+      "디올 미스 카로 매크로까나쥬 램스킨 미니백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Miss Caro Macrocannage Lambskin Mini Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 1920000
+      },
+      "디올 (W) 디올 쉐 모아 그랑빌 앵클 부츠 디올 오블리크 딥 블루": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Dior Chez Moi Granville Ankle Boots Dior Oblique Deep Blue"
+        ],
+        "trade_count": 1,
+        "avg_price": 400000
+      },
+      "디올 롤러 카프스킨 메신저백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Roller Calfskin Messenger Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 700000
+      },
+      "디올 오블리크 자카드 코스메틱 파우치 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Oblique Jacquard Cosmetic Pouch Blue"
+        ],
+        "trade_count": 1,
+        "avg_price": 400000
+      },
+      "디올 30 몽테인 아프로디테 오블리크 자카드 파우치 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior 30 Montaigne Aphrodite Oblique Jacquard Pouch Blue"
+        ],
+        "trade_count": 1,
+        "avg_price": 800000
+      },
+      "디올 x 카우스 그레인드 카프스킨 카드 홀더 네이비 블루": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior x Kaws Grained Calfskin Card Holder Navy Blue"
+        ],
+        "trade_count": 1,
+        "avg_price": 150000
+      },
+      "디올 미스 디올 글리신 램스킨 카드 지갑 까나쥬 비스킷": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Miss Dior Glycine Lambskin Card Holder Cannage Biscuit"
+        ],
+        "trade_count": 1,
+        "avg_price": 340000
+      },
+      "디올 아무르 레이디 까나주 램스킨 휴대폰 홀더 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Amour Lady Cannage Lambskin Phone Holder Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 600000
+      },
+      "디올 새들 고트스킨 플랩 카드 홀더 스칼렛 레드": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Saddle Goatskin Flap Card Holder Scarlet Red"
+        ],
+        "trade_count": 1,
+        "avg_price": 200000
+      },
+      "디올 디올스타 오블리크 자카드 호보백 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Diorstar Oblique Jacquard Hobo Bag Blue"
+        ],
+        "trade_count": 1,
+        "avg_price": 1680000
+      },
+      "디올 다이아몬드 버클 벨트": {
+        "category": "패션 악세서리",
+        "synonyms": [
+          "Dior Diamond Buckle Belt"
+        ],
+        "trade_count": 1,
+        "avg_price": 340000
+      },
+      "디올 카로 까나쥬 양가죽 체인 하트 파우치 미니 마카롱 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Caro Cannage Lambskin Chain Heart Pouch Mini Macaron Pink"
+        ],
+        "trade_count": 1,
+        "avg_price": 950000
+      },
+      "디올 디올 오블리크 자카드 벨트 파우치 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Dior Oblique Jacquard Belt Pouch Blue"
+        ],
+        "trade_count": 1,
+        "avg_price": 540000
+      },
+      "디올 CD 다이아몬드 캔버스 트라이 폴드 카드 지갑 그레이": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior CD Diamond Canvas Tri-Fold Card Holder Grey"
+        ],
+        "trade_count": 1,
+        "avg_price": 225000
+      },
+      "디올 바비 디올 오블리크 자카드 반지갑 미니 블루": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Bobby Dior Oblique Jacquard Wallet Mini Blue"
+        ],
+        "trade_count": 1,
+        "avg_price": 250000
+      },
+      "디올 미스 디올 까나쥬 카프스킨 글리신 지갑 클라우드 블루": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Miss Dior Cannage Calfskin Glycine Wallet Cloud Blue"
+        ],
+        "trade_count": 1,
+        "avg_price": 240000
+      },
+      "디올 B27 하이탑 스니커즈 화이트 그레이": {
+        "category": "신발",
+        "synonyms": [
+          "Dior B27 Hightop Sneakers White Grey"
+        ],
+        "trade_count": 1,
+        "avg_price": 300000
+      },
+      "디올 디올 발레 플랫 블랙 퀼트 까나쥬": {
+        "category": "신발",
+        "synonyms": [
+          "Dior Dior Ballet Flat Black Quilted Cannage"
+        ],
+        "trade_count": 1,
+        "avg_price": 336000
+      },
+      "디올 (W) 디올 보이 로퍼 브러쉬드 카프스킨 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Dior Boy Loafer Brushed Calfskin Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 1045000
+      },
+      "디올 카로 데일리 서플 까나쥬 송아지 가죽 파우치 라지 클라우드 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Caro Supple Cannage Calfskin Large Daily Pouch Cloud Blue"
+        ],
+        "trade_count": 1,
+        "avg_price": 500000
+      },
+      "디올 새들 디올 오블리크 자카드 그레인드 송아지 가죽 플랩 메신저백 미니 베이지 & 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Saddle Dior Oblique Jacquard Grained Calfskin Flap Messenger Bag Mini Beige & Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 1450000
+      },
+      "디올 레이디 디올 까나쥬 램스킨 파우치 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior Cannage Lambskin Pouch Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 1290000
+      },
+      "디올 30 몽테인 복스 카프스킨 백 미니 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior 30 Montaigne Box Calfskin Bag Mini Blue"
+        ],
+        "trade_count": 1,
+        "avg_price": 1800000
+      },
+      "디올 새들 디올 오블리크 자카드 반지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Saddle Dior Oblique Jacquard Bi-Fold Wallet Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 750000
+      },
+      "디올 알리아스 샌들 디올 그래비티 아웃라인 레더 베이지": {
+        "category": "신발",
+        "synonyms": [
+          "Dior Alias Sandal Dior Gravity Outline Leather Beige"
+        ],
+        "trade_count": 1,
+        "avg_price": 450000
+      },
+      "디올 새들 로투스 고트스킨 미디엄 반지갑 그린": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Saddle Lotus Wallet Goatskin Green"
+        ],
+        "trade_count": 1,
+        "avg_price": 200000
+      },
+      "디올 (W) 디올 자디올 슬링백 펌프스 레드 타탄 플레이드": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Dior J'adior Slingback Pumps Red Tartan Plaid"
+        ],
+        "trade_count": 1,
+        "avg_price": 225000
+      },
+      "디올 새들 플랩 그레인 송아지 가죽 카드지갑 블러쉬": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Saddle Flap Grained Calfskin Cardholder Blush"
+        ],
+        "trade_count": 1,
+        "avg_price": 200000
+      },
+      "디올 오블리크 자카드 새들백 나노 베이지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Oblique Jacquard Saddle Bag Nano Beige Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 845000
+      },
+      "디올 북 토트 매쉬 토트백 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Book Tote Mesh Tote Bag Large Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 1050000
+      },
+      "디올 트레블 노마드 투왈 드 주이 리버스 자수 파우치 미디엄 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Travel Nomad Toile de Jouy Reverse Embroidery Pouch Medium Blue"
+        ],
+        "trade_count": 1,
+        "avg_price": 1280000
+      },
+      "디올 B27 미드탑 스니커즈 화이트 그레이": {
+        "category": "신발",
+        "synonyms": [
+          "Dior B27 Mid-Top Sneakers White & Gray"
+        ],
+        "trade_count": 1,
+        "avg_price": 468000
+      },
+      "디올 B23 CD 다이아몬드 로우탑 스니커즈 그레이 화이트": {
+        "category": "신발",
+        "synonyms": [
+          "Dior B23 CD Diamond Low-Top Sneakers Grey White"
+        ],
+        "trade_count": 1,
+        "avg_price": 600000
+      },
+      "디올 레이디 디올 프리지아 까나쥬 램스킨 카드 지갑 라이트 핑크": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Lady Dior Freesia Cannage Lambskin Card Holder Light Pink"
+        ],
+        "trade_count": 1,
+        "avg_price": 150000
+      },
+      "디올 디올 오블리크 자카드 메신저 파우치 베이지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Messenger Pouch Dior Oblique Jacquard Beige Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 1040000
+      },
+      "디올 새들 그레인드 송아지 가죽 백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Saddle Grained Calfskin Bag Mini Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 2300000
+      },
+      "디올 30 몽테인 에비뉴 디올 오블리크 자카드 플랩 파우치 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior 30 Montaigne Avenue Dior Oblique Jacquard Flap Pouch Blue"
+        ],
+        "trade_count": 1,
+        "avg_price": 400000
+      },
+      "디올 B30 스니커즈 메쉬 테크니컬 패브릭 화이트 베이지": {
+        "category": "신발",
+        "synonyms": [
+          "Dior B30 Sneakers Mesh Technical Fabric White Beige"
+        ],
+        "trade_count": 1,
+        "avg_price": 288000
+      },
+      "디올 B32 블레이드 테크니컬 메시 & 카프스킨 스니커즈 베이지": {
+        "category": "신발",
+        "synonyms": [
+          "Dior B32 Blade Technical Mesh & Calfskin Sneaker Beige"
+        ],
+        "trade_count": 1,
+        "avg_price": 400000
+      },
+      "디올 x 숀 B27 로우탑 스니커즈 화이트": {
+        "category": "신발",
+        "synonyms": [
+          "Dior x Shawn B27 Low-Top Sneakers White"
+        ],
+        "trade_count": 1,
+        "avg_price": 750000
+      },
+      "디올 D-커넥트 테크 조디악 프린트": {
+        "category": "신발",
+        "synonyms": [
+          "Dior D-Connect Zodiac Print"
+        ],
+        "trade_count": 1,
+        "avg_price": 400000
+      },
+      "디올 레이디 디올 보야저 까나쥬 램스킨 장지갑 라이트 핑크": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Lady Dior Voyage Cannage Lambskin Long Wallet Light Pink"
+        ],
+        "trade_count": 1,
+        "avg_price": 400000
+      },
+      "디올 카로 서플 까나쥬 송아지 가죽 체인 벨트 파우치 라떼": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Caro Supple Cannage Calfskin Chain Belt Pouch Latte"
+        ],
+        "trade_count": 1,
+        "avg_price": 1200000
+      },
+      "디올 졸리 글리신 까나쥬 램스킨 지갑 플라시드 블루": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Jolie Glycine Cannage Lambskin Wallet in Placid Blue"
+        ],
+        "trade_count": 1,
+        "avg_price": 250000
+      },
+      "디올 레이디 디올 까나쥬 양가죽 & 실버 메탈 백 미니 브라이트 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior Cannage Lambskin & Silver Metal Bag Mini Bright Pink"
+        ],
+        "trade_count": 1,
+        "avg_price": 1900000
+      },
+      "디올 레이디 디올 까나쥬 램스킨 & 골드 메탈 반지갑 미디엄 가드니아": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Lady Dior Cannage Lambskin & Gold Metal Wallet Medium Gardenia"
+        ],
+        "trade_count": 1,
+        "avg_price": 250000
+      },
+      "디올 미스 카로 매크로까나쥬 램스킨 미니백 라이트 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Miss Caro Macrocannage Lambskin Mini Bag Light Pink"
+        ],
+        "trade_count": 1,
+        "avg_price": 1800000
+      },
+      "디올 북토트 투왈 드 주이 코튼 토트백 미디엄 에크루 & 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Book Tote Toile de Jouy Cotton Tote Bag Medium Ecru & Grey"
+        ],
+        "trade_count": 1,
+        "avg_price": 3000000
+      },
+      "디올 그레인드 카프스킨 새들백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Grained Calf Skin Saddle Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 1250000
+      },
+      "디올 레이디 마이 ABC디올 까나쥬 양가죽 토트백 스몰 메탈릭 실버": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady My ABCDior Cannage Lambskin Tote Bag Small Metallic Silver"
+        ],
+        "trade_count": 1,
+        "avg_price": 2050000
+      },
+      "디올 라이더 디올 오블리크 자카드 마이크로 파우치 베이지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Rider Dior Oblique Jacquard Micro Pouch Beige Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 750000
+      },
+      "디올 어딕트 백 디올 오블리크 자카드 버건디": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Addict Bag Dior Oblique Jacquard Burgundy"
+        ],
+        "trade_count": 1,
+        "avg_price": 1000000
+      },
+      "디올 북 토트 매크로까나쥬 송아지 가죽 스트랩 백 미니 라떼": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Book Tote Macrocannage Calfskin Tote Mini with Strap Latte"
+        ],
+        "trade_count": 1,
+        "avg_price": 1900000
+      },
+      "디올 30 몽테인 에비뉴 복스 송아지 가죽 백 더스티 아이보리": {
+        "category": "가방",
+        "synonyms": [
+          "Dior 30 Montaigne Avenue Box Calfskin Bag Dusty Ivory"
+        ],
+        "trade_count": 1,
+        "avg_price": 2002000
+      },
+      "디올 롤러 디올 오블리크 자카드 패브릭 메신저 백 미니 베이지 &블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Roller Dior Oblique Jacquard Fabric Messenger Bag Mini Beige & Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 1800000
+      },
+      "디올 버티컬 디올 그래비티 송아지 가죽 장지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Vertical Dior Gravity Calfskin Long Wallet Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 1000000
+      },
+      "디올 새들 블룸 염소 가죽 카드 지갑 샌드": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Saddle Bloom Goatskin Card Holder Sand"
+        ],
+        "trade_count": 1,
+        "avg_price": 282000
+      },
+      "디올 CD 다이아몬드 캔버스 카드 홀더 그레이": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior CD Diamond Canvas Card Holder Grey"
+        ],
+        "trade_count": 1,
+        "avg_price": 320000
+      },
+      "디올 버티컬 디올 오블리크 자카드 롱 지퍼 지갑 베이지 블루": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Vertical Dior Oblique Jacquard Long Zipped Wallet Beige Blue"
+        ],
+        "trade_count": 1,
+        "avg_price": 550000
+      },
+      "디올 디올 앤 리모와 디올 오블리크 알루미늄 캐리어 기내용 그라데이션 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior DIOR AND RIMOWA Dior Oblique Aluminum Suitcase Carry On Gradient Blue"
+        ],
+        "trade_count": 1,
+        "avg_price": 3500000
+      },
+      "디올 디올 그루브 20 디올 오블리크 자카드 백 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Dior Groove 20 Bag Blue Dior Oblique Jacquard"
+        ],
+        "trade_count": 1,
+        "avg_price": 3000000
+      },
+      "디올 카로 데일리 서플 까나쥬 송아지 가죽 파우치 미디엄 웜 토프": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Caro Supple Cannage Calfskin Medium Daily Pouch Warm Taupe"
+        ],
+        "trade_count": 1
+      },
+      "디올 카로 데일리 서플 까나쥬 송아지 가죽 파우치 라지 샌드 컬러": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Caro Supple Cannage Calfskin Large Daily Pouch Sand Colored"
+        ],
+        "trade_count": 1
+      },
+      "디올 새들 디올 오블리크 자카드 블랙 그레인드 송아지 가죽 플랩 스트랩백 베이지 & 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Saddle Dior Oblique Jacquard Black Grained Calfskin Messenger Bag with Flap Beige & Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 1400000
+      },
+      "디올 새들 디올 오블리크 자카드 블랙 그레인드 송아지 가죽 플랩 스트랩백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Saddle Dior Oblique Jacquard Black Grained Calfskin Messenger Bag with Flap Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 1831000
+      },
+      "디올 새들 고트스킨 체인 파우치 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Saddle Goatskin Small Pouch with Chain Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 1275000
+      },
+      "디올 북 토트 디올 오블리크 자수 백 미디엄 화이트 & 골드 톤": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Book Tote Dior Oblique Embroidery Tote Medium White and Gold Tone"
+        ],
+        "trade_count": 1,
+        "avg_price": 2185000
+      },
+      "디올 바비 이스트 웨스트 디올 오블리크 자카드 백 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Bobby East West Dior Oblique Jacquard Bag Blue"
+        ],
+        "trade_count": 1,
+        "avg_price": 2000000
+      },
+      "디올 레이디 디올 마이 ABC디올 까나쥬 양가죽 백 스몰 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior My ABCDior Cannage Lambskin Small Bag Gray"
+        ],
+        "trade_count": 1
+      },
+      "디올 레이디 디올 페이턴트 까나쥬 송아지 가죽 백 스몰 더스티 아이보리": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior Patent Cannage Calfskin Small Bag Dusty Ivory"
+        ],
+        "trade_count": 1,
+        "avg_price": 3170000
+      },
+      "디올 레이디 디올 그레인드 까나쥬 송아지 가죽 백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior Grained Cannage Calfskin Medium Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 2800000
+      },
+      "디올 레이디 디올 까나쥬 양가죽 백 미디엄 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior Cannage Lambskin Bag Large Tan"
+        ],
+        "trade_count": 1
+      },
+      "디올 레이디 디올 까나쥬 양가죽 백 미니 피스타치오 그린": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior Cannage Lambskin Bag Mini Pistachio Green"
+        ],
+        "trade_count": 1
+      },
+      "디올 레이디 디올 까나쥬 양가죽 백 미니 페일 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior Cannage Lambskin Bag Mini Pale Blue"
+        ],
+        "trade_count": 1,
+        "avg_price": 4600000
+      },
+      "디올 레이디 디올 까나쥬 양가죽 백 마이크로 클라우드 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior Cannage Lambskin Bag Micro Cloud Blue"
+        ],
+        "trade_count": 1,
+        "avg_price": 2100000
+      },
+      "디올 레이디 디올 까나쥬 양가죽 백 마이크로 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior Cannage Lambskin Bag Micro Black Gold"
+        ],
+        "trade_count": 1
+      },
+      "디올 30 몽테인 이스트 웨스트 디올 오블리크 자카드 체인 백 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior 30 Montaigne East West Dior Oblique Jacquard Chain Bag Blue"
+        ],
+        "trade_count": 1,
+        "avg_price": 2550000
+      },
+      "디올 30 몽테인 복스 송아지 가죽 백 미디엄 라떼": {
+        "category": "가방",
+        "synonyms": [
+          "Dior 30 Montaigne Box Calfskin Bag Medium Latte"
+        ],
+        "trade_count": 1
+      },
+      "디올 B27 로우탑 스니커즈 오프 화이트": {
+        "category": "신발",
+        "synonyms": [
+          "Dior B27 Low-Top Sneakers Off White"
+        ],
+        "trade_count": 1,
+        "avg_price": 750000
+      },
+      "디올 B23 로우 네이비 디올 오블리크 화이트": {
+        "category": "신발",
+        "synonyms": [
+          "Dior B23 Low Navy Dior Oblique White"
+        ],
+        "trade_count": 1
+      },
+      "디올 피코트": {
+        "category": "의류",
+        "synonyms": [],
+        "trade_count": 1,
+        "avg_price": 600000
+      },
+      "디올 레이디 디올 파이브 슬록 페이던트 카프스킨 카드 홀더 패션 핑크": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Lady Dior Five Slot Patent Calfskin Card Holder Fashion Pink"
+        ],
+        "trade_count": 190000
+      },
+      "디올 디올 옴므 꿀벌 카프스킨 반지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Dior Homme Bee Calfskin Bi-Fold Wallet Black"
+        ],
+        "trade_count": 190000
+      },
+      "디올 (W) 디올 워크앤디올 스니커즈 까나쥬 테크니컬 메쉬 화이트": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Dior Walk'N'Dior Sneakers Cannage Technical Mesh White"
+        ],
+        "trade_count": 0
+      },
+      "디올 세 디올 CD 엠보스트 카프스킨 숄더백 스몰 라떼": {
+        "category": "가방",
+        "synonyms": [
+          "Dior C’est Dior CD Embossed Calfskin Shoulder Bag Small Latte"
+        ],
+        "trade_count": 2360000
+      },
+      "디올 마이 디올 베로니아 까나쥬 양가죽 지갑 데저트 토프": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior My Dior Veronia Cannage Lambskin Wallet Desert Taupe"
+        ],
+        "trade_count": 150000
+      },
+      "디올 (W) 디올 앙프렝뜨 카프스킨 러버 앵클 부츠 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Dior Empreinte  Calfskin Rubber Ankle Boot Black"
+        ],
+        "trade_count": 650000
+      },
+      "디올 새들 로데오 오블리크 자카드 파우치 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Saddle Rodeo Oblique Jacquard Pouch Blue"
+        ],
+        "trade_count": 0
+      },
+      "디올 카로 매크로까나쥬 램스킨 백팩 미디엄 파우더 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Caro Macrocannage Lambskin Backpack Medium Powder Pink"
+        ],
+        "trade_count": 3050000
+      },
+      "디올 레이디 디올 콜인 디올 까나쥬 페이던트 카프스킨 폰 홀더 체리레드": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior Call'in Dior Cannage Patent Calfskin Phone Holder Cherry Red"
+        ],
+        "trade_count": 800000
+      },
+      "디올 카로 매크로 하운드투스 테크니컬 캔버스 백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Caro Macro Houndtooth Technical Canvas Bag Medium Black"
+        ],
+        "trade_count": 3300000
+      },
+      "디올 레이디 디올 까나쥬 램스킨 백 스몰 스틸 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior Cannage Lambskin Bag Small Steel Grey"
+        ],
+        "trade_count": 3800000
+      },
+      "디올 스무스 카프스킨 새들백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Smooth Calfskin Saddle Bag Mini Black"
+        ],
+        "trade_count": 2310000
+      },
+      "디올 레이디 디올 까나쥬 양가죽 백 미디엄 다크 블루 데님": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior Cannage Lambskin Bag Medium Dark Blue Denim"
+        ],
+        "trade_count": 3250000
+      },
+      "디올 북 토트 투왈 드 주이 소바쥬 자수 카프스킨 백 스몰 화이트 & 네이비 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Book Tote Toile de Jouy Sauvage Embroidery Calfskin Tote Small White and Navy Blue"
+        ],
+        "trade_count": 2250000
+      },
+      "디올 카로 서플 까나쥬 카프스킨 숄더백 미디엄 스톤 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Caro Supple Cannage Calfskin Shoulder Bag Medium Stone Gray"
+        ],
+        "trade_count": 3240000
+      },
+      "디올 디올 포크 소프트 카프스킨 에스파드리유 플랫 슈즈 아르장 블랑": {
+        "category": "신발",
+        "synonyms": [
+          "Dior Dior Folk Soft Calfskin Espadrilles Flat Shoes Argent Blan"
+        ],
+        "trade_count": 450000
+      },
+      "디올 카로 디테처블 체인 월렛 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Caro Detachable Chain Wallet Black"
+        ],
+        "trade_count": 690000
+      },
+      "디올 레이디 까나쥬 디라이트 토트백 미디움 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Cannage Delight Tote Bag Medium Black"
+        ],
+        "trade_count": 2500000
+      },
+      "디올 필로우 그레인 송아지 가죽 스트랩 백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Pillow Grained Calfskin Strap Bag Black"
+        ],
+        "trade_count": 2000000
+      },
+      "디올 라 미니 디 드 디올": {
+        "category": "시계",
+        "synonyms": [
+          "Dior La Mini D de Dior"
+        ],
+        "trade_count": 0
+      },
+      "디올 멜리스": {
+        "category": "시계",
+        "synonyms": [
+          "Dior Malice"
+        ],
+        "trade_count": 0
+      },
+      "디올 옥타곤": {
+        "category": "시계",
+        "synonyms": [
+          "Dior Octagon"
+        ],
+        "trade_count": 360000
+      },
+      "디올 레이디 디올 까나쥬 나일론 토트백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior Cannage Nylon Tote Bag Medium Black"
+        ],
+        "trade_count": 880000
+      },
+      "디올 1947 시그니처 로고 그레인드 카프스킨 반지갑 그레이": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior 1947 Signature Logo Grained Calfskin Bi Fold Wallet Grey"
+        ],
+        "trade_count": 0
+      },
+      "디올 레이디 페이턴트 레이디백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior Patent Bag Medium Black"
+        ],
+        "trade_count": 2500000
+      },
+      "디올 그레인드 카프스킨 새들 백 & 스트랩 미니 아마란스": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Grained Calfskin Saddle Bag & Strap Mini Amaranth"
+        ],
+        "trade_count": 2400000
+      },
+      "디올 새들 디올 오블리크 자카드 파우치 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Saddle Dior Oblique Jacquard Pouch Black"
+        ],
+        "trade_count": 0
+      },
+      "디올 미스 디올 까나쥬 램스킨 체인 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Miss Dior Cannage Lambskin Chain Shoulder Bag Black"
+        ],
+        "trade_count": 1000000
+      },
+      "디올 북 토트 투왈 드 주이 리버스 자수 백 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Book Tote Toile de Jouy Reverse Embroidery Bag Pink"
+        ],
+        "trade_count": 1900000
+      },
+      "디올 애비뉴 스무스 카프스킨 버킷백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Avenue Smooth Calfskin Bucket Bag Medium Black"
+        ],
+        "trade_count": 0
+      },
+      "디올 레이디 디올 마이 ABC디올 까나쥬 램스킨 백 스몰 스틸 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior My ABCDior Cannage Lambskin Small Bag Steel Gray"
+        ],
+        "trade_count": 3900000
+      },
+      "디올 마이 디올 바이올렛 까나쥬 양가죽 장지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior My Dior Violet Cannage Lambskin Long Wallet Black"
+        ],
+        "trade_count": 810000
+      },
+      "디올 북 토트 매크로 까나쥬 자수 자카드 백 스몰 네이비 블루 & 라이트 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Book Tote Macrocannage Embroidery Jacquard Bag Small Navy Blue & Light Grey"
+        ],
+        "trade_count": 3000000
+      },
+      "디올 CD 시그니쳐 오벌 카프스킨 엠보스드 카메라백 골든 새들": {
+        "category": "가방",
+        "synonyms": [
+          "Dior CD Signature Oval Calfskin Embossed Camera Bag Golden Saddle"
+        ],
+        "trade_count": 0
+      },
+      "디올 (W) 디올 자디올 슬링백 펌프스 블랙 벨벳 & 골드 톤 메탈릭 스레드": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Dior J'adior Slingback Pumps Black Velvet & Gold Tone Metallic Thread"
+        ],
+        "trade_count": 0
+      },
+      "디올 북토트 투왈 드 주이 코튼 토트백 라지 에크루 & 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Book Tote Dior Oblique Embroidery Tote Large Ecru and Gray"
+        ],
+        "trade_count": 1950000
+      },
+      "디올 레이디 디 조이 까나쥬 양가죽 백 미디엄 라이트 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady D Joy Cannage Lambskin Bag Medium Lighti Pink"
+        ],
+        "trade_count": 4000000
+      },
+      "디올 레이디 빈티지 캔버스 토트백 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Vintage Canvas Tote Bag Large Black"
+        ],
+        "trade_count": 0
+      },
+      "디올 미스 데이지 램스킨 숄더백 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Miss Daisy Lambskin Shoulder Bag Beige"
+        ],
+        "trade_count": 0
+      },
+      "디올 레이디 디 조이 까나쥬 양가죽 백 미디엄 피오니 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady D-Joy Cannage Lambskin Bag Medium Peony Pink"
+        ],
+        "trade_count": 0
+      },
+      "디올 레이디 디올 까나쥬 퀄팅 램스킨 & 골드 메탈 토트백 미디엄 블루 사피르": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior Cannage Quilted Lambskin & Gold-Tone Metal Tote Bag Medium Bleu Saphir"
+        ],
+        "trade_count": 4100000
+      },
+      "디올 레이디 디올 마이 ABC디올 오나멘탈 모티브 퀼트 이펙트 양가죽 백 스몰 로즈 드 방": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior My ABCDior Ornamental Motif Quilting Effect Lambskin Small Bag Rose des Vents"
+        ],
+        "trade_count": 0
+      },
+      "디올 북 토트 하운드투스 자카드 캔버스 토트백 라지 블랙 & 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Book Tote Houndstooth Jacquard Canvas Tote Bag Large Black & White"
+        ],
+        "trade_count": 1720000
+      },
+      "디올 30 몽테인 에비뉴 복스 송아지 가죽 백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior 30 Montaigne Avenue Box Calfskin Bag Black"
+        ],
+        "trade_count": 2300000
+      },
+      "디올 레이디 디 조이 까나쥬 양가죽 백 마이크로 피오니 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady D Joy Cannage Lambskin Bag Micro Peony Pink"
+        ],
+        "trade_count": 2550000
+      },
+      "디올 카로 까나쥬 램스킨 & 골드 메탈 폰 홀더 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Caro Cannage Lambskin & Gold Metal Phone Holder Pink"
+        ],
+        "trade_count": 940000
+      },
+      "디올 북 토트 쟈뎅 보타니크 자수 캔버스 토트백 미디엄 멀티컬러": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Book Tote Jardin Botanique Embroidered Canvas Tote Bag Medium Multicolor"
+        ],
+        "trade_count": 0
+      },
+      "디올 롤러 오블리크 자카드 숄더백": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Roller Oblique Jacquard Shoulder Bag"
+        ],
+        "trade_count": 1380000
+      },
+      "디올 레이디 디올 까나쥬 파이톤 & 샴페인 골드 메탈 토트백 스몰 메탈릭 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior Cannage Python & Champagne Gold Metal Tote Bag Small Metallic Grey"
+        ],
+        "trade_count": 6210000
+      },
+      "디올 30 몽테인 카프스킨 박스백 미니 네이비": {
+        "category": "가방",
+        "synonyms": [
+          "Dior 30 Montaigne Calfsskin Box Bag Mini Navy"
+        ],
+        "trade_count": 2340000
+      },
+      "디올 x 데님 티어스 디올 티어스 라탄 토트백 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Dior x Denim Tears Dior Tears Rattan Tote Bag Beige"
+        ],
+        "trade_count": 0
+      },
+      "디올 30 몽테인 복스 송아지 가죽 백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior 30 Montaigne Box Calfskin Bag Mini Black"
+        ],
+        "trade_count": 1850000
+      },
+      "디올 새들 카프스킨 백 브라운 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Saddle Calfskin Bag Brown Black"
+        ],
+        "trade_count": 1650000
+      },
+      "디올 디올 오블리크 엠보싱 카프스킨 파우치 네이비 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Dior Oblique Embossed Calfskin Pouch Navy Blue"
+        ],
+        "trade_count": 0
+      },
+      "디올 라이더 디올 오블리크 자카드 백팩 미니 베이지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Rider Dior Oblique Jacquard Backpack Mini Beige Black"
+        ],
+        "trade_count": 2370000
+      },
+      "디올 자도르 버티컬 북 토트 자수 백 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Dior J'Adior Vertical BookTote Embroidery Bag White"
+        ],
+        "trade_count": 1000000
+      },
+      "디올 새들 디올 오블리크 자카드 백 미디엄 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Saddle Dior Oblique Jacquard Bag Medium Blue"
+        ],
+        "trade_count": 3140000
+      },
+      "디올 스타더스트 까나쥬 메탈릭 백팩 로즈 골드": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Stardust Cannage Metallic Backpack Rose Gold"
+        ],
+        "trade_count": 0
+      },
+      "디올 레이디 5 슬롯 페이턴트 까나쥬 카프스킨 카드 홀더 이터리얼 핑크": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Lady 5 Slot Patent Cannage Calfskin Card Holder Ethereal Pink"
+        ],
+        "trade_count": 240000
+      },
+      "디올 북 토트 투왈 드 주이 리버스 자수 백 라지 그레이 & 에크루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Book Tote Toile de Jouy Reverse Embroidery Bag Large Grey & Ecru"
+        ],
+        "trade_count": 0
+      },
+      "디올 레이디 디올 마이 ABC디올 까나쥬 양가죽 백 스몰 페일 옐로우": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior My ABC Dior Cannage Lambskin Bag Small Pale Yellow"
+        ],
+        "trade_count": 0
+      },
+      "디올 맨스 새들 그레인드 카프스킨 숄더백 미니 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Mens Saddle Grainde Calfskin Shoulder Bag Mini Gray"
+        ],
+        "trade_count": 1900000
+      },
+      "디올 북 토트 하운드투스 자카드 캔버스 토트백 미디엄 블랙 & 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Book Tote Houndstooth Jacquard Canvas Tote Bag Medium Black & White"
+        ],
+        "trade_count": 1560000
+      },
+      "디올 CD 다이아몬드 캔버스 클러치 백 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Dior CD Diamond Canvas Clutch Bag Begie"
+        ],
+        "trade_count": 0
+      },
+      "디올 자디올 카프스킨 & 골드 톤 메탈 크로스백 미니 아이보리": {
+        "category": "가방",
+        "synonyms": [
+          "Dior J’Adior Calfskin & Gold-Tone Metal Crossbody Bag Mini Ivory"
+        ],
+        "trade_count": 0
+      },
+      "디올 디펜스 카프스킨 백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior D fense Calfskin Bag Black"
+        ],
+        "trade_count": 1800000
+      },
+      "디올 레이디 디올 까나쥬 램스킨 & 골드 메탈 베니티 케이스 마이크로 코랄 파우더": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior Cannage Lambskin & Gold-Tone Metal Venity Case Micro Coral Poudre"
+        ],
+        "trade_count": 1600000
+      },
+      "디올 새들 오블리크 자수 캔버스 스트랩백 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Saddle Dior Oblique Embroidered Canvas Strap Bag Blue"
+        ],
+        "trade_count": 2380000
+      },
+      "디올 디오라마 그레인 카프스킨 WOC 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Diorama Grained Calfskin WOC Black"
+        ],
+        "trade_count": 600000
+      },
+      "디올 레이디 디올 까나쥬 양가죽 백 미니 블러쉬": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior Cannage Lambskin Bag Mini Blush"
+        ],
+        "trade_count": 0
+      },
+      "디올 레이디 디올 마이 ABC디올 까나쥬 램스킨 숄더백 스몰 매트 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior My ABCDior Cannage Lambskin Shoulder Samll Matte Black"
+        ],
+        "trade_count": 0
+      },
+      "디올 레이디 디올 까나쥬 카프스킨 토트백 라지 스톤 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior Cannage Calfskin Tote Bag Large Stone Grey"
+        ],
+        "trade_count": 0
+      },
+      "디올 레이디 디올 95.22 까나쥬 램스킨 핸드백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior 95.22 Cannage Lambskin Hand Bag Small Black"
+        ],
+        "trade_count": 0
+      },
+      "디올 레이디 디올 마이 ABC디올 까나쥬 램스킨 숄더백 스몰 클라우드 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior My ABCDior Cannage Lambskin Shoulder Bag Small Cloud Blue"
+        ],
+        "trade_count": 3750000
+      },
+      "디올 레이디 디올 크링클 까나쥬 송아지 가죽 백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior Crinkled Cannage Calfskin Small Bag Black"
+        ],
+        "trade_count": 4200000
+      },
+      "디올 자디올 카프스킨 플랩 체인 숄더백 올드 로즈": {
+        "category": "가방",
+        "synonyms": [
+          "Dior J'Adior Calfskin Flap Chain Shoulder Bag Old Rose"
+        ],
+        "trade_count": 0
+      },
+      "디올 북 토트 오블리크 자수 캔버스 토트백 미니 보르도 멀티": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Book Tote Oblique Embroidered Canvas Tote Bag Mini Bordeaux Multi"
+        ],
+        "trade_count": 0
+      },
+      "디올 북 토트 스트라이프 자수 캔버스 토트백 라지 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Book Tote Stripes Embroidered Canvas Tote Bag Large Pink"
+        ],
+        "trade_count": 0
+      },
+      "디올 힛 더 로드 CD 다이아몬드 캔버스 & 스무스 카프스킨 백팩 라지 라이트 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Hit The Road CD Diamond Canvas & Smooth Calfskin Backpack Large Light Beige"
+        ],
+        "trade_count": 0
+      },
+      "디올 x 피터 도이그 새들 카모플라쥬 자카드 캔버스 숄더백 멀티컬러": {
+        "category": "가방",
+        "synonyms": [
+          "Dior x Peter Doig Saddle Camouflage Jacquard Canvas Shoulder Bag Multicolor"
+        ],
+        "trade_count": 0
+      },
+      "디올 새들 디올 오블리크 자카드 카스리 캔버스 숄더백 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Saddle Dior Oblique Jacquard Kasuri Canvas Shoulder Bag Blue"
+        ],
+        "trade_count": 0
+      },
+      "디올 디올 오블리크 자카드 캔버스 토트백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Dior Oblique Jacquard Canvas Tote Bag Black"
+        ],
+        "trade_count": 2200000
+      },
+      "디올 꾸뛰르 체인 링크 브레이슬릿 실버 코팅": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Dior Couture Chain Link Bracelet Silver Plated"
+        ],
+        "trade_count": 0
+      },
+      "디올 옴므 카프스킨 여권 케이스 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Homme Calfskin Passport Case Black"
+        ],
+        "trade_count": 300000
+      },
+      "디올 레이디 5-포켓 페이턴트 까나쥬 카프스킨 카드 홀더 샌드": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Lady 5-Pocket Patent Cannage Calfskin Card Holder Sand"
+        ],
+        "trade_count": 230000
+      },
+      "디올 디올아무르 레이디 디올 카프스킨 백 스몰 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Dioramour Lady Dior Calfskin Bag Small Red"
+        ],
+        "trade_count": 2740000
+      },
+      "디올 디올 오블리크 갤럭시 레더 새들 백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Dior Oblique Galaxy Leather Saddle Bag Black"
+        ],
+        "trade_count": 1880000
+      },
+      "디올 어딕트 오블리크 자카드 숄더백 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Addict Oblique Jaquard Shoulder Bag Blue"
+        ],
+        "trade_count": 550000
+      },
+      "디올 카로 서플 까냐쥬 카프스킨 파우치 라떼": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Caro Supple Cannage Calfskin Pouch White"
+        ],
+        "trade_count": 0
+      },
+      "디올 레이디 디 조이 까나쥬 양가죽 백 미디엄 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady D Joy Cannage Lambskin Bag Medium Blue"
+        ],
+        "trade_count": 4360000
+      },
+      "디올 레이디 디 라이트 까나쥬 자수 백 미디엄 로즈우드": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady D Lite Cannage Embroidery Bag Medium Rosewood"
+        ],
+        "trade_count": 2600000
+      },
+      "디올 카로 서플 까나쥬 카프스킨 데일리 파우치 라지 피오니 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Dio Caro Supple Cannage Calfskinr Daily Pouch Large Peony Pink"
+        ],
+        "trade_count": 800000
+      },
+      "디올 자디올 카프스킨 플랩 체인 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior J'Adior Calfskin Flap Chain Shoulder Bag Black"
+        ],
+        "trade_count": 2100000
+      },
+      "디올 오블리크 카프스킨 스트랩 새들백 베이지 & 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Oblique Calfskine Strap Saddle Bag Beige & Black"
+        ],
+        "trade_count": 1460000
+      },
+      "디올 크리스찬 디올 데님 카나쥬 스몰 카로백 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Christian Dior Denim Cannage Small Caro Bag Blue"
+        ],
+        "trade_count": 2200000
+      },
+      "디올 디오라마 퀼팅 카프스킨 체인 크로스백 미디엄블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Diorama Quilted Calfskin Chain Cross Bag Medium Black"
+        ],
+        "trade_count": 900000
+      },
+      "디올 오블리크 자카드 캔버스 베이비 볼백 네이비": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Oblique Jacquard Canvas Baby Ball Bag Navy"
+        ],
+        "trade_count": 1100000
+      },
+      "디올 새들 소프트 나일론 & 송아지 가죽 백 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Saddle Soft Nylon & Calf Leather Bag Large Black"
+        ],
+        "trade_count": 0
+      },
+      "디올 오블리크 트로터 캔버스 토트백 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Oblique Trotter Canvas Tote Bag Blue"
+        ],
+        "trade_count": 950000
+      },
+      "디올 디올 옴므 새들 송아지 가죽 숄더 스트랩 토트백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Dior Homme Saddle Calfskin Shoulder Strap Tote Bag Black"
+        ],
+        "trade_count": 2030000
+      },
+      "디올 새들 그레인 송아지 가죽 플랩 메신저백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Saddle Grained Calfskin Flap Messenger Bag Mini Black"
+        ],
+        "trade_count": 2050000
+      },
+      "디올 디올 힛 더 로드 CD 다이아몬드 캔버스 스무스 카프스킨 파우치 A5 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Dior Hit The Road CD Diamond Canvas Smooth Calfskin Pouch A5 Grey"
+        ],
+        "trade_count": 0
+      },
+      "디올 새들 암 파우치 디올 오블리크 자카드 베이지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Saddle Arm Pouch Dior Oblique Jacquard Beige Black"
+        ],
+        "trade_count": 0
+      },
+      "디올 디오라마 마이크로 까나쥬 카프스킨 숄더백 미디엄 메탈릭 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Diorama Micro Cannage Calfskin Shoulder Bag Medium Metallic Blue"
+        ],
+        "trade_count": 1800000
+      },
+      "디올 자디올 카프스킨 & 골드 톤 메탈 숄더백 미디엄 아이보리": {
+        "category": "가방",
+        "synonyms": [
+          "Dior J’Adior Calfskin & Gold-Tone Metal Medium Shoulder Bag Ivory"
+        ],
+        "trade_count": 0
+      },
+      "디올 까나쥬 자카드 퀄팅 캔버스 보스턴백 미디엄 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Cannage Jacquard Quilted Canvas Medium Boston Bag Beige"
+        ],
+        "trade_count": 0
+      },
+      "디올 레이디 디올 페이턴트 까나쥬 송아지 가죽 숄더백 스몰 누드베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior Patent Cannage Calfskin Small Shoulder Bag Nude Beige"
+        ],
+        "trade_count": 4800000
+      },
+      "디올 카로 까나쥬 퀄팅 카프스킨 숄더백 미니 헤이즐넛": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Caro Cannage Quilted Calfskin Shoulder Bag Mini Hazelnut"
+        ],
+        "trade_count": 2650000
+      },
+      "디올 익스플로러 디올 오블리크 자카드 테크니컬 패브릭 메신저백 베이지 & 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Explorer Dior Obluque Jacquard Technical Fabric Messenger Bag Beige & Black"
+        ],
+        "trade_count": 2750000
+      },
+      "디올 레이디 디올 프리지아 페이턴트 까나쥬 송아지 가죽 카드 지갑 샌드": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Lady Dior Freesia Patent Cannage Calfskin Card Holder Sand"
+        ],
+        "trade_count": 290000
+      },
+      "디올 새들 블룸 염소 가죽 카드 지갑 탄": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Saddle Bloom Goatskin Card Holder Tan"
+        ],
+        "trade_count": 250000
+      },
+      "디올 카로 글리신 서플 까나쥬 송아지 가죽 지갑 실버": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Caro Glycine Supple Cannage Calfskin Wallet Silver"
+        ],
+        "trade_count": 0
+      },
+      "디올 카로 컴팩트 스칼렛 서플 까나쥬 송아지 가죽 지갑 샌드": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Caro Compact Scarlet Supple Cannage Calfskin Wallet Sand"
+        ],
+        "trade_count": 490000
+      },
+      "디올 CD 다이아몬드 캔버스 카드 홀더 베이지": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior CD Diamond Canvas Card Holder Beige"
+        ],
+        "trade_count": 410000
+      },
+      "디올 30 몽테인 로터스 페이턴트 송아지 가죽 지갑 실버": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior 30 Montaigne Lotus Patent Calfskin Wallet Silver"
+        ],
+        "trade_count": 0
+      },
+      "디올 30 몽테인 로터스 그레인드 송아지 가죽 지갑 클라우드 블루": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior 30 Montaigne Lotus Grained Calfskin Wallet Cloud Blue"
+        ],
+        "trade_count": 480000
+      },
+      "디올 버티컬 디올 오블리크 자카드 롱 지퍼 지갑 베이지 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Dior Vertical Dior Oblique Jacquard Long Zipped Wallet Beige Black"
+        ],
+        "trade_count": 550000
+      },
+      "디올 바키라 스몰 쿼츠 옐로우 골드 플레이트 블랙 문": {
+        "category": "시계",
+        "synonyms": [
+          "Dior Bagheera Small Quartz Yellow Gold Plated Black Moon"
+        ],
+        "trade_count": 300000
+      },
+      "디올 바키라 27mm 쿼츠 스틸 네이비 블루": {
+        "category": "시계",
+        "synonyms": [
+          "Dior Bagheera 27mm Quartz Steel Navy Blue"
+        ],
+        "trade_count": 380000
+      },
+      "디올 라 미니 디 드 디올 쿼츠 스틸 실버 다이아몬드 베젤": {
+        "category": "시계",
+        "synonyms": [
+          "Dior La Mini D de Dior Quartz Steel Silver Diamond Bezel"
+        ],
+        "trade_count": 2000000
+      },
+      "디올 디올 히트 더 로드 CD 다이아몬드 캔버스 스무스 카프스킨 메신저백 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Dior Hit The Road CD Diamond Canvas Smooth Calfskin Messenger Bag Gray"
+        ],
+        "trade_count": 1770000
+      },
+      "디올 디올 그루브 25 디올 오블리크 자카드 백 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Dior Groove 25 Bag Blue Dior Oblique Jacquard"
+        ],
+        "trade_count": 2680000
+      },
+      "디올 카로 데일리 서플 까나쥬 송아지 가죽 파우치 미디엄 클라우드 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Caro Supple Cannage Calfskin Medium Daily Pouch Cloud Blue"
+        ],
+        "trade_count": 700000
+      },
+      "디올 디올 그래비티 가죽 & 블랙 그레인드 송아지 가죽 파우치 A4": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Dior Gravity Leather & Black Grained Calfskin A4 Pouch Black"
+        ],
+        "trade_count": 0
+      },
+      "디올 새들 디올 오블리크 자카드 트리플 파우치 카키": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Saddle Dior Oblique Jacquard Triple Pouch Khaki"
+        ],
+        "trade_count": 2200000
+      },
+      "디올 새들 디올 오블리크 자카드 그레인드 송아지 가죽 버티컬 파우치 스트랩 베이지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Saddle Dior Oblique Jacquard Black Grained Calfskin Vertical Pouch Strap Beige Black"
+        ],
+        "trade_count": 0
+      },
+      "디올 새들 디올 오블리크 자카드 스무스 송아지 가죽 스트랩백 미니 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Saddle Dior Oblique Jacquard Smooth Calfskin Mini Bag with Strap Blue"
+        ],
+        "trade_count": 0
+      },
+      "디올 링고 디올 CD 다이아몬드 캔버스 토일레트리 케이스 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lingot CD Diamond Canvas Toiletry Case Gray"
+        ],
+        "trade_count": 900000
+      },
+      "디올 링고 CD 다이아몬드 캔버스 스무스 송아지 가죽 메신저 백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lingot CD Diamond Canvas Smooth Calfskin Messenger Bag Black"
+        ],
+        "trade_count": 0
+      },
+      "디올 레이디 디올 마이 ABC디올 까나쥬 양가죽 백 스몰 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior My ABCDior Cannage Lambskin Small Bag Red"
+        ],
+        "trade_count": 4500000
+      },
+      "디올 레이디 디올 콜린 디올 까나쥬 양가죽 휴대폰 홀더 클라우드 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Lady Dior Call'in Dior Cannage Lambskin Phone Holder Cloud Blue"
+        ],
+        "trade_count": 760000
+      },
+      "디올 갤롭 그레인드 송아지 가죽 슬링백 딥 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Dior Gallop Grained Calfskin Sling Bag Deep Gray"
+        ],
+        "trade_count": 2500000
+      },
+      "디올 x 캑터스 잭 B713 스니커즈 그레이 민트": {
+        "category": "신발",
+        "synonyms": [
+          "Dior x Cactus Jack B713 Sneakers Grey Mint"
+        ],
+        "trade_count": 1500000
+      },
+      "디올 익스플로러 더비 슈즈 블랙 스무스 카프스킨 베이지 블랙 디올 오블리크 자카드": {
+        "category": "신발",
+        "synonyms": [
+          "Dior Explorer Derby Shoe Black Smooth Calfskin Beige Black Dior Oblique Jacquard"
+        ],
+        "trade_count": 0
+      },
+      "디올 (W) 디올 자디올 자수 펌프스 테크니컬 캔버스 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Dior J'adior Embroidered Pumps Technical Canvas Black"
+        ],
+        "trade_count": 390000
+      },
+      "디올 B27 미드탑 스니커즈 블랙 베이지": {
+        "category": "신발",
+        "synonyms": [
+          "Dior B27 Mid-Top Sneakers Black Beige"
+        ],
+        "trade_count": 960000
+      },
+      "디올 플리스 자켓": {
+        "category": "의류",
+        "synonyms": [],
+        "trade_count": 2390000
+      },
+      "디올 워크 자켓": {
+        "category": "의류",
+        "synonyms": [],
+        "trade_count": 2660000
+      },
+      "디올 반소매 자켓": {
+        "category": "의류",
+        "synonyms": [],
+        "trade_count": 1970000
+      }
+    }
+  }
+}

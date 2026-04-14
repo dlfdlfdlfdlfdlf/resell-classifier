@@ -1,0 +1,5832 @@
+{
+  "샤넬": {
+    "models": {
+      "샤넬 클래식 그레인드 카프스킨 실버 메탈 플랩 카드지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Silver Metal Flap Card Case Black"
+        ],
+        "trade_count": 331,
+        "avg_price": 824000
+      },
+      "샤넬 클래식 그레인드 카프스킨 골드 메탈 플랩 카드지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Gold Metal Flap Card Case Black"
+        ],
+        "trade_count": 246,
+        "avg_price": 717000
+      },
+      "샤넬 가브리엘 빈티지 카프스킨 & 골드 실버 메탈 백팩 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Gabrielle Aged Calfskin & Gold Silver Backpack Small Black"
+        ],
+        "trade_count": 175,
+        "avg_price": 5904000
+      },
+      "샤넬 클래식 그레인드 카프스킨 실버 메탈 카드홀더 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Silver Metal Card Holder Black"
+        ],
+        "trade_count": 136,
+        "avg_price": 522000
+      },
+      "샤넬 가브리엘 빈티지 카프스킨 & 골드 메탈 호보백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Gabrielle Vintage Calfskin & Gold Metal Hobo Bag Small Black"
+        ],
+        "trade_count": 128,
+        "avg_price": 3394000
+      },
+      "샤넬 보이 그레인드 카프스킨 루테늄 메탈 플랩 카드홀더 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Boy Grained Calfskin Ruthenium Metal Flap Card Holder Black"
+        ],
+        "trade_count": 107,
+        "avg_price": 811000
+      },
+      "샤넬 클래식 그레인드 카프스킨 실버 메탈 지퍼 동전 지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Silver Metal Zipped Coin Purse Black"
+        ],
+        "trade_count": 104,
+        "avg_price": 675000
+      },
+      "샤넬 발레리나 플랫 램스킨 & 베이지 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "Chanel Ballerina Flat Lambskin & Beige Black"
+        ],
+        "trade_count": 104,
+        "avg_price": 637000
+      },
+      "샤넬 클래식 그레인드 카프스킨 골드 메탈 카드홀더 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Gold Metal Card Holder Black"
+        ],
+        "trade_count": 103,
+        "avg_price": 550000
+      },
+      "샤넬 클래식 그레인드 카프스킨 골드 메탈 지퍼 동전 지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Gold Metal Zipped Coin Purse Black"
+        ],
+        "trade_count": 93,
+        "avg_price": 674000
+      },
+      "샤넬 22 샤이니 카프스킨 & 골드 메탈 핸드백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 22 Shiny Calfskin & Gold Handbag Small Black"
+        ],
+        "trade_count": 89,
+        "avg_price": 6260000
+      },
+      "샤넬 보이 그레인드 카프스킨 골드 메탈 플랩 카드홀더 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Boy Grained Calfskin Gold Metal Flap Card Holder Black"
+        ],
+        "trade_count": 85,
+        "avg_price": 650000
+      },
+      "샤넬 클래식 그레인드 카프스킨 실버 메탈 스몰 플랩 지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Silver Metal Small Flap Wallet Black"
+        ],
+        "trade_count": 75,
+        "avg_price": 947000
+      },
+      "샤넬 보이 카프스킨 & 루테늄 메탈 플랩 백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Boy Calfskin & Ruthenium Metal Flap Bag Medium Black"
+        ],
+        "trade_count": 73,
+        "avg_price": 5420000
+      },
+      "샤넬 코코 크러쉬 링 미니 화이트 골드": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel Coco Crush Ring Mini White Gold"
+        ],
+        "trade_count": 72,
+        "avg_price": 1890000
+      },
+      "샤넬 램스킨 & 골드 메탈 체인 백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Lambskin & Gold Metal Chain Bag Mini Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 2565000
+      },
+      "샤넬 스니커즈 패브릭 라미네이티드 & 화이트 실버": {
+        "category": "신발",
+        "synonyms": [
+          "Chanel Sneakers Fabric Laminated & White Silver"
+        ],
+        "trade_count": 69,
+        "avg_price": 1502000
+      },
+      "샤넬 보이 그레인드 카프스킨 루테늄 메탈 지퍼 동전 지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Boy Grained Calfskin Ruthenium Metal Zipped Coin Purse Black"
+        ],
+        "trade_count": 64,
+        "avg_price": 703000
+      },
+      "샤넬 캐시미어 CC 비니": {
+        "category": "패션 악세서리",
+        "synonyms": [
+          "Chanel Beanie Cashmere CC Beanie"
+        ],
+        "trade_count": 63,
+        "avg_price": 1025000
+      },
+      "샤넬 클래식 그레인드 카프스킨 & 골드 메탈 케이스 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin & Gold Metal Case Medium Black"
+        ],
+        "trade_count": 58,
+        "avg_price": 719000
+      },
+      "샤넬 클래식 그레인드 카프스킨 서프백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Grained Calksin Surf Bag Black"
+        ],
+        "trade_count": 56,
+        "avg_price": 2207000
+      },
+      "샤넬 코코 크러쉬 링 미니 베이지 골드": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel Coco Crush Ring Mini Beige Gold"
+        ],
+        "trade_count": 54,
+        "avg_price": 1768000
+      },
+      "샤넬 발레리나 플랫 램스킨 페이턴트 카프스킨 & 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "Chanel Ballerina Flat Lambskin Patent Calfskin & Black"
+        ],
+        "trade_count": 52,
+        "avg_price": 800000
+      },
+      "샤넬 19 램스킨 & 골드 메탈 핸드백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 19 Handbag Lambskin & Gold Medium Black"
+        ],
+        "trade_count": 50,
+        "avg_price": 5280000
+      },
+      "샤넬 클래식 그레인드 카프스킨 골드 메탈 스몰 플랩 지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Gold Metal Small Flap Wallet Black"
+        ],
+        "trade_count": 48,
+        "avg_price": 930000
+      },
+      "샤넬 클래식 램스킨 & 골드 메탈 플랩백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Lambskin & Gold Metal Flap Bag Mini Black"
+        ],
+        "trade_count": 31,
+        "avg_price": 4500000
+      },
+      "샤넬 미들힐 슬링백 고트스킨 그로그랭 & 베이지 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "Chanel Mid-Heel Slingbacks Goatskin Grosgrain & Beige Black"
+        ],
+        "trade_count": 48,
+        "avg_price": 780000
+      },
+      "샤넬 믹스드 파이버 스니커즈 벨벳 카프스킨 & 골드 메탈 아이보리": {
+        "category": "신발",
+        "synonyms": [
+          "Chanel Mixed Fibers Sneakers Velvet Calfskin & Gold Ivory"
+        ],
+        "trade_count": 47,
+        "avg_price": 830000
+      },
+      "샤넬 실크 스카프": {
+        "category": "패션 악세서리",
+        "synonyms": [
+          "Chanel Silk Scarf"
+        ],
+        "trade_count": 46,
+        "avg_price": 671000
+      },
+      "샤넬 샌들 그레인드 카프스킨 & 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "Chanel Sandals Grained Calfskin & Black"
+        ],
+        "trade_count": 46,
+        "avg_price": 1666000
+      },
+      "샤넬 부츠 카우초크 & 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "Chanel Boots Caoutchouc & Black"
+        ],
+        "trade_count": 46,
+        "avg_price": 2046000
+      },
+      "샤넬 클래식 그레인드 카프스킨 & 골드 메탈 플랩백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Handbag Grained Calfskin & Gold Medium Black"
+        ],
+        "trade_count": 45,
+        "avg_price": 10255000
+      },
+      "샤넬 클래식 그레인드 카프스킨 & 실버 메탈 케이스 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin & Silver Metal Case Large Black"
+        ],
+        "trade_count": 43,
+        "avg_price": 1037000
+      },
+      "샤넬 슬림 방도 실크 트윌": {
+        "category": "패션 악세서리",
+        "synonyms": [
+          "Chanel Slim Bandeau Silk Twill"
+        ],
+        "trade_count": 42,
+        "avg_price": 514000
+      },
+      "샤넬 클래식 그레인드 카프스킨 실버 메탈 플랩 장지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Silver Metal Flap Long Wallet Black"
+        ],
+        "trade_count": 40,
+        "avg_price": 710000
+      },
+      "샤넬 램스킨 & 골드 메탈 체인 코스메틱 케이스 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Small Vanity With Chain Lambskin & Gold Small Black"
+        ],
+        "trade_count": 40,
+        "avg_price": 2850000
+      },
+      "샤넬 클래식 그레인드 카프스킨 골드 메탈 플랩 장지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Gold Metal Flap Long Wallet Black"
+        ],
+        "trade_count": 37,
+        "avg_price": 1603000
+      },
+      "샤넬 그레인드 카프스킨 & 골드 메탈 체인백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Grained Calfskin & Gold Clutch With Chain Black"
+        ],
+        "trade_count": 36,
+        "avg_price": 1826000
+      },
+      "샤넬 그랜드샤핑 캐비어 골드 체인 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Grand Shopping Caviar Gold Chain Shoulder Bag Black"
+        ],
+        "trade_count": 34,
+        "avg_price": 2260000
+      },
+      "샤넬 믹스드 파이버 스니커즈 벨벳 카프스킨 & 골드 메탈 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "Chanel Mixed Fibers Sneakers Velvet Calfskin & Gold Black"
+        ],
+        "trade_count": 34,
+        "avg_price": 1093000
+      },
+      "샤넬 22 샤이니 카프스킨 & 골드 메탈 핸드백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 22 Shiny Calfskin & Gold Handbag Mini Black"
+        ],
+        "trade_count": 33,
+        "avg_price": 5393000
+      },
+      "샤넬 19 램스킨 & 골드 실버 루테늄 메탈 체인 지갑 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 19 Wallet On Chain Lambskin & Gold Silver Ruthenium Black"
+        ],
+        "trade_count": 32,
+        "avg_price": 3164000
+      },
+      "샤넬 보이 그레인드 카프스킨 & 골드 메탈 클러치백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Boy Grained Calfskin & Gold Pouch Medium Black"
+        ],
+        "trade_count": 32,
+        "avg_price": 945000
+      },
+      "샤넬 코코 크러쉬 링 스몰 화이트 골드": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel Coco Crush Ring Small White Gold"
+        ],
+        "trade_count": 30,
+        "avg_price": 2869000
+      },
+      "샤넬 22 샤이니 카프스킨 & 골드 메탈 핸드백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 22 Shiny Calfskin & Gold Handbag Medium Black"
+        ],
+        "trade_count": 30,
+        "avg_price": 6241000
+      },
+      "샤넬 가브리엘 빈티지 카프스킨 & 골드 메탈 호보백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Gabrielle Vintage Calfskin & Gold Metal Hobo Bag Medium Black"
+        ],
+        "trade_count": 29,
+        "avg_price": 4522000
+      },
+      "샤넬 클래식 그레인드 카프스킨 & 골드 메탈 체인 코스메틱 케이스 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin & Gold Metal Chain Cosmetic Case Small Black"
+        ],
+        "trade_count": 29,
+        "avg_price": 3445000
+      },
+      "샤넬 코코 크러쉬 링 스몰 베이지 골드": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel Coco Crush Ring Small Beige Gold"
+        ],
+        "trade_count": 26,
+        "avg_price": 3105000
+      },
+      "샤넬 19 램스킨 & 골드 메탈 체인 클러치 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 19 Clutch With Chain Lambskin & Gold Black"
+        ],
+        "trade_count": 26,
+        "avg_price": 2162000
+      },
+      "샤넬 램스킨 & 골드 메탈 체인 코스메틱 케이스 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Lambskin & Gold Metal Chain Cosmetic Case Black"
+        ],
+        "trade_count": 26,
+        "avg_price": 3000000
+      },
+      "샤넬 클래식 그레인드 카프스킨 & 골드 메탈 케이스 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin & Gold Metal Case Large Black"
+        ],
+        "trade_count": 26,
+        "avg_price": 1192000
+      },
+      "샤넬 보이 그레인드 카프스킨 골드 메탈 지퍼 동전 지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Boy Grained Calfskin Gold Metal Zipped Coin Purse"
+        ],
+        "trade_count": 25,
+        "avg_price": 550000
+      },
+      "샤넬 가브리엘 빈티지 카프스킨 & 골드 메탈 호보백 스몰 베이지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Gabrielle Vintage Calfskin & Gold Metal Hobo Bag Small Beige Black"
+        ],
+        "trade_count": 25,
+        "avg_price": 2351000
+      },
+      "샤넬 가브리엘 빈티지 카프스킨 & 골드 메탈 호보백 스몰 화이트 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Gabrielle Vintage Calfskin & Gold Metal Hobo Bag Small White Black"
+        ],
+        "trade_count": 24,
+        "avg_price": 2200000
+      },
+      "샤넬 램스킨 & 골드 메탈 탑핸들 플랩백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Lambskin & Gold Flap Bag with Top Handle Mini Black"
+        ],
+        "trade_count": 23,
+        "avg_price": 5790000
+      },
+      "샤넬 클래식 그레인드 카프스킨 골드 메탈 플랩 카드지갑 라이트 핑크": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Gold Metal Flap Card Case Light Pink"
+        ],
+        "trade_count": 22,
+        "avg_price": 770000
+      },
+      "샤넬 클래식 그레인드 카프스킨 실버 메탈 지퍼 파우치 스몰 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Silver Metal Zipped Pouch Small Black"
+        ],
+        "trade_count": 21,
+        "avg_price": 532000
+      },
+      "샤넬 가브리엘 빈티지 카프스킨 & 골드 메탈 호보백 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Gabrielle Vintage Calfskin & Gold Metal Hobo Bag Large Black"
+        ],
+        "trade_count": 21,
+        "avg_price": 3087000
+      },
+      "샤넬 클래식 램스킨 & 실버 메탈 플랩백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Lambskin & Sliver Metal Flap Bag Mini Black"
+        ],
+        "trade_count": 21,
+        "avg_price": 5650000
+      },
+      "샤넬 스니커즈 메쉬 스웨이드 카프스킨 & 화이트 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "Chanel Sneakers Mesh Suede Calfskin & White Black"
+        ],
+        "trade_count": 21,
+        "avg_price": 1220000
+      },
+      "샤넬 캐비어 메달리온 토트백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Caviar Medallion Tote Bag Black"
+        ],
+        "trade_count": 20,
+        "avg_price": 1580000
+      },
+      "샤넬 클래식 그레인드 카프스킨 & 골드 메탈 핸드백 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin & Gold Metal Handbag Large Black"
+        ],
+        "trade_count": 20,
+        "avg_price": 6388000
+      },
+      "샤넬 로퍼 램스킨 & 골드 메탈 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "Chanel Loafers Lambskin & Gold Black"
+        ],
+        "trade_count": 20,
+        "avg_price": 1655000
+      },
+      "샤넬 CC 로고 레더 벨트": {
+        "category": "패션 악세서리",
+        "synonyms": [
+          "Chanel Belt Calfskin"
+        ],
+        "trade_count": 20,
+        "avg_price": 965000
+      },
+      "샤넬 19 램스킨 골드 메탈 플랩 카드홀더 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel 19 Lambskin Gold Metal Flap Card Holder Black"
+        ],
+        "trade_count": 19,
+        "avg_price": 885000
+      },
+      "샤넬 19 램스킨 골드 메탈 카드홀더 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel 19 Lambskin Gold Metal Card Holder Black"
+        ],
+        "trade_count": 19,
+        "avg_price": 466000
+      },
+      "샤넬 가브리엘 빈티지 카프스킨 & 골드 실버 메탈 백팩 스몰 화이트 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Gabrielle Aged Calfskin & Gold Silver Backpack Small White Black"
+        ],
+        "trade_count": 19,
+        "avg_price": 5020000
+      },
+      "샤넬 샤이니 그레인드 카프스킨 & 골드 메탈 백팩 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Shiny Grained Calfskin & Gold Backpack Small Black"
+        ],
+        "trade_count": 10,
+        "avg_price": 7600000
+      },
+      "샤넬 보이 그레인드 카프스킨 & 골드 메탈 체인 지갑 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Boy Grained Calfskin & Gold Metal Chain Wallet Black"
+        ],
+        "trade_count": 19,
+        "avg_price": 2800000
+      },
+      "샤넬 클래식 유광 카프스킨 & 골드 메탈 체인 코스메틱 케이스 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Glossy Calfskin & Gold Metal Chain Cosmetic Case Small Black"
+        ],
+        "trade_count": 19,
+        "avg_price": 3551000
+      },
+      "샤넬 램스킨 & 골드 메탈 체인 탑핸들 미니백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Lambskin & Gold Metal Chain Top Handle Mini Bag Black"
+        ],
+        "trade_count": 19,
+        "avg_price": 2498000
+      },
+      "샤넬 클래식 그레인드 카프스킨 & 골드 메탈 케이스 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Pouch Grained Calfskin & Gold Small Black"
+        ],
+        "trade_count": 19,
+        "avg_price": 700000
+      },
+      "샤넬 보이 램스킨 골드 메탈 플랩 지갑 스몰 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Boy Lambskin Gold Metal Flap Wallet Small Black"
+        ],
+        "trade_count": 18,
+        "avg_price": 550000
+      },
+      "샤넬 2.55 빈티지 카프스킨 & 골드 메탈 핸드백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 2.55 Aged Calfskin & Gold Handbag Mini Black"
+        ],
+        "trade_count": 18,
+        "avg_price": 5750000
+      },
+      "샤넬 가브리엘 빈티지 카프스킨 & 골드 실버 메탈 백팩 스몰 네이비 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Gabrielle Aged Calfskin & Gold Silver Backpack Small Navy Black"
+        ],
+        "trade_count": 18,
+        "avg_price": 3607000
+      },
+      "샤넬 (W) 샤넬 슬링백 고트스킨 그로그랭 & 베이지 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Chanel Slingbacks Goatskin Grosgrain & Beige Black"
+        ],
+        "trade_count": 18,
+        "avg_price": 630000
+      },
+      "샤넬 프리미에르 에디션 오리지날레 쿼츠 옐로우 골드 코팅 & 블랙 레더": {
+        "category": "시계",
+        "synonyms": [
+          "Chanel Première Édition Originale Quartz Coated Yellow Gold & Black Leather"
+        ],
+        "trade_count": 17,
+        "avg_price": 2746000
+      },
+      "샤넬 2.55 빈티지 카프스킨 & 골드 메탈 플랩백 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 2.55 Vintage Calfskin & Gold Large Black"
+        ],
+        "trade_count": 17,
+        "avg_price": 4550000
+      },
+      "샤넬 카프스킨 & 골드 메탈 백팩 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Calfskin & Gold Chrome Backpack Small Black"
+        ],
+        "trade_count": 17,
+        "avg_price": 6450000
+      },
+      "샤넬 보이 그레인드 카프스킨 & 골드 메탈 플랩백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Boy Grained Calfskin & Gold Metal Flap Bag Medium Black"
+        ],
+        "trade_count": 17,
+        "avg_price": 4650000
+      },
+      "샤넬 램스킨 & 골드 메탈 탑핸들 플랩백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Lambskin & Gold Metal Top Handle Flap Bag Small Black"
+        ],
+        "trade_count": 17,
+        "avg_price": 5233000
+      },
+      "샤넬 클래식 램스킨 골드 메탈 플랩 카드지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Lambskin Gold Metal Flap Card Holder Black"
+        ],
+        "trade_count": 16,
+        "avg_price": 630000
+      },
+      "샤넬 클래식 그레인드 카프스킨 골드 메탈 플랩 카드지갑 네이비": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Gold Metal Flap Card Case Navy"
+        ],
+        "trade_count": 16,
+        "avg_price": 800000
+      },
+      "샤넬 클래식 그레인드 카프스킨 골드 메탈 플랩 카드지갑 레드": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Gold Metal Flap Card Case Red"
+        ],
+        "trade_count": 16,
+        "avg_price": 520000
+      },
+      "샤넬 가브리엘 그레인드 카프스킨 골드 메탈 카드홀더 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Gabrielle Grained Calfskin Gold Metal Card Holder Black"
+        ],
+        "trade_count": 16
+      },
+      "샤넬 그레인드 카프스킨 & 골드 메탈 탑핸들 플랩백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel grained calfskin & gold metal top handle flap bag medium black"
+        ],
+        "trade_count": 16,
+        "avg_price": 6750000
+      },
+      "샤넬 (W) 샤넬 램스킨 벨크로 Dad 슬라이드 샌들 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Chanel Lambskin Velcro Dad Slide Sandals Black"
+        ],
+        "trade_count": 16,
+        "avg_price": 1830000
+      },
+      "샤넬 발레리나 플랫 빈티지 카프스킨 & 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "Chanel Ballerina Flat Aged Calfskin & Black"
+        ],
+        "trade_count": 16,
+        "avg_price": 311000
+      },
+      "샤넬 어피니티 그레인드 카프스킨 & 골드 메탈 탑핸들 플랩백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Affinity grained calfskin & gold metal top handle flap bag medium black"
+        ],
+        "trade_count": 15,
+        "avg_price": 4750000
+      },
+      "샤넬 머플러": {
+        "category": "패션 악세서리",
+        "synonyms": [
+          "Chanel Cashmere Scarf"
+        ],
+        "trade_count": 15,
+        "avg_price": 1408000
+      },
+      "샤넬 클래식 그레인드 카프스킨 골드 메탈 플랩 카드지갑 화이트": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Gold Metal Flap Card Case White"
+        ],
+        "trade_count": 14,
+        "avg_price": 400000
+      },
+      "샤넬 클래식 램스킨 실버 메탈 플랩 3단 장지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Lambskin Silver Metal Flap Tri Fold Long Wallet Black"
+        ],
+        "trade_count": 14,
+        "avg_price": 390000
+      },
+      "샤넬 보이 그레인드 카프스킨 루테늄 메탈 플랩 장지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Boy Grained Calfskin Ruthenium Metal Flap Long Wallet Black"
+        ],
+        "trade_count": 14,
+        "avg_price": 1342000
+      },
+      "샤넬 보이 그레인드 램스킨 & 실버 메탈 클러치백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Boy Grained Ramskin & Sliver Pouch Medium Black"
+        ],
+        "trade_count": 14,
+        "avg_price": 610000
+      },
+      "샤넬 발레리나 플랫 램스킨 & 화이트 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "Chanel Ballerina Flat Lambskin & White Black"
+        ],
+        "trade_count": 14,
+        "avg_price": 574000
+      },
+      "샤넬 클래식 그레인드 카프스킨 골드 메탈 플랩 카드지갑 베이지": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Gold Metal Flap Card Case Beige"
+        ],
+        "trade_count": 13,
+        "avg_price": 808000
+      },
+      "샤넬 클래식 그레인드 카프스킨 골드 메탈 플랩 카드지갑 핑크": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Gold Metal Flap Card Case Pink"
+        ],
+        "trade_count": 10,
+        "avg_price": 438000
+      },
+      "샤넬 클래식 그레인드 카프스킨 골드 메탈 WOC 미니 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Gold Metal Flap WOC Mini Black"
+        ],
+        "trade_count": 13
+      },
+      "샤넬 클래식 그레인드 카프스킨 실버 메탈 플랩 중지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Silver Metal Flap Wallet Medium Black"
+        ],
+        "trade_count": 13,
+        "avg_price": 1600000
+      },
+      "샤넬 19 램스킨 & 골드 메탈 파우치 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 19 Lambskin & Gold Pouch Small Black"
+        ],
+        "trade_count": 13,
+        "avg_price": 750000
+      },
+      "샤넬 19 램스킨 & 골드 메탈 핸드백 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 19 Hand Bag Large with Chain Lambskin & Gold Black"
+        ],
+        "trade_count": 13,
+        "avg_price": 4350000
+      },
+      "샤넬 22 샤이니 카프스킨 & 실버 메탈 핸드백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 22 Shiny Calfskin & Silver Handbag Small Black"
+        ],
+        "trade_count": 13
+      },
+      "샤넬 빈티지 카프스킨 & 골드 메탈 파우치 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Calfskin & Gold Silver Case Medium Black"
+        ],
+        "trade_count": 13,
+        "avg_price": 1083000
+      },
+      "샤넬 페이던트 초코바 체인 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Patent Chocolate Bar Chain Shoulder Bag Black"
+        ],
+        "trade_count": 13,
+        "avg_price": 910000
+      },
+      "샤넬 유광 카프스킨 & 골드 메탈 체인 지갑 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Glossy Calfskin & Gold Metal Chain Wallet Black"
+        ],
+        "trade_count": 13,
+        "avg_price": 2650000
+      },
+      "샤넬 램스킨 & 골드 메탈 하트백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Heart Bag Lambskin & Gold Black"
+        ],
+        "trade_count": 13,
+        "avg_price": 3330000
+      },
+      "샤넬 버킷햇": {
+        "category": "패션 악세서리",
+        "synonyms": [
+          "Chanel Bucket Hat"
+        ],
+        "trade_count": 13,
+        "avg_price": 850000
+      },
+      "샤넬 에스파드리유 램스킨 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "Chanel Espadrilles Lambskin Black"
+        ],
+        "trade_count": 13,
+        "avg_price": 531000
+      },
+      "샤넬 CC 로고 이어링 골드 메탈 크리스탈 파베": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel CC Logo Earrings Gold Metal Crystal Pavé"
+        ],
+        "trade_count": 12,
+        "avg_price": 588000
+      },
+      "샤넬 코코 크러쉬 퀄팅 모티프 네크리스 베이지 골드": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel Coco Crush Quilting Motif Necklace Beige Gold"
+        ],
+        "trade_count": 12,
+        "avg_price": 3560000
+      },
+      "샤넬 2.55 빈티지 카프스킨 & 실버 메탈 플랩백 맥시 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 2.55 Vintage Calfskin & Silver Handbag Maxi Black"
+        ],
+        "trade_count": 12,
+        "avg_price": 4675000
+      },
+      "샤넬 발레리나 플랫 램스킨 & 아이보리 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "Chanel Ballerina Flat Lambskin & Ivory Black"
+        ],
+        "trade_count": 12,
+        "avg_price": 780000
+      },
+      "샤넬 클래식 그레인드 카프스킨 & 실버 메탈 체인 WOC 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin & Silver Metal Chain WOC Black"
+        ],
+        "trade_count": 11,
+        "avg_price": 3172000
+      },
+      "샤넬 클래식 그레인드 카프스킨 골드 메탈 플랩 카드지갑 코랄 핑크": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Gold Metal Flap Card Case Coral Pink"
+        ],
+        "trade_count": 11,
+        "avg_price": 728000
+      },
+      "샤넬 클래식 그레인드 카프스킨 골드 메탈 지퍼 파우치 스몰 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Gold Metal Zipped Pouch Small Black"
+        ],
+        "trade_count": 11,
+        "avg_price": 1077000
+      },
+      "샤넬 보이 그레인드 카프스킨 실버 메탈 카드홀더 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Boy Grained Calfskin Silver Metal Card Holder Black"
+        ],
+        "trade_count": 11,
+        "avg_price": 667000
+      },
+      "샤넬 보이 그레인드 카프스킨 골드 메탈 카드홀더 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Boy Grained Calfskin Gold Metal Card Holder Black"
+        ],
+        "trade_count": 11,
+        "avg_price": 575000
+      },
+      "샤넬 가브리엘 빈티지 카프스킨 & 골드 실버 메탈 백팩 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Gabrielle Aged Calfskin & Gold Silver Backpack Medium Black"
+        ],
+        "trade_count": 11,
+        "avg_price": 4015000
+      },
+      "샤넬 그레인드 카프스킨 & 골드 메탈 탑핸들 플랩백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel grained calfskin & gold metal top handle Flap Bag Mini Black"
+        ],
+        "trade_count": 11,
+        "avg_price": 6750000
+      },
+      "샤넬 캐비어 & 골드메탈 배니티백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Caviar & Gold Metal Vanity Bag Black"
+        ],
+        "trade_count": 11,
+        "avg_price": 2600000
+      },
+      "샤넬 클래식 그레인드 카프스킨 & 골드 메탈 플랩백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin & Gold Handbag Small Black"
+        ],
+        "trade_count": 11,
+        "avg_price": 7975000
+      },
+      "샤넬 클래식 그레인드 카프스킨 골드 메탈 지퍼 동전 지갑 화이트": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Gold Metal Zipped Coin Purse White"
+        ],
+        "trade_count": 10,
+        "avg_price": 648000
+      },
+      "샤넬 코코 크러쉬 링 미니 옐로우 골드": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel Coco Crush Ring Mini Yellow Gold"
+        ],
+        "trade_count": 10,
+        "avg_price": 1696000
+      },
+      "샤넬 22 샤이니 카프스킨 & 골드 메탈 핸드백 스몰 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 22 Shiny Calfskin & Gold Handbag Small White"
+        ],
+        "trade_count": 10,
+        "avg_price": 5600000
+      },
+      "샤넬 클래식 그레인드 카프스킨 & 골드 메탈 벨트백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin & Gold Belt Bag Black"
+        ],
+        "trade_count": 10,
+        "avg_price": 2275000
+      },
+      "샤넬 보이 카프스킨 & 루테늄 메탈 플랩 백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Boy Calfskin & Ruthenium Metal Flap Bag Small Black"
+        ],
+        "trade_count": 10,
+        "avg_price": 6883000
+      },
+      "샤넬 어피니티 그레인드 카프스킨 & 골드 메탈 탑핸들 플랩백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Affinity grained calfskin & gold metal top handle flap bag small black"
+        ],
+        "trade_count": 10,
+        "avg_price": 5200000
+      },
+      "샤넬 램스킨 & 골드 메탈 체인 백 미니 라이트 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Lambskin & Gold Metal Chain Bag Mini Light Pink"
+        ],
+        "trade_count": 10
+      },
+      "샤넬 클래식 그레인드 카프스킨 & 골드 메탈 플랩백 미디엄 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin & Gold Metal Flap Bag Medium Beige"
+        ],
+        "trade_count": 10,
+        "avg_price": 9550000
+      },
+      "샤넬 믹스드 파이버 스니커즈 스웨이드 카프스킨 & 화이트": {
+        "category": "신발",
+        "synonyms": [
+          "Chanel Mixed Fibers Sneakers Suede Calfskin & White"
+        ],
+        "trade_count": 10,
+        "avg_price": 942000
+      },
+      "샤넬 (W) 샤넬 믹스드 파이버 스니커즈 패브릭 스웨이드 카프스킨 & 화이트": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Chanel Mixed Fibers Sneakers Fabric Suede Calfskin & White"
+        ],
+        "trade_count": 10,
+        "avg_price": 1000000
+      },
+      "샤넬 에스파드리유 램스킨 베이지 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "Chanel Espadrilles Lambskin Beige Black"
+        ],
+        "trade_count": 10,
+        "avg_price": 296000
+      },
+      "샤넬 코코 크러쉬 링 스몰 옐로우 골드": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel Coco Crush Ring Small Yellow Gold"
+        ],
+        "trade_count": 9,
+        "avg_price": 2820000
+      },
+      "샤넬 19 램스킨 & 골드 메탈 핸드백 미디엄 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 19 Handbag Lambskin & Gold Medium White"
+        ],
+        "trade_count": 9,
+        "avg_price": 3800000
+      },
+      "샤넬 2.55 빈티지 카프스킨 & 실버 메탈 플랩백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 2.55 Aged Calfskin & Silver Handbag Medium Black"
+        ],
+        "trade_count": 9,
+        "avg_price": 4100000
+      },
+      "샤넬 22 샤이니 카프스킨 & 실버 메탈 핸드백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 22 Shiny Calfskin & Silver Handbag Medium Black"
+        ],
+        "trade_count": 9,
+        "avg_price": 6590000
+      },
+      "샤넬 카프스킨 & 골드 메탈 백팩 스몰 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Calfskin & Gold Chrome Backpack Small White"
+        ],
+        "trade_count": 9,
+        "avg_price": 6278000
+      },
+      "샤넬 (W) 샤넬 스니커즈 카프스킨 & 화이트": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Chanel Sneakers Calfskin & White"
+        ],
+        "trade_count": 9,
+        "avg_price": 50000
+      },
+      "샤넬 클래식 그레인드 카프스킨 & 실버 메탈 핸드백 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin & Silver Metal Handbag Large Black"
+        ],
+        "trade_count": 8,
+        "avg_price": 7212000
+      },
+      "샤넬 클래식 그레인드 카프스킨 실버 메탈 플랩 3단 지갑 스몰 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Silver Metal Flap Tri Fold Wallet Small Black"
+        ],
+        "trade_count": 8,
+        "avg_price": 705000
+      },
+      "샤넬 19 램스킨 골드 메탈 지퍼 동전 지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel 19 Lambskin Gold Metal Zipped Coin Purse Black"
+        ],
+        "trade_count": 8,
+        "avg_price": 445000
+      },
+      "샤넬 2.55 빈티지 카프스킨 & 골드 메탈 플랩백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 2.55 Aged Calfskin & Gold Handbag Medium Black"
+        ],
+        "trade_count": 8,
+        "avg_price": 5466000
+      },
+      "샤넬 22 샤이니 카프스킨 & 골드 메탈 백팩 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 22 Shiny Calfskin & Gold Backpack Small Black"
+        ],
+        "trade_count": 8,
+        "avg_price": 6450000
+      },
+      "샤넬 마트라세 램스킨 플랩 숄더백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Matrasse Lambskin Flap Shoulder Bag Medium Black"
+        ],
+        "trade_count": 8,
+        "avg_price": 2900000
+      },
+      "샤넬 스니커즈 메쉬 스웨이드 카프스킨 그레인드 카프스킨 & 블랙 화이트": {
+        "category": "신발",
+        "synonyms": [
+          "Chanel Sneakers Mesh Suede Calfskin Grained Calfskin & Black White"
+        ],
+        "trade_count": 8,
+        "avg_price": 500000
+      },
+      "샤넬 클래식 그레인드 카프스킨 & 골드 메탈 체인 WOC 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin & Gold Metal Chain WOC Black"
+        ],
+        "trade_count": 7,
+        "avg_price": 2918000
+      },
+      "샤넬 보이 그레인드 카프스킨 골드 메탈 플랩 장지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Boy Grained Calfskin Gold Metal Flap Long Wallet Black"
+        ],
+        "trade_count": 7
+      },
+      "샤넬 보이 그레인드 카프스킨 루테늄 메탈 플랩 지갑 스몰 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Boy Grained Calfskin Ruthenium Metal Flap Wallet Small Black"
+        ],
+        "trade_count": 7,
+        "avg_price": 1086000
+      },
+      "샤넬 2.55 빈티지 카프스킨 골드 메탈 플랩 카드홀더 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel 2.55 Aged Calfskin Gold Metal Flap Card Holder Black"
+        ],
+        "trade_count": 7,
+        "avg_price": 650000
+      },
+      "샤넬 19 램스킨 골드 메탈 플랩 스몰 지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel 19 Lambskin Gold Metal Flap Wallet Black"
+        ],
+        "trade_count": 7,
+        "avg_price": 540000
+      },
+      "샤넬 19 램스킨 & 골드 메탈 체인 폰 홀더 파우치 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel 19 Lambskin & Gold Metal Phone Holder Pouch Black"
+        ],
+        "trade_count": 7
+      },
+      "샤넬 19 램스킨 & 골드 메탈 파우치 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 19 Lambskin & Gold Pouch Midium Black"
+        ],
+        "trade_count": 7,
+        "avg_price": 1287000
+      },
+      "샤넬 19 램스킨 & 골드 메탈 핸드백 미디엄 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 19 Handbag Lambskin & Gold Medium Beige"
+        ],
+        "trade_count": 7,
+        "avg_price": 3800000
+      },
+      "샤넬 19 램스킨 & 실버 메탈 체인 지갑 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 19 Wallet On Chain Lambskin & Silver Black"
+        ],
+        "trade_count": 7,
+        "avg_price": 3400000
+      },
+      "샤넬 클래식 그레인드 샤이니 카프스킨 & 골드 메탈 체인 안경 케이스 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Grained Shiny Calfskin & Gold Metal Chain Glasses Case Black"
+        ],
+        "trade_count": 7,
+        "avg_price": 2075000
+      },
+      "샤넬 클래식 램스킨 & 골드 메탈 체인 백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Lambskin & Gold Metal Chain Bag Mini Black"
+        ],
+        "trade_count": 7,
+        "avg_price": 3000000
+      },
+      "샤넬 샤이니 그레인드 카프스킨 & 골드 메탈 백팩 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Shiny Grained Calfskin & Gold Backpack Medium Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 5760000
+      },
+      "샤넬 보이 카프스킨 & 루테늄 메탈 플랩 백 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Boy Calfskin & Ruthenium Metal Flap Bag Large Black"
+        ],
+        "trade_count": 7,
+        "avg_price": 4250000
+      },
+      "샤넬 비아리츠 토트백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Biarritz Tote Bag Black"
+        ],
+        "trade_count": 7,
+        "avg_price": 570000
+      },
+      "샤넬 클래식 그레인드 카프스킨 & 골드 메탈 핸드백 맥시 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin & Gold Metal Handbag Maxi Black"
+        ],
+        "trade_count": 7,
+        "avg_price": 6200000
+      },
+      "샤넬 클래식 램스킨 & 실버 메탈 플랩백 미니 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Lambskin & Sliver Metal Flap Bag Mini White"
+        ],
+        "trade_count": 7,
+        "avg_price": 2995000
+      },
+      "샤넬 체인 벨트": {
+        "category": "패션 악세서리",
+        "synonyms": [
+          "Chanle Chain Belt"
+        ],
+        "trade_count": 7,
+        "avg_price": 370000
+      },
+      "샤넬 CC 로고 네크리스": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel Classic Logo Necklace"
+        ],
+        "trade_count": 6,
+        "avg_price": 516000
+      },
+      "샤넬 클래식 그레인드 카프스킨 골드 메탈 장지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Gold Metal Long Wallet Black"
+        ],
+        "trade_count": 6,
+        "avg_price": 450000
+      },
+      "샤넬 클래식 그레인드 카프스킨 실버 메탈 플랩 카드지갑 라일락": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Silver Metal Flap Card Case Lilac"
+        ],
+        "trade_count": 6
+      },
+      "샤넬 클래식 그레인드 카프스킨 골드 메탈 체인 카드지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Gold Metal Flap Card Case With Chain Black"
+        ],
+        "trade_count": 4
+      },
+      "샤넬 클래식 그레인드 카프스킨 골드 메탈 카드홀더 화이트": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Gold Metal Card Holder White"
+        ],
+        "trade_count": 6,
+        "avg_price": 455000
+      },
+      "샤넬 클래식 그레인드 카프스킨 골드 메탈 지퍼 동전 지갑 핑크": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Gold Metal Zipped Coin Pink"
+        ],
+        "trade_count": 6,
+        "avg_price": 940000
+      },
+      "샤넬 깜봉 CC 램스킨 장지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Cambon CC Lambskin Long Wallet Black"
+        ],
+        "trade_count": 6,
+        "avg_price": 215000
+      },
+      "샤넬 코코 크러쉬 링 미니 화이트 골드 다이아몬드 18P": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel Coco Crush Ring Mini White Gold Diamonds 18P"
+        ],
+        "trade_count": 6,
+        "avg_price": 3705000
+      },
+      "샤넬 19 램스킨 & 골드 메탈 파우치 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 19 Lambskin & Gold Pouch Large Black"
+        ],
+        "trade_count": 6,
+        "avg_price": 950000
+      },
+      "샤넬 19 램스킨 & 골드 실버 메탈 핸드백 맥시 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 19 Lambskin & Gold Silver Handbag Maxi Black"
+        ],
+        "trade_count": 6,
+        "avg_price": 4650000
+      },
+      "샤넬 22 샤이니 카프스킨 & 골드 메탈 핸드백 미니 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 22 Shiny Calfskin & Gold Handbag Mini White"
+        ],
+        "trade_count": 6,
+        "avg_price": 4600000
+      },
+      "샤넬 22 샤이니 크럼플드 카프스킨 크리스탈 펄 & 골드 메탈 핸드백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 22 Handbag Shiny Crumpled Calfskin Crystal Pearls & Gold Handbag Mini Black"
+        ],
+        "trade_count": 6,
+        "avg_price": 5340000
+      },
+      "샤넬 빈티지 카프스킨 & 골드 메탈 파우치 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Calfskin & Gold Silver Case Large Black"
+        ],
+        "trade_count": 6
+      },
+      "샤넬 보이 램스킨 & 골드 메탈 파우치 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Boy Lambskin & Gold Pouch Large Black"
+        ],
+        "trade_count": 6,
+        "avg_price": 1485000
+      },
+      "샤넬 샤이니 크럼플드 카프스킨 & 골드 메탈 호보백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Shiny Crumpled Calfskin & Gold Metal Hobo Bag Small Black"
+        ],
+        "trade_count": 6,
+        "avg_price": 5600000
+      },
+      "샤넬 그레인드 카프스킨 & 골드 메탈 체인 버킷백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel grained calfskin & gold metal chain bucket bag mini black"
+        ],
+        "trade_count": 6,
+        "avg_price": 3350000
+      },
+      "샤넬 CC 타임리스 그레인드 카프스킨 WOC 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel CC Timeless Grained Calfskin WOC Black"
+        ],
+        "trade_count": 6,
+        "avg_price": 1425000
+      },
+      "샤넬 캐비어 & 골드 체인 코스메틱 크로스백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Caviar & Gold Chain Cosmetic Crossbody Bag Midium Black"
+        ],
+        "trade_count": 6,
+        "avg_price": 2905000
+      },
+      "샤넬 트래블 바게트백 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Travel Baguette Bag Beige"
+        ],
+        "trade_count": 6,
+        "avg_price": 335000
+      },
+      "샤넬 트래블 토트백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Travel Tote Bag Black"
+        ],
+        "trade_count": 6,
+        "avg_price": 884000
+      },
+      "샤넬 (W) 샤넬 스니커즈 패브릭 라미네이티드 & 화이트 골드 실버": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Chanel Sneakers Fabric Laminated & White Gold Silver"
+        ],
+        "trade_count": 6,
+        "avg_price": 1065000
+      },
+      "샤넬 스니커즈 카프스킨 & 화이트": {
+        "category": "신발",
+        "synonyms": [
+          "Chanel Sneakers Calfskin & White"
+        ],
+        "trade_count": 6,
+        "avg_price": 2990000
+      },
+      "샤넬 페이던트 가죽 실버 메탈 장지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Patent Leather Silver Metal Long Wallet Black"
+        ],
+        "trade_count": 5,
+        "avg_price": 545000
+      },
+      "샤넬 클래식 그레인드 카프스킨 골드 메탈 지퍼 장지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Gold Metal Zipped Long Wallet Black"
+        ],
+        "trade_count": 5,
+        "avg_price": 530000
+      },
+      "샤넬 클래식 그레인드 카프스킨 실버 메탈 지퍼 장지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Silver Metal Zipped Long Wallet Black"
+        ],
+        "trade_count": 5,
+        "avg_price": 570000
+      },
+      "샤넬 보이 그레인드 카프스킨 골드 메탈 체인 플랩 동전 지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Boy Grained Calfskin Gold Metal Flap Coin Purse with Chain Black"
+        ],
+        "trade_count": 5,
+        "avg_price": 1200000
+      },
+      "샤넬 보이 램스킨 골드 메탈 지퍼 장지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Boy Lambskin Gold Metal Zipped Long Wallet Black"
+        ],
+        "trade_count": 5,
+        "avg_price": 250000
+      },
+      "샤넬 19 램스킨 골드 메탈 플랩 스몰 지갑 핑크": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel 19 Lambskin Gold Metal Flap Wallet Pink"
+        ],
+        "trade_count": 3
+      },
+      "샤넬 19 램스킨 골드 메탈 플랩 장지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel 19 Lambskin Gold Metal Flap Long Wallet Black"
+        ],
+        "trade_count": 5
+      },
+      "샤넬 가브리엘 빈티지 카프스킨 & 골드 메탈 호보백 라지 화이트 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Gabrielle Vintage Calfskin & Gold Metal Hobo Bag Large White Black"
+        ],
+        "trade_count": 5
+      },
+      "샤넬 가브리엘 빈티지 카프스킨 & 골드 메탈 호보백 미디엄 화이트 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Gabrielle Vintage Calfskin & Gold Metal Hobo Bag Medium White Black"
+        ],
+        "trade_count": 5
+      },
+      "샤넬 고트스킨 이미테이션 펄 & 골드 메탈 플랩백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Goatskin Imitation Pearl & Gold Metal Flap Bag Black"
+        ],
+        "trade_count": 5,
+        "avg_price": 2775000
+      },
+      "샤넬 클래식 그레인드 카프스킨 바게트백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Baguette Bag Black"
+        ],
+        "trade_count": 5,
+        "avg_price": 2200000
+      },
+      "샤넬 클래식 탑핸들 켈리백 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Top Handle Kelly Bag Large Black"
+        ],
+        "trade_count": 5,
+        "avg_price": 3100000
+      },
+      "샤넬 클래식 그레인드 카프스킨 WOC 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin WOC Beige"
+        ],
+        "trade_count": 5,
+        "avg_price": 3790000
+      },
+      "샤넬 트래블 토트백 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Travel Tote Bag Beige"
+        ],
+        "trade_count": 5,
+        "avg_price": 287000
+      },
+      "샤넬 그레인드 카프스킨 & 골드 메탈 탑핸들 플랩백 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Grained Calfskin & Gold Metal Top Handle Flap Bag Large Black"
+        ],
+        "trade_count": 5,
+        "avg_price": 5670000
+      },
+      "샤넬 체인 그레인드 카프스킨 & 골드 메탈 폰 홀더 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Phone Holder with Chain Grained Calfskin & Gold Black"
+        ],
+        "trade_count": 5
+      },
+      "샤넬 (W) 샤넬 스니커즈 패브릭 라미네이티드 & 아이보리 화이트 실버": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Chanel Sneakers Fabric Laminated & Ivory White Silver"
+        ],
+        "trade_count": 5,
+        "avg_price": 1200000
+      },
+      "샤넬 (W) 샤넬 믹스드 파이버 스니커즈 패브릭 스웨이드 카프스킨 & 화이트 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Chanel Mixed Fibers Sneakers Fabric Suede Calfskin & White Black"
+        ],
+        "trade_count": 5
+      },
+      "샤넬 클래식 그레인드 카프스킨 & 실버 메탈 플랩백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Handbag Grained Calfskin & Silver Medium Black"
+        ],
+        "trade_count": 4,
+        "avg_price": 8785000
+      },
+      "샤넬 클래식 그레인드 카프스킨 골드 메탈 플랩 카드지갑 그레이": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Gold Metal Flap Card Case Gray"
+        ],
+        "trade_count": 4,
+        "avg_price": 575000
+      },
+      "샤넬 클래식 그레인드 카프스킨 골드 메탈 카드홀더 레드": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Gold Metal Card Holder Red"
+        ],
+        "trade_count": 4,
+        "avg_price": 480000
+      },
+      "샤넬 보이 램스킨 골드 메탈 플랩 장지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Boy Lambskin Gold Metal Metal Flap Long Wallet Black"
+        ],
+        "trade_count": 4,
+        "avg_price": 800000
+      },
+      "샤넬 2.55 빈티지 카프스킨 골드 메탈 카드홀더 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel 2.55 Aged Calfskin Gold Metal Card Holder Black"
+        ],
+        "trade_count": 4,
+        "avg_price": 463000
+      },
+      "샤넬 19 램스킨 & 골드 메탈 체인 폰 홀더 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 19 Phone Holder with Chain Lambskin & Gold Black"
+        ],
+        "trade_count": 4,
+        "avg_price": 1700000
+      },
+      "샤넬 22 샤이니 카프스킨 & 골드 메탈 핸드백 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 22 Shiny Calfskin & Gold Handbag Large Black"
+        ],
+        "trade_count": 4,
+        "avg_price": 7800000
+      },
+      "샤넬 가브리엘 빈티지 카프스킨 & 골드 실버 메탈 백팩 스몰 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Gabrielle Aged Calfskin & Gold Silver Backpack Small Mint"
+        ],
+        "trade_count": 4,
+        "avg_price": 3576000
+      },
+      "샤넬 다이애나 램스킨 숄더백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Diana Lambskin Shoulder Bag Medium Black"
+        ],
+        "trade_count": 4
+      },
+      "샤넬 마드모아젤 램스킨 클러치 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Mademoiselle Clutch Medium Black"
+        ],
+        "trade_count": 4,
+        "avg_price": 571000
+      },
+      "샤넬 클래식 유광 그레인드 카프스킨 & 골드 메탈 백팩 미니 라이트 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Glossy Grained Calfskin & Gold Metal Backpack Mini Light Grey"
+        ],
+        "trade_count": 4,
+        "avg_price": 4000000
+      },
+      "샤넬 클래식 그레인드 카프스킨 & 골드 메탈 체인 코스메틱 케이스 스몰 라이트 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin & Gold Metal Chain Cosmetic Case Small Light Pink"
+        ],
+        "trade_count": 4,
+        "avg_price": 2850000
+      },
+      "샤넬 그레인드 카프스킨 & 골드 메탈 체인 백 미니 라이트그린": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Grained Calfskin & Gold Clutch With Chain Mini Light Green"
+        ],
+        "trade_count": 4,
+        "avg_price": 1750000
+      },
+      "샤넬 클래식 그레인드 카프스킨 & 골드 메탈 케이스 미디엄 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin & Gold Metal Case Medium Pink"
+        ],
+        "trade_count": 4,
+        "avg_price": 950000
+      },
+      "샤넬 (W) 샤넬 로퍼 샤이니 카프스킨 & 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Chanel Loafers Shiny Calfskin & Black"
+        ],
+        "trade_count": 4,
+        "avg_price": 1000000
+      },
+      "샤넬 (W) 샤넬 믹스드 파이버 스니커즈 스웨이드 카프스킨 나일론 그로그랭 & 화이트 그레이 옐로우": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Chanel Mixed Fibers Sneakers Suede Calfskin Nylon Grosgrain & White Grey Yellow"
+        ],
+        "trade_count": 4
+      },
+      "샤넬 X 퍼렐 윌리엄스 스니커즈 화이트 그래피티": {
+        "category": "신발",
+        "synonyms": [
+          "Chanel x Pharrell Williams Sneakers White Graffiti"
+        ],
+        "trade_count": 4,
+        "avg_price": 1190000
+      },
+      "샤넬 클래식 그레인드 카프스킨 & 실버 메탈 케이스 뉴미듐 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin & Silver Metal Case New Medium Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 690000
+      },
+      "샤넬 19 램스킨 골드 메탈 & 실버 메탈 & 루테늄 메탈 WOC 브라운": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 19 WOC Lambskin Gold-Tone, Silver-Tone & Ruthenium-Finish Metal Brown"
+        ],
+        "trade_count": 3,
+        "avg_price": 2700000
+      },
+      "샤넬 가디건": {
+        "category": "의류",
+        "synonyms": [
+          "Chanel Cardigan"
+        ],
+        "trade_count": 3,
+        "avg_price": 2363000
+      },
+      "샤넬 보이 그레인드 카프스킨 클러치 뉴미듐 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Boy Grained Calfskin Clutch New Medium Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 747000
+      },
+      "샤넬 가브리엘 빈티지 카프스킨 & 골드 메탈 호보백 스몰 네이비 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Gabrielle Vintage Calfskin & Gold Metal Hobo Bag Small Navy Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 2708000
+      },
+      "샤넬 클래식 램스킨 실버 메탈 플랩 장지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Lambskin Silver Metal Flap Long Wallet Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 400000
+      },
+      "샤넬 클래식 그레인드 카프스킨 골드 메탈 플랩 3단 지갑 스몰 퍼플": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Gold Metal Flap Tri Fold Wallet Small Purple"
+        ],
+        "trade_count": 3,
+        "avg_price": 1050000
+      },
+      "샤넬 클래식 그레인드 카프스킨 골드 메탈 지퍼 동전 지갑 라이트 그레이": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Gold Metal Zipped Coin Light Grey"
+        ],
+        "trade_count": 3,
+        "avg_price": 880000
+      },
+      "샤넬 19 램스킨 골드 메탈 플랩 체인 동전 지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel 19 Lambskin Gold Metal Flap Coin Purse with Chain Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 1700000
+      },
+      "샤넬 CC 로고 네크리스 골드 메탈 글라스 펄 & 크리스탈 파베": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel CC Logo Necklace Gold Metal Glass Pearls & Crystal Pavé"
+        ],
+        "trade_count": 3,
+        "avg_price": 1359000
+      },
+      "샤넬 코코 크러쉬 링 라지 베이지 골드": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel Coco Crush Ring Large Beige Gold"
+        ],
+        "trade_count": 3,
+        "avg_price": 4366000
+      },
+      "샤넬 J12 칼리버 12.1 38mm 세라믹 블랙": {
+        "category": "시계",
+        "synonyms": [
+          "Chanel J12 Caliber 12.1 38mm Ceramic Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 3893000
+      },
+      "샤넬 J12 33mm 쿼츠 세라믹 블랙": {
+        "category": "시계",
+        "synonyms": [
+          "Chanel J12 33mm Quartz Ceramic Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 1900000
+      },
+      "샤넬 2.55 빈티지 페이던트 카프스킨 & 실버 메탈 플랩백 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 2.55 Vintage Patent Calfskin & Silver Handbag Large Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 6000000
+      },
+      "샤넬 2.55 빈티지 카프스킨 & 골드 메탈 플랩백 맥시 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 2.55 Vintage Calfskin & Gold Handbag Maxi Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 3900000
+      },
+      "샤넬 2.55 빈티지 카프스킨 & 실버 메탈 플랩백 미디엄 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 2.55 Aged Calfskin & Silver Handbag Medium Grey"
+        ],
+        "trade_count": 3,
+        "avg_price": 1500000
+      },
+      "샤넬 31 샤이니 크럼플드 카프스킨 & 골드 메탈 쇼핑백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 31 Shiny Crumpled Calfskin & Gold Shopping Bag Mini Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 4900000
+      },
+      "샤넬 가브리엘 빈티지 카프스킨 & 골드 실버 메탈 백팩 미디엄 네이비 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Gabrielle Aged Calfskin & Gold Silver Backpack Medium Navy Black"
+        ],
+        "trade_count": 3
+      },
+      "샤넬 가브리엘 빈티지 카프스킨 & 골드 메탈 호보백 라지 네이비 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Gabrielle Vintage Calfskin & Gold Metal Hobo Bag Large Navy Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 3050000
+      },
+      "샤넬 가브리엘 빈티지 카프스킨 & 골드 메탈 호보백 라지 베이지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Gabrielle Vintage Calfskin & Gold Metal Hobo Bag Large Beige Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 3450000
+      },
+      "샤넬 가브리엘 빈티지 카프스킨 & 골드 메탈 호보백 스몰 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Gabrielle Vintage Calfskin & Gold Metal Hobo Bag Small White"
+        ],
+        "trade_count": 3,
+        "avg_price": 2550000
+      },
+      "샤넬 가브리엘 빈티지 카프스킨 & 골드 메탈 호보백 스몰 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Gabrielle Vintage Calfskin & Gold Metal Hobo Bag Small Pink"
+        ],
+        "trade_count": 3,
+        "avg_price": 3000000
+      },
+      "샤넬 네오 뉴 셔프 백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Neo New Sharp Bag Medium Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 2400000
+      },
+      "샤넬 도빌 데님 클러치백 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Deauville Denim Clutch Bag Large Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 550000
+      },
+      "샤넬 마드모아젤 램스킨 클러치 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Mademoiselle Clutch Large Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 950000
+      },
+      "샤넬 보이 쉐브론 램스킨 & 골드 클러치 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Boy Chevron Lambskin & Gold Clutch Large Black"
+        ],
+        "trade_count": 3
+      },
+      "샤넬 보이 램스킨 & 실버 메탈 파우치 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Boy Lambskin & Silver Pouch Large Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 850000
+      },
+      "샤넬 마드모아젤 페이던트 볼링백 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Mademoiselle Large Bowling Bag Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 10500000
+      },
+      "샤넬 캐비어 스티치 볼링 닥터백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Caviar Stitch Bowling Doctor Bag Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 970000
+      },
+      "샤넬 카프스킨 와일드 스티치 토트백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Calfskin Wild Stitch Tote Bag Black"
+        ],
+        "trade_count": 1520000
+      },
+      "샤넬 코코 코쿤 백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Coco Cocoon Bag Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 1290000
+      },
+      "샤넬 램스킨 & 골드 메탈 탑핸들 플랩백 미니 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Lambskin & Gold Mini Flap Bag with Top Handle Mini Beige"
+        ],
+        "trade_count": 3,
+        "avg_price": 4500000
+      },
+      "샤넬 캐비어 & 골드 메탈 체인 백 미니 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Grained Calfskin & Gold Clutch With Chain Mini Light Green"
+        ],
+        "trade_count": 3
+      },
+      "샤넬 클래식 그레인드 카프스킨 WOC 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin WOC Red"
+        ],
+        "trade_count": 3
+      },
+      "샤넬 램스킨 & 골드 메탈 체인 백 미니레드": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Lambskin & Gold Metal Chain Bag Mini Red"
+        ],
+        "trade_count": 3
+      },
+      "샤넬 램스킨 & 골드 메탈 하트백 스몰 코랄 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Heart Bag Lambskin & Gold Coral Pink"
+        ],
+        "trade_count": 3
+      },
+      "샤넬 클래식 램스킨 브리프케이스 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chane Classic Lambskin Briefcase Bag Black"
+        ],
+        "trade_count": 3
+      },
+      "샤넬 클래식 샤이니 램스킨 & 이미테이션 진주 & 골드톤 메탈 플랩백 미니 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Shiny Lambskin & Imitation Pearls & Gold Tone Metal Flap Bag Mini Black"
+        ],
+        "trade_count": 3
+      },
+      "샤넬 클래식 램스킨 & 실버 메탈 플랩백 미니 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Lambskin & Sliver Metal Flap Bag Mini Pink"
+        ],
+        "trade_count": 3,
+        "avg_price": 1550000
+      },
+      "샤넬 샌들 램스킨 & 블랙 화이트": {
+        "category": "신발",
+        "synonyms": [
+          "Chanel Sandals Lambskin & Black White"
+        ],
+        "trade_count": 3,
+        "avg_price": 2200000
+      },
+      "샤넬 로퍼 램스킨 그로그랭 & 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "Chanel Loafers Lambskin Grosgrain & Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 900000
+      },
+      "샤넬 그레인드 카프스킨 집 어라운드 동전지갑 레드": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Zipped Coin Purse Grained Calfskin Red"
+        ],
+        "trade_count": 2,
+        "avg_price": 380000
+      },
+      "샤넬 프리미에르 라지 쿼츠 스틸 블랙": {
+        "category": "시계",
+        "synonyms": [
+          "Chanel Première Large Quartz Steel Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 2700000
+      },
+      "샤넬 퀼팅 CC 로고 스터드 이어링 메탈": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel Quilted CC Logo Stud Earrings Metal"
+        ],
+        "trade_count": 2,
+        "avg_price": 475000
+      },
+      "샤넬 마틀라세 링 플래티늄": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel Matrasse Ring Platinum"
+        ],
+        "trade_count": 2,
+        "avg_price": 1085000
+      },
+      "샤넬 가브리엘 쉐브론 빈티지 카프스킨 & 골드 메탈 호보백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Gabrielle Chevron Vintage Calfskin & Gold Metal Hobo Bag Small Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 4600000
+      },
+      "샤넬 보이 그레인드 카프스킨 & 실버 메탈 체인 지갑 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Boy Grained Calfskin & Silver Metal Chain Wallet in Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 2692000
+      },
+      "샤넬 트위드 자켓": {
+        "category": "의류",
+        "synonyms": [
+          "Chanel Tweed Jacket"
+        ],
+        "trade_count": 2,
+        "avg_price": 2325000
+      },
+      "샤넬 J12 29mm 쿼츠 세라믹 다이아몬드 인디케이터 블랙": {
+        "category": "시계",
+        "synonyms": [
+          "Chanel J12 29mm Quartz Ceramic Diamond Indicator Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 3725000
+      },
+      "샤넬 CC 로고 진주 스터드 이어링 메탈 & 큐빅": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel CC Logo Pearl Stud Earrings Metal & Cubic"
+        ],
+        "trade_count": 2,
+        "avg_price": 391000
+      },
+      "샤넬 클래식 그레인드 카프스킨 실버 메탈 장지갑 레드": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Silver Metal Long Wallet Red"
+        ],
+        "trade_count": 2,
+        "avg_price": 255000
+      },
+      "샤넬 클래식 그레인드 카프스킨 골드 메탈 플랩 카드지갑 브라운": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Gold Metal Flap Card Case Brown"
+        ],
+        "trade_count": 2
+      },
+      "샤넬 클래식 그레인드 카프스킨 골드 메탈 플랩 3단 지갑 스몰 핑크": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Gold Metal Flap Tri Fold Wallet Small Pink"
+        ],
+        "trade_count": 2,
+        "avg_price": 535000
+      },
+      "샤넬 클래식 그레인드 카프스킨 골드 메탈 지퍼 카드홀더 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Gold Metal Zipped Card Holder Black"
+        ],
+        "trade_count": 2
+      },
+      "샤넬 클래식 그레인드 카프스킨 골드 메탈 지퍼 동전 지갑 라이트 퍼플": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Gold Metal Zipped Coin Light Puple"
+        ],
+        "trade_count": 2,
+        "avg_price": 980000
+      },
+      "샤넬 클래식 그레인드 카프스킨 골드 메탈 스몰 플랩 지갑 베이지": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Gold Metal Small Flap Wallet Beige"
+        ],
+        "trade_count": 2,
+        "avg_price": 950000
+      },
+      "샤넬 클래식 그레인드 카프스킨 실버 메탈 스몰 플랩 지갑 화이트": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Silver Metal Small Flap Wallet White"
+        ],
+        "trade_count": 2
+      },
+      "샤넬 그레인드 카프스킨 실버 메탈 2단 지퍼 중지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Grained Calfskin Silver Metal Zipped Bi Fold Wallet Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 600000
+      },
+      "샤넬 그레인드 카프스킨 골드 메탈 플랩 지갑 스몰 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Shiny Grained Calfskin Gold Metal Flap Wallet Small Black"
+        ],
+        "trade_count": 2
+      },
+      "샤넬 보이 그레인드 카프스킨 루테늄 메탈 지퍼 동전 지갑 레드": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Boy Grained Calfskin Ruthenium Metal Zipped Coin Purse Red"
+        ],
+        "trade_count": 2
+      },
+      "샤넬 보이 램스킨 골드 메탈 지퍼 지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Boy Lambskin Gold Metal Zipped Wallet Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 750000
+      },
+      "샤넬 깜봉 CC 램스킨 장지갑 블랙 화이트": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Cambon CC Lambskin Long Wallet Black White"
+        ],
+        "trade_count": 2,
+        "avg_price": 170000
+      },
+      "샤넬 램스킨 & 골드 메탈 체인 까멜리아 리본 카드홀더 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Lambskin Gold Metal Chain Camellia Bow Card Holder Black"
+        ],
+        "trade_count": 2
+      },
+      "샤넬 19 램스킨 골드 메탈 플랩 카드홀더 핑크": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel 19 Lambskin Gold Metal Flap Card Holder Pink"
+        ],
+        "trade_count": 2,
+        "avg_price": 620000
+      },
+      "샤넬 CC 로고 네크리스 실버 & 펄리 화이트 크리스 23P": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel CC Logo Necklace Silver & Pearly White Crystal 23P"
+        ],
+        "trade_count": 2,
+        "avg_price": 910000
+      },
+      "샤넬 보이프렌드 스몰 쿼츠 스틸 오팔린 기요쉐 카프스킨 레더": {
+        "category": "시계",
+        "synonyms": [
+          "Chanel Boy·Friend Small Quartz Steel Opaline Guilloché Calfskin Leather"
+        ],
+        "trade_count": 2,
+        "avg_price": 4450000
+      },
+      "샤넬 J12 33mm 쿼츠 세라믹 화이트": {
+        "category": "시계",
+        "synonyms": [
+          "Chanel J12 33mm Quartz Ceramic White"
+        ],
+        "trade_count": 2,
+        "avg_price": 6100000
+      },
+      "샤넬 19 램스킨 실버 메탈 체인 클러치 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 19 Clutch with Chain Lambskin & Silver Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 1990000
+      },
+      "샤넬 19 램스킨 & 골드 메탈 체인 지갑 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 19 Wallet On Chain Lambskin & White"
+        ],
+        "trade_count": 2
+      },
+      "샤넬 19 램스킨 & 실버 메탈 체인 지갑 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 19 Wallet On Chain Lambskin & Silver Beige"
+        ],
+        "trade_count": 2
+      },
+      "샤넬 빈티지 2.55 클러치 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Vintage 2.55 Clutch Large Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 400000
+      },
+      "샤넬 2.55 빈티지 카프스킨 & 골드 메탈 체인 지갑 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 2.55 Aged Calfskin & Gold Wallet On Chain Black"
+        ],
+        "trade_count": 2
+      },
+      "샤넬 빈티지 카프스킨 & 골드 메탈 파우치 라지 네이비 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Calfskin & Gold Silver Case Large Navy Black"
+        ],
+        "trade_count": 2
+      },
+      "샤넬 가브리엘 빈티지 카프스킨 & 골드 메탈 호보백 미디엄 네이비 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Gabrielle Vintage Calfskin & Gold Metal Hobo Bag Medium Navy Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 2395000
+      },
+      "샤넬 가브리엘 빈티지 카프스킨 & 골드 메탈 호보백 미디엄 베이지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Gabrielle Vintage Calfskin & Gold Metal Hobo Bag Medium Beige Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 1900000
+      },
+      "샤넬 캐비어 메달리온 토트백 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Caviar Medallion Tote Bag Beige"
+        ],
+        "trade_count": 2,
+        "avg_price": 1000000
+      },
+      "샤넬 코코 마틀라세 램스킨 박스 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Coco Matelasse Lambskin Box Bag Black"
+        ],
+        "trade_count": 2
+      },
+      "샤넬 캐비어 어피니티 비즈니스 백팩 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Caviar Affinity Business Backpack Black"
+        ],
+        "trade_count": 2
+      },
+      "샤넬 램스킨 & 골드 메탈 진주 핸들 플랩 체인 지갑 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Lambskin & Gold Metal Pearl Handle Flap Chain Wallet Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 1720000
+      },
+      "샤넬 초코바 페이던트 토트백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Enamel Chocolate Bar Tote Bag Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 650000
+      },
+      "샤넬 코스메틱 라운드 그레인드 카프스킨 & 골드 메탈 체인 미니백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Cosmetic Round Grained Calfskin & Gold Metal Chain Mini Bag Black"
+        ],
+        "trade_count": 2
+      },
+      "샤넬 램스킨 & 골드 메탈 탑핸들 플랩백 미니 라이트 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Lambskin & Gold Mini Flap Bag with Top Handle Mini Light Pink"
+        ],
+        "trade_count": 2
+      },
+      "샤넬 클래식 쉐브론 그레인드 카프스킨  클러치 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Chevron Grained Calfskin Clutch Large Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 600000
+      },
+      "샤넬 빈티지 골드 카프스킨 탑핸들 체인 보이백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Vintage Gold Calfskin Top Handle Chain Boy Bag Medium Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 4500000
+      },
+      "샤넬 램스킨 & 골드 메탈 하트백 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Lambskin & Gold Heart Bag Large Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 5000000
+      },
+      "샤넬 클래식 샤이니 램스킨 & 이미테이션 진주 & 골드톤 메탈 플랩백 미니 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Shiny Lambskin & Imitation Pearls & Gold Tone Metal Flap Bag Mini Red"
+        ],
+        "trade_count": 2
+      },
+      "샤넬 클래식 그레인드 카프스킨 & 골드 메탈 플랩백 스몰 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin & Gold Handbag Small Beige"
+        ],
+        "trade_count": 2,
+        "avg_price": 8800000
+      },
+      "샤넬 클래식 그레인드 카프스킨 & 골드 메탈 플랩백 스몰 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin & Gold Handbag Small White"
+        ],
+        "trade_count": 2
+      },
+      "샤넬 (W) 샤넬 앵클 부츠 카우초크 & 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Chanel Ankle Boots Caoutchouc & Black"
+        ],
+        "trade_count": 2
+      },
+      "샤넬 스니커즈 카프스킨 & 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "Chanel Sneakers Calfskin & Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 1300000
+      },
+      "샤넬 그레인드 카프스킨 2단 지퍼 중지갑 네이비": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Grained Calfskin Bi Fold Zipped Wallet Navy"
+        ],
+        "trade_count": 1,
+        "avg_price": 250000
+      },
+      "샤넬 보이 쉐브론 그레인드 카프스킨 골드 메탈 지퍼 동전 지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Boy Chevron Grained Calfskin Gold Metal Zipped Coin Purse Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 770000
+      },
+      "샤넬 CC로고 크리스탈 & 펄 드롭 이어링 골드 메탈 & 크리스탈 파베": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel CC Logo Crystal & Pearl Drop Earrings Gold Metal & Crystal Pave"
+        ],
+        "trade_count": 1,
+        "avg_price": 500000
+      },
+      "샤넬 그레인드 카프스킨 코스메틱 백 스몰 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Grained Calfskin Cosmetic Bag Small Beige"
+        ],
+        "trade_count": 1,
+        "avg_price": 2500000
+      },
+      "샤넬 가브리엘 빈티지 카프스킨 & 골드 메탈 호보백 미디엄 실버": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Gabrielle Vintage Calfskin & Gold Metal Hobo Bag Medium Sliver"
+        ],
+        "trade_count": 1,
+        "avg_price": 2200000
+      },
+      "샤넬 클래식 램스킨 & 골드 메탈 플랩백 점보 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Lambskin & Gold Metal Flap Bag Jumbo Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 2200000
+      },
+      "샤넬 클래식 그레인드 카프스킨 실버 메탈 체인 카드지갑 미니 그린": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Silver Metal Chain Card Holder Mini Green"
+        ],
+        "trade_count": 1,
+        "avg_price": 1250000
+      },
+      "샤넬 클래식 쉐브론 그레인드 카프스킨 & 골드 메탈 클러치 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Chevron Grained Calfskin & Gold Metal Clutch Medium Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 600000
+      },
+      "샤넬 럭키 클로버 CC 로고 고트스킨 파우치 미니 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Lucky Clover CC Logo Goatskin Pouch Mini Blue"
+        ],
+        "trade_count": 1,
+        "avg_price": 390000
+      },
+      "샤넬 램스킨 & 골드 래커드 메탈 체인 미니백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Lambskin & Gold Lacquered Metal Chain Mini Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 1450000
+      },
+      "샤넬 골든 클래스 그레인드 카프스킨 체인백 미니 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Golden Class Grained Calfskin Chain Bag Mini Pink"
+        ],
+        "trade_count": 1,
+        "avg_price": 1050000
+      },
+      "샤넬 마드모아젤 쉐브론 램스킨 클러치 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Mademoiselle Chevron Lambskin Clutch Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 750000
+      },
+      "샤넬 유광 그레인드 카프스킨 & 골드 메탈 체인 미니백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Shiny Grained Calfskin & Gold Metal Chain Mini Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 2350000
+      },
+      "샤넬 그레인드 카프스킨 & 골드 메탈 체인백 미니 라이트 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Grained Calfskin & Gold Metal Chain Bag Mini Light Blue"
+        ],
+        "trade_count": 1,
+        "avg_price": 1950000
+      },
+      "샤넬 보이 쉐브론 카프스킨 & 골드 메탈 플랩백 미디엄 라이트 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Boy Chevron Calfskin & Gold Metal Flap Bag Medium Light Beige"
+        ],
+        "trade_count": 1,
+        "avg_price": 3750000
+      },
+      "샤넬 CC로고 펄 드롭 이어링 골드 메탈 & 큐빅": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel CC Logo Pearl Drop Earrings Gold Metal & Cubic"
+        ],
+        "trade_count": 1,
+        "avg_price": 500000
+      },
+      "샤넬 프리미에르 락 쿼츠 마더 오브 펄 실버 & 레드 레더": {
+        "category": "시계",
+        "synonyms": [
+          "Chanel Premiere Rock Quartz Mother-of-Pearl Silver & Red Leather"
+        ],
+        "trade_count": 1,
+        "avg_price": 1700000
+      },
+      "샤넬 퀼티드 램스킨 이스트/웨스트 토트백 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Quilted Lambskin East/West Tote Bag Large Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 980000
+      },
+      "샤넬 클래식 램스킨 & 골드 메탈 플랩백 미니 라이트 퍼플": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Lambskin & Gold Metal Flap Bag Mini Light Purple"
+        ],
+        "trade_count": 1,
+        "avg_price": 4000000
+      },
+      "샤넬 타임리스 쉐브론 램스킨 쇼퍼백 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Timeless Chevron Lambskin Shopper Bag Large Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 3125000
+      },
+      "샤넬 클래식 페이던트 레더 클러치 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Patent Leather Clutch Large Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 550000
+      },
+      "샤넬 코코 크러쉬 링 퀼티드 모티프 미니 화이트 골드 & 다이아몬드 5P": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel Coco Crush Ring Quilted Motif Mini White Gold & Diamond 5P"
+        ],
+        "trade_count": 1,
+        "avg_price": 2500000
+      },
+      "샤넬 (W) 샤넬 하이 부츠 카프스킨 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Chanel High Boots Calfskin Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 1600000
+      },
+      "샤넬 샤이니 페이던트 램스킨 애나멜 & 골드메탈 체인 WOC 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "CHANEL Shiny Patent Lambskin Enamel & Gold Metal Chain WOC White"
+        ],
+        "trade_count": 1,
+        "avg_price": 2450000
+      },
+      "샤넬 CC 로고 브로치": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel CC Brooch"
+        ],
+        "trade_count": 1,
+        "avg_price": 500000
+      },
+      "샤넬 CC 로고 드롭 이어링": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel CC Drop Earrings"
+        ],
+        "trade_count": 1,
+        "avg_price": 380000
+      },
+      "샤넬 마드모아젤": {
+        "category": "시계",
+        "synonyms": [
+          "Chanel Mademoiselle"
+        ],
+        "trade_count": 1,
+        "avg_price": 1600000
+      },
+      "샤넬 클래식 그레인드 카프스킨 골드 메탈 플랩 카드지갑 버건디": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Gold Metal Flap Card Holder Burgundy"
+        ],
+        "trade_count": 1,
+        "avg_price": 600000
+      },
+      "샤넬 19 램스킨 골드 메탈 지퍼 동전 지갑 핑크": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel 19 Lambskin Gold Metal Zipped Coin Purse Pink"
+        ],
+        "trade_count": 1,
+        "avg_price": 400000
+      },
+      "샤넬 레이디스 피어스 이어링 골드 코팅": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel Ladies Gold Coated Earrings"
+        ],
+        "trade_count": 1,
+        "avg_price": 450000
+      },
+      "샤넬 트위스티드 CC 드롭 이어링 실버 & 크리스탈": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel Twisted CC Drop Earings Silver & Crystal"
+        ],
+        "trade_count": 1,
+        "avg_price": 300000
+      },
+      "샤넬 하이 탑 스니커즈 패브릭 레더 화이트 블랙 퍼플": {
+        "category": "신발",
+        "synonyms": [
+          "Chanel High Top Sneakers Fabric Leather White Black Purple"
+        ],
+        "trade_count": 1,
+        "avg_price": 450000
+      },
+      "샤넬 퍼펙트 엣지 카프스킨 플랩백 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Perfect Edge Calfskin Flap Bag Large Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 3250000
+      },
+      "샤넬 램스킨 골드 메탈 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Lambskin Gold Metal Sholder Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 1900000
+      },
+      "샤넬 트위드 램스킨 대드 샌들 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "Chanel Tweed Lambskin Dad Sandals Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 520000
+      },
+      "샤넬 25 그레인드 카프스킨 & 골드 메탈 백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 25 Grained Calfskin & Gold Metal Handbag Medium Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 7500000
+      },
+      "샤넬 클래식 퀄팅 램스킨 플랩 중지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Quilted Lambskin Flap Wallet Medium  Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 225000
+      },
+      "샤넬 캐비어 집 어라운드 동전지갑 네이비": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Caviar Zip Around Coin Purse Navy"
+        ],
+        "trade_count": 1,
+        "avg_price": 650000
+      },
+      "샤넬 클립온 이어링 실버 메탈 크리스탈": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel Clip-on Earings Silver Metal Crystal"
+        ],
+        "trade_count": 1,
+        "avg_price": 250000
+      },
+      "샤넬 브레이슬릿 골드 메탈 & 글래스 펄 & 데님": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel Bracelet Gold Metal & Glass Pearls & Denim"
+        ],
+        "trade_count": 1,
+        "avg_price": 500000
+      },
+      "샤넬 클래식 그레인드 카프스킨 파우치 스몰 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Pouch Small Pink"
+        ],
+        "trade_count": 1,
+        "avg_price": 500000
+      },
+      "샤넬 보이 페이던트 체인 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Boy Patent Chain Shoulder Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 1680000
+      },
+      "샤넬 (W) 샤넬 믹스드 파이버 스니커즈 스웨이드 카프스킨 & 라이트 베이지 옐로우 라이트 블루": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Chanel Mixed Fibers Sneakers Suede Calfskin & Light Beige Yellow Light Blue"
+        ],
+        "trade_count": 1,
+        "avg_price": 400000
+      },
+      "샤넬 19 실버 & 골드 체인 램스킨 플랩 숄더백 미디엄 네이비": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 19 Silver & Gold Chain Lambskin Flap Shoulder Bag Medium Navy"
+        ],
+        "trade_count": 1,
+        "avg_price": 3450000
+      },
+      "샤넬 하트 램스킨 CC로고 지퍼 동전지갑 핑크": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Lambskin Heart CC Logo Zip Coin Purse Pink"
+        ],
+        "trade_count": 1,
+        "avg_price": 350000
+      },
+      "샤넬 쉐브론 그레인드 카프스킨 & 골드 메탈 클러치 라지 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Chevron Grained Calfskin Clutch Large Beige"
+        ],
+        "trade_count": 1,
+        "avg_price": 450000
+      },
+      "샤넬 클래식 그레인드 카프스킨 골드 메탈 플랩 카드지갑 이리디센트 그린 & 퍼플": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Gold Metal Flap Card Case Iridescent Green & Purple"
+        ],
+        "trade_count": 1,
+        "avg_price": 400000
+      },
+      "샤넬 코코 쿠바 퀼팅 캔버스 클러치 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Coco Cuba Quilting Canvas Clutch White"
+        ],
+        "trade_count": 1,
+        "avg_price": 250000
+      },
+      "샤넬 메리제인 램스킨 플랫 슈즈 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "Chanel Mary Jane Lambskin Flat Shoes Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 700000
+      },
+      "샤넬 에스파드리유 캔버스 & 데님 슬립온 핑크 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "Chanel Espadrille Canvas & Denim Slip-on Pink Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 45000
+      },
+      "샤넬 스티치 CC 그레인드 카프스킨 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Stitched CC Grained Calfskin Shoulder Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 2500000
+      },
+      "샤넬 타임리스 퀼티드 그레인드 카프스킨 & 체인 스트랩 쇼퍼백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Timeless Quilted Grained Calfskin & Chain Strap Shopper Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 960000
+      },
+      "샤넬 2.55 빈티지 카프스킨 & 루테늄 메탈 플랩백 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 2.55 Vintage Calfskin & Ruthenium Metal Flap Bag Large Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 2600000
+      },
+      "샤넬 CC 로고 플라워 이어커프 골드 메탈": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel CC Logo Flower Earcuff Gold Metal"
+        ],
+        "trade_count": 1,
+        "avg_price": 400000
+      },
+      "샤넬 CC 로고 네크리스 화이트 & 블랙 이미테이션 펄": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel CC Logo Necklace White & Black Imitation Pearl"
+        ],
+        "trade_count": 1,
+        "avg_price": 400000
+      },
+      "샤넬 보이 램스킨 & 골드 메탈 플랩백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Boy Lambskin & Gold-Tone Metal Flap Bag Small Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 8300000
+      },
+      "샤넬 클래식 램스킨 & 골드 메탈 핸드백 맥시 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Lambskin & Gold Metal Handbag Maxi Beige"
+        ],
+        "trade_count": 1,
+        "avg_price": 3000000
+      },
+      "샤넬 클래식 그레인드 카프스킨 쉐브론 태슬 클러치 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Chevron Tassel Clutch Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 506000
+      },
+      "샤넬 프리미에르 프로미스 링 플래티늄 다이아몬드 2P": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel Premiere Promes Ring Platinum Diamond 2P"
+        ],
+        "trade_count": 1,
+        "avg_price": 700000
+      },
+      "샤넬 클래식 그레인드 카프스킨 & 실버 메탈 지퍼 파우치 미니 네이비": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin & Silver-Tone Metal Zipped Pouch Mini Navy Blue"
+        ],
+        "trade_count": 1,
+        "avg_price": 930000
+      },
+      "샤넬 코스메틱 라운드 그레인드 카프스킨 & 실버 메탈 체인 미니백 메탈릭 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Cosmetic Round Grained Calfskin & Silver Metal Chain Mini Bag Metallic Grey"
+        ],
+        "trade_count": 1,
+        "avg_price": 1700000
+      },
+      "샤넬 드로우스트링 램스킨 & 이미테이션 진주 버킷백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Drawstring Lambskin & Imitation Pearls Bucket Bag Mini Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 2700000
+      },
+      "샤넬 보이 그레인드 카프스킨 & 골드톤 메탈 클러치 미디엄 버건디": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Boy Grained Calfskin & Gold Tone Metal Clutch Medium Burgundy"
+        ],
+        "trade_count": 1,
+        "avg_price": 690000
+      },
+      "샤넬 클래식 그레인드 카프스킨 실버 메탈 지퍼 장지갑 레드": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Silver Metal Zipped Long Wallet Red"
+        ],
+        "trade_count": 1,
+        "avg_price": 360000
+      },
+      "샤넬 2.55 빈티지 카프스킨 & 골드 메탈 체인 지갑 메탈릭 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 2.55 Aged Calfskin & Gold Wallet On Chain Metallic Grey"
+        ],
+        "trade_count": 1,
+        "avg_price": 2700000
+      },
+      "샤넬 클래식 마틀라세 페이턴트 레더 클러치 라지": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Matelassé Patent Leather Clutch Large"
+        ],
+        "trade_count": 1,
+        "avg_price": 550000
+      },
+      "샤넬 CC 로고 잼스톤 드롭 이어링 블랙 골드 메탈": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel CC Logo Gemstone Drop Earrings Black Gold Matal"
+        ],
+        "trade_count": 1,
+        "avg_price": 400000
+      },
+      "샤넬 19 램스킨 실버 메탈 플랩 중지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel 19 Lambskin Sliver Metal Flap Wallet Medium Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 800000
+      },
+      "샤넬 코코 크러쉬 링 스몰 퀼티드 모티프 화이트 골드 & 다이아 12P": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel Coco Crush Ring Small Quilted Motif White Gold & Diamond 12P"
+        ],
+        "trade_count": 1,
+        "avg_price": 5350000
+      },
+      "샤넬 고트스킨 스터드 클러치 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Goatskin Stud Clutch Red"
+        ],
+        "trade_count": 1,
+        "avg_price": 500000
+      },
+      "샤넬 22C 네크리스 골드 & 펄리 화이트": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel 22C Necklace Gold & Pearly White"
+        ],
+        "trade_count": 1,
+        "avg_price": 1100000
+      },
+      "샤넬 코코 크러쉬 퀄팅 모티프 네크리스 화이트 골드 다이아몬드 2P": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel Coco Crush Quilting Motif Necklace White Gold Diamonds 2P"
+        ],
+        "trade_count": 1,
+        "avg_price": 7000000
+      },
+      "샤넬 램스킨 & 골드 메탈 하트백 라지 코랄 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Lambskin & Gold Metal Heart Bag Large Coral Pink"
+        ],
+        "trade_count": 1,
+        "avg_price": 4980000
+      },
+      "샤넬 클래식 퀄팅 램스킨  & 실버 톤 메탈 드로스트링 버킷백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Quilting Lambskin & Silver-tone Metal Drawstring Bucket Bag Medium Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 2700000
+      },
+      "샤넬 시어링 램스킨 & 실버 백팩 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Shearling Lambskin & Silver Backpack White"
+        ],
+        "trade_count": 1,
+        "avg_price": 6500000
+      },
+      "샤넬 쉐브론 램스킨 클래식 더블 플랩 숄더백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Chevron Lambskin Classic Double Flap Shoulder Bag Medium Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 3000000
+      },
+      "샤넬 럭키 참 까멜리아 No.5 & 럭키 참 아플리케 벨벳 & 페이턴트 레더 백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Lucky Charms Camelia No.5 Appliqué Velvet & Patent Leather Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 900000
+      },
+      "샤넬 보이 그레인드 카프스킨 & 루테늄 메탈 플랩백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Boy Grained Calfskin & Ruthenium Metal Flap Bag Medium Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 4000000
+      },
+      "샤넬 이터널 NO.5 네크리스 화이트 골드 다이아몬드 25P": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel Eternal No. 5 Necklace White Gold Diamond 25P"
+        ],
+        "trade_count": 1,
+        "avg_price": 7000000
+      },
+      "샤넬 CC 로고 플라워 이어링 메탈 & 크리스탈": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel CC Flower Earing Metal & Crystal"
+        ],
+        "trade_count": 1,
+        "avg_price": 450000
+      },
+      "샤넬 CC 로고 메달리온 펜던트 네크리스 골드": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel CC Logo Medallion Pendant Necklace Gold"
+        ],
+        "trade_count": 1,
+        "avg_price": 1200000
+      },
+      "샤넬 CC로코 코코 마크 네크리스 골드 코팅 라인스톤": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel CC Logo Coco Mark Necklace Gold Plated Rhinestone"
+        ],
+        "trade_count": 1,
+        "avg_price": 550000
+      },
+      "샤넬 클래식 그레인드 카프스킨 실버 메탈 카드홀더 베이지": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Silver Metal Card Holder Beige"
+        ],
+        "trade_count": 1,
+        "avg_price": 350000
+      },
+      "샤넬 CC로고 엠보싱 캐비어 그레인드 카프스킨 장지갑 카멜": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel CC Logo Embossed Caviar Grained Calfskin Long Wallet Camel"
+        ],
+        "trade_count": 1,
+        "avg_price": 300000
+      },
+      "샤넬 그레인드 카프스킨 & 골드 메탈 플랩 카드홀더 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Grained Calfskin & Gold Metal Flap Card Holder Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 700000
+      },
+      "샤넬 보이 쉐브론 카프스킨 & 골드 메탈 플랩백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Boy Chevron Calfskin & Gold Metal Flap Bag Medium Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 4800000
+      },
+      "샤넬 2.55 리이슈 크로코다일 & 퀼티드 램스킨 & 골드 메탈 더블 플랩백 미디엄 블랙 골드": {
+        "category": "가방",
+        "synonyms": [
+          "Metallic 2.55 Reissue Crocodile Embossed and Quilted Lambskin Double Flap Medium Black Gold"
+        ],
+        "trade_count": 1,
+        "avg_price": 4500000
+      },
+      "샤넬 램스킨 & 골드 메탈 탑핸들 플랩백 미니 라이트 퍼플": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Lambskin & Gold Metal Top Handle Flap Bag Mini Light Purple"
+        ],
+        "trade_count": 1,
+        "avg_price": 5300000
+      },
+      "샤넬 코코 네쥬 턴락 나일론 볼링백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Coco Neige Turnlock Bowling Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 7050000
+      },
+      "샤넬 25 마틀라쎄 메탈릭 램스킨 & 골드 메탈 버킷백 스몰 골드": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 25 Matelassé Metallic Lambskin & Gold Metal Bucket Bag Small Gold"
+        ],
+        "trade_count": 1,
+        "avg_price": 9000000
+      },
+      "샤넬 클래식 마틀라쎄 램스킨 & 샴페인 골드 메탈 탑핸들 플랩백 미니 블랙 & 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Matelassé Lambskin & Champagne Gold Metal Top Handle Flap Bag Mini Black & Pink"
+        ],
+        "trade_count": 1,
+        "avg_price": 6500000
+      },
+      "샤넬 하트 램스킨 & 골드 메탈 벨트백 퍼플": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Heart Lambskin & Gold Belt Bag Purple"
+        ],
+        "trade_count": 1,
+        "avg_price": 2450000
+      },
+      "샤넬 클래식 그레인드 카프스킨 진주 장식 WOC 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Imitation Pearl WOC Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 2232000
+      },
+      "샤넬 클래식 미니 램스킨 & 골드 메탈 플랩 숄더백 미니 오렌지": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic New Mini Lambskin & Gold Metal Flap Shoulder Bag Mini Orange"
+        ],
+        "trade_count": 1,
+        "avg_price": 2000000
+      },
+      "샤넬 클래식 골든볼 램스킨 WOC 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Golden Ball Lambskin WOC Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 3750000
+      },
+      "샤넬 그레인드 카프스킨 & 골드 메탈 플랩 케이스 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Grained Calfskin & Gold Metal Flap Case Medium Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 700000
+      },
+      "샤넬 클래식 그레인드 카프스킨 골드 메탈 플랩 카드지갑 옐로우": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Gold Metal Flap Card Case Yellow"
+        ],
+        "trade_count": 1,
+        "avg_price": 893000
+      },
+      "샤넬 클래식 그레인드 카프스킨 골드 메탈 플랩 카드지갑 퍼플": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Gold Metal Flap Card Case Purple"
+        ],
+        "trade_count": 1,
+        "avg_price": 380000
+      },
+      "샤넬 클래식 그레인드 카프스킨 골드 메탈 플랩 3단 지갑 스몰 화이트": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Gold Metal Flap Tri Fold Wallet Small White"
+        ],
+        "trade_count": 1,
+        "avg_price": 930000
+      },
+      "샤넬 클래식 그레인드 카프스킨 골드 메탈 지퍼 동전 지갑 베이지": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Gold Metal Zipped Coin Beige"
+        ],
+        "trade_count": 1,
+        "avg_price": 990000
+      },
+      "샤넬 클래식 그레인드 카프스킨 실버 메탈 지퍼 동전 지갑 퍼플": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Silver Metal Zipped Coin Purse Turquoise Blue"
+        ],
+        "trade_count": 1,
+        "avg_price": 800000
+      },
+      "샤넬 클래식 그레인드 카프스킨 실버 메탈 지퍼 동전 지갑 터콰이즈 블루": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Silver Metal Zipped Coin Purse Turquoise Blue"
+        ],
+        "trade_count": 1
+      },
+      "샤넬 그레인드 카프스킨 골드 메탈 2단 지퍼 중지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Grained Calfskin Gold Metal Zipped Bi Fold Wallet Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 2000000
+      },
+      "샤넬 보이 그레인드 카프스킨 실버 메탈 플랩 지갑 스몰 레드": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Boy Grained Calfskin Silver Metal Flap Wallet Small Red"
+        ],
+        "trade_count": 1,
+        "avg_price": 360000
+      },
+      "샤넬 까멜리아 엠보스드 램스킨 골드 메탈 장지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Camellia Embossed Lambskin Gold Metal Long Wallet Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 150000
+      },
+      "샤넬 CC 로고 하트 스터드 이어링 골드 메탈 & 핑크 레진": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel CC Logo Heart Stud Earrings Gold Metal & Pink Resin"
+        ],
+        "trade_count": 1,
+        "avg_price": 400000
+      },
+      "샤넬 CC 로고 이어링 골드 메탈 글라스 펄 파베": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel CC Logo Earrings Gold Metal Glass Pearls Pavé"
+        ],
+        "trade_count": 1,
+        "avg_price": 650000
+      },
+      "샤넬 CC 로고 펄 드롭 이어링 골드 메탈 크리스탈 파베": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel CC Logo Pearl Drop Earrings Gold Metal Ctytal Pavé"
+        ],
+        "trade_count": 1
+      },
+      "샤넬 코코 크러쉬 브레이슬릿 미니 베이지 골드": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel Coco Crush Bracelet Mini Beige Gold"
+        ],
+        "trade_count": 1
+      },
+      "샤넬 코코 크러쉬 더블 체인 네크리스 옐로우 골드": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel Coco Crush Doule Chain Necklace Yellow Gold"
+        ],
+        "trade_count": 1,
+        "avg_price": 3250000
+      },
+      "샤넬 코코 크러쉬 링 스몰 베이지 골드 다이아몬드 31P": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel Coco Crush Ring Small Beige Gold Diamonds 31P"
+        ],
+        "trade_count": 1,
+        "avg_price": 5300000
+      },
+      "샤넬 CC 로고 브레이슬릿 골드 메탈 글라스 펄 & 크리스탈 파베": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel CC Logo Bracelet Gold Metal Glass Pearls & Crystal Pavé"
+        ],
+        "trade_count": 1,
+        "avg_price": 440000
+      },
+      "샤넬 보이프렌드 스몰 쿼츠 베이지 골드 오팔린 기요쉐 카프스킨 레더": {
+        "category": "시계",
+        "synonyms": [
+          "Chanel Boy·Friend Small Quartz Beige Gold Opaline Guilloché Calfskin Leather"
+        ],
+        "trade_count": 1,
+        "avg_price": 6500000
+      },
+      "샤넬 마트라세 19mm 쿼츠 스틸 블랙 레더": {
+        "category": "시계",
+        "synonyms": [
+          "Chanel Matelasse 19mm Quartz Steel Black Leather"
+        ],
+        "trade_count": 1,
+        "avg_price": 700000
+      },
+      "샤넬 마트라세 19mm 쿼츠 스틸 블랙": {
+        "category": "시계",
+        "synonyms": [
+          "Chanel Matelasse 19mm Quartz Steel Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 1200000
+      },
+      "샤넬 J12 칼리버 12.1 38mm 세라믹 화이트": {
+        "category": "시계",
+        "synonyms": [
+          "Chanel J12 Caliber 12.1 38mm Ceramic White"
+        ],
+        "trade_count": 1,
+        "avg_price": 6000000
+      },
+      "샤넬 프리미에르 리본 쿼츠 옐로우 골드 블랙 러버": {
+        "category": "시계",
+        "synonyms": [
+          "Chanel Premiere Ribbon Quartz Yellow Gold Black Rubber"
+        ],
+        "trade_count": 1,
+        "avg_price": 1800000
+      },
+      "샤넬 19 램스킨 체인 클러치 피치": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 19 Clutch with Chain Lambskin & Peach"
+        ],
+        "trade_count": 1
+      },
+      "샤넬 19 고트스킨 & 골드 메탈 핸드백 라지 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 19 Goatskin & Gold Metal Handbag Large White"
+        ],
+        "trade_count": 1,
+        "avg_price": 1500000
+      },
+      "샤넬 19 램스킨 & 골드 메탈 핸드백 미디엄 페일핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 19 Handbag Lambskin & Gold Medium Pale pink"
+        ],
+        "trade_count": 1,
+        "avg_price": 5100000
+      },
+      "샤넬 2.55 빈티지 카프스킨 & 실버 메탈 핸드백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 2.55 Aged Calfskin & Silver Handbag Mini Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 5958000
+      },
+      "샤넬 22 샤이니 카프스킨 & 골드 메탈 핸드백 미디엄 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 22 Shiny Calfskin & Gold Handbag Medium White"
+        ],
+        "trade_count": 1
+      },
+      "샤넬 가브리엘 빈티지 카프스킨 & 골드 실버 메탈 백팩 스몰 민트": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Gabrielle Aged Calfskin & Gold Silver Backpack Small Mint"
+        ],
+        "trade_count": 1,
+        "avg_price": 4800000
+      },
+      "샤넬 캔버스 & 골드 메탈 쇼핑백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Canvas & Gold Metal Shopping Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 6800000
+      },
+      "샤넬 보이 쉐브론 램스킨 & 골드 클러치 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Boy Chevron Lambskin & Gold Clutch Medium Black"
+        ],
+        "trade_count": 1
+      },
+      "샤넬 보이 그레인드 카프스킨 & 골드 메탈 플랩백 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Boy Grained Calfskin & Gold Metal Flap Bag Large Black"
+        ],
+        "trade_count": 1
+      },
+      "샤넬 보이 카프스킨 & 실버 메탈 플랩백 미디엄 네이비": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Boy Calfskin & Silver Metal Flap Bag Medium Navy"
+        ],
+        "trade_count": 1,
+        "avg_price": 100000
+      },
+      "샤넬 샤이니 그레인드 카프스킨 & 골드 메탈 라이트 백팩 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Shiny Grained Calfskin & Gold Light Backpack Pink"
+        ],
+        "trade_count": 1
+      },
+      "샤넬 샤이니 그레인드 카프스킨 & 골드 메탈 백팩 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Shiny Grained Calfskin & Gold Backpack White"
+        ],
+        "trade_count": 1,
+        "avg_price": 4600000
+      },
+      "샤넬 클래식 그레인드 카프스킨 & 골드 메탈 체인 코스메틱 케이스 스몰 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin & Gold Metal Chain Cosmetic Case Small Pink"
+        ],
+        "trade_count": 1,
+        "avg_price": 1900000
+      },
+      "샤넬 램스킨 초코바 체인 숄더백 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Lambskin Chocolate Bar Chain Shoulder Bag Beige"
+        ],
+        "trade_count": 1
+      },
+      "샤넬 샤이니 빈티지 카프스킨 & 골드 메탈 쇼핑백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Shiny Vintage Calfskin & Gold Metal Shopping Bag Mini Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 4050000
+      },
+      "샤넬 쉐브론 그레인드 카프스킨 & 골드 메탈 탑핸들 플랩백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Chevron Grained Calfskin & Gold Metal Top Handle Flap Bag Medium Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 4200000
+      },
+      "샤넬 램스킨 & 골드 메탈 탑핸들 플랩백 미니 라이트 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Lambskin & Gold Mini Flap Bag with Top Handle Mini Light Blue"
+        ],
+        "trade_count": 1,
+        "avg_price": 5200000
+      },
+      "샤넬 램스킨 & 골드 메탈 체인 백 미니 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Lambskin & Gold Metal Chain Bag Mini White"
+        ],
+        "trade_count": 1,
+        "avg_price": 2590000
+      },
+      "샤넬 램스킨 & 골드 메탈 체인 지갑 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Lambskin & Gold Metal Chain Wallet Pink"
+        ],
+        "trade_count": 1,
+        "avg_price": 2820000
+      },
+      "샤넬 클래식 그레인드 카프스킨 & 골드 메탈 코스메틱 케이스 체인 폰 홀더 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Vanity Phone Holder With Chain Grained Calfskin & Gold Black"
+        ],
+        "trade_count": 1
+      },
+      "샤넬 램스킨 & 골드 메탈 하트백 라지 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Lambskin & Gold Metal Heart Bag Large White"
+        ],
+        "trade_count": 1
+      },
+      "샤넬 클래식 그레인드 카프스킨 & 골드 메탈 케이스 미디엄 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin & Gold Metal Case Medium White"
+        ],
+        "trade_count": 1
+      },
+      "샤넬 클래식 샤이니 램스킨 & 이미테이션 진주 & 골드톤 메탈 플랩백 미니 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Shiny Lambskin & Imitation Pearls & Gold Tone Metal Flap Bag Mini Pink"
+        ],
+        "trade_count": 1
+      },
+      "샤넬 슬링백 램스킨 & 베이지 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "Chanel Slingbacks Lambskin & Beige Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 790000
+      },
+      "샤넬 코인 체인 벨트": {
+        "category": "패션 악세서리",
+        "synonyms": [
+          "CHANEL CC Logo Medal Coin Charm Thick Chain Belt"
+        ],
+        "trade_count": 1
+      },
+      "샤넬 램스킨 & 이미테이션 진주 스트랩 카드홀더 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Lambskin & Imitation Pearls Strap Card Holder Black"
+        ],
+        "trade_count": 1360000
+      },
+      "샤넬 CC 필리그리 그레인드 카프스킨 골드 메탈 지퍼 장지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel CC Filigree Grained Calfskin Gold Metal Zipped Wallet Black"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 (W) 샤넬 스니커즈 라미네이티드 카프스킨 & 골드 화이트": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Chanel Sneakers Laminated Calfskin & Gold White"
+        ],
+        "trade_count": 1430000
+      },
+      "샤넬 클래식 그레인드 카프스킨 & 골드 메탈 체인 WOC 다크 네이비": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin & Gold Tone Metal Chain WOC Dark Navy"
+        ],
+        "trade_count": 3060000
+      },
+      "샤넬 CC 퀄티드 램스킨 호보 핸드백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel CC Quilted Lambskin Hobo Handbag Black"
+        ],
+        "trade_count": 5400000
+      },
+      "샤넬 그레인드 카프스킨 & 골드 메탈 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Grained Calfskin & Gold Tone Metal Shoulder Bag Black"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 라운드 어스 페이던트 이브닝 백 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel  Round Earth Patent Leather Evening Bag Pink"
+        ],
+        "trade_count": 1770000
+      },
+      "샤넬 클래식 그레인드 카프스킨 & 골드 메탈 플랩백 미디엄 애플 그린": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin & Gold Tone Metal Flap Bag Medium Apple Green"
+        ],
+        "trade_count": 7900000
+      },
+      "샤넬 가브리엘 쉐브론 빈티지 카프스킨 & 골드 실버 메탈 백팩 스몰 옐로우": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Gabrielle Chevron Vintage Calfskin & Gold Silver Metal Backpack Small Yellow"
+        ],
+        "trade_count": 4450000
+      },
+      "샤넬 램스킨 & 골드 메탈 체인 백 미니 코랄핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Lambskin & Gold Metal Chain Bag Mini Coral Pink"
+        ],
+        "trade_count": 2250000
+      },
+      "샤넬 19 램스킨 & 골드 메탈 파우치 라지 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 19 Lambskin & Gold Metal Pouch Large White"
+        ],
+        "trade_count": 800000
+      },
+      "샤넬 클래식 퀄티드 그레인드 카프스킨 탬버린백 미니 네이비": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Quilted Grained CalfskinTambourine Bag Mini Navy"
+        ],
+        "trade_count": 1580000
+      },
+      "샤넬 페이던트 & 골드 메탈 체인 코스메틱 케이스 스몰 네온 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Patent & Gold Metal Chain Cosmetic Case Small Neon Pink"
+        ],
+        "trade_count": 3340000
+      },
+      "샤넬 (W) 샤넬 새틴 체인 슬라이드 브라이트 블루": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Chanel Satin Chain Slides Bright Blue"
+        ],
+        "trade_count": 500000
+      },
+      "샤넬 (W) 샤넬 하이 부츠 카프스킨 & 골드 메탈 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Chanel High Boots Calfskin & Gold Metal Black"
+        ],
+        "trade_count": 1750000
+      },
+      "샤넬 스퀘어 퀄팅 그레인드 카프스킨 LAX 볼링백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Square Quilted Grained Calfskin LAX Bowling Bag Black"
+        ],
+        "trade_count": 1200000
+      },
+      "샤넬 트래블 나일론 토트백 옐로우": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Travel Nylon Tote Bag Yellow"
+        ],
+        "trade_count": 350000
+      },
+      "샤넬 도빌 데님 클러치백 미디엄 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Deauville Denim Clutch Bag Medium Blue"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 가브리엘 빈티지 카프스킨 & 골드 메탈 파우치 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Gabriel Vintage Calfskin & Gold Metal Pouch Medium Black"
+        ],
+        "trade_count": 1050000
+      },
+      "샤넬 램스킨 & 이미테이션 진주 & 골드 메탈 체인 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Lambskin & Imitation Pearls & Gold Metal Chain Shoulder Bag Black"
+        ],
+        "trade_count": 2250000
+      },
+      "샤넬 울트라 링 스몰 화이트 골드 & 화이트 세라믹 & 다이아몬드 1P": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel Ultra Ring Small White Gold & White Ceramic & Diamond 1P"
+        ],
+        "trade_count": 2250000
+      },
+      "샤넬 스커트": {
+        "category": "의류",
+        "synonyms": [
+          "Chanel Skirt"
+        ],
+        "trade_count": 660000
+      },
+      "샤넬 보이 그레인드 카프스킨 골드 메탈 WOC 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Boy Grained Calfskin Gold Metal WOC Black"
+        ],
+        "trade_count": 2770000
+      },
+      "샤넬 샤이니 그레인드 카프스킨 & 실버 체인 미니백 메탈 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Shiny Grained Calfskin & Silver Chain Minibag Black"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 19 램스킨 & 골드 메탈 체인 클러치 골드": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 19 Lambskin & Gold Metal Chain Clutch Gold"
+        ],
+        "trade_count": 1950000
+      },
+      "샤넬 그레인드 카프스킨 CC 포켓 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Grained Calfskin CC Pocket Shoulder Bag Black"
+        ],
+        "trade_count": 1500000
+      },
+      "샤넬 스타 로고 램스킨 실버 메탈 지퍼 동전 지갑 그린": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Star Logo Lambskin Silver Metal Zipped Coin Purse Green"
+        ],
+        "trade_count": 700000
+      },
+      "샤넬 골드 메탈 & 램스킨 체인 플랩 코인퍼스 미니백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Gold Metal & Lambskin Chain Flap Coin Purse Mini Bag Black"
+        ],
+        "trade_count": 3150000
+      },
+      "샤넬 퀼티드 램스킨 & 페이턴트 레더 체인 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Quilted Lambskin & Patent Leather Chain Shoulder Bag Black"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 클래식 그레인드 카프스킨 실버 메탈 플랩 카드지갑 옐로우": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin silver Metal Flap Card Case Yellow"
+        ],
+        "trade_count": 500000
+      },
+      "샤넬 와일드플라워 CC 펜던트 네크리스 펄 & 크리스탈": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel Wildflower CC Pendant Necklace Pearl & Crystal"
+        ],
+        "trade_count": 500000
+      },
+      "샤넬 보이 쉐브론 그레인드 카프스킨 & 골드 메탈 체인 지갑 그린": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Boy Chevron Grained Calfskin & Gold Metal Chain Wallet Green"
+        ],
+        "trade_count": 2100000
+      },
+      "샤넬 쇼핑 그레인드 카프스킨 토트백 라지 실버": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Shopping Grained Calfskin Tote Bag Large Silver"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 퍼포레이션 램스킨 클러치 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Perforated Lambskin Clutch Pink"
+        ],
+        "trade_count": 460000
+      },
+      "샤넬 깜봉 카프스킨 볼링백 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Cambon Calfskin Bowling Bag Pink"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 로고 가죽 벨트": {
+        "category": "패션 악세서리",
+        "synonyms": [
+          "Chanel Logo Leather Belt"
+        ],
+        "trade_count": 2150000
+      },
+      "샤넬 (W) 샤넬 CC 로고 스웨이드 부츠 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Chanel CC Logo Suede Boots Black"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 펠트 에델바이스 플라워 플랩백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Felt Edelweiss Flower Flap Bag Black"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 램스킨 더블 체인 플랩백 미니 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Lambskin Double Chain Flap Bag Mini Blue"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 카프스킨 & 골드 메탈 플랩백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Calfskin & Gold Metal Flap Bag Black"
+        ],
+        "trade_count": 5300000
+      },
+      "샤넬 클래식 11.12 울 트위드 & 골드 메탈 핸드백 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic 11.12 Handbag Wool Tweed & Gold Handbag Red"
+        ],
+        "trade_count": 9000000
+      },
+      "샤넬 그레인드 카프스킨 체인 월릿 실버 레드": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Grained Calfskin Chain Wallet Silver Red"
+        ],
+        "trade_count": 900000
+      },
+      "샤넬 까멜리아 램스킨 & 골드 메탈 클러치 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Camellia Lambskin & Gold Tone Metal Clutch Black"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 발레리나 플랫 페이던트 레더 퍼플": {
+        "category": "신발",
+        "synonyms": [
+          "Chanel Ballerina Flat Patent Leather Purple"
+        ],
+        "trade_count": 690000
+      },
+      "샤넬 코코 쿠바 패브릭 WOC 그린": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Coco Cuba Fabric WOC Green"
+        ],
+        "trade_count": 2700000
+      },
+      "샤넬 CC 하트 퀄팅 램스킨 플랩백 미니 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel CC Heart Quilted Lambskin Flap Bag Mini Pink"
+        ],
+        "trade_count": 2710000
+      },
+      "샤넬 캔버스 레더 숄더백 멀티컬러": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Canvas Leather Sholder Multicolor"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 CC하트 네크리스 골드 메탈 & 글래스펄 & 크리스탈 펄리 화이트 & 블랙": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel CC Heart Necklace in Gold-Tone Metal & Glass Pearls & Crystals, Pearly White & Black"
+        ],
+        "trade_count": 1220000
+      },
+      "샤넬 네크리스 골드 메탈 & 램스킨 & 글래스펄 블랙 & 펄리 화이트": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel Necklace Gold Metal & Lambskin & Glass Pearls Black & Pearly White"
+        ],
+        "trade_count": 1300000
+      },
+      "샤넬 하트 펄 위드 크리스탈 브레이슬릿 라이트 골드": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel Heart Pearl with Crystal Bracelet Light Gold"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 까멜리아 링": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel Camelia Ring"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 후프 이어링": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel Hoop Earrings"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 CC 로고 라운드 네크리스": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel CC Logo Round Necklace"
+        ],
+        "trade_count": 950000
+      },
+      "샤넬 CC 로고 브레이슬릿": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel CC Logo Bracelet"
+        ],
+        "trade_count": 610000
+      },
+      "샤넬 뱅글": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel Bangle"
+        ],
+        "trade_count": 1120000
+      },
+      "샤넬 CC 로고 초커": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel CC Logo Choker"
+        ],
+        "trade_count": 1820000
+      },
+      "샤넬 펜던트 드롭 로고 이어링": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel Pendant Drop Logo Earings"
+        ],
+        "trade_count": 700000
+      },
+      "샤넬 CC 로고 하트 네크리스": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel CC Logo Heart Necklace"
+        ],
+        "trade_count": 500000
+      },
+      "샤넬 CC 로고 하트 드롭 이어링": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel CC Logo Heart Drop Earings"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 클래식 로고 링": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel Classic Logo Ring"
+        ],
+        "trade_count": 650000
+      },
+      "샤넬 CC 로고 진주 롱 네크리스": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel CC Logo Pearl Long Necklace"
+        ],
+        "trade_count": 2030000
+      },
+      "샤넬 CC 리본 스터드 이어링": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel CC Ribbon Stud Earings"
+        ],
+        "trade_count": 480000
+      },
+      "샤넬 CC 로고 진주 드롭 네크리스": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel CC Logo Pearl Drop Necklace"
+        ],
+        "trade_count": 750000
+      },
+      "샤넬 CC 로고 하트 이어링": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel CC Logo Heart Earrings"
+        ],
+        "trade_count": 1070000
+      },
+      "샤넬 그레인드 카프스킨 & 골든 메탈 체인 플랩 카드홀더 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Grained Calfskin & Gold-Tone Metal Chain Flap Card Holder Black"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 코스메틱 라운드 그레인드 카프스킨 & 골드 메탈 체인백 스몰 라이트 그린": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Cosmetic Round Grained Calfskin & Gold Metal Chain Bag Small Light Green"
+        ],
+        "trade_count": 2580000
+      },
+      "샤넬 글레이즈드 카프스킨 볼링백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Glazed Calfskin Bowling Bag Medium Black"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 펑키타운 퀼티드 램스킨 플랩 숄더백 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Funkytown Quilted Lambskin Flap Shoulder Bag Pink"
+        ],
+        "trade_count": 5100000
+      },
+      "샤넬 CC 로고 스타 펄 네크리스": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel CC Logo Star Pearl Necklace"
+        ],
+        "trade_count": 2500000
+      },
+      "샤넬 펄 CC 로고 롱 네크리스": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel Pearl CC Logo Long Necklace"
+        ],
+        "trade_count": 1000000
+      },
+      "샤넬 퀼티드 램스킨 & 레진 플랩 폰 홀더 블랙 베이지 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Quilted Lambskin & Resin Flap Phone Holder Black Beige Pink"
+        ],
+        "trade_count": 1600000
+      },
+      "샤넬 마이 프레셔스 퀼티드 램스킨 & 골드 메탈 & 펄 로고 플랩 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel My Precious Quilted Lambskin & Gold Metal & Pearl Logo Flap Shoulder Bag Black"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 보이 카프스킨 & 골드 메탈 체인 지갑 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Boy Calfskin & Gold Metal Chain Wallet Black"
+        ],
+        "trade_count": 3100000
+      },
+      "샤넬 CC로고 도빌 토트백 스몰 블루 & 오렌지": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel CC Logo Deauville Tote Bag Small Blue & Orange"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 카프스킨 플랩 클러치백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Calfskin Flap Clutch Bag Black"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 페이던트 하프문 체인 크로스백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Patent Half Moon Chain Crossbody Bag Mini Black"
+        ],
+        "trade_count": 4790000
+      },
+      "샤넬 19 램스킨 웨이스트 벨트백 오렌지": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 19 Lambskin Waist Belt Bag Orange"
+        ],
+        "trade_count": 3700000
+      },
+      "샤넬 시어링 램스킨 & 골드 메탈 플랩백 베이지 브라운": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Shearling Lambskin & Gold Metal Flap Bag Beige Brown"
+        ],
+        "trade_count": 10000000
+      },
+      "샤넬 22 샤이니 카프스킨 & 골드 메탈 숄더백 스몰 퍼플": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 22 Shiny Calfskin & Gold Metal Shoulder Bag Small Purple"
+        ],
+        "trade_count": 5000000
+      },
+      "샤넬 퀄팅 램스킨 & 골드톤 메탈 백팩 스몰 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "CHANEL Quilted Lambskin & Gold-Tone Metal Small Backpack Pink"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 22 패브릭 트위드 숄더백 미디움 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 22 Fabric Tweed Shoulder Bag Medium Black"
+        ],
+        "trade_count": 6800000
+      },
+      "샤넬 22 샤이니 카프스킨 백팩 라지 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 22 Shiny Calfskin Backpack Large White"
+        ],
+        "trade_count": 5000000
+      },
+      "샤넬 22 램 시어링 백팩 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 22 Shearling Lambskin Backpack White"
+        ],
+        "trade_count": 7500000
+      },
+      "샤넬 CC 네크리스 골드 메탈 & 가죽": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel CC Necklace Gold Metal & Leather"
+        ],
+        "trade_count": 800000
+      },
+      "샤넬 하트 펜던트 레더 체인": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel Heart Pendant Leather Chain Necklace"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 트래블라인 나일론 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Travel Line Nylon Shoulder Bag Black"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 클래식 그레인드 카프스킨 & 실버 메탈 케이스 뉴미듐 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin & Silver Metal Case New Medium Red"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 그랜드샤핑 그레인드 카프스킨 체인 숄더백 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Grand Shopping Grained Calfskin Chain Shoulder Bag Red"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 고트스킨 체인 크로스백 미니 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Goatskin Chain Crossbody Mini Pink"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 31 페이던트 & 골드 메탈 쇼핑백 미니 핑크 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 31 Patent & Gold Metal Shopping Bag Mini Pink Black"
+        ],
+        "trade_count": 3750000
+      },
+      "샤넬 하이 탑 트레이너 패브릭 스웨이드 블루 네이비": {
+        "category": "신발",
+        "synonyms": [
+          "Chanel High Top Trainer Fabric Suede Blue Navy"
+        ],
+        "trade_count": 500000
+      },
+      "샤넬 램스킨 & 골드 메탈 체인 플랩 동전 지갑 베이지": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Lamskin & Gold Metal Chain Flap Coin Purse Beige"
+        ],
+        "trade_count": 2150000
+      },
+      "샤넬 그레인드 카프스킨 & 골드 메탈 체인 미니백 라이트 퍼플": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Grained Calfskin & Gold Metal Chain Mini Bag Light Purple"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 카프스킨 & 이미테이션 진주 & 골드 메탈 체인 지갑 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Calfskin & Imitation Pearls & Gold Metal Chain Wallet Black"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 코코 미드나잇 트위드 & 램스킨 체인 크로스백": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Coco Midnight Tweed & Lambskin Chain Crossbody Bag"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 골든 클래스 그레인드 카프스킨 체인백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Golden Class Graind Calfskin Chain Bag Mini Black"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 그랜드 샤핑 그레인드 카프스킨 실버 체인 숄더백 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Grand Shopping Grained Calfskin Silver Chain Shoulder Bag Blue"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 클래식 그레인드 카프스킨 카메라백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Camera Bag Black"
+        ],
+        "trade_count": 4200000
+      },
+      "샤넬 까멜리아 램스킨 & 골드 메탈 체인 코스메틱 케이스 미니 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Camellia Lambskin & Gold Metal Chain Cosmetic Case Mini Beige"
+        ],
+        "trade_count": 2200000
+      },
+      "샤넬 캔버스 & 실버 메탈 쇼핑백 라이트 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Canvas & Silver Metal Shopping Bag Light Beige"
+        ],
+        "trade_count": 3280000
+      },
+      "샤넬 램스킨 & 골드 메탈 & 진주 스트랩 폰 홀더 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Lambskin & Gold Metal & Pearl Strap Phone Holder Mini Black"
+        ],
+        "trade_count": 2180000
+      },
+      "샤넬 베니티 그레인드 카프스킨 & 골드 메탈 코스메틱 케이스 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Vanity Grained Calfskin & Gold Metal Cosmetic Case Small Black"
+        ],
+        "trade_count": 3990000
+      },
+      "샤넬 탑핸들 샤이니 그레인드 카프스킨 크로스백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Top Handle Grainde Calfskin Crossbody Bag Mini Black"
+        ],
+        "trade_count": 5260000
+      },
+      "샤넬 샤이니 크럼플드 카프스킨 & 블랙 메탈 플랩백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Shiny Crumpled Calfskin & Black Metal Flap Bag Mini Black"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 2.55 리미티드 럭키 참 빈티지 카프스킨 & 골드 메탈 플랩백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 2.55 Limited Lucky Charm Aged Calfskin & Gold Handbag Medium Black"
+        ],
+        "trade_count": 8050000
+      },
+      "샤넬 보이 쉐브론 카프스킨 & 샴페인 골드 메탈 숄더백 스몰 라임": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Boy Chevron Calfskin &  Champagne Gold Shoulder Bag Small Lime"
+        ],
+        "trade_count": 4170000
+      },
+      "샤넬 CC 로고 투톤 스니커즈 메탈릭 실버 & 화이트": {
+        "category": "신발",
+        "synonyms": [
+          "Chanel CC Logo Two-Tone Sneakers in Metallic Silver & White"
+        ],
+        "trade_count": 1120000
+      },
+      "샤넬 (W) 샤넬 스니커즈 페이턴트 카프스킨 화이트 버건디 베이지": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Chanel Sneakers Patent Calfskin White Burgundy Beige"
+        ],
+        "trade_count": 1100000
+      },
+      "샤넬 울트라 링 화이트 골드 & 블랙 세라믹 다이아몬드": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel Ultra Ring White Gold & Black Ceramic Diamond"
+        ],
+        "trade_count": 3860000
+      },
+      "샤넬 가브리엘 카프스킨 클러치 라지 네이비": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Gabrielle Calfskin Clutch Large Navy"
+        ],
+        "trade_count": 900000
+      },
+      "샤넬 클래식 플랩 램스킨 체인 WOC 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Flap Lambskin Chain WOC Black"
+        ],
+        "trade_count": 2900000
+      },
+      "샤넬 CC 체인 부츠 램스킨 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "Chanel CC Chain Boots Lambskin Black"
+        ],
+        "trade_count": 750000
+      },
+      "샤넬 에스파드리유 트위드 & 페이턴트 슬립온 브라운 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "Chanel Espadrille Tweed & Patent Slip-on Brown Black"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 클래식 그레인드 카프스킨 실버 메탈 체인 카드지갑 미니 그라데이션 실버": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Silver Metal Flap Card Case With Chain Mini Gradient Silver"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 보이 파리 달라스 램스킨 & 루테늄 메탈 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Boy Paris-Dallas Lambskin & Ruthenium Flap Bag Small Black"
+        ],
+        "trade_count": 6350000
+      },
+      "샤넬 램스킨 골드 메탈 체인 코스메틱 케이스 미니 골드": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Lambskin Gold Metal Chain Cosmetic Case Mini Gold"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 그레인드 카프스킨 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Grained Calfskin Shoulder Bag Black"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 플로럴 스웨이드 & 카프스킨 드로우스트링 버킷백 멀티컬러": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Floral Suede & Calfskin Drawstring Bucket Bag Multicolor"
+        ],
+        "trade_count": 2300000
+      },
+      "샤넬 오 케이스 펠트 트위드 자수 클러치 네이비": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel O Case Felt Tweed Embroidered Clutch Navy"
+        ],
+        "trade_count": 550000
+      },
+      "샤넬 가브리엘 쉐브론 빈티지 카프스킨 & 골드 메탈 호보백 스몰 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Gabrielle Chevron Vintage Calfskin & Gold Metal Hobo Bag Small White"
+        ],
+        "trade_count": 4050000
+      },
+      "샤넬 가브리엘 빈티지 카프스킨 & 골드 메탈 호보백 스몰 라이트 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Gabrielle Vintage Calfskin & Gold Metal Hobo Bag Small Light Grey"
+        ],
+        "trade_count": 1000
+      },
+      "샤넬 22 샤이니 카프스킨 & 실버 메탈 백팩 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 22 Shiny Calfskin & Silver Metal Backpack Large Black"
+        ],
+        "trade_count": 8200000
+      },
+      "샤넬 가브리엘 빈티지 카프스킨 & 골드 메탈 호보백 라지 네이비": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Gabrielle Vintage Calfskin & Gold Metal Hobo Bag Large Navy"
+        ],
+        "trade_count": 3800000
+      },
+      "샤넬 보이 퀼팅 그레인드 카프스킨 숄더백 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Boy Quilting Grained Calfskin Shoulder Bag Large Black"
+        ],
+        "trade_count": 4550000
+      },
+      "샤넬 클래식 그레인드 카프스킨 & 골드 메탈 플랩백 스몰 라임": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin & Gold Metal Flap Bag Small Lime"
+        ],
+        "trade_count": 7700000
+      },
+      "샤넬 CC 로고 브레이슬릿 펄 & 골드": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel CC Logo Bracelet Pearl & Gold"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 19 램스킨 & 골드 & 실버 메탈 체인 폰 홀더 체인 폰 홀더 파우치 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 19 Lambskin & Gold & Silver Metal Chain Phone Holder Chain Phone Holder Pouch Black"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 19 램스킨 & 골드 메탈 플랩 체인 동전 지갑 다크 네이비": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel 19 Lambskin & Gold Metal Flap WOC Mini Dark Navy"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 보이 쉐브론 트위드 램스킨 플랩백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Boy Chevron Tweed Lambskin Flap Bag Black"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 보이 그레인드 카프스킨 & 골드 메탈 플랩백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Boy Grained Calfskin & Gold Metal Flap Bag Small Black"
+        ],
+        "trade_count": 3890000
+      },
+      "샤넬 트위드 빈티지 카프스킨 & 골드 메탈 숄더백 스몰 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Tweed Vintage Calfskin & Gold Metal Shoulder Bag Small White"
+        ],
+        "trade_count": 3000000
+      },
+      "샤넬 CC 페이던트 레더 & 실버 메탈 체인 WOC 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel CC Patent Leather & Silver Metal Chain WOC Black"
+        ],
+        "trade_count": 3500000
+      },
+      "샤넬 베니티 그레인드 카프스킨 & 골드 메탈 코스메틱 케이스 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Vanity Grained Calfskin & Gold Metal Cosmetic Case Mini Black"
+        ],
+        "trade_count": 2200000
+      },
+      "샤넬 19 퀼티드 램스킨 & 골드톤 메탈 플랩백 미디엄 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 19 Quilted Lambskin & Gold-Tone Metal Flap Bag Medium Blue"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 캔버스 & 골드 메탈 쇼핑백 베이지 & 라이트 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Canvas & Gold Metal Shopping Bag Beige & Light Blue"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 그레인드 카프스킨 & 골드 메탈 탑핸들 플랩백 미디엄 버건디": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Grained Calfskin & Gold-Tone Metal Top Handle Flap Bag Medium Burgundy"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 클래식 그레인드 카프스킨 숄더백 미디엄 라이트 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Quilted Grained Calfskin Shoulder Bag Medium Light Pink"
+        ],
+        "trade_count": 3240000
+      },
+      "샤넬 쉐브론 퀼티드 램스킨 & 골드 메탈 미니 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Chevron Quilted Lambskin & Gold-Tone Metal Mini Shoulder Bag Black"
+        ],
+        "trade_count": 3150000
+      },
+      "샤넬 클래식 퀄티드 램스킨 & 골드 메탈 클러치 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Quilted Lambskin & Gold-Tone Metal Clutch Large Black"
+        ],
+        "trade_count": 1370000
+      },
+      "샤넬 그레인드 카프스킨 & 골드 메탈 백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Grained Calfskin & Gold Metal Bag Small Black"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 퀼티드 램스킨 & 골드 메탈 숄더백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Lambskin & Gold Metal Shoulder Bag Small Black"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 보이 마틀라쎄 카프스킨 & 투톤 메탈 숄더백 미디엄 네이비": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Boy Matelassé Calfskin & Two-Tone Metal Shoulder Bag Medium Navy"
+        ],
+        "trade_count": 3960000
+      },
+      "샤넬 보이 그레인드 카프스킨 & 앤틱 골드 메탈 체인 어라운드 플랩백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Boy Grained Calfskin & Antique Gold Metal Chain Around Flap Bag Medium Black"
+        ],
+        "trade_count": 4300000
+      },
+      "샤넬 클래식 쉐브론 램스킨 & 골드 메탈 숄더백 미니 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Chevron Lambskin & Gold Metal Sholder Bag Mini Pink"
+        ],
+        "trade_count": 4620000
+      },
+      "샤넬 그레인드 카프스킨 & 골드 메탈 WOC": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Grained Calfskin & Gold Metal WOC"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 2.55 빈티지 카프스킨 & 실버 메탈 핸드백 미니 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 2.55 Aged Calfskin & Silver Handbag Mini Beige"
+        ],
+        "trade_count": 5850000
+      },
+      "샤넬 그레인드 카프스킨 & 골드 메탈 백팩 멀티컬러": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Grained Calfskin & Gold Metal Backpack Multicolor"
+        ],
+        "trade_count": 6300000
+      },
+      "샤넬 그레인드 카프스킨 & 골드 메탈 진주 체인 코스메틱 케이스 스몰 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Grained Calfskin & Gold Metal Pearl Chain Cosmetic Case Small Beige"
+        ],
+        "trade_count": 3600000
+      },
+      "샤넬 클래식 그레인드 카프스킨 플랩 숄더백 미디엄 라이트 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Flap Shoulder Bag Medium Light Blue"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 클래식 그레인드 카프스킨 골드 메탈 카드홀더 핑크": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Gold Metal Card Holder Pink"
+        ],
+        "trade_count": 420000
+      },
+      "샤넬 뷰티락 램스킨 & 골드 메탈 플랩백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Beauty Lock Lambskin & Gold Metal Flap Bag Small Black"
+        ],
+        "trade_count": 30000
+      },
+      "샤넬 클래식 마틀라세 그레인드 카프스킨 골드 메탈 WOC 다크 네이비": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Matelassé Grained Calfskin & Gold Metal WOC Dark Navy"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 보이 카프스킨 & 골드 메탈 플랩 사첼백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Boy Calfskin & Gold Metal Flap Satchel Black"
+        ],
+        "trade_count": 4300000
+      },
+      "샤넬 19 카프스킨 플랩 카드홀더 라이트 블루": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel 19 Calfskin Flap Cardholder Light Blue"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 마드모아젤 퀄팅 카프스킨 볼링백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Mademoiselle Quilted Calfskin Bowling Bag Black"
+        ],
+        "trade_count": 2250000
+      },
+      "샤넬 베스트": {
+        "category": "의류",
+        "synonyms": [
+          "Chanel Vest"
+        ],
+        "trade_count": 2260000
+      },
+      "샤넬 J12 마드모아젤 액트 II 38mm 오토매틱 블랙 세라믹 다이아몬드 블랙": {
+        "category": "시계",
+        "synonyms": [
+          "Chanel J12 Mademoiselle Acte II 38mm Automatic Black Ceramic Diamond Black"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 CC 로고 스퀘어 이어링 골드 & 블랙 에나멜": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel CC Logo Square Earing Gold & Black Enameled"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 21P 네크리스 골드 & 펄리 화이트 & 크리스탈": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel 21P Necklace Gold & Pearly White & Crystal"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 CC 로고 라운드 스터드 이어링 골드 톤 메탈 크리스탈 파베": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel CC Logo Round Stud Earrings Gold-tone Metal Crystal Pavé"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 리본 & CC 로고 이어링 실버 크리스탈 파베": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel Ribbon & CC Logo Earrings Silver Crystal Pavé"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 CC 로고 스타 이어링 실버 메탈 크리스탈 파베": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel CC Logo Star Earrings Silver Metal Crystal Pavé"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 코코 크러쉬 퀄팅 모티프 브레이슬릿 화이트 골드 다이아몬드 1P": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel Coco Crush Quilting Motif Bracelet White Gold Diamonds 1P"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 클래식 메탈릭 퀼티드 램스킨 플랩백 라지 로즈골드": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Metallic Quilted Lambskin Flap Bag Large Rose Gold"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 클래식 그레인드 카프스킨 & 골드 메탈 체인 플랩백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin & Gold Metal Chain Flap Bag Mini Black"
+        ],
+        "trade_count": 4000000
+      },
+      "샤넬 CC 카프스킨 드로우스트링 버킷백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel CC  calfskin drawstring bucket bag in black"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 마틀라쎄 램스킨 & 스팅레이 엠보스드 카프스킨 & 골드 메탈 백 미니 라이트 골드": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Matelassé Lambskin & Stingray Embossed Calfskin & Gold Metal Mini Bag Light Gold"
+        ],
+        "trade_count": 3550000
+      },
+      "샤넬 클래식 11.12 그레인드 샤이니 램스킨 & 골드 메탈 숄더백 다크 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic 11.12 Grained Shiny Lambskin & Gold Metal Shoulder Bag Dark Blue"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 탑핸들 카프스킨 플랩 숄더백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Maxi Caviar Shoulder Bag Large Black"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 클래식 그레인드 카프스킨 & 실버 메탈 핸드백 맥시 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin & Silver Metal Handbag Maxi Black"
+        ],
+        "trade_count": 7000000
+      },
+      "샤넬 샤이니 크럼플드 램스킨 호보백 라지 블랙 골드": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Shiny Crumpled Lambskin Hobo Bag Large Black Gold"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 클래식 퀄티트 페이던트 플랩 숄더백 미디엄 오렌지": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Quilted Patent Flap Shoulder Bag Medium Orange"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 22 워시드 데님 & 실버 숄더백 라이트 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 22 Washed Denim & Silver Shoulder Bag Light Blue"
+        ],
+        "trade_count": 7500000
+      },
+      "샤넬 체인 플랩 스웨이드 쉬프스킨 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Chain Flap Suede & Sheepskin Shoulder Bag Black"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 클래식 퀄팅 램스킨 & 실버톤 메탈 플랩백 미디엄 퍼플 & 라이트 블루 그라데이션": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Quilting Lambskin & Silver-tone Metal Flap Bag Medium Purple & Light Blue Gradient"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 가브리엘 플로럴 레이스 자수 카프스킨 호보백 스몰 아이보리": {
+        "category": "가방",
+        "synonyms": [
+          "hanel Gabrielle Floral Lace Embroidery Calfskin Hobo Bag Small Ivory"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 22 퀄팅 스웨이드 & 시어링 호버백 스몰 카멜 베이지 & 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 22 Quilting Suede & Shearling Hobo Bag Small Camel Beige & White"
+        ],
+        "trade_count": 12420000
+      },
+      "샤넬 22 퀄팅 나일론 & 핑크 에나벨 호보백 스몰 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 22 Quilting Nylon & Pink Enamel Hobo Bag Small Pink"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 22 까멜리아 트위드 & 골드 메탈 핸드백 스몰 블랙 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 22 Camellia Tweed & Gold-Tone Metal Handbag Small Black White"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 CC퀄팅 스웨이드 램스킨 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel CC Quilting Suede & Lambskin Shoulder Bag Black"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 램스킨 & 골드 메탈 웨이스트백 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Lambskin & Gold Metal Waist Bag Pink"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 하프문 카프스킨 & 골드 메탈 체인 백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Halfmoon Calfskin & Gold Metal Chain Bag Black"
+        ],
+        "trade_count": 2450000
+      },
+      "샤넬 시어링 램스킨 & 골드 메탈 퍼플 코스메틱 케이스 스몰 퍼플": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Shearling Lambskin & Gold Metal Purple Cosmetic Case Small Purple"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 CC 하트 램스킨 플렉시 & 골드 메탈 화이트 플랩백 스몰 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel CC Heart Lambskin Plexi & Gold Metal White Flap Bag Small White"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 클래식 페이던트 코스메틱 케이스 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Patent Cosmetic Case Black"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 25C 크루즈 투포켓 램스킨 백팩 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 25C Cruise Two Pocket Lambskin Backpack Large Black"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 체인 쇼핑백 램스킨 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Chain Shopping Bag Lambskin Shoulder Bag Black"
+        ],
+        "trade_count": 2640000
+      },
+      "샤넬 가브리엘 빈티지 카프스킨 & 골드 메탈 호보백 뉴미디엄 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Gabrielle Vintage Calfskin & Gold Metal Hobo Bag New Medium Pink"
+        ],
+        "trade_count": 3750000
+      },
+      "샤넬 클래식 스퀘어 빈티지 카프스킨 백팩 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Square Vintage Calfskin Backpack Black"
+        ],
+        "trade_count": 7700000
+      },
+      "샤넬 탑핸들 유광 그레인드 카프스킨 플랩 숄더백 스몰 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Top Handle Shiny Grained Calfskin Flap Shoulder Bag Small White"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 시즌 CC 로고 램스킨 플랩백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Seasonal CC Logo Lambskin Flap Bag Mini Black"
+        ],
+        "trade_count": 4000000
+      },
+      "샤넬 파리 모나코 마틀라세 램스킨 & 골드 메탈 플랩백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Paris-Monaco Matelassé Lambskin & Gold Metal Flap Bag Small Black"
+        ],
+        "trade_count": 5500000
+      },
+      "샤넬 코코 커브 카프스킨 & 골드 메탈 토트백 스몰 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel CoCo Curve Calfskin & Gold Metal Tote Bag Small Red"
+        ],
+        "trade_count": 3000000
+      },
+      "샤넬 클래식 마틀라쎄 캐비어 & 실버 메탈 카드 홀더 미니 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Matelasse Caviar & Silver Metal Card Holder Mini White"
+        ],
+        "trade_count": 3380000
+      },
+      "샤넬 31 맥시 퀄팅 카프스킨 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 31 Maxi Quilted Calfskin Shoulder Bag Black"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 클래식 퀄팅 램스킨 숄더백 미니 블랙 & 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Quilted Lambskin Shoulder Bag Mini Black & Pink"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 클래식 퀄팅 페이던트 카프스킨 숄더백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Quilted Patent Calfskin Shoulder Bag Medium Black"
+        ],
+        "trade_count": 4890000
+      },
+      "샤넬 클래식 그레인드 카프스킨 & 골드 메탈 플랩백 스몰 라이트 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin & Gold Handbag Small Light Pink"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 스퀘어 퀄팅 카프스킨 백팩 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Square Quilted Calfskin Backpack in Black"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 램스킨 & 골드 메탈 크리스탈 탑핸들 플랩백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Lambskin & Gold Metal Flap Bag with Crystal Top Handle Mini Black"
+        ],
+        "trade_count": 6930000
+      },
+      "샤넬 메탈릭 카프스킨 & 골드 메탈 플랩백 미니 퍼플": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Metallic Calfskin & Gold Metal Flap Bag Mini Purple"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 쉐브론 그레인드 카프스킨 & 골드 메탈 플랩백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Chevron Grained Calfskin & Gold Metal Flap Bag Medium Black"
+        ],
+        "trade_count": 2500000
+      },
+      "샤넬 램스킨 & 블랙 메탈 탑핸들 플랩백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Lambskin & Black Metal Flap Bag with Top Handle Mini Black"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 클래식 그레인드 카프스킨 & 실버 메탈 플랩백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin & Sliver Metal Flap Bag Small Black"
+        ],
+        "trade_count": 11120000
+      },
+      "샤넬 클래식 그레인드 카프스킨 실버 메탈 체인 카드지갑 미니 실버": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Silver Metal Flap Card Case With Chain Mini Silver"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 슈팅 스타 램스킨 & 실버 메탈 체인 WOC 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Shooting Star Lambskin & Silver Metal Chain WOC Black"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 클래식 트위드 플랩백 미니 멀티 컬러": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Tweed Flap Bag Mini Multicolor"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 2.55 빈티지 카프스킨 & 골드 메탈 핸드백 미니 올리브": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 2.55 Vintage Calfskin & Gold Metal Handbag Mini Olive"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 클래식 벨벳 플랩백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Velvet Flap Bag Mini Black"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 그레인드 카프스킨 & 루테늄 메탈 & 리자드 탑핸들 플랩백 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Grained Calfskin & Ruthenium Metal & Lizard Top Handle Flap Bag Large Black"
+        ],
+        "trade_count": 5000000
+      },
+      "샤넬 가브리엘 빈티지 카프스킨 & 골드 메탈 호보백 라지 그린": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Gabrielle Vintage Calfskin & Gold Metal Hobo Bag Large Green"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 코멧 지오드 네크리스 라지 화이트 골드 다이아몬드 22P": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel Comet Geode Necklace Large White Gold Diamond 22P"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 코코 크러쉬 링 라지 화이트 골드 다이아몬드 23P": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel Coco Crush Ring Large White Gold Diamond 23P"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 CC 로고 네크리스 골드 메탈 핑크 크리스탈 1P & 크리스탈 파베": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel CC Logo Necklace Gold Metal Pink Crystal 1P & Paved Crystal"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 클래식 페이던트 플랩 체인 카드지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Patent Flap Card Holder Black"
+        ],
+        "trade_count": 1920000
+      },
+      "샤넬 19 퀼티드 램스킨 카드 홀더 그레이": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel 19 Quilted Lambskin Card Holder Grey"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 19 퀼티드 램스킨 카드 홀더 브라운": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel 19 Quilted Lambskin Card Holder Brown"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 J12 29mm 쿼츠 세라믹 다이아몬드 인디케이터 다이아몬드 베젤 화이트": {
+        "category": "시계",
+        "synonyms": [
+          "Chanel J12 29mm Quartz Ceramic Diamond Indicator Diamond Bezel White"
+        ],
+        "trade_count": 7450000
+      },
+      "샤넬 클래식 캐비어 골드 메탈 플랩 미니 지갑 라이트 핑크": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Caviar Gold Metal Flap Mini Wallet Light Pink"
+        ],
+        "trade_count": 620000
+      },
+      "샤넬 보이 마틀라쎄 램스킨 장지갑 레드": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Boy Matelassé Lambskin Long Flap Wallet Red"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 22 샤이니 카프스킨 & 골드 메탈 핸드백 미디엄 코랄 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 22 Shiny Calfskin & Gold Metal HandBag Medium Coral Pink"
+        ],
+        "trade_count": 5400000
+      },
+      "샤넬 클래식 퀼티드 램스킨 & 실버 메탈 플랩백 미디엄 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Handbag Quilted Lambskin & Silver Medium Beige"
+        ],
+        "trade_count": 4800000
+      },
+      "샤넬 22 샤이니 퀼티드 카프스킨 & 골드 메탈 핸드백 스몰 다크 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 22 Shiny Quilted Calfskin & Gold Metal Hand Bag Small Dark Beige"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 18 엘라페 & 카프스킨 더블 쉐브론 WOC 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 18 Elaphe & Calfskin Double Chevron WOC Black"
+        ],
+        "trade_count": 3600000
+      },
+      "샤넬 코코 커브 샤이니 카프스킨 & 퀼티트 고트 스킨 플랩백 스몰 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Coco Curve Shiny Calfskin & Quilted Goat Skin Flap Bag Small White"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 그레인드 카프스킨 체인 폰 케이스 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Grained Calfskin Chain Phone Case Black"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 트위드 퀼티드 플랩백 미니 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Tweed Quilted Flap Bag Mini Blue"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 그레인드 퀼티드 카프스킨 WOC 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Grained Quilted Calfskin WOC Blue"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 그레인드 카프스킨 프론트 로고 카메라 케이스 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Grained Calfskin Front Logo Camera Case Black"
+        ],
+        "trade_count": 2800000
+      },
+      "샤넬 크리스탈 & 램스킨 & 실버 메탈 미니 체인백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Crystal & Lambskin & & Silver Metal Mini Chain Belt Bag Black"
+        ],
+        "trade_count": 3500000
+      },
+      "샤넬 그로그랭 나일론 트래블 토트백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel grosgrain nylon travel tote bag Black"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 베니티 페이던트 레더 크로스백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Vanity Patent Leather Crossbody Bag in Black"
+        ],
+        "trade_count": 2900000
+      },
+      "샤넬 클래식 스터드 램스킨 & 실버 메탈 에어팟 홀더 케이스 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Studded Lambskin & Silver Metal AirPods Holder Case Mini Black"
+        ],
+        "trade_count": 2000000
+      },
+      "샤넬 가브리엘 트위드 & 송아지 가죽 & 골드 메탈 백팩 스몰 블랙 & 골드": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Gabrielle Tweed & Calfskin & Gold Metal Backpack Small Black & Gold"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 가브리엘 솔리드 시어링 퍼 & 송아지 가죽 백팩 스몰 네이비": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Gabrielle Solid Shearling Fur & Calfskin Backpack Small Navy"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 클래식 마틀라쎄 램스킨 & 골드 메탈 미니 플랩백 미니 라이트 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Matelassé Lambskin & Gold Metal Mini Flap Bag New Mini Light Gray"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 클래식 그레인드 카프스킨 & 실버 메탈 플랩백 미니 옐로우": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin & Silver Metal Flap Bag Mini Yellow"
+        ],
+        "trade_count": 7700000
+      },
+      "샤넬 2.55 빈티지 카프스킨 & 골드 메탈 핸드백 미니 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 2.55 Aged Calfskin & Gold Handbag White Mini"
+        ],
+        "trade_count": 6900000
+      },
+      "샤넬 클래식 마틀라세 램스킨 & 골드 메탈 탑핸들 플랩 백 미니 라이트 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Matelassé Lambskin & Gold Metal Top Handle Flap Bag Mini Light Blue"
+        ],
+        "trade_count": 7200000
+      },
+      "샤넬 그레인드 샤이니 카프스킨 & 골드 메탈 코스메틱 케이스 라이트 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Grained Shiny Calfskin & Gold-Tone Metal Cosmetic Case Light Blue"
+        ],
+        "trade_count": 4500000
+      },
+      "샤넬 까멜리아 램스킨 & 골드 메탈 카드 홀더 위드 체인 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Camellia Lambskin & Gold-Tone Metal Card Holder with Chain Mini Black"
+        ],
+        "trade_count": 2520000
+      },
+      "샤넬 2.55 빈티지 카프스킨 & 실버 메탈 플랩백 미디엄 라이트 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 2.55 Aged Calfskin & Silver Handbag Medium Light Beige"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 19 램스킨 & 골드 메탈 WOC 카멜": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 19 Lambskin & Gold Metal WOC Camel"
+        ],
+        "trade_count": 4500000
+      },
+      "샤넬 19 트위드 & 골드 실버 메탈 체인 지갑 에크루 & 네이비 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 19 Tweed & Gold-Silver Metal Wallet On Chain Ecru & Navy Blue"
+        ],
+        "trade_count": 4500000
+      },
+      "샤넬 시크 펄즈 퀄팅 램스킨 플랩 백 옐로우": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Chic Pearls Quilted Lambskin Flap Bag Yellow"
+        ],
+        "trade_count": 4500000
+      },
+      "샤넬 클래식 트위드 램스킨 & 골드 메탈 플랩백 미디엄 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Tweed Lambskin & Gold Metal Flap Bag Medium Pink"
+        ],
+        "trade_count": 9000000
+      },
+      "샤넬 스위트 클래식 캐비어 플랩 숄더백 스몰 옐로우": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Sweet Classic Caviar Flap Shoulder Bag Small Yellow"
+        ],
+        "trade_count": 5720000
+      },
+      "샤넬 클래식 미니 램스킨 & 실버 메탈 플랩 숄더백 라이트블루": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic New Mini Lambskin & Silver Metal Flap Shoulder Bag Light Blue"
+        ],
+        "trade_count": 5690000
+      },
+      "샤넬 클래식 페이던트 & 골드 메탈 플랩 숄더백 미디엄 라이트퍼플": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Patent & Gold Metal Flap Shoulder Bag Medium Light Purple"
+        ],
+        "trade_count": 7650000
+      },
+      "샤넬 클래식 미니 램스킨 플랩 크로스백 미니 라이트 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic New Mini Lambskin Flap Crossbody Bag Mini Light Pink"
+        ],
+        "trade_count": 5690000
+      },
+      "샤넬 CC 선글라스 케이스 퀼티드 램스킨 체인 크로스백 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel CC Sunglasses Case Quilted Lambskin Chain Crossbody Bag Pink"
+        ],
+        "trade_count": 2600000
+      },
+      "샤넬 클래식 쉐브론 캐비어 플랩 숄더백 미디엄 스카이 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Chevron Caviar Flap Shoulder Bag Medium Sky Blue"
+        ],
+        "trade_count": 8100000
+      },
+      "샤넬 마틀라세 캐비어 체인 숄더백 루비 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Matelassé Caviar Chain Shoulder Bag Ruby Red"
+        ],
+        "trade_count": 5400000
+      },
+      "샤넬 보이 카프스킨 플랩 크로스백 라이트그린": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Boy Calfskin Flap Crossbody Bag Light Green"
+        ],
+        "trade_count": 4500000
+      },
+      "샤넬 코스매틱 캐비어 스킨 & 골드 하드웨어 클러치 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Cosmetic Caviar Skin & Gold Hardware Clutch Large Black"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 체인 유광 그레인드 카프스킨 체인 버킷백 미니 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Chain Shiny Grained Calfskin Chain Bucket Bag Mini White"
+        ],
+        "trade_count": 2400000
+      },
+      "샤넬 쉐브론 퀄팅 램스킨 & 골드 메탈 플랩 숄더백 미디엄 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Chevron Quilted Lambskin & Glod-Tone Metal Flap Shoulder Bag Medium Red"
+        ],
+        "trade_count": 4000000
+      },
+      "샤넬 포켓 체인 카프스킨 호보백 미니 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Pocket Chain Calfskin Hobo Bag Mini White"
+        ],
+        "trade_count": 5200000
+      },
+      "샤넬 램스킨 & 골드 메탈 큐브 체인 플랩백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Lambskin & Gold Metal Cube Chain Flap Bag Mini Black"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 보이 그레인드 카프스킨 & 골드 메탈 플랩백 미디엄 다크 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Boy Grained Calfskin & Gold Metal Flap Bag MediumDark Grey"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 드로스트링 골드 메탈 샤이니 램스킨 백팩 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Drawstring Gold Metal Shiny Lambskin Backpack Black"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 버튼 업 카메라 체인백 카프스킨 크로스백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Button Up Camera Chain Bag Calfskin Crossbody Bag Black"
+        ],
+        "trade_count": 2600000
+      },
+      "샤넬 클래식 CC 턴락 퀄팅 램스킨 숄더백 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic CC Turn-Lock Quilted Lambskin Shoulder Bag Beige"
+        ],
+        "trade_count": 1000000
+      },
+      "샤넬 클래식 에나멜 장식 퀄팅 램스킨 & 골드 톤 메탈 체인 지갑 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Enamel Accents Quilted Lambskin & Gold-Tone Metal Chain Wallet Black"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 클래식 퀄팅 램스킨 & 골드 메탈 플랩백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Quilted Lambskin & Gold Metal Flap Bag Mini Black"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 보이 그레인드 카프스킨 & 실버 메탈 클러치백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Boy Grainde Calfskin & Sliver Pouch Medium Black"
+        ],
+        "trade_count": 950000
+      },
+      "샤넬 클래식 그레인드 카프스킨 골드 메탈 플랩 중지갑 핑크": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Gold Metal Flap Wallet Medium Medium Pink"
+        ],
+        "trade_count": 960000
+      },
+      "샤넬 클래식 그레인드 카프스킨 골드 메탈 플랩 중지갑 스카이블루": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Gold Metal Flap Wallet Medium Sky Blue"
+        ],
+        "trade_count": 640000
+      },
+      "샤넬 클래식 그레인드 카프스킨 골드 메탈 플랩 장지갑 코랄 핑크": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Gold Metal Flap Long Wallet Coral Pink"
+        ],
+        "trade_count": 1090000
+      },
+      "샤넬 클래식 그레인드 카프스킨 실버 메탈 플랩 3단 지갑 스몰 네이비": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Silver Metal Flap Tri Fold Wallet Small Navy"
+        ],
+        "trade_count": 880000
+      },
+      "샤넬 보이 쉐브론 그레인드 카프스킨 루테늄 메탈 플랩 장지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Boy Chevron Grained Calfskin Ruthenium Metal Flap Long Wallet"
+        ],
+        "trade_count": 750000
+      },
+      "샤넬 까멜리아 엠보스드 램스킨 실버 메탈 장지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel Camellia Embossed Lambskin Silver Metal Long Wallet Black"
+        ],
+        "trade_count": 170000
+      },
+      "샤넬 19 램스킨 골드 메탈 지퍼 동전 지갑 베이지": {
+        "category": "지갑",
+        "synonyms": [
+          "Chanel 19 Lambskin Gold Metal Zipped Coin Purse Beige"
+        ],
+        "trade_count": 1050000
+      },
+      "샤넬 CC로고 루프 하트 스터드 이어링 골드 메탈 크리스탈 파베": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel CC Logo Loop Heart Stud Earrings Gold Mettal Crystal Pavé"
+        ],
+        "trade_count": 710000
+      },
+      "샤넬 CC 로고 라운드 스터드 이어링 골드메탈 & 핑크 레진": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel CC Logo Round Stud Earrings Gold Metal & Pink Resin"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 울트라 링 스몰 화이트 골드 & 블랙 세라믹": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel Ultra Ring Small White Gold & Black Ceramic"
+        ],
+        "trade_count": 1880000
+      },
+      "샤넬 울트라 링 스몰 화이트 골드 & 화이트 세라믹": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel Ultra Ring Small White Gold & White Ceramic"
+        ],
+        "trade_count": 1470000
+      },
+      "샤넬 부통 드 까멜리아 네크리스 화이트 골드 다이아몬드 35P": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel Bouton De Camelia Necklace White Gold Diamond 35P"
+        ],
+        "trade_count": 7300000
+      },
+      "샤넬 CC 로고 스퀘어 이어링 골드 메탈 & 레더": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Chanel CC Logo Square Earrings Gold Metal & Leather"
+        ],
+        "trade_count": 1030000
+      },
+      "샤넬 보이프렌드 라지 오토매틱 베이지 골드 다이아몬드 베젤 블랙 카프스킨 레더": {
+        "category": "시계",
+        "synonyms": [
+          "Chanel Boy·Friend Large Automatic Beige Gold Diamond Bezel Black Calfskin Leather"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 J12 크로노그래프 41mm 오토매틱 세라믹 블랙": {
+        "category": "시계",
+        "synonyms": [
+          "Chanel J12 Chronograph 41mm Automatic Ceramic Black"
+        ],
+        "trade_count": 8170000
+      },
+      "샤넬 J12 칼리버 12.1 38mm 세라믹 다이아몬드 인디케이터 화이트": {
+        "category": "시계",
+        "synonyms": [
+          "Chanel J12 Caliber 12.1 38mm Ceramic Diamond Indicator White"
+        ],
+        "trade_count": 7360000
+      },
+      "샤넬 J12 팬텀 33mm 쿼츠 세라믹 화이트": {
+        "category": "시계",
+        "synonyms": [
+          "Chanel J12 Phantom 33mm Quartz Ceramic White"
+        ],
+        "trade_count": 5820000
+      },
+      "샤넬 J12 29mm 쿼츠 세라믹 다이아몬드 인디케이터 화이트": {
+        "category": "시계",
+        "synonyms": [
+          "Chanel J12 29mm Quartz Ceramic Diamond Indicator White"
+        ],
+        "trade_count": 7150000
+      },
+      "샤넬 19 샤이니 램스킨 & 골드 메탈 백팩 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 19 Shiny Lambskin & Gold Backpack Black"
+        ],
+        "trade_count": 8230000
+      },
+      "샤넬 2.55 빈티지 페이던트 카프스킨 & 골드 메탈 플랩백 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 2.55 Vintage Patent Calfskin & Gold Handbag Large Black"
+        ],
+        "trade_count": 3680000
+      },
+      "샤넬 2.55 빈티지 카프스킨 & 골드 메탈 핸드백 미니 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 2.55 Aged Calfskin & Gold Handbag Mini Pink"
+        ],
+        "trade_count": 4800000
+      },
+      "샤넬 22 샤이니 카프스킨 & 골드 메탈 핸드백 라지 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel 22 Shiny Calfskin & Gold Handbag Large White"
+        ],
+        "trade_count": 6680000
+      },
+      "샤넬 빈티지 카프스킨 & 골드 메탈 파우치 미디엄 베이지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Calfskin & Gold Silver Case Medium Beige Black"
+        ],
+        "trade_count": 1200000
+      },
+      "샤넬 그랜드샤핑 캐비어 실버 체인 숄더백 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Grand Shopping Caviar Silver Chain Shoulder Bag White"
+        ],
+        "trade_count": 1650000
+      },
+      "샤넬 도빌 데님 클러치백 라지 스카이블루": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Deauville Denim Clutch Bag Large Sky Blue"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 샤이니 그레인드 카프스킨 & 골드 메탈 라일락 백팩 스몰": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Shiny Grained Calfskin & Gold Metal Lilac Small Backpack"
+        ],
+        "trade_count": 7920000
+      },
+      "샤넬 투포켓 드로우스트링 카프스킨 & 골드 메탈 버킷 백팩 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Two Pocket Drawstring Calfskin & Gold Metal Bucket Backpack Black"
+        ],
+        "trade_count": 6300000
+      },
+      "샤넬 보이 쉐브론 그레인드 카프스킨 & 골드 메탈 플랩 사첼백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Boy Chevron Caviar Flap Satchel Black"
+        ],
+        "trade_count": 4280000
+      },
+      "샤넬 보이 쉐브론 램스킨 & 실버 클러치 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Boy Chevron Lambskin & Silver Clutch Medium Black"
+        ],
+        "trade_count": 680000
+      },
+      "샤넬 보이 골드 램스킨 클러치백 뉴미듐 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Boy Grained Ramskin & Gold Pouch Medium Red"
+        ],
+        "trade_count": 940000
+      },
+      "샤넬 보이 그레인드 카프스킨 & 골드 메탈 플랩백 라지 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Boy Grained Calfskin & Gold Metal Flap Bag Large Red"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 보이 쉐브론 그레인드 카프스킨 & 골드 메탈 플랩백 미디엄 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Boy Grained Calfskin & Gold Metal Flap Bag Medium Red"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 보이 유광 그레인드 카프스킨 & 실버 메탈 플랩 백 스몰 퍼플": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Boy Glossy Grained Calfskin & Silver Metal Flap Bag Small Purple"
+        ],
+        "trade_count": 5300000
+      },
+      "샤넬 보이 유광 그레인드 카프스킨 & 실버 메탈 플랩 백 스몰 라이트 옐로우": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Boy Glossy Grained Calfskin & Silver Metal Flap Bag Small Light Yellow"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 보이 카프스킨 & 루테늄 메탈 플랩 백 스몰 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Boy Calfskin & Ruthenium Metal Flap Bag Small Red"
+        ],
+        "trade_count": 2700000
+      },
+      "샤넬 마드모아젤 페이던트 볼링백 미디엄 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Mademoiselle Medium Bowling Bag Red"
+        ],
+        "trade_count": 2000000
+      },
+      "샤넬 마드모아젤 페이던트 볼링백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Mademoiselle Medium Bowling Bag Black"
+        ],
+        "trade_count": 1680000
+      },
+      "샤넬 쉐브론 그레인드 카프스킨 & 골드 메탈 탑핸들 플랩백 스몰 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Chevron Grained Calfskin & Gold Metal Top Handle Flap Bag Small Red"
+        ],
+        "trade_count": 4600000
+      },
+      "샤넬 캐비어 & 골드 메탈 탑핸들 플랩백 미디엄 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Caviar & Gold Metal Top Handle Flap Bag Medium White"
+        ],
+        "trade_count": 9200000
+      },
+      "샤넬 그레인드 카프스킨 & 실버 메탈 탑핸들 플랩백 미디엄 딥 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel grained calfskin & silver metal top handle flap bag medium deep blue"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 램스킨 & 골드 메탈 탑핸들 플랩백 미니 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Lambskin & Gold Mini Flap Bag with Top Handle Mini Gray"
+        ],
+        "trade_count": 5000000
+      },
+      "샤넬 클래식 그레인드 카프스킨 바게트백 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin Baguette Bag Red"
+        ],
+        "trade_count": 3170000
+      },
+      "샤넬 클래식 램스킨 쉐브론 클러치 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Lambskin Chevron Clutch Large Black"
+        ],
+        "trade_count": 900000
+      },
+      "샤넬 클래식 탑핸들 켈리백 라지 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Top Handle Kelly Bag Large Beige"
+        ],
+        "trade_count": 5500000
+      },
+      "샤넬 클래식 램스킨 & 스트라스 & 골드 메탈 체인 WOC 라이트 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Lambskin & Strass & Gold Metal Chain Wallet Light Grey"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 램스킨 & 골드 메탈 체인 코스메틱 케이스 스몰 라이트 옐로우": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Small Vanity With Chain Lambskin & Gold Light Small Yellow"
+        ],
+        "trade_count": 2180000
+      },
+      "샤넬 램스킨 & 골드 메탈 체인 탑핸들 뉴미니백 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Lambskin & Gold Metal Chain Top Handle New Mini Bag White"
+        ],
+        "trade_count": 6500000
+      },
+      "샤넬 클래식 샤이니 빈티지 카프스킨 & 골드 메탈 체인 미니백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Shiny Vintage Calfskin & Gold Metal Chain Mini Bag Black"
+        ],
+        "trade_count": 3700000
+      },
+      "샤넬 그레인드 카프스킨 & 골드 메탈 탑핸들 플랩백 미디엄 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel grained calfskin & gold metal top handle flap bag medium beige"
+        ],
+        "trade_count": 6020000
+      },
+      "샤넬 램스킨 & 골드 메탈 탑핸들 플랩백 스몰 퍼플": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Lambskin & Gold Metal Top Handle Flap Bag Small Purple"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 램스킨 & 골드 메탈 탑핸들 플랩백 스몰 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Lambskin & Gold Metal Top Handle Flap Bag Small Beige"
+        ],
+        "trade_count": 6480000
+      },
+      "샤넬 램스킨 & 골드 메탈 하트백 스몰 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Lambskin & Gold Metal Heart Bag Small White"
+        ],
+        "trade_count": 4630000
+      },
+      "샤넬 클래식 램스킨 & 골드 메탈 케이스 라지 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Grained Lambskin & Gold Metal Case Large Red"
+        ],
+        "trade_count": 880000
+      },
+      "샤넬 클래식 그레인드 캐비어 & 골드 메탈 케이스 미디엄 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Grained Caviar & Gold Metal Case Medium Beige"
+        ],
+        "trade_count": 710000
+      },
+      "샤넬 클래식 샤이니 램스킨 & 이미테이션 진주 & 골드톤 메탈 플랩백 미니 옐로우": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Shiny Lambskin & Imitation Pearls & Gold Tone Metal Flap Bag Mini Light Purple"
+        ],
+        "trade_count": 5170000
+      },
+      "샤넬 클래식 샤이니 램스킨 & 이미테이션 진주 & 골드톤 메탈 플랩백 미니 라이트 퍼플": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Shiny Lambskin & Imitation Pearls & Gold Tone Metal Flap Bag Mini Light Purple"
+        ],
+        "trade_count": 0
+      },
+      "샤넬 클래식 샤이니 램스킨 & 이미테이션 진주 & 골드톤 메탈 플랩백 미니 퍼플": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Shiny Lambskin & Imitation Pearls & Gold Tone Metal Flap Bag Mini Purple"
+        ],
+        "trade_count": 5590000
+      },
+      "샤넬 클래식 그레인드 카프스킨 & 골드 메탈 핸드백 라지 네이비": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin & Gold Metal Handbag Large Navy"
+        ],
+        "trade_count": 7720000
+      },
+      "샤넬 클래식 그레인드 카프스킨 & 골드 메탈 플랩백 스몰 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Chanel Classic Grained Calfskin & Gold Handbag Small Pink"
+        ],
+        "trade_count": 8350000
+      }
+    }
+  }
+}

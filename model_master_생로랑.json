@@ -1,0 +1,2313 @@
+{
+  "생로랑": {
+    "models": {
+      "생로랑 카산드라 마틀라세 카프스킨 카드홀더 골드 & 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Saint Laurent Cassandra Matelasse Calf Leather Card Holder Gold & Black"
+        ],
+        "trade_count": 260,
+        "avg_price": 160000
+      },
+      "생로랑 카산드라 마틀라세 엔벨로프 그랑 드 뿌드르 엠보스드 카프스킨 지갑 스몰 골드 & 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Saint Laurent Cassandra Matelasse Small Envelope Grain de Poudre Embossed Calf Leather Wallet Gold & Black"
+        ],
+        "trade_count": 158,
+        "avg_price": 217000
+      },
+      "생로랑 니키 크링클 빈티지 카프스킨 체인 백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Niki Crinkle Vintage Calfskin Chain Bag Medium Black"
+        ],
+        "trade_count": 150,
+        "avg_price": 2215000
+      },
+      "생로랑 모노그램 벨트": {
+        "category": "패션 악세서리",
+        "synonyms": [
+          "YSL CASSANDRE BELT WITH SQUARE BUCKLE"
+        ],
+        "trade_count": 96,
+        "avg_price": 302000
+      },
+      "생로랑 모노그램 마틀라세 카프스킨 & 골드 메탈 태블릿 파우치 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Monogram Matelasse Calfskin & Gold Metal Tablet Pouch Black"
+        ],
+        "trade_count": 93,
+        "avg_price": 283000
+      },
+      "생로랑 카산드라 마틀라세 플랩 카프스킨 카드 지갑 골드 로고 & 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Saint Laurent Cassandra Matelasse Flap Calf Leather Card Holder Black"
+        ],
+        "trade_count": 87,
+        "avg_price": 240000
+      },
+      "생로랑 모노그램 마틀라세 카프스킨 & 골드 메탈 클러치 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Monogram Matelasse Calfskin & Gold Metal Clutch Large Black"
+        ],
+        "trade_count": 78,
+        "avg_price": 287000
+      },
+      "생로랑 카산드라 마틀라세 엔벨로프 카프스킨 지갑 스몰 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Saint Laurent Cassandra Matelasse Envelope Calf Leather Wallet Small Black"
+        ],
+        "trade_count": 69,
+        "avg_price": 214000
+      },
+      "생로랑 그랑 드 뿌드르 엠보스드 카프스킨 & 실버 메탈 카산드라 마틀라세 엔벨로프 체인 지갑 느와르": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Grain De Poudre Embossed Calfskin & Silver MetalCassandre Matelasse Envelope Chain Wallet Black"
+        ],
+        "trade_count": 65,
+        "avg_price": 866000
+      },
+      "생로랑 그랑 드 뿌드르 엠보스드 카프스킨 & 골드 메탈 카산드라 마틀라세 엔벨로프 체인 지갑 느와르": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Grain De Poudre Embossed Calfskin & Gold Metal Cassandre Matelasse Envelope Chain Wallet Black"
+        ],
+        "trade_count": 64,
+        "avg_price": 840000
+      },
+      "생로랑 케이트 그랑 드 뿌드르 카프스킨 체인백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Kate Calfskin Grain De Pourdre Chain Bag Small Black"
+        ],
+        "trade_count": 56,
+        "avg_price": 929000
+      },
+      "생로랑 업타운 플랩 컴팩트 그랑 드 뿌드르 엠보스드 카프스킨 카드 지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Saint Laurent Uptown Flap Compact Grain de Poudre Embossed Calf Leather Card Wallet Black"
+        ],
+        "trade_count": 48,
+        "avg_price": 191000
+      },
+      "생로랑 모노그램 컴팩트 지퍼 어라운드 카프스킨 중지갑 골드 로고 & 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Saint Laurent Monogram Compact Zip Around Calf Leather Wallet Gold Logo & Black"
+        ],
+        "trade_count": 46,
+        "avg_price": 293000
+      },
+      "생로랑 Le 5 A 7 스무스 카프스킨 & 라이트 브론즈 메탈 호보백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Le 5 A 7 Smooth Calfskin & Light Bronze Metal Hobo Bag Black"
+        ],
+        "trade_count": 46,
+        "avg_price": 1182000
+      },
+      "생로랑 벨 드 주르 카프스킨 클러치 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Belle De Jour Calfskin Clutch Black"
+        ],
+        "trade_count": 46,
+        "avg_price": 178000
+      },
+      "생로랑 카산드라 마틀라세 모노그램 그랑 드 뿌드르 카프스킨 반지갑 골드 & 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Saint Laurent Cassandra Matelasse Monogram Grain de Poudre Calf Leather Bi Fold Wallet Gold & Black"
+        ],
+        "trade_count": 45,
+        "avg_price": 232000
+      },
+      "생로랑 모노그램 컴팩트 텍스처드 퀼티드 카프스킨 3단 중지갑 골드 로고 & 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Saint Laurent Monogram Compact Textured Quilted Calf Leather Tri Fold Wallet Gold Logo & Black"
+        ],
+        "trade_count": 43,
+        "avg_price": 223000
+      },
+      "생로랑 모노그램 마틀라세 카프스킨 & 실버 메탈 태블릿 파우치 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Monogram Matelasse Calfskin & Silver Metal Tablet Pouch Black"
+        ],
+        "trade_count": 42,
+        "avg_price": 250000
+      },
+      "생로랑 Le 5 A 7 스무스 카프스킨 & 라이트 브론즈 브라스 호보백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Le 5 A 7 Smooth Calfskin & Light Bronze Brass Hobo Mini Black"
+        ],
+        "trade_count": 41,
+        "avg_price": 1029000
+      },
+      "생로랑 모노그램 마틀라세 카프스킨 & 골드 메탈 파우치 A5 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Monogram Matelasse Calfskin & Gold Metal  Pouch A5 Black"
+        ],
+        "trade_count": 39,
+        "avg_price": 185000
+      },
+      "생로랑 케이트 그랑드 뿌드르 카프스킨 & 미러 메탈 체인백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Kate Grain De Pourdre Calfskin & Mirrored Metal Chain Bag Medium Black"
+        ],
+        "trade_count": 39,
+        "avg_price": 1185000
+      },
+      "생로랑 컬리지 램스킨 & 실버 메탈 퀼티드 체인백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent College Lambskin & Sliver Metal Quilted Chain Bag Medium Black"
+        ],
+        "trade_count": 37,
+        "avg_price": 902000
+      },
+      "생로랑 카산드라 마틀라세 플랩 모노그램 카프스킨 카드 지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Saint Laurent Cassandra Matelasse Flap Calf Leather Card Holder Black"
+        ],
+        "trade_count": 34,
+        "avg_price": 255000
+      },
+      "생로랑 모노그램 그랑 드 뿌드르 엠보스드 카프스킨 카드홀더 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Saint Laurent Monogram Grain de Poudre Embossed Calf Leather Card Holder Black"
+        ],
+        "trade_count": 33,
+        "avg_price": 159000
+      },
+      "생로랑 케이트 그랑 드 뿌드르 카프스킨 & 브론즈 메탈 체인백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Kate Grain De Pourdre Calfskin & Bronze Metal Chain Bag Medium Black"
+        ],
+        "trade_count": 33,
+        "avg_price": 1077000
+      },
+      "생로랑 카바스 카프스킨 모노그램 탑핸들백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Cabas Calfskin Monogram Top Handle Bag Small Black"
+        ],
+        "trade_count": 32,
+        "avg_price": 720000
+      },
+      "생로랑 그랑 드 뿌드르 엠보스 카프스킨 & 골드 메탈 카산드라 마틀라세 라지 빌 파우치 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Grain De Pourdre Embossed Calfskin & Gold Metal Cassandre Matelasse Large Bill Pouch Black"
+        ],
+        "trade_count": 31,
+        "avg_price": 266000
+      },
+      "생로랑 업타운 그랑 드 뿌드르 엠보스 카프스킨 & 골드 메탈 파우치 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Uptown Grain De Pourdre Embossed Calfskin & Gold Metal Pouch Black"
+        ],
+        "trade_count": 30,
+        "avg_price": 243000
+      },
+      "생로랑 루 퀼티드 카프스킨 & 브론즈 톤 메탈 카메라백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Lou Quilted Calfskin & Bronze Tone Metal Camera Bag Black"
+        ],
+        "trade_count": 30,
+        "avg_price": 820000
+      },
+      "생로랑 카산드라 마틀라세 플랩 모노그램 그랑 드 뿌드르 카프스킨 장지갑 골드 & 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Saint Laurent Cassandra Matelasse Flap Monogram Grain de Poudre Calf Leather Long Wallet Gold & Black"
+        ],
+        "trade_count": 26,
+        "avg_price": 350000
+      },
+      "생로랑 카산드라 이스트 & 웨스트 모노그램 카프스킨 반지갑 미니 골드 & 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Saint Laurent Cassandra East & West Monogram Calf Leather Bi Fold Wallet Mini Gold & Black"
+        ],
+        "trade_count": 24,
+        "avg_price": 200000
+      },
+      "생로랑 선셋 스무스 카프스킨 & 브론즈 메탈 체인 백 미디엄 느와르": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Sunset Smooth Calfskin & Bronze Metal Chian Bag Medium Noir"
+        ],
+        "trade_count": 23,
+        "avg_price": 1270000
+      },
+      "생로랑 스무스 카프스킨 & 골드 메탈 모노그램 스트랩 휴대폰 홀더 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Smooth Calfskin & Gold Metal Monogram Phone Holder with Strap Black"
+        ],
+        "trade_count": 22,
+        "avg_price": 441000
+      },
+      "생로랑 카산드라 이스트 & 웨스트 모노그램 카프스킨 반지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Saint Laurent Cassandra East & West Monogram Calf Leather Bi Fold Wallet Black"
+        ],
+        "trade_count": 21,
+        "avg_price": 120000
+      },
+      "생로랑 타이니 모노그램 유광 카프스킨 & 미니 골드 톤 메탈 카드홀더 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Saint Laurent Tiny Monogram Calf Leather & Mini Gold Tone Metal Card Holder Black"
+        ],
+        "trade_count": 21,
+        "avg_price": 131000
+      },
+      "생로랑 루 그랑 드 뿌드르 엠보스 카프스킨 & 브론즈 메탈 퀼티드 미니백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Lou Grain De Pourdre Embossed Calfskin & Bronze Metal Quilted Mini Bag Black"
+        ],
+        "trade_count": 21
+      },
+      "생로랑 모노그램 카프스킨 카드홀더 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Saint Laurent Monogram Calf Leather Card Holder Black"
+        ],
+        "trade_count": 20,
+        "avg_price": 147000
+      },
+      "생로랑 노리타 램스킨 & 골드 메탈 숄더백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Nolita Lambskin & Gold Metal Shoulder Bag Mini Black"
+        ],
+        "trade_count": 20,
+        "avg_price": 1112000
+      },
+      "생로랑 그랑 드 뿌드르 엠보스 카프스킨 & 브론즈 메탈 카산드라 탑 핸들백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Grain De Pourdre Embossed Calfskin & Bronze Metal Cassandre Top Handle Bag Mini Black"
+        ],
+        "trade_count": 20,
+        "avg_price": 1300000
+      },
+      "생로랑 카산드라 마틀라세 모노그램 그랑 드 뿌드르 카프스킨 반지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Saint Laurent Cassandra Matelasse Monogram Grain de Poudre Calf Leather Bi Fold Wallet Black"
+        ],
+        "trade_count": 19,
+        "avg_price": 186000
+      },
+      "생로랑 타이니 모노그램 카프스킨 & 미니 실버 톤 메탈 카드홀더 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Saint Laurent Tiny Monogram Calf Leather & Mini Silver Tone Metal Card Holder Black"
+        ],
+        "trade_count": 19,
+        "avg_price": 145000
+      },
+      "생로랑 케이트 그랑 드 뿌드르 카프스킨 & 브론즈 메탈 가죽 체인백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Kate Grain De Pourdre Calfskin & Bronze Metal Chain Bag Small Black"
+        ],
+        "trade_count": 18,
+        "avg_price": 1142000
+      },
+      "생로랑 모노그램 컴팩트 그랑 드 뿌드르 엠보스드 카프스킨 3단 중지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Saint Laurent Monogram Compact Grain de Poudre Embossed Calf Leather Tri Fold Wallet Black"
+        ],
+        "trade_count": 16,
+        "avg_price": 270000
+      },
+      "생로랑 카프스킨 모노그램 클러치 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Calfskin Monogram Clutch Large Noir"
+        ],
+        "trade_count": 16,
+        "avg_price": 192000
+      },
+      "생로랑 선셋 카프스킨 & 실버 메탈 모노그램 체인 크로스백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Sunset Calfskin & Silver Metal Monogram Chain Crossbody Mini Black"
+        ],
+        "trade_count": 16,
+        "avg_price": 800000
+      },
+      "생로랑 그랑 드 뿌드르 믹스 카프스킨 & 미러 메탈 마틀라세 엔벨로프 체인백 미디엄 느와르": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Grand de Poudre Mix Calfskin & Mirror Metal Matelasse Envelope Chain Bag Medium Noir"
+        ],
+        "trade_count": 16,
+        "avg_price": 1616000
+      },
+      "생로랑 모노그램 마틀라세 그랑 드 뿌드르 텍스처드 카프스킨 지퍼 어라운드 장지갑 골드 로고 & 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Saint Laurent Monogram Matelasse Grain de Poudre Textured Calf Leather Zipper Around Wallet Gold Logo & Black"
+        ],
+        "trade_count": 15,
+        "avg_price": 268000
+      },
+      "생로랑 카산드라 이스트 & 웨스트 모노그램 카프스킨 반지갑 미니 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Saint Laurent Cassandra East & West Monogram Calf Leather Bi Fold Wallet Mini Black"
+        ],
+        "trade_count": 15,
+        "avg_price": 190000
+      },
+      "생로랑 업타운 아코디언 그랑 드 뿌드르 엠보스드 카드 지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Saint Laurent Uptown Accordion Grain de Poudre Embossed Card Wallet Black"
+        ],
+        "trade_count": 15,
+        "avg_price": 175000
+      },
+      "생로랑 카프스킨 카산드라 쇼핑백 토이 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Calfskin Cassandre Shopping Bag Toy Black"
+        ],
+        "trade_count": 15,
+        "avg_price": 850000
+      },
+      "생로랑 Le 5 A 7 카프스킨 & 라이트 브론즈 메탈 서플 숄더백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Le 5 A 7 Calfskin & Light Bronze Metal Supple Shoulder Bag Small Black"
+        ],
+        "trade_count": 15,
+        "avg_price": 1858000
+      },
+      "생로랑 카산드라 마틀라세 엔벨로프 그랑 드 뿌드르 엠보스드 카프스킨 지갑 스몰 골드 & 블랑크 빈티지": {
+        "category": "지갑",
+        "synonyms": [
+          "Saint Laurent Cassandra Matelasse Envelope Grain de Poudre Embossed Calf Leather Medium Wallet Small Gold & Blanc Vintage"
+        ],
+        "trade_count": 14,
+        "avg_price": 152000
+      },
+      "생로랑 업타운 카프스킨 & 브라스 체인 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Uptown Calfskin & Brass Chain Shoulder Bag Black"
+        ],
+        "trade_count": 14,
+        "avg_price": 766000
+      },
+      "생로랑 모노그램 컴팩트 지퍼 어라운드 카프스킨 중지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Saint Laurent Monogram Compact Zip Around Calf Leather Wallet Black"
+        ],
+        "trade_count": 13,
+        "avg_price": 223000
+      },
+      "생로랑 카이아 스무스 카프스킨 사첼백 스몰 느와르": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Kaia Smooth Calfskin Satchel Bag Small Noir"
+        ],
+        "trade_count": 13,
+        "avg_price": 690000
+      },
+      "생로랑 파리 5 프라그망 그랑 드 뿌드르 텍스처드 카프스킨 카드 지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Saint Laurent Paris 5 Fragment Grain de Poudre Textured Calf Leather Card Wallet Black"
+        ],
+        "trade_count": 12,
+        "avg_price": 146000
+      },
+      "생로랑 파리 그랑 드 뿌드르 텍스처드 카프스킨 카드홀더 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Saint Laurent Paris Grain de Poudre Textured Calf Leather Card Holder Black"
+        ],
+        "trade_count": 11,
+        "avg_price": 140000
+      },
+      "생로랑 삭 드 주르 그레인 카프스킨 & 브론즈 메탈 토트백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Sac De Jour Grain Calfskin & Bronze Metal Tote Bag Small Black"
+        ],
+        "trade_count": 11,
+        "avg_price": 670000
+      },
+      "생로랑 루 퀼티드 카프스킨 & 브론즈 톤 메탈 카메라백 르와르": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Lou Quilted Calfskin & Bronze Tone Metal Camera Bag NOIR"
+        ],
+        "trade_count": 11,
+        "avg_price": 650000
+      },
+      "생로랑 케이트 그레인 드 뿌드르 엠보스 카프스킨 클러치 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Kate Grain De Poudre Embossed Leather Clutch Black"
+        ],
+        "trade_count": 11,
+        "avg_price": 460000
+      },
+      "생로랑 카산드라 이스트 & 웨스트 모노그램 그레인 카프스킨 블랙 로고 반지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Saint Laurent Cassandra East & West Monogram Grained Calf Leather Black Logo Bi Fold Wallet Black"
+        ],
+        "trade_count": 10,
+        "avg_price": 300000
+      },
+      "생로랑 모노그램 블랙 로고 카프스킨 카드홀더 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Saint Laurent Monogram Black Logo Calf Leather Card Holder Black"
+        ],
+        "trade_count": 10,
+        "avg_price": 116000
+      },
+      "생로랑 시티 캔버스 나일론 앤 카프스킨 백팩 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent City Canvas Nylon And Calfskin Backpack Black"
+        ],
+        "trade_count": 10,
+        "avg_price": 550000
+      },
+      "생로랑 업타운 그랑 드 뿌드르 엠보스 카프스킨 & 골드 메탈 파우치 블랑 빈티지": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Uptown Grain De Pourdre Embossed Calfskin & Gold Metal Pouch Blanc Vintage"
+        ],
+        "trade_count": 10,
+        "avg_price": 210000
+      },
+      "생로랑 컬리지 램스킨 & 실버 메탈 퀼티드 체인백 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent College Lambskin & Silver Metal Quilted Chain Bag Large Black"
+        ],
+        "trade_count": 10,
+        "avg_price": 1485000
+      },
+      "생로랑 카산드라 마틀라세 플랩 모노그램 그랑 드 뿌드르 카프스킨 장지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Saint Laurent Cassandra Matelasse Flap Monogram Grain de Poudre Calf Leather Long Wallet Black"
+        ],
+        "trade_count": 9,
+        "avg_price": 250000
+      },
+      "생로랑 카프스킨 그랑 드 뿌드르 매트 카프스킨 지퍼 파우치 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Calfskin Grain De Pourdre Matte Calfskin Zipper Pouch Black"
+        ],
+        "trade_count": 9,
+        "avg_price": 220000
+      },
+      "생로랑 카산드라 카프스킨 & 골드메탈 마틀라세 플랩 파우치 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Cassandre Calfskin & Gold Metal Matelasse Flap Pouch Black"
+        ],
+        "trade_count": 9,
+        "avg_price": 375000
+      },
+      "생로랑 Le 5 A 7 카프스킨 & 브론즈 톤 하드웨어 서플 숄더백 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Le 5 A 7 Calfskin & Bronze Tone Hardware Supple Shoulder Bag Large Black"
+        ],
+        "trade_count": 9,
+        "avg_price": 3126000
+      },
+      "생로랑 루루 퀄팅 카프스킨 & 실버 메탈 백 토이 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Loulou Quilting Calfskin & Silver Metal Bag Toy Black"
+        ],
+        "trade_count": 8,
+        "avg_price": 980000
+      },
+      "생로랑 카산드라 마틀라세 엔벨로프 그랑 드 뿌드르 엠보스드 카프스킨 지갑 스몰 골드 &레드": {
+        "category": "지갑",
+        "synonyms": [
+          "Saint Laurent Cassandra Matelasse Envelope Grain de Poudre Embossed Calf Leather Wallet Gold & Red"
+        ],
+        "trade_count": 8,
+        "avg_price": 205000
+      },
+      "생로랑 카바스 카프스킨 모노그램 탑핸들백 스몰 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Cabas Calfskin Monogram Top Handle Bag Small Grey"
+        ],
+        "trade_count": 8,
+        "avg_price": 525000
+      },
+      "생로랑 그랑 드 뿌드르 엠보스 가죽 믹스 카프스킨 & 골드 메탈 마틀라세 엔벨로프 백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Grain De Pourdre Embossed Leather Mix Calfskin & Gold Metal Matelasse Envelope Bag Small Black"
+        ],
+        "trade_count": 8,
+        "avg_price": 1625000
+      },
+      "생로랑 삭 드 주르 그레인 카프스킨 & 미러 메탈 숄더백 나노 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Sac de Jour Grained Calfskin & Mirrored Metal Shoulder Bag Nano Black"
+        ],
+        "trade_count": 8,
+        "avg_price": 1000000
+      },
+      "생로랑 루루 램스킨 퀼티드 퍼퍼 백 토이 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Loulou Lambskin Quilted Puffer Bag Toy Black"
+        ],
+        "trade_count": 8,
+        "avg_price": 1348000
+      },
+      "생로랑 루 그랑 드 뿌드르 엠보스 카프스킨 & 실버 메탈 퀼티드 미니백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Lou Grain De Pourdre Embossed Calfskin & Silver Metal Quilted Mini Bag Black"
+        ],
+        "trade_count": 8,
+        "avg_price": 850000
+      },
+      "생로랑 벨 드 주르 카프스킨 클러치 네이비": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Belle De Jour Calfskin Clutch Navy"
+        ],
+        "trade_count": 8,
+        "avg_price": 225000
+      },
+      "생로랑 카산드라 마틀라세 플랩 카프스킨 카드 지갑 골드 로고 & 블랑 빈티지": {
+        "category": "지갑",
+        "synonyms": [
+          "Saint Laurent Cassandra Matelasse Flap Calf Leather Card Holder Gold Logo & Blanc Vintage"
+        ],
+        "trade_count": 7
+      },
+      "생로랑 파리 프라그망 플랩 카프스킨 카드 지갑 골드 & 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Saint Laurent Paris Fragment Flap Calf Leather Card Wallet Gold & Black"
+        ],
+        "trade_count": 7,
+        "avg_price": 142000
+      },
+      "생로랑 루루 나파 가죽 & 브론즈 메탈 퀼티드 퍼퍼 체인 백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Loulou Nappa Leather & Bronze Metal Quilted Puffer Chain Bag Small Black"
+        ],
+        "trade_count": 7,
+        "avg_price": 1542000
+      },
+      "생로랑 케이트 그랑 드 뿌드르 그레인 엠보스 카프스킨 & 골드 메탈 벨트백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Kate Grain De Pourdre Grain Embossed Calfskin & Gold Metal Belt Bag Black"
+        ],
+        "trade_count": 7,
+        "avg_price": 550000
+      },
+      "생로랑 컬리지 램스킨 & 브론즈 메탈 퀼티드 체인백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent College Lambskin & Bronze Metal Quilted Chain Bag Medium Black"
+        ],
+        "trade_count": 7
+      },
+      "생로랑 업타운 카프스킨 & 브라스 체인 숄더백 블랑 빈티지": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Uptown Calfskin & Brass Chain Shoulder Bag Blanc Vintage"
+        ],
+        "trade_count": 7,
+        "avg_price": 800000
+      },
+      "생로랑 3링 벨트": {
+        "category": "패션 악세서리",
+        "synonyms": [
+          "Saint Laurent Triple loop Pebbled leather Belt"
+        ],
+        "trade_count": 7
+      },
+      "생로랑 카산드라 그랑 드 뿌드르 엠보스드 레더 체인 지갑 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Cassandre Grain De Poudre Embossed Leather Chain Wallet Black"
+        ],
+        "trade_count": 6,
+        "avg_price": 860000
+      },
+      "생로랑 이스트 & 웨스트 그랑 드 뿌드르 카프스킨 반지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Saint Laurent East & West Grain de Poudre Calf Leather Bi Fold Wallet Black"
+        ],
+        "trade_count": 6
+      },
+      "생로랑 파리 카프스킨 카드홀더 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Saint Laurent Paris Calf Leather Card Holder Black"
+        ],
+        "trade_count": 6,
+        "avg_price": 119000
+      },
+      "생로랑 모노그램 그랑 드 뿌드르 엠보스드 카프스킨 카드홀더 골드 & 빈티지 화이트": {
+        "category": "지갑",
+        "synonyms": [
+          "Saint Laurent Monogram Grain de Poudre Embossed Calf Leather Card Holder Gold & Vintage White"
+        ],
+        "trade_count": 6,
+        "avg_price": 148000
+      },
+      "생로랑 그랑 드 뿌드르 엠보스드 카프스킨 & 골드 메탈 카산드라 마틀라세 엔벨로프 체인 지갑 크리마 소프트": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent  Grain De Poudre Embossed Calfskin & Gold Metal Cassandre Matelasse Envelope Chain Wallet Crema Soft"
+        ],
+        "trade_count": 6,
+        "avg_price": 675000
+      },
+      "생로랑 그랑 드 뿌드르 엠보스드 카프스킨 & 매트 블랙 카산드라 마틀라세 엔벨로프 체인 지갑 느와르": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent  Grain De Poudre Embossed Calfskin & Matte Black Metal Cassandre Matelasse Envelope Chain Wallet Black"
+        ],
+        "trade_count": 6,
+        "avg_price": 813000
+      },
+      "생로랑 선셋 스무스 카프스킨 & 브론즈 메탈 체인 백 미디엄 블랑 빈티지": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Sunset Smooth Calfskin & Bronze Metal Chian Bag Medium Blanc Vintage"
+        ],
+        "trade_count": 6
+      },
+      "생로랑 조 램스킨 & 브론즈 메탈 모노그램 백팩 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Joe Lambskin & Bronze Metal Monogram Backpack Black"
+        ],
+        "trade_count": 6,
+        "avg_price": 1140000
+      },
+      "생로랑 선셋 카프스킨 & 골드 메탈 모노그램 체인 크로스백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Sunset Calfskin & Gold Metal Monogram Chain Crossbody Mini Black"
+        ],
+        "trade_count": 6,
+        "avg_price": 1007000
+      },
+      "생로랑 카산드라 모노그램 크로커다일 엠보스드 카프스킨 장지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Saint Laurent Cassandra Monogram Crocodile Embossed Calf Leather Long Wallet Black"
+        ],
+        "trade_count": 5,
+        "avg_price": 260000
+      },
+      "생로랑 카산드라 마틀라세 모노그램 그랑 드 뿌드르 카프스킨 반지갑 골드 & 화이트": {
+        "category": "지갑",
+        "synonyms": [
+          "Saint Laurent Cassandra Matelasse Monogram Grain de Poudre Calf Leather Bi Fold Wallet Gold & White"
+        ],
+        "trade_count": 5,
+        "avg_price": 145000
+      },
+      "생로랑 카산드라 이스트 & 웨스트 크로커다일 엠보싱 카프스킨 블랙 로고 반지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Saint Laurent Cassandra East & West Crocodile Embossed Calf Leather Black Logo Bi Fold Wallet Black"
+        ],
+        "trade_count": 5
+      },
+      "생로랑 니키 크링클 빈티지 카프스킨 체인 백 미디엄 블랑 빈티지": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Niki Crinkle Vintage Calfskin Chain Bag Medium Blanc Vintage"
+        ],
+        "trade_count": 5,
+        "avg_price": 1600000
+      },
+      "생로랑 카바시크 카프스킨 탑핸들백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Cabasiq Calfskin Top Handle Bag Black"
+        ],
+        "trade_count": 5,
+        "avg_price": 400000
+      },
+      "생로랑 카프스킨 카산드라 탑 핸들백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Calfskin Cassandre Top Handle Bag Medium Black"
+        ],
+        "trade_count": 5,
+        "avg_price": 1325000
+      },
+      "생로랑 그랑 드 뿌드르 엠보스 카프스킨 마틀라세 엔벨로프백 미디엄 느와르": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Grand de Poudre Embossed Calfskin Matelasse Envelope Bag Medium Noir"
+        ],
+        "trade_count": 5
+      },
+      "생로랑 카프스킨 카산드라 모노그램 클래스프 백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Calfskin Cassandre Monogram Clasp Bag Black"
+        ],
+        "trade_count": 5
+      },
+      "생로랑 카산드라 마틀라세 카프스킨 카드홀더 골드 & 레드": {
+        "category": "지갑",
+        "synonyms": [
+          "Saint Laurent Cassandra Matelasse Calf Leather Card Holder Gold & Red"
+        ],
+        "trade_count": 4
+      },
+      "생로랑 이스트 & 웨스트 동전 포켓 그랑 드 뿌드르 카프스킨 반지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Saint Laurent East & West Coin Pocket Grain de Poudre Calf Leather Bi Fold Wallet Black"
+        ],
+        "trade_count": 4,
+        "avg_price": 250000
+      },
+      "생로랑 비키 페이턴트 카프스킨 & 골드 메탈 퀼티드 숄더백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Vicky Patent Calfskin & Gold Metal Quilted Shoulder Bag Small Black"
+        ],
+        "trade_count": 4
+      },
+      "생로랑 스무스 카프스킨 & 골드 메탈 모노그램 스트랩 휴대폰 홀더 블랑 빈티지": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Smooth Calfskin & Gold Metal Monogram Phone Holder with Strap Blanc Vintage"
+        ],
+        "trade_count": 4,
+        "avg_price": 405000
+      },
+      "생로랑 솔페리노 카프스킨 & 브론즈 메탈 사첼 인 박스 미디엄 블랑 빈티지": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Solferino Calfskin & Bronze Metal Satchel in Box Medium Blanc Vintage"
+        ],
+        "trade_count": 4,
+        "avg_price": 1000000
+      },
+      "생로랑 솔페리노 카프스킨 & 브론즈 메탈 사첼 인 박스 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Solferino Calfskin & Bronze Metal Satchel in Box Medium Black"
+        ],
+        "trade_count": 4,
+        "avg_price": 1050000
+      },
+      "생로랑 가비 램스킨 & 브론즈 메탈 퀄티드 샤첼백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Gaby Lambskin & Bronze Metal Quilted Satchel Bag Black"
+        ],
+        "trade_count": 4,
+        "avg_price": 390000
+      },
+      "생로랑 루 그랑 드 뿌드르 엠보스 카프스킨 & 브론즈 메탈 퀼티드 미니백 블랑 빈티지": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Lou Grain De Pourdre Embossed Calfskin & Bronze Metal Quilted Mini Bag Blanc Vintage"
+        ],
+        "trade_count": 4,
+        "avg_price": 850000
+      },
+      "생로랑 매트 카프스킨 타이니 카산드라 모노그램 지퍼 태블릿 홀더 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Matte Calfskin Tiny Cassandre Monogram Zipper Tablet Holder Black"
+        ],
+        "trade_count": 4,
+        "avg_price": 175000
+      },
+      "생로랑 컬리지 램스킨 & 브론즈 메탈 퀼티드 체인백 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent College Lambskin & Bronze Metal Quilted Chain Bag Large Black"
+        ],
+        "trade_count": 4,
+        "avg_price": 1000000
+      },
+      "생로랑 비키 램스킨 마틀라세 백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Vicky Lambskin Matelasse Bag Medium Black"
+        ],
+        "trade_count": 4,
+        "avg_price": 1000000
+      },
+      "생로랑 벨 드 주르 카프스킨 클러치 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Belle De Jour Calfskin Clutch Red"
+        ],
+        "trade_count": 4,
+        "avg_price": 240000
+      },
+      "생로랑 루루 퀄팅 카프스킨 & 브론즈 메탈 백 토이 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Loulou Quilting Calfskin & Bronze Metal Bag Toy Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 960000
+      },
+      "생로랑 리브 고쉬 프린티드 캔버스 앤 가죽 토트백 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Rive Gauche Canvas and Leather Printed Tote Bag Large Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 538000
+      },
+      "생로랑 카산드라 마틀라세 엔벨로프 그랑 드 뿌드르 엠보스드 카프스킨 지갑 스몰 골드 & 다크베이지": {
+        "category": "지갑",
+        "synonyms": [
+          "Saint Laurent Cassandra Matelasse Envelope Grain de Poudre Embossed Calf Leather Wallet Small Gold & Dark Beige"
+        ],
+        "trade_count": 3,
+        "avg_price": 170000
+      },
+      "생로랑 가비 퀄팅 램스킨 카드홀더 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Saint Laurent Gaby Quilted Lambskin Card Holder Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 160000
+      },
+      "생로랑 삭 드 주르 스무스 카프스킨 & 브론즈 메탈 토트백 베이비 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Sac de Jour Smooth Calfskin & Bronze Metal Tote Bag Baby Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 650000
+      },
+      "생로랑 카바시크 카프스킨 클러치 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Cabasiq Calfskin Clutch Black"
+        ],
+        "trade_count": 3
+      },
+      "생로랑 조 램스킨 & 브론즈 메탈 모노그램 백팩 블랑 빈티지": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Joe Lambskin & Bronze Metal Monogram Backpack Blanc Vintage"
+        ],
+        "trade_count": 3,
+        "avg_price": 1300000
+      },
+      "생로랑 니키 램스킨 & 실버 메탈 체인 백 베이비 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Niki Remskin & Silver Metal Chain Bag Baby Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 2345000
+      },
+      "생로랑 삭 드 주르 스무스 카프스킨 & 브론즈 메탈 숄더백 나노 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Sac de Jour Smooth Calfskin & Bronze Metal Shoulder Bag Nano Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 530000
+      },
+      "생로랑 솔페리노 카프스킨 & 브론즈 메탈 사첼 인 박스 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Solferino Calfskin & Bronze Metal Satchel in Box Small Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 1000000
+      },
+      "생로랑 리브 고쉬 프린티드 캔버스 앤 가죽 토트백 스몰 화이트 린넨": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Rive Gauche Canvas and Leather Printed Tote Bag Small White Linen"
+        ],
+        "trade_count": 3,
+        "avg_price": 280000
+      },
+      "생로랑 벨 드 주르 카프스킨 클러치 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Belle De Jour Calfskin Clutch Beige"
+        ],
+        "trade_count": 3
+      },
+      "생로랑 니키 나일론 체인 백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Niki Nylon Chain Bag Small Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 1100000
+      },
+      "생로랑 선셋 스무스 카프스킨 & 미러 메탈 체인 백 미디엄 느와르": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Sunset Smooth Calfskin & Mirror Metal Chian Bag Medium Noir"
+        ],
+        "trade_count": 2,
+        "avg_price": 1240000
+      },
+      "생로랑 카바시크 램스킨 탑핸들백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Cabas Chiq Lambskin Top Handle Bag Small Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 270000
+      },
+      "생로랑 멘하탄 카프스킨 숄더백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Manhattan Calfskin Shoulder Bag Small Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 1150000
+      },
+      "생로랑 마틀라쎄 모노그램 루 카프스킨 카메라백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Monogram Matelassé Lou Calfskin Camera Bag Mini Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 725000
+      },
+      "생로랑 뮤즈 레더 토트백 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Muse Leather Tote Bag Large Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 200000
+      },
+      "생로랑 모노그램 페이턴트 체인 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Monogram Patent Chain Shoulder Bag Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 612000
+      },
+      "생로랑 모노그램 카프스킨 집 어라운드 반지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Saint Laurent Monogram Calfskin Zip Around Wallet in Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 149000
+      },
+      "생로랑 니키 쉐브론 빈티지 카프스킨 쇼핑백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Niki Chevron Vintage Calfskin Shopping Bag Medium Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 1625000
+      },
+      "생로랑 삭 드 주르 그레인 카프스킨 & 미러 메탈 토트백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Sac De Jour Grain Calfskin & Mirror Metal Tote Bag Small Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 550000
+      },
+      "생로랑 삭 드 주르 노스 사우스 크로커다일 토트백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Sac de Jour North South Crocodile Tote Bag Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 1400000
+      },
+      "생로랑 루루 램스킨 & 브론즈 메탈 마틀라세 모노그램 체인백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Loulou Lambskin & Bronze Metal Matelasse Monogram Small Chain Bag Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 1300000
+      },
+      "생로랑 루루 카프스킨 숄더백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Loulou Calfskin Shoulder Bag Mini Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 1490000
+      },
+      "생로랑 제이미 4 큐브 레더 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Jamie 4 Cube Leather Shoulder Bag Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 545000
+      },
+      "생로랑 카산드라 마틀라세 까레 페이턴트 레더 미니 큐브 다크 빈야드 그린": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Cassandre Matelasse Carre Patent Leather Mini Cube Dark Vineyard Green"
+        ],
+        "trade_count": 2,
+        "avg_price": 390000
+      },
+      "생로랑 모노그램 컴팩트 그랑 드 뿌드르 엠보스드 카프스킨 3단 중지갑 다크 베이지": {
+        "category": "지갑",
+        "synonyms": [
+          "Saint Laurent Monogram Compact Grain de Poudre Embossed Calf Leather Tri Fold Wallet Dark Beige"
+        ],
+        "trade_count": 2,
+        "avg_price": 150000
+      },
+      "생로랑 모노그램 지퍼 프라그먼트 카프스킨 카드 지갑 골드 로고 & 블랑 빈티지": {
+        "category": "지갑",
+        "synonyms": [
+          "Saint Laurent Monogram Zipper Fragment Card Holder in Calf Leather with Gold Logo & White"
+        ],
+        "trade_count": 2
+      },
+      "생로랑 카산드라 모노그램 카프스킨 장지갑 골드 로고 & 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Saint Laurent Cassandra Monogram Calf Leather Long Wallet Gold Logo & Black"
+        ],
+        "trade_count": 2
+      },
+      "생로랑 업타운 아코디언 그랑 드 뿌드르 엠보스드 카드 지갑 크림": {
+        "category": "지갑",
+        "synonyms": [
+          "Saint Laurent Uptown Accordion Grain de Poudre Embossed Card Wallet Cream"
+        ],
+        "trade_count": 2,
+        "avg_price": 215000
+      },
+      "생로랑 업타운 컴팩트 그랑 드 뿌드르 엠보스드 카프스킨 중지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Saint Laurent Uptown Compact Grain de Poudre Embossed Calf Leather Medium Wallet Black"
+        ],
+        "trade_count": 2
+      },
+      "생로랑 카산드라 마틀라세 플랩 모노그램 그랑 드 뿌드르 카프스킨 장지갑 핑크": {
+        "category": "지갑",
+        "synonyms": [
+          "Saint Laurent Cassandra Matelasse Flap Monogram Grain de Poudre Calf Leather Long Wallet Pink"
+        ],
+        "trade_count": 2
+      },
+      "생로랑 그랑 드 뿌드르 엠보스드 카프스킨 & 골드 메탈 카산드라 마틀라세 엔벨로프 체인 지갑 다크 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent  Grain De Poudre Embossed Calfskin & Gold Metal Cassandre Matelasse Envelope Chain Wallet Dark Beige"
+        ],
+        "trade_count": 2,
+        "avg_price": 530000
+      },
+      "생로랑 삭 드 주르 그레인 카프스킨 & 브론즈 메탈 토트백 스몰 스톰": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Sac De Jour Grain Calfskin & Bronze Chrome Tote Bag Small Storm"
+        ],
+        "trade_count": 2,
+        "avg_price": 700000
+      },
+      "생로랑 베키 램스킨 WOC 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Becky Lambskin WOC Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 700000
+      },
+      "생로랑 그랑 드 뿌드르 엠보스 가죽 믹스 카프스킨 & 골드 메탈 마틀라세 엔벨로프 백 스몰 블랑 빈티지": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Grain De Pourdre Embossed Leather Mix Calfskin & Gold Metal Matelasse Envelope Bag Small Blanc Vintage"
+        ],
+        "trade_count": 2,
+        "avg_price": 1350000
+      },
+      "생로랑 삭 드 주르 스무스 카프스킨 & 브론즈 메탈 숄더백 나노 빈티지 다크 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Sac de Jour Smooth Calfskin & Bronze Metal Shoulder Bag Nano Vintage Dark Beige"
+        ],
+        "trade_count": 2,
+        "avg_price": 670000
+      },
+      "생로랑 루루 램스킨 퀼티드 퍼퍼 백 토이 블랑 빈티지": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Loulou Lambskin Quilted Puffer Bag Toy Blanc Vintage"
+        ],
+        "trade_count": 2,
+        "avg_price": 1480000
+      },
+      "생로랑 그랑 드 뿌드르 엠보스 카프스킨 & 브론즈 메탈 카산드라 탑 핸들백 미니 블랑 빈티지": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Grain De Pourdre Embossed Calfskin & Bronze Metal Cassandre Top Handle Bag Mini Blanc Vintage"
+        ],
+        "trade_count": 2
+      },
+      "생로랑 업타운 그랑 드 뿌드르 엠보스 카프스킨 & 골드 메탈 파우치 다크 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Uptown Grain De Pourdre Embossed Calfskin & Gold Metal Pouch Dark Beige"
+        ],
+        "trade_count": 2,
+        "avg_price": 190000
+      },
+      "생로랑 케이트 카프스킨 & 브론즈 메탈 체인 월렛 태슬백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Kate Calfskin & Bronze Metal Chain Wallet Tassel Bag Medium Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 700000
+      },
+      "생로랑 케이트 카프스킨 & 브론즈 메탈 체인 월렛 태슬백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Kate Calfskin & Bronze Metal Chain Wallet Tassel Bag Small Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 620000
+      },
+      "생로랑 비키 램스킨 카메라백 토이 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Vicky Lambskin Camera Bag Toy Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 1850000
+      },
+      "생로랑 리브 고쉬 프린티드 캔버스 앤 가죽 토트백 라지 화이트 린넨": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Rive Gauche Canvas and Leather Printed Tote Bag Large White Linen"
+        ],
+        "trade_count": 2,
+        "avg_price": 350000
+      },
+      "생로랑 Le 5 A 7 스무스 카프스킨 & 라이트 브론즈 메탈 모노그램 호보백 블랑 빈티지": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Le 5 A 7 Smooth Calfskin & Light Bronze Metal Monogram Hobo Bag Blanc Vintage"
+        ],
+        "trade_count": 2,
+        "avg_price": 850000
+      },
+      "생로랑 Le 5 A 7 스무스 카프스킨 & 라이트 브론즈 모노그램 호보백 미니 블랑 빈티지": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Le 5 A 7 Smooth Calfskin & Light Bronze Monogram Hobo Mini Blanc Vintage"
+        ],
+        "trade_count": 2,
+        "avg_price": 850000
+      },
+      "생로랑 클래식 헌터 캔버스 백팩 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Classic Hunter Canvas Backpack Red"
+        ],
+        "trade_count": 1,
+        "avg_price": 250000
+      },
+      "생로랑 테디 캔버스 & 램스킨 드로스트링 버킷백 아이보리 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Teddy Canvas & Lambskin Drawstring Bucket Bag Ivory Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 350000
+      },
+      "생로랑 조 퀄티드 램스킨 버킷백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Joe Quilted Lambskin Bucket Bag Mini Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 1080000
+      },
+      "생로랑 카바스 카프스킨 모노그램 탑핸들백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Cabas Calfskin Monogram Top Handle Bag Medium Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 600000
+      },
+      "생로랑 모노그램 마틀라세 카프스킨 & 골드 메탈 클러치 라지 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Monogram Matelasse Calfskin & Gold Metal Clutch Large Red"
+        ],
+        "trade_count": 1,
+        "avg_price": 330000
+      },
+      "생로랑 베아 그레인 레더 토트백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Bea Grained Leather Tote Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 1827000
+      },
+      "생로랑 케이트 그랑 드 뿌드르 카프스킨 & 브론즈 메탈 가죽 체인백 스몰 블랑 빈티지": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Kate Grain De Pourdre Calfskin & Bronze Metal Chain Bag Small Blanc Vintage"
+        ],
+        "trade_count": 1,
+        "avg_price": 1090000
+      },
+      "생로랑 카바스 카프스킨 모노그램 탑핸들백 베이비 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Cabas Calfskin Monogram Top Handle Bag Baby Gray"
+        ],
+        "trade_count": 1,
+        "avg_price": 600000
+      },
+      "생로랑 벨샤스 레더 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Bellechasse Leather Shoulder Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 400000
+      },
+      "생로랑 가비 퀼팅 램스킨 플랩 장지갑 라지 블랑": {
+        "category": "지갑",
+        "synonyms": [
+          "Saint Laurent Gaby Quilted Lambskin Flap Wallet Large Blanc"
+        ],
+        "trade_count": 1,
+        "avg_price": 250000
+      },
+      "생로랑 모노그램 쉐브론 그레인 드 푸드르 빌 파우치 느와르": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Monogram Chevron Grain de Poudre Bill Pouch Pouch Noir"
+        ],
+        "trade_count": 1,
+        "avg_price": 250000
+      },
+      "생로랑 모노그램 스무스 카프스킨 빌 파우치 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Monogram Smooth Calfskin Bill Pouch Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 250000
+      },
+      "생로랑 레더 여권지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Saint Laurent Leather Passport Case Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 127000
+      },
+      "생로랑 카산드라 램스킨 카드지갑 오프화이트 & 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Saint Laurent Cassandra Lambskin Card Holder in Off-White & Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 190000
+      },
+      "생로랑 Y 그랜드 카프스킨 토트백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Y Grand Calfskin Tote Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 3900000
+      },
+      "생로랑 삭 드쥬르 카프스킨 나노 토트백 마블 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Sac de Jour Calfskin Nano Tote Bag Marble Pink"
+        ],
+        "trade_count": 1,
+        "avg_price": 1050000
+      },
+      "생로랑 삭 드 주르 노스 사우스 그레인 카프스킨 & 브론즈 메탈 토트백 올드 오일": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Sac De Jour North South Grain Calfskin & Bronze Metal Tote Bag Old Oil"
+        ],
+        "trade_count": 1,
+        "avg_price": 800000
+      },
+      "생로랑 벨 드 주르 카프스킨 클러치 골드": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Belle de Jour Calfskin Clutch Gold"
+        ],
+        "trade_count": 1,
+        "avg_price": 150000
+      },
+      "생로랑 LE 37 그레인드 레더 버킷백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent LE 37 Grained Leather Bucket Bag in Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 1650000
+      },
+      "생로랑 제이미 4.3 램스킨 숄더백 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Jamie 4.3 Lambskin Shoulder Bag Large Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 1878000
+      },
+      "생로랑 모노그램 카프스킨 카바스백 스몰 다크 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Monogram Calfskin Cabas Bag Small Dark Gray"
+        ],
+        "trade_count": 1,
+        "avg_price": 600000
+      },
+      "생로랑 루루 램스킨 & 실버 톤 하드웨어 마틀라세 모노그램 체인백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Loulou Lambskin & Silver Tone Hardware Matelasse Monogram Chain Bag Medium Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 1250000
+      },
+      "생로랑 카산드라 마틀라세 까레 페이턴트 레더 카메라백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Cassandre Matelassé Carré Patent Leather Camera Mini Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 600000
+      },
+      "생로랑 제이미 램스킨 & 브론즈 톤 하드웨어 포숑백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Jamie Lambskin & Bronze Toned Hardware Pochon Bag Medium Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 2100000
+      },
+      "생로랑 업타운 그레인 드 파우더 엠보스드 레더 클러치 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Uptown Grain de Poudre Embossed Leather Clutch Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 162000
+      },
+      "생로랑 베키 퀄팅 램스킨 숄더백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Becky Quilted Lambskin Shoulder Bag Small Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 925000
+      },
+      "생로랑 모노그램 블로거 나파 크로스백 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Monogram Blogger Nappa Crossbody Bag Pink"
+        ],
+        "trade_count": 1,
+        "avg_price": 350000
+      },
+      "생로랑 LE 5 A 7 퀼티드 페이턴트 레더 & 골드 톤 메탈 플랩 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent LE 5 A 7 Quilted Patent Leather & Gold Tone Metal Flap Shoulder Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 1400000
+      },
+      "생로랑 카이아 스무스 카프스킨 사첼백 미디엄 느와르": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Kaia Smooth Calfskin Satchel Bag Medium Noir"
+        ],
+        "trade_count": 1,
+        "avg_price": 899000
+      },
+      "생로랑 수잔 리지드 샤이니 레더 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Suzanne Rigid Shiny Leather Shoulder Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 1400000
+      },
+      "생로랑 Le 5 A 7 카프스킨 & 브론즈 톤 하드웨어 서플 숄더백 라지 루즈 리전": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Le 5 A 7 Calfskin & Bronze Tone Hardware Supple Shoulder Bag Large Rouge Legion"
+        ],
+        "trade_count": 1,
+        "avg_price": 2250000
+      },
+      "생로랑 업타운 그랑 드 뿌드르 엠보스 카프스킨 & 골드메탈 장지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Saint Laurent Uptown Grain de Poudre Embossed Calfskin & Gold Metal Long Wallet Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 285000
+      },
+      "생로랑 카산드라 마틀라세 플랩 카프스킨 카드지갑 골드 로고 & 다크 베이지": {
+        "category": "지갑",
+        "synonyms": [
+          "Saint Laurent Cassandra Matelassé Flap Calfskin Card Holder Gold Logo & Dark Beige"
+        ],
+        "trade_count": 1,
+        "avg_price": 175000
+      },
+      "생로랑 업타운 피그먼트 풀 그레인 카프스킨 & 실버 메탈 체인 플랩백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Uptown Pigment Full-Grain Calfskin & Silver Metal Chain Flap Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 850000
+      },
+      "생로랑 업타인 엔벨로프 카프스킨 체인 숄더백 미니 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Uptown Envelope Calfskin Chain Shoulder Bag Mini Red"
+        ],
+        "trade_count": 1,
+        "avg_price": 600000
+      },
+      "생로랑 카이아 카프스킨 사첼백 미디엄 빈티지 브라운 골드": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Kaia Calfskin Satchel Bag Medium Vintage Brown Gold"
+        ],
+        "trade_count": 1,
+        "avg_price": 450000
+      },
+      "생로랑 루 마틀라세 쉐브론 퀄팅 카프스킨 & 실버 메탈 체인 카메라백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Lou Matelassé Chevron Quilting Calfskin & Silver-tone Metal Chain Camera Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 750000
+      },
+      "생로랑 루루 퀼팅 데님 & 브론즈 메탈 백 토이 데님 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Loulou Quilting Denim & Bronze Metal Bag Toy Denim Blue"
+        ],
+        "trade_count": 1,
+        "avg_price": 820000
+      },
+      "생로랑 맨하탄 카프스킨 크로스백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Manhattan Calf Skin Crossbody Mini Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 1350000
+      },
+      "생로랑 선셋 페이턴트 레더 크로스백 스몰 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Sunset Patent Leather Crossbody Bag Small Red"
+        ],
+        "trade_count": 1,
+        "avg_price": 1150000
+      },
+      "생로랑 퀼티드 램스킨 베이비 버킷백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Quilted Lambskin Baby Bucket Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 300000
+      },
+      "생로랑 크로커다일 엠보스드 카프스킨 클러치백 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Crocodile Embossed Calfskin Clutch Bag Large Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 420000
+      },
+      "생로랑 가비 퀄티드 램스킨 & 브론즈 메탈 마이크로백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Gaby Quilted Lambskin & Bronze Metal Micro Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 400000
+      },
+      "생로랑 클래식 카프스킨 더플백 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Classic Calfskin Duffle Bag Beige"
+        ],
+        "trade_count": 1,
+        "avg_price": 250000
+      },
+      "생로랑 카프스킨 & 실버 메탈 Y 스터드 버킷백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Calfskin & Silver Metal Y Stud Bucket Bag Small Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 380000
+      },
+      "생로랑 마르수피오 시어링 벨트백 미디엄 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Marsupio Shearling Belt Bag Medium Beige"
+        ],
+        "trade_count": 1,
+        "avg_price": 320000
+      },
+      "생로랑 모노그램 컴팩트 지퍼 어라운드 카프스킨 중지갑 골드 로고 & 레드": {
+        "category": "지갑",
+        "synonyms": [
+          "Saint Laurent Monogram Compact Zip Around Calf Leather Wallet Gold Logo & Red"
+        ],
+        "trade_count": 1
+      },
+      "생로랑 카산드라 마틀라세 엔벨로프 그랑 드 뿌드르 엠보스드 카프스킨 지갑 스몰 레드": {
+        "category": "지갑",
+        "synonyms": [
+          "Saint Laurent Cassandra Matelasse Envelope Grain de Poudre Embossed Calf Leather Wallet Small Red"
+        ],
+        "trade_count": 1
+      },
+      "생로랑 카산드라 마틀라세 플랩 모노그램 그랑 드 뿌드르 카프스킨 장지갑 레드": {
+        "category": "지갑",
+        "synonyms": [
+          "Saint Laurent Cassandra Matelasse Flap Monogram Grain de Poudre Calf Leather Long Wallet Red"
+        ],
+        "trade_count": 1
+      },
+      "생로랑 그랑 드 뿌드르 엠보스 카프스킨 & 골드 메탈 카산드라 마틀라세 라지 빌 파우치 블랑 빈티지": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Grain De Pourdre Embossed Calfskin & Gold Metal Cassandre Matelasse Large Bill Pouch Blanc Vintage"
+        ],
+        "trade_count": 1,
+        "avg_price": 370000
+      },
+      "생로랑 루루 나파 가죽 & 브론즈 메탈 퀼티드 퍼퍼 체인 백 스몰 다크 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Loulou Nappa Leather & Bronze Metal Quilted Puffer Chain Bag Small Dark Beige"
+        ],
+        "trade_count": 1
+      },
+      "생로랑 루루 나파 가죽 & 브론즈 메탈 퀼티드 퍼퍼 체인 백 스몰 블랑 빈티지": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Loulou Nappa Leather & Bronze Metal Quilted Puffer Chain Bag Small Blanc Vintage"
+        ],
+        "trade_count": 1,
+        "avg_price": 1390000
+      },
+      "생로랑 루 카프스킨 & 브론즈 메탈 퀼티드 벨트백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Lou Quilted Calfskin & Bronze Metal Belt Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 350000
+      },
+      "생로랑 업타운 카프스킨 탑핸들백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Uptown Calfskin Top Handle Bag Small Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 1000000
+      },
+      "생로랑 루 퀼티드 카프스킨 & 브론즈 톤 메탈 카메라백 크리마 소프트": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Lou Quilted Calfskin & Bronze Tone Metal Camera Bag Cream Soft"
+        ],
+        "trade_count": 1
+      },
+      "생로랑 Le 5 A 7 디어스킨 & 브론즈 톤 하드웨어 서플 숄더백 베이비 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Le 5 A 7 Deerskin & Bronze Tone Hardware Supple Shoulder Bag Baby Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 2000000
+      },
+      "생로랑 케이트 그레인 드 뿌드르 엠보스 카프스킨 클러치 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Kate Grain De Poudre Embossed Leather Clutch White"
+        ],
+        "trade_count": 1
+      },
+      "생로랑 그랑 드 뿌드르 엠보스 레더 카산드라 지퍼 태블릿 케이스 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Cassandre Zipped Tablet Case in Grain De Poudre Embossed Leather Black"
+        ],
+        "trade_count": 0
+      },
+      "생로랑 쉐브론 퀼티드 그랑 드 뿌드르 엠보스 레더 바이닐 라운드 카메라백 블랑 빈티지": {
+        "category": "가방",
+        "synonyms": [
+          "Sanit Laurent Vinyle Round Camera Bag in Chevron Quilted Grain de Poudre Embossed Leather Blanc Vintage"
+        ],
+        "trade_count": 940000
+      },
+      "생로랑 트리베카 그레인드 카프스킨 숄더백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Tribeca Grained Calfskin Shoulder Bag Medium Black"
+        ],
+        "trade_count": 950000
+      },
+      "생로랑 맨하탄 박스 생로랑 가죽 숄더백 미디엄 브릭 & 다크 에벤": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Manhattan Box Saint Laurent Leather Shoulder Bag Medium Brick & Dark Ebene"
+        ],
+        "trade_count": 1270000
+      },
+      "생로랑 타이니 모노그램 유광 카프스킨 & 미니 블랙 톤 메탈 카드홀더 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Saint Laurent Tiny Monogram Calf Leather & Mini Black Ton Metal Card Holder Black"
+        ],
+        "trade_count": 280000
+      },
+      "생로랑 아이케어 램스킨 쇼핑백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saiint Laurent ICARE Lambskin Shopping Bag Black"
+        ],
+        "trade_count": 0
+      },
+      "생로랑 컬리치 크로커다일 엠보스드 레더 & 실버 메탈 체인백 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent College Crocodile Embossed Leather & Silver Metal Chain Bag Large Black"
+        ],
+        "trade_count": 1520000
+      },
+      "생로랑 베이비 루 카프스킨 & 골드 톤 메탈 키파우치 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Baby Lou Calfskin & Gold toned Metal Key Pouch Black"
+        ],
+        "trade_count": 550000
+      },
+      "생로랑 이카리노 퀄티드 나파 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Icarino Quilted Nappa Shoulder Bag Black"
+        ],
+        "trade_count": 2400000
+      },
+      "생로랑 루루 카프스킨 & 블랙 톤 하드웨어 마틀라세 모노그램 체인백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Loulou Calfskin & Black Tone Hardware Matelasse Monogram Chain Bag Medium Black"
+        ],
+        "trade_count": 2500000
+      },
+      "생로랑 라이드 카모플라쥬 카프스킨 클러치백 라지": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Rive Camouflage Calfskin Clutch Bag Large"
+        ],
+        "trade_count": 200000
+      },
+      "생로랑 카바스 리브 고쉬 카프스킨 토트백 스몰 버건디": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Cabas Rive Gauche Calfskin Tote Bag Small Burgundy"
+        ],
+        "trade_count": 540000
+      },
+      "생로랑 모노그램 카프스킨 & 실버 메탈 태블릿 파우치 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Monogram Calfskin & Silver Metal Tablet Pouch Black"
+        ],
+        "trade_count": 520000
+      },
+      "생로랑 루루 푸퍼 데님 숄더백 딥마린": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Loulou Puffer Denim Shoulder Bag Deep Marine"
+        ],
+        "trade_count": 1400000
+      },
+      "생로랑 르 모노그램 카프스킨 버클 사첼백 미디움 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Le Monogramme Calfskin Buckle Satchel Bag Medium Black"
+        ],
+        "trade_count": 580000
+      },
+      "생로랑 모노그램 카프스킨 집 어라운드 반지갑 레드": {
+        "category": "지갑",
+        "synonyms": [
+          "Saint Laurent Monogram Calfskin Zipped Around Bifold Wallet Red"
+        ],
+        "trade_count": 0
+      },
+      "생로랑 루루 퀄팅 카프스킨 & 브론즈 메탈 백 토이 네이비": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Loulou Quilting Calfskin & Bronze Metal Bag Toy Navy"
+        ],
+        "trade_count": 0
+      },
+      "생로랑 삭 드 주르 그레인드 가죽 서플 48H 더플 백 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Sac De Jour Grained Leather Souple 48 Hours Duffle Bag Large Black"
+        ],
+        "trade_count": 0
+      },
+      "생로랑 모노그램 크로커다일 엠보스드 레더 빌 파우치 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Monogram Crocodile Embossed Leather Bill Pouch Black"
+        ],
+        "trade_count": 0
+      },
+      "생로랑 카산드라 스무스 레더 플랩 파우치 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Cassandre Smooth Leather Flap Pouch Black"
+        ],
+        "trade_count": 0
+      },
+      "생로랑 볼테르 카프스킨 탑 핸들 백 미니 블랑 빈티지": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Voltaire Calfskin Top Handle Bag Mini Blanc Vintage"
+        ],
+        "trade_count": 0
+      },
+      "생로랑 베이비 루 카프스킨 & 골드 톤 메탈 키파우치 다크 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Baby Lou Calfskin & Gold-Tone Metal Key Pouch Dark Beige"
+        ],
+        "trade_count": 650000
+      },
+      "생로랑 커브 체인 브레이슬릿 옥시다이즈드 실버": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Saint Laurent Curb Chain Bracelet Oxidized Silver"
+        ],
+        "trade_count": 0
+      },
+      "생로랑 메탈 ID 브레이슬릿 골드": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Saint Laurent ID Bracelet Gold"
+        ],
+        "trade_count": 0
+      },
+      "생로랑 오피움 더블 랩 브레이슬릿 레더 & 실버 톤 메탈 블랙": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Saint Laurent Opyum Double Wrap Bracelet Leather & Silver-Tone Metal Black"
+        ],
+        "trade_count": 0
+      },
+      "생로랑 브라스 오피움 참 브레이슬릿 실버": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Saint Laurent Opyum Charm Bracelet Silver"
+        ],
+        "trade_count": 0
+      },
+      "생로랑 오피움 브레이스릿 레더 & 실버 톤 메탈 블랙": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Saint Laurent Opium Bracelet in Leather & Silver-Tone Metal, Black"
+        ],
+        "trade_count": 0
+      },
+      "생로랑 볼드 크링클 레더 토트백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Bold Crinkled Leather Tote Bag Black"
+        ],
+        "trade_count": 600000
+      },
+      "생로랑 비키 페이턴트 카프스킨 & 골드 메탈 퀼티드 숄더백 스몰 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Vicky Patent Calfskin & Gold Metal Quilted Shoulder Bag Small Red"
+        ],
+        "trade_count": 0
+      },
+      "생로랑 르 메일론 퀼티드 샤이니 레더 & 라이트 브론즈 톤 메탈 하드웨어 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Le Maillon Quilted Shiny Leather & Light Bronze Toned Metal Hardware Black"
+        ],
+        "trade_count": 760000
+      },
+      "생로랑 루 마틀라세 카프스킨 & 브론즈 톤 메탈 체인 숄더백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Lou Matelasse Calfskin & Bronze Toned Metal Chain Shoulder Bag Mini Black"
+        ],
+        "trade_count": 700000
+      },
+      "생로랑 크로커다일 엠보스드 클러치 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Crocodile-Embossed Leather Clutch Bag Black"
+        ],
+        "trade_count": 310000
+      },
+      "생로랑 카산드라 모노그램 카프스킨 & 실버 톤 메탈 숄더백 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Cassandre Monogram Calfskin & Silver Toned Metal Shoulder Bag Pink"
+        ],
+        "trade_count": 0
+      },
+      "생로랑 카바시크 카프스킨 클러치 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Cabasiq Calfskin Clutch Red"
+        ],
+        "trade_count": 330000
+      },
+      "생로랑 사드 램스킨 튜브 백 미니 블랑 빈티지": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Sade Lambskin Tube Bag Mini Blanc Vintage"
+        ],
+        "trade_count": 0
+      },
+      "생로랑 베이비 루 카프스킨 & 실버 톤 메탈 키파우치 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Baby Lou Calfskin & Silver toned Metal Key Pouch Black"
+        ],
+        "trade_count": 0
+      },
+      "생로랑 베이비 루 카프스킨 & 골드 톤 메탈 키파우치 빈티지 블랑": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Baby Lou Calfskin & Gold toned Metal Key Pouch Vintage Blanc"
+        ],
+        "trade_count": 600000
+      },
+      "생로랑 르 모노그램 캔버스 앤 스무스 레더 버클 사첼백 미디움 체스트넛": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Le Monogramme Canvas and Smooth Leather  Buckle Satchel Bag Medium Chestnut"
+        ],
+        "trade_count": 530000
+      },
+      "생로랑 케이트 카프스킨 & 메탈 체인 월렛 태슬백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Kate Calfskin & Metal Chain Wallet Tassel Bag Medium Black"
+        ],
+        "trade_count": 950000
+      },
+      "생로랑 케이트 그랑 드 뿌드르 카프스킨 & 미러 메탈 체인백 미디엄 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Kate Grain De Pourdre Calfskin & Mirrored Metal Chain Bag Medium Pink"
+        ],
+        "trade_count": 1100000
+      },
+      "생로랑 시티 짐 글리터 캔버스 더플백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent City Gym Glitter Canvas Duffle Bag Black"
+        ],
+        "trade_count": 1000000
+      },
+      "생로랑 카프스킨 더플백 스몰 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Calftskin Duffle Bag Small Grey"
+        ],
+        "trade_count": 860000
+      },
+      "생로랑 케이트 리버시블 스웨이드 & 스무스 레더 체인백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Kate Reversible Suede & Smooth Leather Chain Bag Medium Black"
+        ],
+        "trade_count": 1220000
+      },
+      "생로랑 리브 고쉬 캔버스 토트백 베이지 앤 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Rive Gauche Canvas Tote Bag Beige & Black"
+        ],
+        "trade_count": 360000
+      },
+      "생로랑 눅스 나일론 & 플래티넘 더플 백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Nuxx Nylon & Platinum Duffle Bag Black"
+        ],
+        "trade_count": 0
+      },
+      "생로랑 캔버스 플랫 크로스백 베이지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Canvas Flat Crossbody Bag Beige Black"
+        ],
+        "trade_count": 0
+      },
+      "생로랑 파니에 라피아 & 카프스킨 토트백 스몰 브라운": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Panier Raffia Tote Bag Brown"
+        ],
+        "trade_count": 0
+      },
+      "생로랑 파니에 라피아 & 카프스킨 숄더백 미디움 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Pannier Raffia & Calfskin Shoulder Bag Medium Beige"
+        ],
+        "trade_count": 0
+      },
+      "생로랑 엔벨로프 믹스 마틀라세 카프스킨 클러치 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Envelop Mix Matelassé Calfskin Clutch Black"
+        ],
+        "trade_count": 900000
+      },
+      "생로랑 뮤즈 투 카프스킨 골드 메탈 토트백 블랙 탠": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Muse Two Calfskin Gold Metal Tote Bag Black Tan"
+        ],
+        "trade_count": 240000
+      },
+      "생로랑 뮤즈 카프스킨 토트백 라지 다크 브라운": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Muse Calfskin Tote Bag Large Dark Brown"
+        ],
+        "trade_count": 310000
+      },
+      "생로랑 쇼핑 라피아 & 카프스킨 토트백 내추럴 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Shopping Raffia & Calfskin Tote Bag Natural Black"
+        ],
+        "trade_count": 580000
+      },
+      "생로랑 업타운 카프스킨 탑핸들백 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Uptown Calfskin Top Handle Bag Large Black"
+        ],
+        "trade_count": 1620000
+      },
+      "생로랑 파리 카프스킨 동전지갑 푸시아 핑크": {
+        "category": "지갑",
+        "synonyms": [
+          "Saint Laurent Paris Calfskin Coin Purse Fuchsia Pink"
+        ],
+        "trade_count": 0
+      },
+      "생로랑 비키 페이턴트 카프스킨 & 실버 메탈 퀼티드 숄더백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Vicky Patent Calfskin & Silver Metal Quilted Shoulder Bag Small Black"
+        ],
+        "trade_count": 1200000
+      },
+      "생로랑 그랑 드 뿌드르 엠보스 매트 레더 지퍼 파우치 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Zipped Pouch in Grain De Poudre Matte Leather Black"
+        ],
+        "trade_count": 330000
+      },
+      "생로랑 빅투아르 램스킨 숄더백 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Victoire Lambskin Shoulder Bag White"
+        ],
+        "trade_count": 0
+      },
+      "생로랑 쉐브론 램스킨 컬리지 미디엄 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Chevron Lambskin College Medium Blue"
+        ],
+        "trade_count": 1200000
+      },
+      "생로랑 모노그램 데님 크로스백 네이비": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Monogram Denim Crossbody Bag Navy"
+        ],
+        "trade_count": 0
+      },
+      "생로랑 비키 페이턴트 카프스킨 & 실버 메탈 퀼티드 숄더백 스몰 네온 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Vicky Patent Calfskin & Silver Metal Quilted Shoulder Bag Small Neon Pink"
+        ],
+        "trade_count": 0
+      },
+      "생로랑 르 카반 캔버스 & 베지터블 태닝 레더 사첼백 스몰 그레지 브릭": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Le Caban Canvas & Vegetable-Tanned Leather Satchel Bag Small Grege Brick"
+        ],
+        "trade_count": 0
+      },
+      "생로랑 업타운 카우레더 사첼백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Uptown Cow Leather Satchel Bag Small Black"
+        ],
+        "trade_count": 0
+      },
+      "생로랑 르 까레 박스 카프스킨 사첼백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Le Carré Box Calfskin Satchel Bag Black"
+        ],
+        "trade_count": 2300000
+      },
+      "생로랑 모노그램 마틀라세 카프스킨 지퍼 어라운드 장지갑 골드 로고 & 레드": {
+        "category": "지갑",
+        "synonyms": [
+          "Saint Laurent Monogram Matelasse Calf Leather Zipper Around Wallet Gold Logo & Red"
+        ],
+        "trade_count": 320000
+      },
+      "생로랑 모노그램 컴팩트 그랑 드 뿌드르 엠보스드 카프스킨 3단 중지갑 레드": {
+        "category": "지갑",
+        "synonyms": [
+          "Saint Laurent Monogram Compact Grain de Poudre Embossed Calf Leather Tri Fold Wallet Red"
+        ],
+        "trade_count": 320000
+      },
+      "생로랑 그레이 매트 모노그램 마틀라세 엔벨로프 그랑 드 뿌드르 텍스처드 카프스킨 지갑 블랙 & 화이트": {
+        "category": "지갑",
+        "synonyms": [
+          "Saint Laurent Grey Matte Monogram Matelasse Envelope Grain de Poudre Textured Calf Leather Wallet Black & White"
+        ],
+        "trade_count": 290000
+      },
+      "생로랑 시티 캔버스 나일론 앤 스무스 카프스킨 백팩 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent City Canvas Nylon And Smooth Calfskin Backpack  Black"
+        ],
+        "trade_count": 450000
+      },
+      "생로랑 삭 드 주르 스무스 카프스킨 & 브론즈 메탈 베이비 루즈 멜롯": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Sac de Jour Smooth Calfskin & Bronze Metal Tote Bag Baby Rouge Merlot"
+        ],
+        "trade_count": 980000
+      },
+      "생로랑 그랑 드 뿌드르 엠보스 카프스킨 & 골드 메탈 카산드라 마틀라세 라지 빌 파우치 다크 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Grain De Pourdre Embossed Calfskin & Gold Metal Cassandre Matelasse Large Bill Pouch Dark Beige"
+        ],
+        "trade_count": 300000
+      },
+      "생로랑 모노그램 마틀라세 카프스킨 & 골드 메탈 태블릿 파우치 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Monogram Matelasse Calfskin & Gold Metal Tablet Pouch Red"
+        ],
+        "trade_count": 330000
+      },
+      "생로랑 케이트 그레인 드 뿌드르 엠보스 카프스킨 & 브론즈 메탈 태슬 체인 월렛 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Kate Grain De Poudre Embossed Calfskin & Bronze Metal Tassel Chain Wallet Medium Black"
+        ],
+        "trade_count": 1500000
+      },
+      "생로랑 삭 드 주르 그레인 카프스킨 & 브론즈 메탈 토트백 스몰 다크 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Sac De Jour Grain Calfskin & Bronze Metal Tote Bag Small Dark Beige"
+        ],
+        "trade_count": 0
+      },
+      "생로랑 루루 나파 가죽 & 브론즈 메탈 퀼티드 퍼퍼 체인 백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Loulou Nappa Leather & Bronze Metal Quilted Puffer Chain Bag Medium Black"
+        ],
+        "trade_count": 2000000
+      },
+      "생로랑 가비 퀄티드 램스킨 & 브론즈 메탈 마이크로백 블랑 빈티지": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Gaby Quilted Lambskin & Bronze Metal Micro Bag Blanc Vintage"
+        ],
+        "trade_count": 500000
+      },
+      "생로랑 그랑 드 뿌드르 엠보스 가죽 믹스 카프스킨 & 골드 메탈 마틀라세 엔벨로프 백 스몰 다크 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Grain De Pourdre Embossed Leather Mix Calfskin & Gold Metal Matelasse Envelope Bag Small Dark Beige"
+        ],
+        "trade_count": 0
+      },
+      "생로랑 케이트 그랑 드 뿌드르 카프스킨 & 매트 블랙 체인백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Kate Grain De Pourdre Calfskin & Matte Black Chain Bag Small Black"
+        ],
+        "trade_count": 1600000
+      },
+      "생로랑 케이트 그랑 드 뿌드르 카프스킨 & 브론즈 메탈 체인백 스몰 다크 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Kate Grain De Pourdre Chain Bag Small Dark Beige"
+        ],
+        "trade_count": 1900000
+      },
+      "생로랑 솔페리노 카프스킨 & 브론즈 메탈 사첼 인 박스 스몰 블랑 빈티지": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Solferino Calfskin & Bronze Metal Satchel in Box Small Blanc Vintage"
+        ],
+        "trade_count": 1150000
+      },
+      "생로랑 케이트 크로커다일 엠보스 샤이니 카프스킨 & 브론즈 메탈 체인 백 태슬 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Kate Crocodile Embossed Shiny Calfskin & Bronze Metal Chain Bag Tassel Medium Black"
+        ],
+        "trade_count": 0
+      },
+      "생로랑 케이트 크로커다일 엠보스 샤이니 카프스킨 & 브론즈 메탈 체인 백 태슬 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Kate Crocodile Embossed Shiny Calfskin & Bronze Metal Chain Bag Tassel Small Black"
+        ],
+        "trade_count": 720000
+      },
+      "생로랑 컬리지 램스킨 & 브론즈 메탈 퀼티드 체인백 미디엄 다크 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent College Lambskin & Bronze Metal Quilted Chain Bag Medium Dark Beige"
+        ],
+        "trade_count": 1490000
+      },
+      "생로랑 컬리지 램스킨 & 브론즈 메탈 퀼티드 체인백 미디엄 블랑 빈티지": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent College Lambskin & Bronze Metal Quilted Chain Bag Medium Blanc Vintage"
+        ],
+        "trade_count": 1540000
+      },
+      "생로랑 그랑 드 뿌드르 믹스 카프스킨 & 매트 블랙 브라스 마틀라세 엔벨로프 체인백 미디엄 느와르": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Grand de Poudre Mix Calfskin & Matte Black Brass Matelasse Envelope Chain Bag Medium Noir"
+        ],
+        "trade_count": 0
+      },
+      "생로랑 카산드라 카프스킨 & 실버메탈 마틀라세 플랩 파우치 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Cassandre Matelasse Flap Pouch In Lambskin Black"
+        ],
+        "trade_count": 260000
+      },
+      "생로랑 카프스킨 카산드라 모노그램 클래스프 백 크리마 소프트": {
+        "category": "가방",
+        "synonyms": [
+          "Saint Laurent Calfskin Cassandre Monogram Clasp Bag Cream Soft"
+        ],
+        "trade_count": 1300000
+      }
+    }
+  }
+}

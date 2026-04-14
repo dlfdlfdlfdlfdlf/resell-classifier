@@ -1,0 +1,4356 @@
+{
+  "프라다": {
+    "models": {
+      "프라다 리에디션 2005 사피아노 & 리나일론 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Re Edition 2005 Saffiano & Re Nylon Shoulder Bag Black"
+        ],
+        "trade_count": 800,
+        "avg_price": 1205000
+      },
+      "프라다 듀엣 사피아노 & 리나일론 버킷백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Duet Saffiano & Re Nylon Bucket Bag Black"
+        ],
+        "trade_count": 408,
+        "avg_price": 776000
+      },
+      "프라다 사피아노 & 리나일론 백팩 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Saffiano & Re Nylon Backpack Medium Black"
+        ],
+        "trade_count": 362,
+        "avg_price": 1749000
+      },
+      "프라다 리에디션 2005 사피아노 & 리나일론 호보백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Re Edition 2005 Saffiano & Re Nylon Hobo Bag Black"
+        ],
+        "trade_count": 292,
+        "avg_price": 847000
+      },
+      "프라다 푸퍼 자켓": {
+        "category": "의류",
+        "synonyms": [
+          "Prada Puffer Jacket"
+        ],
+        "trade_count": 282,
+        "avg_price": 1513000
+      },
+      "프라다 리나일론 버킷 햇": {
+        "category": "패션 악세서리",
+        "synonyms": [
+          "Prada Re-Nylon Bucket Hat"
+        ],
+        "trade_count": 275,
+        "avg_price": 315000
+      },
+      "프라다 사피아노 & 리나일론 백팩 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Saffiano & Re Nylon Backpack Small Black"
+        ],
+        "trade_count": 225,
+        "avg_price": 1209000
+      },
+      "프라다 리에디션 2000 사피아노 & 리나일론 숄더백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Re Edition 2000 Saffiano & Re Nylon Shoulder Bag Mini Black"
+        ],
+        "trade_count": 222,
+        "avg_price": 699000
+      },
+      "프라다 윈드브레이커": {
+        "category": "의류",
+        "synonyms": [
+          "Prada Wind Breaker"
+        ],
+        "trade_count": 175,
+        "avg_price": 790000
+      },
+      "프라다 리나일론 볼캡": {
+        "category": "패션 악세서리",
+        "synonyms": [
+          "Prada Re-Nylon Baseball Cap"
+        ],
+        "trade_count": 174,
+        "avg_price": 310000
+      },
+      "프라다 (W) 프라다 초콜릿 브러시드 가죽 로퍼 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Prada Chocolate Brushed Leather Loafers Black"
+        ],
+        "trade_count": 157,
+        "avg_price": 708000
+      },
+      "프라다 사피아노 & 리나일론 숄더백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Saffiano & Re Nylon Shoulder Bag Medium Black"
+        ],
+        "trade_count": 149,
+        "avg_price": 1658000
+      },
+      "프라다 사피아노 & 리나일론 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Saffiano & Re Nylon Shoulder Bag Black"
+        ],
+        "trade_count": 1400000
+      },
+      "프라다 사피아노 & 리나일론 숄더백 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Saffiano & Re Nylon Shoulder Bag Large Black"
+        ],
+        "trade_count": 134,
+        "avg_price": 1718000
+      },
+      "프라다 다운 코트": {
+        "category": "의류",
+        "synonyms": [
+          "Prada Down Coat"
+        ],
+        "trade_count": 107,
+        "avg_price": 825000
+      },
+      "프라다 리나일론 블루종 자켓": {
+        "category": "의류",
+        "synonyms": [],
+        "trade_count": 88,
+        "avg_price": 1195000
+      },
+      "프라다 봄버 자켓": {
+        "category": "의류",
+        "synonyms": [
+          "Prada Bomber Jacket"
+        ],
+        "trade_count": 79,
+        "avg_price": 1526000
+      },
+      "프라다 클레오 브러쉬드 카프스킨 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Cleo Brushed Calfskin Shoulder Bag OS Black"
+        ],
+        "trade_count": 8,
+        "avg_price": 1515000
+      },
+      "프라다 사피아노 & 리나일론 크로스백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Saffiano & Re Nylon Crossbody Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 650000
+      },
+      "프라다 다운 자켓": {
+        "category": "의류",
+        "synonyms": [
+          "Prada Padded Jacket"
+        ],
+        "trade_count": 73,
+        "avg_price": 1263000
+      },
+      "프라다 다운 베스트": {
+        "category": "의류",
+        "synonyms": [
+          "Prada Down Vest"
+        ],
+        "trade_count": 72,
+        "avg_price": 1100000
+      },
+      "프라다 크롭 다운 자켓": {
+        "category": "의류",
+        "synonyms": [
+          "Prada Crop Down Jacket"
+        ],
+        "trade_count": 72,
+        "avg_price": 2332000
+      },
+      "프라다 티셔츠": {
+        "category": "의류",
+        "synonyms": [
+          "Prada T-Shirt"
+        ],
+        "trade_count": 68,
+        "avg_price": 180000
+      },
+      "프라다 사피아노 트라이앵글 로고 카프스킨 카드홀더 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Saffiano Triangle Logo Calfskin Card Holder Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 325000
+      },
+      "프라다 아메리카 컵 스니커즈 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "Prada America's Cup Sneakers Black"
+        ],
+        "trade_count": 61,
+        "avg_price": 344000
+      },
+      "프라다 리나일론 셔츠": {
+        "category": "의류",
+        "synonyms": [
+          "Prada Re-Nylon Shirt"
+        ],
+        "trade_count": 60,
+        "avg_price": 1029000
+      },
+      "프라다 블루종 자켓": {
+        "category": "의류",
+        "synonyms": [
+          "Prada Blouson Jacket"
+        ],
+        "trade_count": 60,
+        "avg_price": 1086000
+      },
+      "프라다 리나일론 쇼트 슬리브 셔츠": {
+        "category": "의류",
+        "synonyms": [
+          "Prada Re-Nylon Short Sleeved Shirt"
+        ],
+        "trade_count": 56,
+        "avg_price": 800000
+      },
+      "프라다 사피아노 트라이앵글 로고 카프스킨 반지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Saffiano Triangle Logo Calfskin Wallet Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 440000
+      },
+      "프라다 반팔 폴로 셔츠": {
+        "category": "의류",
+        "synonyms": [],
+        "trade_count": 54,
+        "avg_price": 211000
+      },
+      "프라다 리나일론 팬츠": {
+        "category": "의류",
+        "synonyms": [
+          "Prada Re-Nylon Pants"
+        ],
+        "trade_count": 52,
+        "avg_price": 388000
+      },
+      "프라다 블레이저": {
+        "category": "의류",
+        "synonyms": [
+          "Prada Blazer"
+        ],
+        "trade_count": 52,
+        "avg_price": 722000
+      },
+      "프라다 (W) 프라다 브러시드 가죽 모놀리스 로퍼 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Prada Brushed Leather Monolith Loafers Black"
+        ],
+        "trade_count": 48,
+        "avg_price": 661000
+      },
+      "프라다 사피아노 & 리나일론 드로우스트링 버킷백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Saffiano & Re Nylon Drawstring Bucket Bag Black"
+        ],
+        "trade_count": 43,
+        "avg_price": 292000
+      },
+      "프라다 브러시드 가죽 로퍼 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "Prada Brushed Leather Loafers Black"
+        ],
+        "trade_count": 47,
+        "avg_price": 549000
+      },
+      "프라다 셔츠": {
+        "category": "의류",
+        "synonyms": [
+          "Prada Shirt"
+        ],
+        "trade_count": 47,
+        "avg_price": 822000
+      },
+      "프라다 스웨터": {
+        "category": "의류",
+        "synonyms": [
+          "Prada Kinit"
+        ],
+        "trade_count": 46,
+        "avg_price": 393000
+      },
+      "프라다 (W) 프라다 더블 휠 개버딘 리나일론 스니커즈 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Prada Double Wheel Gabardine Re-Nylon Sneakers Black"
+        ],
+        "trade_count": 45,
+        "avg_price": 377000
+      },
+      "프라다 사피아노 트라이앵글 로고 카프스킨 카드지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Saffiano Triangle Logo Calfskin Card Case Black"
+        ],
+        "trade_count": 10,
+        "avg_price": 371000
+      },
+      "프라다 후드 다운 자켓": {
+        "category": "의류",
+        "synonyms": [],
+        "trade_count": 43,
+        "avg_price": 1399000
+      },
+      "프라다 사피아노 & 리나일론 백팩 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Saffiano & Re Nylon Backpack Mini Black"
+        ],
+        "trade_count": 42,
+        "avg_price": 1047000
+      },
+      "프라다 카나파 캔버스 토트백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Canapa Canvas Tote Bag Black"
+        ],
+        "trade_count": 40,
+        "avg_price": 570000
+      },
+      "프라다 리에디션 2005 사피아노 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Re Edition 2005 Saffiano Shoulder Bag Black"
+        ],
+        "trade_count": 40,
+        "avg_price": 1366000
+      },
+      "프라다 러버 모놀리스 샌들 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "Prada Monolith Foam Rubber Sandals Black"
+        ],
+        "trade_count": 40,
+        "avg_price": 500000
+      },
+      "프라다 듀엣 나플락 페이턴트 쉽스킨 버킷백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Duet Naplack Patent Sheepskin Bucket Bag Black"
+        ],
+        "trade_count": 39,
+        "avg_price": 665000
+      },
+      "프라다 클라우드버스트 썬더 기능성 패브릭 스니커즈 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "Prada Cloudbust Thunder Technical Fabric Sneakers Black"
+        ],
+        "trade_count": 38,
+        "avg_price": 349000
+      },
+      "프라다 반팔 셔츠": {
+        "category": "의류",
+        "synonyms": [
+          "Prada Short Sleeved Shirt"
+        ],
+        "trade_count": 37,
+        "avg_price": 192000
+      },
+      "프라다 사피아노 메탈로고 카프스킨 반지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Saffiano Metal Logo Calfskin Wallet Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 550000
+      },
+      "프라다 다이어그램 카프스킨 크로스백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Diagram Calfskin Crossbody Bag OS Black"
+        ],
+        "trade_count": 35,
+        "avg_price": 771000
+      },
+      "프라다 사피아노 & 리나일론 백팩 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Saffiano & Re Nylon Backpack Black"
+        ],
+        "trade_count": 2
+      },
+      "프라다 사피아노 메탈로고 카프스킨 카드홀더 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Saffiano Metal Logo Calfskin Card Holder Black"
+        ],
+        "trade_count": 5,
+        "avg_price": 248000
+      },
+      "프라다 XY 니트 스니커즈 블랙 화이트": {
+        "category": "신발",
+        "synonyms": [
+          "Prada XY Knit Sneakers Black White"
+        ],
+        "trade_count": 32,
+        "avg_price": 201000
+      },
+      "프라다 스커트": {
+        "category": "의류",
+        "synonyms": [
+          "Prada Skirt"
+        ],
+        "trade_count": 32,
+        "avg_price": 154000
+      },
+      "프라다 사피아노 & 리나일론 웨이스트백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Saffiano & Re Nylon Waist Bag OS Black"
+        ],
+        "trade_count": 15,
+        "avg_price": 640000
+      },
+      "프라다 사피아노 벨트": {
+        "category": "패션 악세서리",
+        "synonyms": [
+          "Prada Saffiano Leather Belt"
+        ],
+        "trade_count": 31,
+        "avg_price": 356000
+      },
+      "프라다 리에디션 2005 사피아노 & 리나일론 숄더백 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Re Edition 2005 Saffiano & Re Nylon Shoulder Bag Beige"
+        ],
+        "trade_count": 30,
+        "avg_price": 1200000
+      },
+      "프라다 리나일론 버뮤다 쇼츠": {
+        "category": "의류",
+        "synonyms": [
+          "Prada Re-Nylon Bermuda Shorts"
+        ],
+        "trade_count": 30,
+        "avg_price": 500000
+      },
+      "프라다 뉴스보이 캡": {
+        "category": "패션 악세서리",
+        "synonyms": [
+          "Prada Newsboy Cap"
+        ],
+        "trade_count": 29,
+        "avg_price": 555000
+      },
+      "프라다 비니": {
+        "category": "패션 악세서리",
+        "synonyms": [
+          "Prada Wool Cashmere Beanie"
+        ],
+        "trade_count": 29,
+        "avg_price": 220000
+      },
+      "프라다 데님 팬츠": {
+        "category": "의류",
+        "synonyms": [
+          "Prada Denim Pants"
+        ],
+        "trade_count": 28,
+        "avg_price": 235000
+      },
+      "프라다 사피아노 메탈로고 카프스킨 카드지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Saffiano Metal Logo Calfskin Card Case Black"
+        ],
+        "trade_count": 750000
+      },
+      "프라다 파니에 사피아노 숄더백 스몰 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Panier Saffiano Shoulder Bag Small Red"
+        ],
+        "trade_count": 27,
+        "avg_price": 1350000
+      },
+      "프라다 사피아노 트라이앵글 로고 카프스킨 머니클립 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Saffiano Triangle Logo Calfskin Money Clip Black"
+        ],
+        "trade_count": 26,
+        "avg_price": 200000
+      },
+      "프라다 브러쉬드 카프스킨 토트백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Brushed Calfskin Tote Bag Small Black"
+        ],
+        "trade_count": 26,
+        "avg_price": 909000
+      },
+      "프라다 클레오 브러쉬드 카프스킨 숄더백 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Cleo Brushed Calfskin Shoulder Bag OS White"
+        ],
+        "trade_count": 1
+      },
+      "프라다 원피스": {
+        "category": "의류",
+        "synonyms": [
+          "Prada Dress"
+        ],
+        "trade_count": 26,
+        "avg_price": 1100000
+      },
+      "프라다 카나파 데님 토트백 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Canapa Denim Tote Bag Blue"
+        ],
+        "trade_count": 25,
+        "avg_price": 345000
+      },
+      "프라다 테수토 리나일론 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Tessuto Re Nylon Shoulder Bag Black"
+        ],
+        "trade_count": 25,
+        "avg_price": 1087000
+      },
+      "프라다 아메리카 컵 소프트 러버 및 바이크 패브릭 스니커즈 화이트": {
+        "category": "신발",
+        "synonyms": [
+          "Prada America's Cup Soft Rubber And Bike Fabric Sneakers White"
+        ],
+        "trade_count": 25,
+        "avg_price": 430000
+      },
+      "프라다 벨벳 자켓": {
+        "category": "의류",
+        "synonyms": [
+          "Prada Velvet Jacket"
+        ],
+        "trade_count": 24,
+        "avg_price": 2168000
+      },
+      "프라다 반팔 데님 셔츠": {
+        "category": "의류",
+        "synonyms": [
+          "Prada Short Sleeved Denim Shirt"
+        ],
+        "trade_count": 24,
+        "avg_price": 983000
+      },
+      "프라다 사피아노 트라이앵글 로고 카프스킨 장지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Saffiano Triangle Logo Calfskin Large Wallet Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 309000
+      },
+      "프라다 레더 자켓": {
+        "category": "의류",
+        "synonyms": [
+          "Prada Leather Jacket"
+        ],
+        "trade_count": 23,
+        "avg_price": 1266000
+      },
+      "프라다 바이커 다운 자켓": {
+        "category": "의류",
+        "synonyms": [
+          "Prada Biker Down Jacket"
+        ],
+        "trade_count": 23,
+        "avg_price": 933000
+      },
+      "프라다 리에디션 2000 사피아노 & 리나일론 숄더백 미니 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Re Edition 2000 Saffiano & Re Nylon Shoulder Bag Mini Pink"
+        ],
+        "trade_count": 22,
+        "avg_price": 590000
+      },
+      "프라다 리에디션 2000 사피아노 & 리나일론 숄더백 미니 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Re Edition 2000 Saffiano & Re Nylon Shoulder Bag Mini Beige"
+        ],
+        "trade_count": 22,
+        "avg_price": 680000
+      },
+      "프라다 리에디션 1978 사피아노 & 리나일론 백팩 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Re Edition 1978 Saffiano & Re Nylon Backpack Small Black"
+        ],
+        "trade_count": 22,
+        "avg_price": 1500000
+      },
+      "프라다 트라이앵글 카프스킨 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Triangle Calfskin Shoulder Bag OS Black"
+        ],
+        "trade_count": 22,
+        "avg_price": 1360000
+      },
+      "프라다 가디건": {
+        "category": "의류",
+        "synonyms": [
+          "Prada Cardigan"
+        ],
+        "trade_count": 22,
+        "avg_price": 397000
+      },
+      "프라다 데님 자켓": {
+        "category": "의류",
+        "synonyms": [
+          "Prada Denim Jacket"
+        ],
+        "trade_count": 22,
+        "avg_price": 1140000
+      },
+      "프라다 리에디션 2005 사피아노 & 리나일론 호보백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Re Edition 2005 Saffiano & Re Nylon Hobo Bag Mini Black"
+        ],
+        "trade_count": 21,
+        "avg_price": 724000
+      },
+      "프라다 사피아노 가죽 파우치 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Saffiano Leather Clutch Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 1800000
+      },
+      "프라다 사피아노 메탈로고 카프스킨 머니클립 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Saffiano Metal Logo Calfskin Money Clip Black"
+        ],
+        "trade_count": 5,
+        "avg_price": 130000
+      },
+      "프라다 사피아노 메탈로고 카프스킨 동전지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Saffiano Metal Logo Calfskin Coin Purse Black"
+        ],
+        "trade_count": 19,
+        "avg_price": 166000
+      },
+      "프라다 다이어그램 카프스킨 숄더백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Diagram Calfskin Shoulder Bag Medium Black"
+        ],
+        "trade_count": 19,
+        "avg_price": 923000
+      },
+      "프라다 로고 크루넥 스웨터": {
+        "category": "의류",
+        "synonyms": [],
+        "trade_count": 18,
+        "avg_price": 792000
+      },
+      "프라다 비텔로무브 메탈로고 카프스킨 카드지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Vitello Move Metal Logo Calfskin Zip Card Case Black"
+        ],
+        "trade_count": 17,
+        "avg_price": 162000
+      },
+      "프라다 코트": {
+        "category": "의류",
+        "synonyms": [
+          "Prada Coat"
+        ],
+        "trade_count": 17,
+        "avg_price": 570000
+      },
+      "프라다 사피아노 메탈로고 카프스킨 장지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Saffiano Metal Logo Calfskin Large Wallet Black"
+        ],
+        "trade_count": 420000
+      },
+      "프라다 자켓": {
+        "category": "의류",
+        "synonyms": [],
+        "trade_count": 16,
+        "avg_price": 760000
+      },
+      "프라다 데님 셔츠": {
+        "category": "의류",
+        "synonyms": [
+          "Prada Denim Shirt"
+        ],
+        "trade_count": 16,
+        "avg_price": 1280000
+      },
+      "프라다 갤러리아 사피아노 숄더백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Galleria Saffiano Shoulder Bag Medium Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 490000
+      },
+      "프라다 리에디션 2000 사피아노 & 리나일론 숄더백 미니 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Re Edition 2000 Saffiano & Re Nylon Shoulder Bag Mini White"
+        ],
+        "trade_count": 15,
+        "avg_price": 485000
+      },
+      "프라다 갤러리아 사피아노 숄더백 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Galleria Saffiano Shoulder Bag Large Black"
+        ],
+        "trade_count": 15,
+        "avg_price": 433000
+      },
+      "프라다 브러시드 가죽 슬링백 펌프스 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "Prada Brushed Leather Slingback Pumps Black"
+        ],
+        "trade_count": 15,
+        "avg_price": 560000
+      },
+      "프라다 후드 집업": {
+        "category": "의류",
+        "synonyms": [
+          "Prada Zip Hoodie"
+        ],
+        "trade_count": 15,
+        "avg_price": 1126000
+      },
+      "프라다 테수토 나일론 & 사피아노 레더 메신저백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Tessuto Nylon & Saffiano Leather Messenger Bag Black"
+        ],
+        "trade_count": 14,
+        "avg_price": 944000
+      },
+      "프라다 모노크롬 사피아노 숄더백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Monochrome saffiano Shoulder Bag Small Black"
+        ],
+        "trade_count": 14,
+        "avg_price": 770000
+      },
+      "프라다 포코노 나일론 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Pocono Nylon Shoulder Bag Black"
+        ],
+        "trade_count": 14,
+        "avg_price": 1100000
+      },
+      "프라다 파니에 사피아노 숄더백 미디엄 블랙 & 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Panier Saffiano Shoulder Bag Medium Black & Red"
+        ],
+        "trade_count": 14,
+        "avg_price": 1150000
+      },
+      "프라다 갤러리아 사피아노 숄더백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Galleria Saffiano Shoulder Bag Small Black"
+        ],
+        "trade_count": 14,
+        "avg_price": 1075000
+      },
+      "프라다 리에디션 2005 나파스킨 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Re Edition 2005 Nappa Leather Shoulder Bag Black"
+        ],
+        "trade_count": 14,
+        "avg_price": 1271000
+      },
+      "프라다 다운타운 가죽 스니커즈 화이트 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "Prada Downtown Leather Sneakers White Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 490000
+      },
+      "프라다 스웨트셔츠": {
+        "category": "의류",
+        "synonyms": [
+          "Prada Sweatshirt"
+        ],
+        "trade_count": 14,
+        "avg_price": 650000
+      },
+      "프라다 리에디션 2005 사피아노 & 리나일론 호보백 미니 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Re Edition 2005 Saffiano & Re Nylon Hobo Bag Mini Beige"
+        ],
+        "trade_count": 11,
+        "avg_price": 740000
+      },
+      "프라다 데님 버킷햇": {
+        "category": "패션 악세서리",
+        "synonyms": [
+          "Prada Denim Bucket Hat"
+        ],
+        "trade_count": 13,
+        "avg_price": 338000
+      },
+      "프라다 사피아노 메탈로고 카프스킨 중지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Saffiano Metal Logo Calfskin Wallet Black"
+        ],
+        "trade_count": 5,
+        "avg_price": 225000
+      },
+      "프라다 비텔로무브 메탈로고 카프스킨 반지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Vitello Move Metal Logo Calfskin Wallet Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 180000
+      },
+      "프라다 고프레 테수토 카프스킨 나일론 토트백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Gaufre Tessuto Calfskin Nylon Small Tote bag Small Black"
+        ],
+        "trade_count": 12,
+        "avg_price": 486000
+      },
+      "프라다 갤러리아 사피아노 숄더백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Galleria Saffiano Shoulder Bag Mini Black"
+        ],
+        "trade_count": 12,
+        "avg_price": 1625000
+      },
+      "프라다 리에디션 2000 사피아노 & 리나일론 숄더백 미니 스카이블루": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Re Edition 2000 Saffiano & Re Nylon Shoulder Bag Mini Sky Blue"
+        ],
+        "trade_count": 12,
+        "avg_price": 530000
+      },
+      "프라다 더블 사피아노 숄더백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Double Saffiano Shoulder Bag Medium Black"
+        ],
+        "trade_count": 11,
+        "avg_price": 650000
+      },
+      "프라다 클레오 브러쉬드 카프스킨 호보백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Cleo Brushed Calfskin Hobo Bag Mini Black"
+        ],
+        "trade_count": 11,
+        "avg_price": 1091000
+      },
+      "프라다 (W) 프라다 초콜릿 브러시드 가죽 뮬 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Prada Chocolate Brushed Leather Mules Black"
+        ],
+        "trade_count": 11,
+        "avg_price": 285000
+      },
+      "프라다 울 팬츠": {
+        "category": "의류",
+        "synonyms": [
+          "Prada Wool Pants"
+        ],
+        "trade_count": 11,
+        "avg_price": 393000
+      },
+      "프라다 사피아노 트라이앵글 로고 카프스킨 중지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Saffiano Triangle Logo Calfskin Wallet Black"
+        ],
+        "trade_count": 10,
+        "avg_price": 263000
+      },
+      "프라다 리에디션 2005 사피아노 & 리나일론 숄더백 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Re Edition 2005 Saffiano & Re Nylon Shoulder Bag Pink"
+        ],
+        "trade_count": 10,
+        "avg_price": 941000
+      },
+      "프라다 엔벨로프 사피아노 크로스백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Envelope Saffiano Crossbody Bag Mini Black"
+        ],
+        "trade_count": 10,
+        "avg_price": 1016000
+      },
+      "프라다 비텔로 다이노 카프스킨 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Vitello Daino Calfskin Shoulder Bag Black"
+        ],
+        "trade_count": 900000
+      },
+      "프라다 리에디션 2005 사피아노 & 리나일론 호보백 미니 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Re Edition 2005 Saffiano & Re Nylon Hobo Bag Mini Pink"
+        ],
+        "trade_count": 10,
+        "avg_price": 676000
+      },
+      "프라다 사피아노 & 리나일론 토트백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Saffiano & Re Nylon Tote Bag Black"
+        ],
+        "trade_count": 4,
+        "avg_price": 380000
+      },
+      "프라다 사피아노 크로스백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Saffiano Crossbody Bag Black"
+        ],
+        "trade_count": 7,
+        "avg_price": 450000
+      },
+      "프라다 비텔로무브 메탈로고 카프스킨 지퍼 카드지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Vitello Move Metal Logo Calfskin Zip Card Case Black"
+        ],
+        "trade_count": 9,
+        "avg_price": 226000
+      },
+      "프라다 사피아노 메탈로고 카프스킨 지퍼 장지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Saffiano Metal Logo Calfskin Zip Large Wallet Black"
+        ],
+        "trade_count": 9,
+        "avg_price": 286000
+      },
+      "프라다 사피아노 트라이앵글 로고 카프스킨 카드홀더 핑크": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Saffiano Triangle Logo Calfskin Card Holder Pink"
+        ],
+        "trade_count": 3,
+        "avg_price": 150000
+      },
+      "프라다 비텔로 다이노 카프스킨 버킷백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Vitello Daino Calfskin Bucket Bag Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 990000
+      },
+      "프라다 리나일론 & 사피아노 레더 벨트백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Re-Nylon & Saffiano Leather Belt Bag Black"
+        ],
+        "trade_count": 9,
+        "avg_price": 500000
+      },
+      "프라다 카프스킨 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Calfskin Shoulder Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 426000
+      },
+      "프라다 리나일론 사피아노 가죽 백팩 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Re Nylon Saffiano Leather Backpack Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 1290000
+      },
+      "프라다 듀엣 나플락 페이턴트 쉽스킨 버킷백 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Duet Naplack Patent Sheepskin Bucket Bag White"
+        ],
+        "trade_count": 9,
+        "avg_price": 495000
+      },
+      "프라다 다운타운 레더 스니커즈 화이트 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "Prada Downtown Leather Sneakers White Black"
+        ],
+        "trade_count": 9,
+        "avg_price": 392000
+      },
+      "프라다 (W) 프라다 더블 휠 개버딘 리나일론 스니커즈 화이트": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Prada Double Wheel Gabardine Re-Nylon Sneakers White"
+        ],
+        "trade_count": 9,
+        "avg_price": 405000
+      },
+      "프라다 터틀넥 스웨터": {
+        "category": "의류",
+        "synonyms": [],
+        "trade_count": 9,
+        "avg_price": 125000
+      },
+      "프라다 리나일론 울 가디건": {
+        "category": "의류",
+        "synonyms": [
+          "Prada Re-Nylon Wool Cardigan"
+        ],
+        "trade_count": 9
+      },
+      "프라다 조거 팬츠": {
+        "category": "의류",
+        "synonyms": [
+          "Prada Jogger Pants"
+        ],
+        "trade_count": 9,
+        "avg_price": 290000
+      },
+      "프라다 쇼츠": {
+        "category": "의류",
+        "synonyms": [
+          "Prada Shorts"
+        ],
+        "trade_count": 9
+      },
+      "프라다 사피아노 트라이앵글 로고 카프스킨 카드지갑 핑크": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Saffiano Triangle Logo Calfskin Card Case Pink"
+        ],
+        "trade_count": 1,
+        "avg_price": 250000
+      },
+      "프라다 두블레 사피아노 숄더백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Double Saffiano Shoulder Bag Small Black"
+        ],
+        "trade_count": 8,
+        "avg_price": 750000
+      },
+      "프라다 리에디션 2005 사피아노 숄더백 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Re Edition 2005 Saffiano Shoulder Bag White"
+        ],
+        "trade_count": 8
+      },
+      "프라다 나일론 개버딘 스니커즈 화이트": {
+        "category": "신발",
+        "synonyms": [
+          "Prada Gabardine Fabric Sneakers White"
+        ],
+        "trade_count": 8,
+        "avg_price": 245000
+      },
+      "프라다 반팔 스웨터": {
+        "category": "의류",
+        "synonyms": [],
+        "trade_count": 8,
+        "avg_price": 495000
+      },
+      "프라다 사피아노 메탈로고 카프스킨 장지갑 레드": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Saffiano Metal Logo Calfskin Long Wallet Red"
+        ],
+        "trade_count": 150000
+      },
+      "프라다 리나일론 웨이스트백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Re Nylon Waist Bag Black"
+        ],
+        "trade_count": 7,
+        "avg_price": 400000
+      },
+      "프라다 카나파 캔버스 토트백 화이트 & 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Canapa Canvas Tote Bag White & Black"
+        ],
+        "trade_count": 7,
+        "avg_price": 400000
+      },
+      "프라다 비텔로 피닉스 카프스킨 토트백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Vitello Phenix Calfskin Tote Bag Black"
+        ],
+        "trade_count": 7,
+        "avg_price": 290000
+      },
+      "프라다 사피아노 숄더백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Saffiano Shoulder Bag Mini Black"
+        ],
+        "trade_count": 7,
+        "avg_price": 570000
+      },
+      "프라다 비텔로 피닉스 더블 지퍼 카프스킨 크로스백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Vitello Phenix Double Zipper Calfskin Crossbody Bag Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 200000
+      },
+      "프라다 사피아노 & 리나일론 클러치 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Saffiano & Re Nylon Clutch Black"
+        ],
+        "trade_count": 5
+      },
+      "프라다 멜로우 러버 부츠 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "Prada Mellow Rubber Boots Black"
+        ],
+        "trade_count": 7,
+        "avg_price": 410000
+      },
+      "프라다 XY 니트 스니커즈 화이트 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "Prada XY Knit Sneakers White Black"
+        ],
+        "trade_count": 7
+      },
+      "프라다 집업 가디건": {
+        "category": "의류",
+        "synonyms": [],
+        "trade_count": 7,
+        "avg_price": 560000
+      },
+      "프라다 데님 베이스볼 캡": {
+        "category": "패션 악세서리",
+        "synonyms": [
+          "Prada Denim Baseball Cap"
+        ],
+        "trade_count": 7,
+        "avg_price": 350000
+      },
+      "프라다 리나일론 백팩 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Re-Nylon Backpack Black"
+        ],
+        "trade_count": 6,
+        "avg_price": 1518000
+      },
+      "프라다 사피아노 두블레 사피아노 토트백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Saffiano Double Saffiano Tote Bag Medium Black"
+        ],
+        "trade_count": 6,
+        "avg_price": 960000
+      },
+      "프라다 비텔로 그레인 트라이앵글 로고 카프스킨 반지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Vitello Grain Triangle Logo Calfskin Wallet Black"
+        ],
+        "trade_count": 6,
+        "avg_price": 202000
+      },
+      "프라다 리에디션 2005 사피아노 & 리나일론 숄더백 브라운": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Re Edition 2005 Saffiano & Re Nylon Shoulder Bag Brown"
+        ],
+        "trade_count": 6,
+        "avg_price": 1200000
+      },
+      "프라다 리에디션 2005 사피아노 & 리나일론 숄더백 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Re Edition 2005 Saffiano & Re Nylon Shoulder Bag White"
+        ],
+        "trade_count": 6,
+        "avg_price": 990000
+      },
+      "프라다 모노크롬 사피아노 숄더백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Monochrome saffiano Shoulder Bag Medium Black"
+        ],
+        "trade_count": 6,
+        "avg_price": 1060000
+      },
+      "프라다 사피아노 체인 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Saffiano Chain Shoulder Bag Black"
+        ],
+        "trade_count": 6
+      },
+      "프라다 카나파 캔버스 토트백 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Canapa Canvas Tote Bag Pink"
+        ],
+        "trade_count": 6,
+        "avg_price": 193000
+      },
+      "프라다 리나일론 크로스백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Re Nylon Crossbody Bag Black"
+        ],
+        "trade_count": 5,
+        "avg_price": 410000
+      },
+      "프라다 크로셰 라피아 토트백 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Crochet Raffia Tote Bag OS Beige"
+        ],
+        "trade_count": 6,
+        "avg_price": 600000
+      },
+      "프라다 멜로우 러버 뮬 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "Prada Mellow Rubber Mules Black"
+        ],
+        "trade_count": 6,
+        "avg_price": 300000
+      },
+      "프라다 브러시드 가죽 미드힐 슬라이드 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "Prada Brushed Leather Heeled Slides Black"
+        ],
+        "trade_count": 6,
+        "avg_price": 780000
+      },
+      "프라다 다운타운 가죽 스니커즈 화이트 코발트 블루": {
+        "category": "신발",
+        "synonyms": [
+          "Prada Downtown Leather Sneakers White Cobalt Blue"
+        ],
+        "trade_count": 6,
+        "avg_price": 276000
+      },
+      "프라다 아노락": {
+        "category": "의류",
+        "synonyms": [],
+        "trade_count": 6,
+        "avg_price": 1400000
+      },
+      "프라다 롱슬리브 폴로 셔츠": {
+        "category": "의류",
+        "synonyms": [],
+        "trade_count": 6
+      },
+      "프라다 코듀로이 셔츠": {
+        "category": "의류",
+        "synonyms": [
+          "Prada Corduroy Shirt"
+        ],
+        "trade_count": 6,
+        "avg_price": 1175000
+      },
+      "프라다 리나일론 파우치 버킷백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Re-Nylon Pouch Bucket Bag Black"
+        ],
+        "trade_count": 5,
+        "avg_price": 375000
+      },
+      "프라다 사피아노 메탈로고 카프스킨 지퍼 카드지갑 레드": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Saffiano Metal Logo Calfskin Zip Card Case Red"
+        ],
+        "trade_count": 5,
+        "avg_price": 132000
+      },
+      "프라다 사피아노 트라이앵글 로고 카프스킨 지퍼 장지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Saffiano Triangle Logo Calfskin Large Wallet Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 380000
+      },
+      "프라다 사피아노 메탈로고 카프스킨 지퍼 반지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Saffiano Metal Logo Calfskin Zip Wallet Black"
+        ],
+        "trade_count": 5,
+        "avg_price": 274000
+      },
+      "프라다 사피아노 메탈로고 카프스킨 카드지갑 레드": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Saffiano Metal Logo Calfskin Card Case Red"
+        ],
+        "trade_count": 2
+      },
+      "프라다 비텔로무브 트라이앵글 로고 카프스킨 동전지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Vitello Move Triangle Logo Calfskin Coin Purse Black"
+        ],
+        "trade_count": 5,
+        "avg_price": 276000
+      },
+      "프라다 사피아노 메탈로고 카프스킨 반지갑 블랙 & 네이비": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Saffiano Metal Logo Calfskin Wallet Black & Navy"
+        ],
+        "trade_count": 5,
+        "avg_price": 272000
+      },
+      "프라다 사피아노 트라이앵글 로고 카프스킨 카드홀더 스카이 블루": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Saffiano Triangle Logo Calfskin Card Holder Sky Blue"
+        ],
+        "trade_count": 5,
+        "avg_price": 337000
+      },
+      "프라다 고프레 나파스킨 토트백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Gaufre Nappa Tote bag Black"
+        ],
+        "trade_count": 5,
+        "avg_price": 325000
+      },
+      "프라다 파니에 사피아노 숄더백 스몰 핑크 & 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Panier Saffiano Shoulder Bag Small Pink & Black"
+        ],
+        "trade_count": 5,
+        "avg_price": 1333000
+      },
+      "프라다 리에디션 2005 사피아노 & 리나일론 호보백 미니 퍼플": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Re Edition 2005 Saffiano & Re Nylon Hobo Bag Mini Purple"
+        ],
+        "trade_count": 5,
+        "avg_price": 530000
+      },
+      "프라다 파니에 사피아노 숄더백 미디엄 화이트 & 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Panier Saffiano Shoulder Bag Medium White & Black"
+        ],
+        "trade_count": 5,
+        "avg_price": 1600000
+      },
+      "프라다 테수토 사피아노 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Tessuto Saffiano Shoulder Bag Black"
+        ],
+        "trade_count": 5,
+        "avg_price": 720000
+      },
+      "프라다 사피아노 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Saffiano Shoulder Bag Black"
+        ],
+        "trade_count": 1750000
+      },
+      "프라다 비텔로 피닉스 플랩 카프스킨 크로스백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Vitello Phenix Flap Calfskin Crossbody Bag Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 575000
+      },
+      "프라다 크로셰 라피아 토트백 스몰 내추럴": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Raffia Tote Bag Small Natural"
+        ],
+        "trade_count": 5,
+        "avg_price": 966000
+      },
+      "프라다 듀엣 가죽 버킷백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Duet Leather Bucket Bag Black"
+        ],
+        "trade_count": 5,
+        "avg_price": 660000
+      },
+      "프라다 에어 클리퍼 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "Prada AIR Clipper Black"
+        ],
+        "trade_count": 5,
+        "avg_price": 420000
+      },
+      "프라다 테라코타 레이스업 슈즈 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "Prada Terracotta Lace-up Shoes Black"
+        ],
+        "trade_count": 5,
+        "avg_price": 340000
+      },
+      "프라다 후드": {
+        "category": "의류",
+        "synonyms": [],
+        "trade_count": 5,
+        "avg_price": 500000
+      },
+      "프라다 블라우스": {
+        "category": "의류",
+        "synonyms": [],
+        "trade_count": 5,
+        "avg_price": 130000
+      },
+      "프라다 베스트": {
+        "category": "의류",
+        "synonyms": [
+          "Prada Vest"
+        ],
+        "trade_count": 5
+      },
+      "프라다 테수토 나일론 백팩 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Tessuto Nylon Backpack Medium Black"
+        ],
+        "trade_count": 4,
+        "avg_price": 708000
+      },
+      "프라다 포코노 나일론 토트백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Pocono Nylon Tote Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 200000
+      },
+      "프라다 아르케 테수토 카프스킨 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Arqué Tessuto Calfskin Shoulder Bag Black"
+        ],
+        "trade_count": 4,
+        "avg_price": 1597000
+      },
+      "프라다 사피아노 메탈로고 카프스킨 카드지갑 블루": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Saffiano Metal Logo Calfskin Card Case Blue"
+        ],
+        "trade_count": 4,
+        "avg_price": 122000
+      },
+      "프라다 비텔로무브 엔벨로프 메탈로고 카프스킨 장지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Vitello Move Envelope Metal Logo Calfskin Large Wallet Black"
+        ],
+        "trade_count": 4,
+        "avg_price": 150000
+      },
+      "프라다 사피아노 메탈로고 카프스킨 반지갑 레드": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Saffiano Metal Logo Calfskin Wallet Red"
+        ],
+        "trade_count": 110000
+      },
+      "프라다 비텔로 그레인 메탈로고 카프스킨 중지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Vitello Grain Metal Logo Calfskin Wallet Black"
+        ],
+        "trade_count": 4,
+        "avg_price": 160000
+      },
+      "프라다 리에디션 2005 사피아노 & 리나일론 숄더백 스카이블루": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Re Edition 2005 Saffiano & Re Nylon Shoulder Bag Skyblue"
+        ],
+        "trade_count": 4,
+        "avg_price": 625000
+      },
+      "프라다 두블레 사피아노 숄더백 스몰 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Double Saffiano Shoulder Bag Small Beige"
+        ],
+        "trade_count": 4,
+        "avg_price": 1015000
+      },
+      "프라다 크로셰 라피아 토트백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Raffia Tote Bag OS Black"
+        ],
+        "trade_count": 4,
+        "avg_price": 950000
+      },
+      "프라다 트라이앵글 카프스킨 숄더백 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Triangle Calfskin Shoulder Bag OS White"
+        ],
+        "trade_count": 4,
+        "avg_price": 525000
+      },
+      "프라다 리에디션 2005 사피아노 숄더백 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Re Edition 2005 Saffiano Shoulder Bag Beige"
+        ],
+        "trade_count": 4,
+        "avg_price": 1000000
+      },
+      "프라다 리에디션 2002 사피아노 & 리나일론 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Re Edition 2002 Saffiano & Re Nylon Shoulder Bag Black"
+        ],
+        "trade_count": 4,
+        "avg_price": 857000
+      },
+      "프라다 갤러리아 사피아노 숄더백 라지 내추럴": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Galleria Saffiano Shoulder Bag Large Natural"
+        ],
+        "trade_count": 4,
+        "avg_price": 521000
+      },
+      "프라다 문패딩 나파스킨 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Moon Padded Nappa Leather Shoulder Bag Black"
+        ],
+        "trade_count": 4,
+        "avg_price": 1450000
+      },
+      "프라다 퀼팅 나파 가죽 샌들 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "Prada Padded Nappa Leather Sandals Black"
+        ],
+        "trade_count": 4,
+        "avg_price": 340000
+      },
+      "프라다 클라우드버스트 썬더 기능성 패브릭 스니커즈 화이트": {
+        "category": "신발",
+        "synonyms": [
+          "Prada Cloudbust Thunder Technical Fabric Sneakers White"
+        ],
+        "trade_count": 4,
+        "avg_price": 370000
+      },
+      "프라다 울 코트": {
+        "category": "의류",
+        "synonyms": [],
+        "trade_count": 4
+      },
+      "프라다 트렌치 코트": {
+        "category": "의류",
+        "synonyms": [],
+        "trade_count": 4,
+        "avg_price": 120000
+      },
+      "프라다 롱슬리브 티셔츠": {
+        "category": "의류",
+        "synonyms": [
+          "Prada Long-Sleeved T-shirt"
+        ],
+        "trade_count": 4
+      },
+      "프라다 모놀리스 브러쉬드 레더 레이스업 슈즈 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "Prada Monolith Brushed Leather Lace-Up Shoes Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 510000
+      },
+      "프라다 럭스 사피아노 카프스킨 토트백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Lux Saffiano Calfskin Tote Bag Medium Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 663000
+      },
+      "프라다 비텔로 그레인 레더 카드홀더 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Vitello Grain Leather Card Holder Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 120000
+      },
+      "프라다 사피아노 트라이앵글 로고 카프스킨 카드지갑 스카이 블루": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Saffiano Triangle Logo Calfskin Card Case Sky Blue"
+        ],
+        "trade_count": 3,
+        "avg_price": 430000
+      },
+      "프라다 사피아노 카프스킨 반지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Saffiano Calfskin Wallet Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 292000
+      },
+      "프라다 비텔로 무브 트라이앵글 로고 카프스킨 카드지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Vitello Move Triangle Logo Calfskin Card Case Black"
+        ],
+        "trade_count": 3
+      },
+      "프라다 사피아노 트라이앵글 로고 카프스킨 카드지갑 그린": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Saffiano Triangle Logo Calfskin Card Case Green"
+        ],
+        "trade_count": 3,
+        "avg_price": 345000
+      },
+      "프라다 심볼 펜던트 네크리스 스털링 실버 & 에나멜 메탈 블랙": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Prada Symbol Pendant Necklace Sterling Silver & Enameled Metal Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 571000
+      },
+      "프라다 고프레 램스킨 숄더백 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Gaufre Lambskin Shoulder Bag Beige"
+        ],
+        "trade_count": 3,
+        "avg_price": 350000
+      },
+      "프라다 비텔로 다이노 카프스킨 토트백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Vitello Daino Calfskin Tote Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 400000
+      },
+      "프라다 모노크롬 사피아노 숄더백 스몰 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Monochrome saffiano Shoulder Bag Small White"
+        ],
+        "trade_count": 3,
+        "avg_price": 650000
+      },
+      "프라다 비텔로 무브 카프스킨 크로스백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Vitello Move Calfskin Crossbody Bag Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 390000
+      },
+      "프라다 비텔로 다이노 카프스킨 숄더백 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Vitello Phenix Calfskin Shoulder Bag Grey"
+        ],
+        "trade_count": 3,
+        "avg_price": 268000
+      },
+      "프라다 파니에 사피아노 숄더백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Panier Saffiano Shoulder Bag Small Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 1500000
+      },
+      "프라다 클레오 브러쉬드 카프스킨 호보백 미니 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Cleo Brushed Calfskin Hobo Bag Mini White"
+        ],
+        "trade_count": 3
+      },
+      "프라다 클레오 브러쉬드 카프스킨 호보백 미니 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Cleo Brushed Calfskin Hobo Bag Mini Gray"
+        ],
+        "trade_count": 3,
+        "avg_price": 1090000
+      },
+      "프라다 리에디션 패딩 사피아노 & 리나일론 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Re Edition Padded Saffiano & Re Nylon Shoulder Bag Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 1050000
+      },
+      "프라다 카프스킨 브리프케이스 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Calfskin Briefcase Black"
+        ],
+        "trade_count": 3
+      },
+      "프라다 사피아노 브리프케이스 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Saffiano Briefcase Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 675000
+      },
+      "프라다 브리크 사피아노 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Brick Saffiano Shoulder Bag OS Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 1200000
+      },
+      "프라다 사피아노 크로스백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Saffiano Crossbody Bag Mini Black"
+        ],
+        "trade_count": 610000
+      },
+      "프라다 비텔로 피닉스 더블 지퍼 카프스킨 크로스백 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Vitello Phenix Double Zipper Calfskin Crossbody Bag Red"
+        ],
+        "trade_count": 3,
+        "avg_price": 1400000
+      },
+      "프라다 카프스킨 버킷백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Calfskin Bucket Bag Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 320000
+      },
+      "프라다 문 리나일론 & 카프스킨 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Moon Re Nylon & Calfskin Shoulder Bag Black"
+        ],
+        "trade_count": 3
+      },
+      "프라다 레인코트": {
+        "category": "의류",
+        "synonyms": [],
+        "trade_count": 3,
+        "avg_price": 1100000
+      },
+      "프라다 포코노 리나일론 크로스백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Pocono Re-Nylon Crossbody Bag Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 550000
+      },
+      "프라다 리나일론 사피아노 가죽 & 에메랄드 메탈 삼각 로고 크로스백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Re-Nylon Saffiano Leather & Emerald Metal Triangle Logo Crossbody Bag Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 845000
+      },
+      "프라다 비텔로 그레인 반지갑 레드": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Vitello Grain Bi-Fold Wallet Red"
+        ],
+        "trade_count": 2,
+        "avg_price": 175000
+      },
+      "프라다 나일론 테수토 벨트백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Nylon Tessuto Belt Bag Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 575000
+      },
+      "프라다 퀼팅 나일론 호보백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Quilted Nylon Hobo Bag Bag Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 550000
+      },
+      "프라다 비텔로 피닉스 버킷백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Vitello Phenix Bucket Bag Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 560000
+      },
+      "프라다 패널 라운드 토 청키 스니커즈": {
+        "category": "신발",
+        "synonyms": [
+          "Prada Paneled Round Toe Chunky Sneakers"
+        ],
+        "trade_count": 2,
+        "avg_price": 475000
+      },
+      "프라다 사피아노 체인 숄더백 네이비": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Saffiano Chain Shoulder Bag Navy"
+        ],
+        "trade_count": 2,
+        "avg_price": 455000
+      },
+      "프라다 브러쉬드 레더 더비 슈즈 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "Prada Brushed Leather Derby Shoes Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 202000
+      },
+      "프라다 사피아노 & 테수토 나일론 백팩 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Saffiano &Tessuto Nylon Backpack Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 825000
+      },
+      "프라다 고프레 나파 가죽 토트백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Gaufre Nappa Leather Tote Bag Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 630000
+      },
+      "프라다 비텔로 다이노 카프스킨 지퍼 토트백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Vitello Daino Calfskin Zip Tote Bag Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 525000
+      },
+      "프라다 사피아노 레더 골드 메탈 반돌리에라백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Saffiano Saffiano Leather Gold Metal Bandoliera Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 412000
+      },
+      "프라다 위커 라피아/캔버스 토트백 미디엄 내추럴": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Wicker Raffia/Canvas Tote Bag Medium Natural"
+        ],
+        "trade_count": 2,
+        "avg_price": 1150000
+      },
+      "프라다 퀼팅 나일론 숄더백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Quilted Nylon Shoulder Bag Mini Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 585000
+      },
+      "프라다 비텔로 다이노 카프스킨 토트백 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Vitello Daino Calfskin Tote Bag Red"
+        ],
+        "trade_count": 2,
+        "avg_price": 300000
+      },
+      "프라다 테수토 임푼투 퀄팅 나일론 토트백 브랙 & 골드톤 메탈": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Tessuto IMpuntu Quilted Nylon & Gold-Tone Metal Tote Bag Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 515000
+      },
+      "프라다 사피아노 체인 숄더백 블랙 실버": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Saffiano Chain Shoulder Bag Black Silver"
+        ],
+        "trade_count": 2,
+        "avg_price": 975000
+      },
+      "프라다 파니에 사피아노 카프스킨 토트백 스몰 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Panier Saffiano Calfskin Tote Bag Small Pink"
+        ],
+        "trade_count": 2,
+        "avg_price": 1070000
+      },
+      "프라다 갤러리아 사피아노 숄더백 라지 샌드 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Galleria Saffiano Shoulder Bag Large Beige"
+        ],
+        "trade_count": 2,
+        "avg_price": 375000
+      },
+      "프라다 레더 숄더 스트랩 카드홀더 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Leather Shoulder Strap Cardholder Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 500000
+      },
+      "프라다 비텔로 그레인 트라이앵글 로고 카프스킨 머니클립 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Vitello Grain Triangle Logo Calfskin Money Clip Black"
+        ],
+        "trade_count": 2
+      },
+      "프라다 사피아노 메탈로고 카프스킨 장지갑 블루": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Saffiano Metal Logo Calfskin Large Wallet Blue"
+        ],
+        "trade_count": 2
+      },
+      "프라다 트라이앵글 로고 사피아노 레더 월렛 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Triangle Logo Saffiano Leather Wallet Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 650000
+      },
+      "프라다 사피아노 트라이앵글 로고 카프스킨 지퍼 카드지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Saffiano Triangle Logo Calfskin Zip Card Case Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 180000
+      },
+      "프라다 사피아노 메탈로고 카프스킨 카드홀더 레드": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Saffiano Metal Logo Calfskin Card Holder Red"
+        ],
+        "trade_count": 2,
+        "avg_price": 130000
+      },
+      "프라다 사피아노 트라이앵글 로고 카프스킨 반지갑 핑크": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Saffiano Triangle Logo Calfskin Wallet Pink"
+        ],
+        "trade_count": 2,
+        "avg_price": 350000
+      },
+      "프라다 사피아노 트라이앵글 로고 카프스킨 카드지갑 스카이블루": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Saffiano Triangle Logo Calfskin Card Case Sky Blue"
+        ],
+        "trade_count": 2
+      },
+      "프라다 사피아노 트라이앵글 로고 카프스킨 반지갑 블루": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Saffiano Triangle Logo Calfskin Wallet Blue"
+        ],
+        "trade_count": 2,
+        "avg_price": 307000
+      },
+      "프라다 브러쉬드 트라이앵글 로고 카프스킨 반지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Brushed Triangle Logo Calfskin Wallet Black"
+        ],
+        "trade_count": 290000
+      },
+      "프라다 비텔로무브 트라이앵글 로고 카프스킨 카드지갑 핑크": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Vitello Move Triangle Logo Calfskin Card Case Pink"
+        ],
+        "trade_count": 2
+      },
+      "프라다 스말토 쥬얼 이어링 스털링 실버 & 에나멜 메탈 블랙": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Prada Symbol Earrings Sterling Silver & Enameled Metal Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 460000
+      },
+      "프라다 브레이슬릿 사피아노 가죽 블랙 & 에나멜 메탈 골드": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Prada Bracelet Saffiano Leather Black & Enameled Metal Gold"
+        ],
+        "trade_count": 2,
+        "avg_price": 202000
+      },
+      "프라다 브레이슬릿 사피아노 가죽 블랙 & 에나멜 메탈 실버": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Prada Bracelet Saffiano Leather Black & Enameled Metal Silver"
+        ],
+        "trade_count": 1,
+        "avg_price": 250000
+      },
+      "프라다 다이노 카프스킨 토트백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Dino Calfskin Tote Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 400000
+      },
+      "프라다 갤러리아 사피아노 숄더백 미니 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Galleria Saffiano Shoulder Bag Mini Pink"
+        ],
+        "trade_count": 2,
+        "avg_price": 1000000
+      },
+      "프라다 고프레 쉽스킨 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Gaufre Sheepskin Shoulder Bag Black"
+        ],
+        "trade_count": 2
+      },
+      "프라다 퀼팅 나일론 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Quilted Nylon Shoulder Bag Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 600000
+      },
+      "프라다 더블 사피아노 숄더백 미디엄 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Double Saffiano Shoulder Bag Medium Blue"
+        ],
+        "trade_count": 2,
+        "avg_price": 720000
+      },
+      "프라다 갤러리아 사피아노 숄더백 미디엄 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Galleria Saffiano Shoulder Bag Medium Pink"
+        ],
+        "trade_count": 1,
+        "avg_price": 780000
+      },
+      "프라다 브러쉬드 카프스킨 토트백 스몰 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Brushed Calfskin Tote Bag Small Gray"
+        ],
+        "trade_count": 2,
+        "avg_price": 905000
+      },
+      "프라다 브러쉬드 카프스킨 토트백 스몰 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Brushed Calfskin Tote Bag Small White"
+        ],
+        "trade_count": 1,
+        "avg_price": 450000
+      },
+      "프라다 사피아노 클러치 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Saffiano Clutch Mini Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 750000
+      },
+      "프라다 사피아노 가죽 파우치 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Saffiano Leather Clutch Large Black"
+        ],
+        "trade_count": 2
+      },
+      "프라다 패딩 사피아노 & 리나일론 숄더백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Padded Saffiano & Re Nylon Shoulder Bag Small Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 1700000
+      },
+      "프라다 리에디션 1978 사피아노 & 리나일론 백팩 스몰 네이비": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Re Edition 1978 Saffiano & Re Nylon Backpack Small Navy"
+        ],
+        "trade_count": 2,
+        "avg_price": 900000
+      },
+      "프라다 사피아노 & 리나일론 백팩 미니 스카이블루": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Saffiano & Re Nylon Backpack Mini Sky Blue"
+        ],
+        "trade_count": 2,
+        "avg_price": 900000
+      },
+      "프라다 사피아노 & 리나일론 백팩 미니 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Saffiano & Re Nylon Backpack Mini White"
+        ],
+        "trade_count": 2,
+        "avg_price": 450000
+      },
+      "프라다 크로셰 라피아 토트백 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Raffia Tote Bag OS Pink"
+        ],
+        "trade_count": 2,
+        "avg_price": 1100000
+      },
+      "프라다 트라이앵글 카프스킨 숄더백 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Triangle Calfskin Shoulder Bag OS Beige"
+        ],
+        "trade_count": 2,
+        "avg_price": 850000
+      },
+      "프라다 다이어그램 카프스킨 크로스백 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Diagram Calfskin Crossbody Bag OS White"
+        ],
+        "trade_count": 2,
+        "avg_price": 535000
+      },
+      "프라다 다이어그램 카프스킨 숄더백 미니 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Diagram Calfskin Shoulder Bag Mini Gray"
+        ],
+        "trade_count": 2,
+        "avg_price": 822000
+      },
+      "프라다 비텔로 카프스킨 크로스백 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Vitello Calfskin Crossbody Bag Gray"
+        ],
+        "trade_count": 2,
+        "avg_price": 230000
+      },
+      "프라다 테수토 트라이앵글 로고 리나일론 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Tessuto Triangle Logo Re Nylon Shoulder Bag Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 910000
+      },
+      "프라다 태수토 리나일론 크로스백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Tessuto Re Nylon Crossbody Bag Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 585000
+      },
+      "프라다 브러쉬드 가죽 버킷백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Brushed Leather Bucket Bag Mini Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 640000
+      },
+      "프라다 트러커 자켓": {
+        "category": "의류",
+        "synonyms": [],
+        "trade_count": 2
+      },
+      "프라다 (W) 프라다 모노리스 러버 샌들 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Prada Monolith Rubber Sandals Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 300000
+      },
+      "프라다 나일론 파우치 카메오": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Nylon Pouch Cameo"
+        ],
+        "trade_count": 1,
+        "avg_price": 130000
+      },
+      "프라다 벨라 나일론 버킷백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Vela Nylon Bucket Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 600000
+      },
+      "프라다 갤러리아 시티 카프 숄더백 파파야": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Galleria City Calf Shoulder Bag Papaya"
+        ],
+        "trade_count": 1,
+        "avg_price": 450000
+      },
+      "프라다 스웨이드 스니커즈 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "Prada Suede Sneakers Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 150000
+      },
+      "프라다 에스파듀 니트 슬립온 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "Prada Espardrilles Knit Slip-on Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 155000
+      },
+      "프라다 (W) 프라다 러버 통 샌들 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Prada Rubber Thong Sandals Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 830000
+      },
+      "프라다 리나일론 & 사피아노 가죽 토트백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Re-Nylon & Saffiano Leather Tote Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 870000
+      },
+      "프라다 비텔로 샤인 숄더백 브라운": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Vitello Shine Shoulder Bag Brown"
+        ],
+        "trade_count": 1,
+        "avg_price": 300000
+      },
+      "프라다 패디드 리나일론 부츠 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "Prada Padded Re-Nylon Booties Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 250000
+      },
+      "프라다 비텔로 다이노 카프스킨 토트백 아르질라": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Vitello Daino Calfskin Tote Bag Argilla"
+        ],
+        "trade_count": 1,
+        "avg_price": 390000
+      },
+      "프라다 사피아노 레더 크로스바디백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Saffiano Leather Crossbody Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 380000
+      },
+      "프라다 사피아노 레더 카드지갑 아스트랄 블루": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Saffiano Leather Card Holder Astral Blue"
+        ],
+        "trade_count": 1,
+        "avg_price": 200000
+      },
+      "프라다 비텔로 무브 카프스킨 장지갑 로터스 핑크": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Vitello Move Calfskin Long Wallet Lotus Pink"
+        ],
+        "trade_count": 1,
+        "avg_price": 100000
+      },
+      "프라다 사피아노 럭스 토트백 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Saffiano Luxe Tote Bag Pink"
+        ],
+        "trade_count": 1,
+        "avg_price": 250000
+      },
+      "프라다 브러쉬드 레더 미니백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Brushed Leather Mini Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 825000
+      },
+      "프라다 포코노 나일론 백팩 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Pocono Nylon Backpack Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 880000
+      },
+      "프라다 비텔로 무브 중지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Vitello Move Medium Wallet Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 200000
+      },
+      "프라다 사피아노 레더 여권 지갑 블루": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Saffiano Leather Passport Wallet Blue"
+        ],
+        "trade_count": 1,
+        "avg_price": 150000
+      },
+      "프라다 트라이앵글 로고 레더 브레이슬릿": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Prada Triangle Logo Leather Bracelet"
+        ],
+        "trade_count": 1,
+        "avg_price": 150000
+      },
+      "프라다 리에디션 2005 사피아노 & 리나일론 호보백 미니 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Re-Edition 2005 Saffiano & Re-Nylon Hobo Mini Blue"
+        ],
+        "trade_count": 1,
+        "avg_price": 425000
+      },
+      "프라다 사피아노 럭스 토트백 카라멜": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Saffiano Luxe Tote Bag Caramel"
+        ],
+        "trade_count": 1,
+        "avg_price": 540000
+      },
+      "프라다 비텔로 다이노 토트백 팔리산드로": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Vitello Dino Tote Bag Pallisandro"
+        ],
+        "trade_count": 1,
+        "avg_price": 350000
+      },
+      "프라다 벨라 스포츠 나일론 크로스백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Vela Sport Nylon Crossbody Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 487000
+      },
+      "프라다 비텔로 다이노 카프스킨 토트백 인키오스트로": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Vitello Daino Calfskin Tote Bag Inchiostro"
+        ],
+        "trade_count": 1,
+        "avg_price": 440000
+      },
+      "프라다 비텔로 다이노 소프트 카프스킨 토트백 다크브라운": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Vitello Daino Soft Calfskin Tote Bag Dark Brown"
+        ],
+        "trade_count": 1,
+        "avg_price": 300000
+      },
+      "프라다 두블레 사피아노 레더 숄더백 미디엄 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Double Saffiano Leather Medium Shoulder Bag Red"
+        ],
+        "trade_count": 1,
+        "avg_price": 685000
+      },
+      "프라다 파니에 두블레 사피아노 숄더백 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Pannier Double Saffiano Shoulder Bag Large Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 1000000
+      },
+      "프라다 사피아노 체인 숄더백 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Saffiano Chain Shoulder Bag White"
+        ],
+        "trade_count": 1,
+        "avg_price": 550000
+      },
+      "프라다 테수토 나일론 보스턴백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Tessuto Nylon Mini Boston Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 340000
+      },
+      "프라다 듀엣 사피아노 & 리나일론 버킷백 네이비": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Duet Saffiano & Re-Nylon Leather Bucket Bag Navy"
+        ],
+        "trade_count": 1,
+        "avg_price": 690000
+      },
+      "프라다 클라우드버스트 에어 테크니컬 패브릭 스니커즈 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "Prada Cloudburst Air Technical Fabric Sneakers Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 240000
+      },
+      "프라다 나파 가죽 샌들 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "Prada Nappa Leather Sandals Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 500000
+      },
+      "프라다 (W) 프라다 나일론 개버딘 스니커즈 화이트 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Prada Gabardine Fabric Sneakers White Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 250000
+      },
+      "프라다 갤러리아 소프트 카프레더 퀼팅 토트백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Galleria Soft Calf Leather Quilted Tote Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 800000
+      },
+      "프라다 포코노 나일론 트라이앵글 로고 토트백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Pocono Nylon Triangle Logo Tote Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 300000
+      },
+      "프라다 다이어그램 퀼팅 카프레더 체인 숄더백 핑크베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Diagramme Quilted Calf Leather Chain Shoulder Bag Pink Beige"
+        ],
+        "trade_count": 1,
+        "avg_price": 400000
+      },
+      "프라다 태수토 트라이앵글 로고 리나일론 크로스백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Tessuto Triangle Logo Re-Nylon Crossbody Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 400000
+      },
+      "프라다 파티나 글래스 카프 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Patina Glace Calf Shoulder Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 350000
+      },
+      "프라다 테수토 사피아노 체인 숄더백 블랙 실버": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Tessuto Saffiano Chain Shoulder Bag Black Silver"
+        ],
+        "trade_count": 1,
+        "avg_price": 550000
+      },
+      "프라다 테수토 사피아노 트라이앵글 로고 브리프케이스 네로": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Tessuto Saffiano Triangle Logo Briefcase Nero"
+        ],
+        "trade_count": 1,
+        "avg_price": 550000
+      },
+      "프라다 스파졸라토 플랫폼 슈즈 네로": {
+        "category": "신발",
+        "synonyms": [
+          "Prada Spazzolato Platform Shoes Nero"
+        ],
+        "trade_count": 1,
+        "avg_price": 375000
+      },
+      "프라다 리에디션 2006 쉽스킨 체인 호보 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Re Edition 2006 Sheepskin Chain Hobo Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 770000
+      },
+      "프라다 사피아노 럭스 토트백 타마리스": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Saffiano Lux Tote Bag Tamaris"
+        ],
+        "trade_count": 1,
+        "avg_price": 490000
+      },
+      "프라다 사피아노 카프스킨 파우치 미니 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Saffiano Calfskin Mini Pouch Pink"
+        ],
+        "trade_count": 1,
+        "avg_price": 500000
+      },
+      "프라다 테수토 나일론 웨이스트 벨트백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Tessuto Nylon Waist Belt Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 400000
+      },
+      "프라다 다이어그램 소프트 카프스킨 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Diagramme Soft Calfskin Shoulder Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 1200000
+      },
+      "프라다 D링 페브릭 벨트": {
+        "category": "패션 악세서리",
+        "synonyms": [
+          "Prada D-Ring Fabric Belt"
+        ],
+        "trade_count": 1,
+        "avg_price": 200000
+      },
+      "프라다 (W) 프라다 크로셰 플랫폼 슬라이드 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Prada Crochet Flatform Slides Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 300000
+      },
+      "프라다 클라우드버스트 썬더 테크니컬 패브릭 스니커즈 카키": {
+        "category": "신발",
+        "synonyms": [
+          "Prada Cloudbust Thunder Technical Fabric Sneakers Khaki"
+        ],
+        "trade_count": 1,
+        "avg_price": 225000
+      },
+      "프라다 카나파 캔버스 토트백 비올라": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Canapa Canvas Tote Bag Viola"
+        ],
+        "trade_count": 1,
+        "avg_price": 300000
+      },
+      "프라다 트라이앵글 로고 사피아노 가죽 숄더백 미니 파이어리 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Triangle Logo Saffiano Leather Shoulder Bag Mini Fiery Red"
+        ],
+        "trade_count": 1,
+        "avg_price": 500000
+      },
+      "프라다 소프트 레더 반지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Soft Leather Compact Wallet Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 200000
+      },
+      "프라다 브러시드 레더 레이스업 더비 슈즈 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "Prada Brushed Leather Lace-up Derby Shoes Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 400000
+      },
+      "프라다 비텔로 다이노 토트백 아르길라": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Vitello Daino Tote Bag Argilla"
+        ],
+        "trade_count": 1,
+        "avg_price": 200000
+      },
+      "프라다 나일론 퀼팅 트라이앵글 로고 백팩 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Nylon Quilted Triangle Logo Backpack Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 1900000
+      },
+      "프라다 고프레 나파 가죽 토트백 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Gaufre Nappa Leather Tote Bag Grey"
+        ],
+        "trade_count": 1,
+        "avg_price": 150000
+      },
+      "프라다 엠보스드 트라이앵글 로고 소프트 카프스킨 토트백 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Embossed Triangle Logo Soft Calfskin Tote Bag White"
+        ],
+        "trade_count": 1,
+        "avg_price": 510000
+      },
+      "프라다 리나일론 & 사피아노 백팩 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Re-Nylon & Saffiano Backpack Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 1400000
+      },
+      "프라다 익스플로러 리나일론 플랩 숄더백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Explore Re-Nylon Flap Shoulder Bag Medium Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 2100000
+      },
+      "프라다 하트 프린팅 사피아노 클러치 블랙 & 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Heart Print Saffiano Clutch Black & Red"
+        ],
+        "trade_count": 1,
+        "avg_price": 150000
+      },
+      "프라다 소프트 카프 레더 토트 백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Soft Calf Tote Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 594000
+      },
+      "프라다 사피아노 레더 브리프케이스 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Saffiano Leather Briefcase Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 350000
+      },
+      "프라다 카나파 린넨 토트백 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Canapa Linen Tote Bag Blue"
+        ],
+        "trade_count": 1,
+        "avg_price": 170000
+      },
+      "프라다 탬부어 레더 버킷백 코냑": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Tambour Leather Bucket Bag Cognac"
+        ],
+        "trade_count": 1,
+        "avg_price": 700000
+      },
+      "프라다 (W) 프라다 다운타운 레더 스니커즈 화이트": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Prada Downtown Leather Sneakers White"
+        ],
+        "trade_count": 1,
+        "avg_price": 350000
+      },
+      "프라다 비텔로 다이노 레더 숄더백 마르모": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Vitello Daino Leather Shoulder Bag Marmo"
+        ],
+        "trade_count": 1,
+        "avg_price": 200000
+      },
+      "프라다 테수토 & 사피아노 크로스백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Tesutto & Saffiano Crossbody Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 650000
+      },
+      "프라다 테투소 소프트 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Tetusso Soft Shoulder Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 378000
+      },
+      "프라다 패러다임 사피아노 레더 토트백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Paradigm Saffiano Leather Tote Bag Small Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 640000
+      },
+      "프라다 비텔로 다이노 카프스킨 토트백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Vitello Daino Calfskin Tote Bag Small Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 1450000
+      },
+      "프라다 클라우드버스트 썬더 샌들 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "Prada Cloudbust Thunder Sandals Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 240000
+      },
+      "프라다 카프스킨 벨트": {
+        "category": "패션 악세서리",
+        "synonyms": [
+          "Prada Calfskin Belt"
+        ],
+        "trade_count": 1,
+        "avg_price": 180000
+      },
+      "프라다 비텔로무브 카프스킨 골드 메탈 반지갑 핑크": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Vitello Move Calfskin Gold Metal Bifold Wallet Pink"
+        ],
+        "trade_count": 1,
+        "avg_price": 100000
+      },
+      "프라다 사피아노 카프스킨 메신저백 네이비": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Saffiano Calfskin Messenger Bag Navy"
+        ],
+        "trade_count": 1,
+        "avg_price": 450000
+      },
+      "프라다 카프스킨 메탈 로고 토트백 골드 카라멜": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Calfskin Metal Logo Tote Bag Caramel"
+        ],
+        "trade_count": 1,
+        "avg_price": 790000
+      },
+      "프라다 사피아노 도큐먼트 카프스킨 클러치 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Saffiano Document Calfskin Clutch Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 670000
+      },
+      "프라다 로고 자카드 보우 캔버스 크로스백 피오니아 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Logo Jacquard Bow Crossbody Bag Peonia Pink"
+        ],
+        "trade_count": 1,
+        "avg_price": 250000
+      },
+      "프라다 까이에 사피아노 & 골드톤 메탈 숄더백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Cahier Saffiano Leather & Gold-Tone Metal Shoulder Bag Small Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 850000
+      },
+      "프라다 로고 체인 브레이슬릿 실버": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Prada Logo Chain Bracelet Silver"
+        ],
+        "trade_count": 1,
+        "avg_price": 320000
+      },
+      "프라다 비텔로 무브 다이노 카프스킨 트라이앵글 카드 지갑 블루": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Vitello Move Daino Calfskin Triangle Card Holder Blue"
+        ],
+        "trade_count": 1,
+        "avg_price": 350000
+      },
+      "프라다 두블레 사피아노 숄더백 미디엄 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Double Saffiano Shoulder Bag Medium Red"
+        ],
+        "trade_count": 1,
+        "avg_price": 675000
+      },
+      "프라다 사피아노 가죽 백팩 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Saffiano Leather Backpack Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 2300000
+      },
+      "프라다 사피아노 가죽 파우치 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Saffiano Leather Clutch Red"
+        ],
+        "trade_count": 1,
+        "avg_price": 175000
+      },
+      "프라다 두블레 사피아노 숄더백 라지 카넬라 터콰이즈": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Double Saffiano Sholder Bag Large Cannella Turchese"
+        ],
+        "trade_count": 1,
+        "avg_price": 800000
+      },
+      "프라다 비텔로 다이노 카프스킨 사이드 포켓 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Vitello Daino Calfskin Side Pocket Shoulder Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 621000
+      },
+      "프라다 테수토 소프트 카프스킨 백팩 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Tessuto Soft Calfskin Backpack Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 1120000
+      },
+      "프라다 비텔로 다이노 카프스킨 토트백 브라운": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Vitello Daino Calfskin Tote Bag Brown"
+        ],
+        "trade_count": 1,
+        "avg_price": 450000
+      },
+      "프라다 사피아노 사피아노 레더 & 골드 메탈 포르타폴리오 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Saffiano Saffiano Leather & Gold Tone Metal Portafoglio Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 630000
+      },
+      "프라다 패들락 사피아노 카프스킨 플랩 크로스백 미니 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Padlock Saffiano Calfskin Flap Crossbody Bag Mini Red"
+        ],
+        "trade_count": 1,
+        "avg_price": 300000
+      },
+      "프라다 럭스 콘셉트 카프스킨 토트백 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Lux Concept Calfskin Tote Bag Large Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 380000
+      },
+      "프라다 사피아노 레더 지퍼 파우치 숄더백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Saffiano Leather Zipped Pouch Shoulder Bag Mini Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 1200000
+      },
+      "프라다 리에디션 2005 소프트 나파 & 리나일론 체인 숄더백 미니 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Re-Edition 2005 Soft Nappa Leather & Re-Nylon Chain Shoulder Bag Pink"
+        ],
+        "trade_count": 1,
+        "avg_price": 630000
+      },
+      "프라다 비텔로 피닉스 카프스킨 토트백 마린": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Vitello Phenix Calfskin Tote Bag Marine"
+        ],
+        "trade_count": 1,
+        "avg_price": 290000
+      },
+      "프라다 다이어그램 소프트 카프스킨 토트백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Diagramme Soft Calfskin Tote Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 705000
+      },
+      "프라다 비텔로 피닉스 카프스킨 & 골드 메탈 토트백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Vitello Phenix Calfskin & Gold-Tone Metal Tote Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 450000
+      },
+      "프라다 테수토 나일론 카프스킨 토트백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Tessuto Nylon Calfskin Tote Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 650000
+      },
+      "프라다 비텔로 다이노 백 보야지": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Vitello Daino Bag Voyage"
+        ],
+        "trade_count": 1,
+        "avg_price": 250000
+      },
+      "프라다 러플 나파 가죽 토트백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Ruffle Nappa Leather Tote Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 200000
+      },
+      "프라다 다이어그램 카프스킨 토트백 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Diagram Calfskin Tote Bag Red"
+        ],
+        "trade_count": 1,
+        "avg_price": 630000
+      },
+      "프라다 트라이앵글 로고 카프스킨 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Triangle Logo Calfskin Shoulder Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 912000
+      },
+      "프라다 트라이앵글 사피아노 레더 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Triangle Saffiano Leather Shoulder Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 800000
+      },
+      "프라다 사피아노 하트 프린트 카프스킨 카드 홀더 블랙 & 레드": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Saffiano Heart Print Calfskin Card Holder Black & Red"
+        ],
+        "trade_count": 1,
+        "avg_price": 110000
+      },
+      "프라다 사피아노 비텔로 무브 카프스킨 중지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Saffiano Vitello Move Calfskin Medium Wallet Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 300000
+      },
+      "프라다 비텔로 다이노 카프스킨 지퍼 토트백 카페": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Vitello Daino Calfskin Zip Tote Bag Caffe"
+        ],
+        "trade_count": 1,
+        "avg_price": 475000
+      },
+      "프라다 사피아노 & 나일론 백팩 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Saffiano & Nylon Backpack Red"
+        ],
+        "trade_count": 1,
+        "avg_price": 600000
+      },
+      "프라다 다이어그램 카프스킨 크로스백 카메오": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Diagram Calf Skin Crossbody Cameo"
+        ],
+        "trade_count": 1,
+        "avg_price": 450000
+      },
+      "프라다 사피아노 카프스킨 파우치 미니 망고": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Saffiano Calf Skin Pouch Mini Mango"
+        ],
+        "trade_count": 1,
+        "avg_price": 480000
+      },
+      "프라다 크로스레더 카프스킨 크로스백 미디엄 마블 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Cross Leather Calfskin CrossBag Medium Marble Gray"
+        ],
+        "trade_count": 1,
+        "avg_price": 800000
+      },
+      "프라다 더블 핸들 소프트 카프스킨 토트백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Double Handle Soft Calfskin Tote Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 1000000
+      },
+      "프라다 트라이앵글 엠보싱 로고 카프스킨 토트백 미니 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Triangle Logo Embossed Soft Calfskin Tote Red"
+        ],
+        "trade_count": 1,
+        "avg_price": 600000
+      },
+      "프라다 패디드 리나일론 토트백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Padded Re-Nylon Tote Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 1000000
+      },
+      "프라다 사피아노 이어폰 케이스 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Saphiano Earphone Case Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 300000
+      },
+      "프라다 사피아노 메탈로고 카프스킨 장지갑 베이지": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Saffiano Metal Logo Calfskin Long Wallet Beige"
+        ],
+        "trade_count": 1,
+        "avg_price": 150000
+      },
+      "프라다 사피아노 메탈로고 카프스킨 카드지갑 핑크": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Saffiano Metal Logo Calfskin Card Case Pink"
+        ],
+        "trade_count": 170000
+      },
+      "프라다 비텔로무브 메탈로고 카프스킨 중지갑 핑크": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Vitello Move Metal Logo Calfskin Wallet Pink"
+        ],
+        "trade_count": 0
+      },
+      "프라다 고프레 메탈로고 카프스킨 지퍼 장지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Gauffre Metal Logo Calfskin Zip Large Wallet Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 213000
+      },
+      "프라다 사피아노 메탈로고 카프스킨 카드홀더 블랙 핑크": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Saffiano Metal Logo Calfskin Zip Card Holder Black Pink"
+        ],
+        "trade_count": 1,
+        "avg_price": 247000
+      },
+      "프라다 사피아노 메탈로고 카프스킨 지퍼 장지갑 핑크": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Saffiano Metal Logo Calfskin Zip Large Wallet Pink"
+        ],
+        "trade_count": 1,
+        "avg_price": 100000
+      },
+      "프라다 사피아노 메탈로고 카프스킨 지퍼 장지갑 레드": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Saffiano Metal Logo Calfskin Zip Large Wallet Red"
+        ],
+        "trade_count": 1,
+        "avg_price": 150000
+      },
+      "프라다 비텔로무브 메탈로고 카프스킨 지퍼 장지갑 네이비": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Vitello Move Metal Logo Calfskin Zip Large Wallet Navy"
+        ],
+        "trade_count": 1,
+        "avg_price": 150000
+      },
+      "프라다 사피아노 트라이앵글 로고 카프스킨 동전지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Saffiano Triangle Logo Calfskin Coin Purse Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 180000
+      },
+      "프라다 사피아노 트라이앵글 로고 카프스킨 카드홀더 레드": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Saffiano Triangle Logo Calfskin Card Holder Red"
+        ],
+        "trade_count": 1
+      },
+      "프라다 사피아노 메탈로고 카프스킨 반지갑 핑크": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Saffiano Metal Logo Calfskin Wallet Pink"
+        ],
+        "trade_count": 1,
+        "avg_price": 190000
+      },
+      "프라다 사피아노 메탈로고 카프스킨 반지갑 블루": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Saffiano Metal Logo Calfskin Wallet Blue"
+        ],
+        "trade_count": 1,
+        "avg_price": 110000
+      },
+      "프라다 사피아노 메탈로고 카프스킨 반지갑 블랙 & 핑크": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Saffiano Metal Logo Calfskin Wallet Black & Pink"
+        ],
+        "trade_count": 1,
+        "avg_price": 150000
+      },
+      "프라다 심볼 링 스털링 실버 & 에나멜 메탈 블랙": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Prada Symbol Ring Sterling Silver & Enameled Metal Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 750000
+      },
+      "프라다 에어팟 체인 네크리스 스털링 실버 & 에나멜 블랙": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Prada Necklace For Airpod Chain Sterling Silver & Enameled Metal Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 170000
+      },
+      "프라다 스말토 쥬얼 이어링 스털링 실버 & 에나멜 메탈 화이트": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Prada Symbol Earrings Sterling Silver & Enameled Metal White"
+        ],
+        "trade_count": 1,
+        "avg_price": 440000
+      },
+      "프라다 투웨이 카프스킨 토트백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada 2way Calfskin Tote Bag Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 400000
+      },
+      "프라다 사피아노 숄더백 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Saffiano Shoulder Bag White"
+        ],
+        "trade_count": 1,
+        "avg_price": 790000
+      },
+      "프라다 더블 사피아노 숄더백 미디엄 화이트 & 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Double Saffiano Shoulder Bag Medium White & Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 500000
+      },
+      "프라다 갤러리아 사피아노 숄더백 미디엄 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Galleria Saffiano Shoulder Bag Medium Grey"
+        ],
+        "trade_count": 1
+      },
+      "프라다 리에디션1995 카프스킨 토트백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Re Edition 1995 Calfskin Tote Bag Medium Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 1570000
+      },
+      "프라다 카나파 캔버스 토트백 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Canapa Canvas Tote Bag Red"
+        ],
+        "trade_count": 1
+      },
+      "프라다 리에디션 2000 사피아노 & 리나일론 숄더백 미니 퍼플": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Re Edition 2000 Saffiano & Re Nylon Shoulder Bag Mini Purple"
+        ],
+        "trade_count": 1
+      },
+      "프라다 리에디션 2005 사피아노 & 리나일론 호보백 미니 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Re Edition 2005 Saffiano & Re Nylon Hobo Bag Mini White"
+        ],
+        "trade_count": 1
+      },
+      "프라다 리에디션 1995 사피아노 & 리나일론 토트백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Re Edition 1995 Saffiano & Re Nylon Tote Bag Small Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 1400000
+      },
+      "프라다 비텔로 다이노 카프스킨 크로스백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Vitello Daino Calfskin Crossbody Bag Black"
+        ],
+        "trade_count": 1
+      },
+      "프라다 트라이앵글 카프스킨 숄더백 옐로우": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Triangle Calfskin Shoulder Bag OS Yellow"
+        ],
+        "trade_count": 1
+      },
+      "프라다 다이어그램 카프스킨 클러치 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Diagram Calfskin Clutch OS Black"
+        ],
+        "trade_count": 1
+      },
+      "프라다 다이어그램 카프스킨 숄더백 미디엄 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Diagram Calfskin Shoulder Bag Medium Pink"
+        ],
+        "trade_count": 1,
+        "avg_price": 790000
+      },
+      "프라다 카이에 카프스킨 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Cahier Calfskin Shoulder Bag Black"
+        ],
+        "trade_count": 1
+      },
+      "프라다 리에디션 사피아노 숄더백 미니 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Re Edition Saffiano Shoulder Bag Mini White"
+        ],
+        "trade_count": 1
+      },
+      "프라다 비텔로 피닉스 카프스킨 크로스백 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Vitello phenix Calfskin Crossbody Bag OS Pink"
+        ],
+        "trade_count": 1,
+        "avg_price": 690000
+      },
+      "프라다 사피아노 & 리나일론 드로우스트링 버킷백 퍼플": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Saffiano & Re Nylon Drawstring Bucket Bag Purple"
+        ],
+        "trade_count": 1
+      },
+      "프라다 사피아노 & 리나일론 드로우스트링 버킷백 브라운": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Saffiano & Re Nylon Drawstring Bucket Bag Brown"
+        ],
+        "trade_count": 1
+      },
+      "프라다 더블 사피아노 숄더백 라지 화이트 & 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Double Saffiano Shoulder Bag Large White & Black"
+        ],
+        "trade_count": 1
+      },
+      "프라다 더블 사피아노 숄더백 라지 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Double Saffiano Shoulder Bag Large Gray"
+        ],
+        "trade_count": 1,
+        "avg_price": 815000
+      },
+      "프라다 갤러리아 사피아노 숄더백 라지 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Galleria Saffiano Shoulder Bag Large Gray"
+        ],
+        "trade_count": 1,
+        "avg_price": 450000
+      },
+      "프라다 갤러리아 사피아노 숄더백 라지 네이비": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Galleria Saffiano Shoulder Bag Large Navy"
+        ],
+        "trade_count": 1,
+        "avg_price": 380000
+      },
+      "프라다 소프트 가죽 버킷백 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Soft Leather Bucket Bag Cameo Beige"
+        ],
+        "trade_count": 1,
+        "avg_price": 750000
+      },
+      "프라다 문패딩 나파스킨 숄더백 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Moon Padded Nappa Leather Shoulder Bag White"
+        ],
+        "trade_count": 1
+      },
+      "프라다 스포티 가죽 및 나일론 테이프 샌들 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "Prada Sporty Leather And Nylon Tape Sandal Black"
+        ],
+        "trade_count": 1
+      },
+      "프라다 셔링 자켓": {
+        "category": "의류",
+        "synonyms": [],
+        "trade_count": 1
+      },
+      "프라다 프락스 01 나일론 스니커즈 화이트": {
+        "category": "신발",
+        "synonyms": [
+          "Prada Prax 01 Nylon Sneakers White"
+        ],
+        "trade_count": 220000
+      },
+      "프라다 클라우드버스트 하이탑 스니커즈 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "Prada Cloudbust High Top Sneakers Black"
+        ],
+        "trade_count": 220000
+      },
+      "프라다 테수토 나일론 토트백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Tessuto Nylon Tote Bag Black"
+        ],
+        "trade_count": 740000
+      },
+      "프라다 카발리노 벨루토 숄더백 버건디 & 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Cavallino Velluto Shoulder Bag Burgundy & Black"
+        ],
+        "trade_count": 680000
+      },
+      "프라다 비텔로 그레인 가죽 토트백 카넬라": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Vitello Grained Leather Tote Bag Cannella"
+        ],
+        "trade_count": 0
+      },
+      "프라다 리에디션 2002 레더 숄더백 스몰 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Re-Edition 2002 Leather Shoulder Bag Small Black"
+        ],
+        "trade_count": 1000000
+      },
+      "프라다 테수토 체인 숄더백 지알로": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Tessuto Chain Shoulder Bag Giallo"
+        ],
+        "trade_count": 400000
+      },
+      "프라다 사피아노 럭스 토트백 미디엄 후오코": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Saffiano Lux Tote Bag Medium Fuoco"
+        ],
+        "trade_count": 490000
+      },
+      "프라다 사피아노 트라이앵글 로고 카프스킨 카드홀더 네이비": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Saffiano Triangle Logo Calfskin Card Holder Navy"
+        ],
+        "trade_count": 120000
+      },
+      "프라다 비텔로 무브 지퍼 카드지갑 파파야": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Vitello Move Zip Card Case Papaya"
+        ],
+        "trade_count": 170000
+      },
+      "프라다 사피아노 & 스무스 레더 카드 홀더 망고": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Saffiano & Smooth Leather Card Holder Mango"
+        ],
+        "trade_count": 0
+      },
+      "프라다 트라이앵글 로고 사피아노 레더 월렛 페탈 핑크": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Triangle Logo Saffiano Leather Wallet Petal Pink"
+        ],
+        "trade_count": 250000
+      },
+      "프라다 다이노 토트백 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Daino Tote Bag Grey"
+        ],
+        "trade_count": 530000
+      },
+      "프라다 리나일론 앤 레더 토트백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Re-Nylon and Leather Tote Bag Black"
+        ],
+        "trade_count": 1400000
+      },
+      "프라다 사피아노 럭스 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Saffiano Lux Shoulder Bag Black"
+        ],
+        "trade_count": 550000
+      },
+      "프라다 비텔로 다이노 카프스킨 숄더백 카메오": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Vitello Daino Calfskin Shoulder Bag Cammeo"
+        ],
+        "trade_count": 800000
+      },
+      "프라다 (W) 프라다 프락스 01 스웨이드 스니커즈 에크루": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Prada Prax 01 Suede Sneakers Ecru"
+        ],
+        "trade_count": 420000
+      },
+      "프라다 테수토 토트백 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Tessuto Tote Bag Red"
+        ],
+        "trade_count": 0
+      },
+      "프라다 고프레 나파 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Gaufre Nappa Shoulder Bag Black"
+        ],
+        "trade_count": 300000
+      },
+      "프라다 사피아노 브리프케이스 네이비": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Saffiano Briefcase Navy"
+        ],
+        "trade_count": 850000
+      },
+      "프라다 (W) 프라다 벨벳 플랫폼 샌들 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Prada Velvet Platform Sandals Black"
+        ],
+        "trade_count": 0
+      },
+      "프라다 (W) 프라다 브러쉬드 레더 레이스업 슈즈 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "(W) Prada Brushed Leather Lace-Up Shoes Black"
+        ],
+        "trade_count": 480000
+      },
+      "프라다 비텔로 다이노 카프스킨 토트백 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Vitello Daino Calfskin Tote Bag Grey"
+        ],
+        "trade_count": 0
+      },
+      "프라다 소프트 나파 레더 패딩 백 스몰 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Soft Nappa Leather Padded Bag Small White"
+        ],
+        "trade_count": 1200000
+      },
+      "프라다 리나일론 & 레더 백팩 블루 커피": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Re-Nylon & Leather Backpack Blue Coffee"
+        ],
+        "trade_count": 2160000
+      },
+      "프라다 레이스업 플랫폼 슈즈 실버 메탈릭": {
+        "category": "신발",
+        "synonyms": [
+          "Prada Lace-up Platform Shoes Silver Metallic"
+        ],
+        "trade_count": 0
+      },
+      "프라다 테수토 소프트 토트백 로사 플루오": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Tessuto Soft Tote Bag Rosa Fluo"
+        ],
+        "trade_count": 1700000
+      },
+      "프라다 비텔로 다이노 카프스킨 토트백 팔리산드로": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Vitello Daino Calfskin Tote Bag Palissandro"
+        ],
+        "trade_count": 650000
+      },
+      "프라다 리에디션 2005 사피아노 & 리나일론 숄더백 아스트랄 블루": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Re-Edition 2005 Saffiano & Re-Nylon Shoulder Bag Astral Blue"
+        ],
+        "trade_count": 800000
+      },
+      "프라다 고프레 램스킨 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Gaufre Lambskin Shoulder Bag Black"
+        ],
+        "trade_count": 240000
+      },
+      "프라다 사피아노 로봇 장지갑 블루": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Saffiano Robot Continental Wallet Blue"
+        ],
+        "trade_count": 0
+      },
+      "프라다 트래블러 리나일론 패딩 숄더백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Traveler Re-Nylon Padded Shoulder Bag Medium Black"
+        ],
+        "trade_count": 3090000
+      },
+      "프라다 나파 비콜로레 투톤 앵클 부츠 그라나토 & 누드": {
+        "category": "신발",
+        "synonyms": [
+          "Prada Nappa Bicolore Two-tone Ankle Boots Granato & Nudo"
+        ],
+        "trade_count": 300000
+      },
+      "프라다 리나일론 폰케이스 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Re-Nylon Phone Case Black"
+        ],
+        "trade_count": 240000
+      },
+      "프라다 리나일론 스마트폰 홀더백 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Re-Nylon Smartphone Holder Bag White"
+        ],
+        "trade_count": 0
+      },
+      "프라다 사피아노 메탈로고 카프스킨 숄더백 네로": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Saffiano Metal Logo Calfskin Leather Shoulder Bag Nero"
+        ],
+        "trade_count": 0
+      },
+      "프라다 사피아노 비콜로 카드지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Saffiano Bicolor Card Holder Black"
+        ],
+        "trade_count": 60000
+      },
+      "프라다 그레이스 럭스 로고 투웨이 토트백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Grace Lux Logo Two-Way Tote Bag Black"
+        ],
+        "trade_count": 950000
+      },
+      "프라다 리에디션 1978 리나일론 미니백 베고니아 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Re Edition 1978 Re Nylon Mini Bag Begonia Pink"
+        ],
+        "trade_count": 970000
+      },
+      "프라다 러버 피셔맨 샌들": {
+        "category": "신발",
+        "synonyms": [
+          "Prada Rubber Fisherman Sandals"
+        ],
+        "trade_count": 380000
+      },
+      "프라다 테투소 패디드 쇼퍼백 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Tetusso Padded Shopper Bag Red"
+        ],
+        "trade_count": 0
+      },
+      "프라다 테수토 나일론 & 사피아노 브리프케이스 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Tessuto Nylon & Saffiano Briefcase Black"
+        ],
+        "trade_count": 890000
+      },
+      "프라다 사피아노 레더 체인 WOC 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Saffiano Leather Chain WOC Black"
+        ],
+        "trade_count": 0
+      },
+      "프라다 사피아노 레더 스마트폰 케이스 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Saffiano Leather Smartphone Case Black"
+        ],
+        "trade_count": 0
+      },
+      "프라다 비텔로 무브 WOC 카라멜": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Vitello Move WOC Caramel"
+        ],
+        "trade_count": 0
+      },
+      "프라다 브러쉬드 레더 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Brushed Leather Shoulder Back Black"
+        ],
+        "trade_count": 1020000
+      },
+      "프라다 엠블럼 브러쉬드 레더 백 토바코": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Embleme Brushed Leather Bag Tobacco"
+        ],
+        "trade_count": 2500000
+      },
+      "프라다 트라이앵글 로고 페이턴트 카프스킨 3단 중지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Triangle Logo Patent Calfskin Trifold Wallet Black"
+        ],
+        "trade_count": 0
+      },
+      "프라다 스티치 레더 토트백 라지 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Stitched Leather Tote Bag Large White"
+        ],
+        "trade_count": 0
+      },
+      "프라다 시티 카프 카프스킨 클러치 베고니아 & 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada City Calf Calfskin Clutch Begonia & Black"
+        ],
+        "trade_count": 0
+      },
+      "프라다 로고 패치 나일론 웨이스트백 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Logo Patch Nylon Waist Bag Red"
+        ],
+        "trade_count": 0
+      },
+      "프라다 하프 문 사피아노 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Half Moon Saffiano Shoulder Bag Black"
+        ],
+        "trade_count": 0
+      },
+      "프라다 레더 리나일론 부츠 블랙": {
+        "category": "신발",
+        "synonyms": [
+          "Prada Leather Re-Nylon Boots Black"
+        ],
+        "trade_count": 880000
+      },
+      "프라다 아르케 카프스킨 숄더백 브라운": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Arque Calfskin Shoulder Bag Brown"
+        ],
+        "trade_count": 2040000
+      },
+      "프라다 마드라스 우븐 레더 & 골드 메탈 토트백 발티코": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Madras Woven Leather & Gold Metal Tote Bag Baltico"
+        ],
+        "trade_count": 0
+      },
+      "프라다 비블리오텍 카프스킨 크로스백 블랙 & 브라운": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Biblio Tech Calfskin Crossbody Bag Black & Brown"
+        ],
+        "trade_count": 1260000
+      },
+      "프라다 테수토 나일론 & 골드 메탈 토트백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Tessuto Nylon & Gold Metal Tote Bag Black"
+        ],
+        "trade_count": 530000
+      },
+      "프라다 비텔로 다이노 카프스킨 지퍼 토트백 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Vitello Daino Calfskin Zip Tote Bag Grey"
+        ],
+        "trade_count": 600000
+      },
+      "프라다 엠보스드 로고 글라세 카프 스킨 레더 & 골드 메탈 버킷백 카메오": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Embossed Logo Glacé Calfskin Leather & Gold Metal Bucket Bag Cammeo"
+        ],
+        "trade_count": 620000
+      },
+      "프라다 비텔로 다이노 레더 바울레토 백 비조네": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Vitello Daino Leather Bauletto Bag Visone"
+        ],
+        "trade_count": 530000
+      },
+      "프라다 비텔로 그레인 메탈로고 카프스킨 반지갑 그린": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Vitello Grain Metal Logo Calfskin Wallet Green"
+        ],
+        "trade_count": 0
+      },
+      "프라다 파니에 두블레 사피아노 숄더백 미디움 옐로우": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Pannier Double Saffiano Shoulder Bag Medium Yellow"
+        ],
+        "trade_count": 0
+      },
+      "프라다 트라이앵글 엠보싱 로고 카프스킨 토트백 미니 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Triangle Logo Embossed Soft Calfskin Tote Bag Mini White"
+        ],
+        "trade_count": 1290000
+      },
+      "프라다 페이던트 레더 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Patent Leather Shoulder Bag Black"
+        ],
+        "trade_count": 0
+      },
+      "프라다 파니에 사피아노 퀴르 & 카프 스킨 & 골드 메탈 버킷백 미디엄 푸오코 네로": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Panier Saffiano Cuir & City Calf & Gold Metal Bucket Bag Medium Fuoco Nero"
+        ],
+        "trade_count": 1550000
+      },
+      "프라다 테수토 나일론 슬링백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Tessuto Nylon Sling Bag Black"
+        ],
+        "trade_count": 0
+      },
+      "프라다 오데트 소프트 카프스킨 크로스백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Odette Soft Calfskin Crossbody Bag Mini Black"
+        ],
+        "trade_count": 0
+      },
+      "프라다 파라디그마 사피아노 & 시티 카프스킨 토트백 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Paradigme Saffiano & City Calfskin Tote Bag Large Black"
+        ],
+        "trade_count": 1040000
+      },
+      "프라다 사피아노 트라이앵글 로고 카프스킨 숄더백 푸오코 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Saffiano Triangle Logo Calfskin Shoulder Bag Fuoco Red"
+        ],
+        "trade_count": 0
+      },
+      "프라다 시티 칼프 숄더백 카프스킨 카라멜": {
+        "category": "가방",
+        "synonyms": [
+          "Prada City Calf Shoulder Bag Calfskin Caramel"
+        ],
+        "trade_count": 0
+      },
+      "프라다 사피아노 레더 브레이슬릿 블랙": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Prada Saffiano Leather Bracelet Black"
+        ],
+        "trade_count": 50000
+      },
+      "프라다 사피아노 립스틱 프린트 반지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Saffiano Lipstick Print Bi-fold Black"
+        ],
+        "trade_count": 0
+      },
+      "프라다 나파 고프레 금장 체인 숄더백 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Nappa Gaufre Gold Hardware Chain Shoulder Bag White"
+        ],
+        "trade_count": 1620000
+      },
+      "프라다 아르케 카프스킨 숄더백 앨러배스터": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Arqué Calfskin Shoulder Bag Alabaster"
+        ],
+        "trade_count": 0
+      },
+      "프라다 트라이앵글 사피아노 숄더백 블루에뜨": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Triangle Saffiano Shoulder Bag Bluette"
+        ],
+        "trade_count": 1150000
+      },
+      "프라다 트라이앵글 사피아노 숄더백 써니 옐로우": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Triangle Saffiano Shoulder Bag Sunny Yellow"
+        ],
+        "trade_count": 0
+      },
+      "프라다 트라이앵글 카프스킨 크로스백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Triangle Calfskin Crossbody Bag Black"
+        ],
+        "trade_count": 0
+      },
+      "프라다 슈퍼노바 브러시드 카프스킨 토트백 스몰 시트론 그린": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Supernova Brushed Calfskin Tote Bag Small Citron Green"
+        ],
+        "trade_count": 1500000
+      },
+      "프라다 슈퍼노바 브러시드 카프스킨 토트백 스몰 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Supernova Brushed Calfskin Tote Bag Small Grey"
+        ],
+        "trade_count": 1550000
+      },
+      "프라다 비텔로 다이노 카프스킨 토트백 오렌지": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Vitello Daino Calfskin Tote Bag Orange"
+        ],
+        "trade_count": 0
+      },
+      "프라다 사피아노 메탈로고 카프스킨 장지갑 스카이 블루": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Saffiano Metal Logo Calfskin Long Wallet Sky Blue"
+        ],
+        "trade_count": 160000
+      },
+      "프라다 사피아노 메탈로고 카프스킨 장지갑 핑크": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Saffiano Metal Logo Calfskin Long Wallet Pink"
+        ],
+        "trade_count": 230000
+      },
+      "프라다 비텔로무브 트라이앵글 로고 카프스킨 중지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Vitello Move Triangle Logo Calfskin Wallet Black"
+        ],
+        "trade_count": 300000
+      },
+      "프라다 비텔로무브 메탈로고 카프스킨 중지갑 블루": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Vitello Move Metal Logo Calfskin Wallet Blue"
+        ],
+        "trade_count": 420000
+      },
+      "프라다 사피아노 메탈로고 카프스킨 카드홀더 스카이 블루": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Saffiano Metal Logo Calfskin Card Holder Sky Blue"
+        ],
+        "trade_count": 0
+      },
+      "프라다 비텔로무브 메탈로고 카프스킨 카드홀더 핑크": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Vitello Move Metal Logo Calfskin Zip Card Holder Pink"
+        ],
+        "trade_count": 120000
+      },
+      "프라다 사피아노 트라이앵글 로고 카프스킨 지퍼 카드홀더 레드": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Saffiano Triangle Logo Calfskin Zip Card Holder Red"
+        ],
+        "trade_count": 0
+      },
+      "프라다 사피아노 트라이앵글 로고 카프스킨 카드지갑 옐로우": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Saffiano Triangle Logo Calfskin Card Case Yellow"
+        ],
+        "trade_count": 530000
+      },
+      "프라다 사피아노 카프스킨 카드홀더 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Saffiano Calfskin Card Holder Black"
+        ],
+        "trade_count": 370000
+      },
+      "프라다 트라이앵글 로고 카프스킨 카드지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Prada Triangle Logo Calfskin Card Case Black"
+        ],
+        "trade_count": 0
+      },
+      "프라다 스말토 쥬얼 이어링 스털링 실버 & 에나멜 메탈 베고니아 핑크": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Prada Symbol Earrings Sterling Silver & Enameled Metal Begonia Pink"
+        ],
+        "trade_count": 400000
+      },
+      "프라다 심볼 펜던트 네크리스 스털링 실버 & 에나멜 메탈 화이트": {
+        "category": "쥬얼리",
+        "synonyms": [
+          "Prada Symbol Pendant Necklace Sterling Silver & Enameled Metal White"
+        ],
+        "trade_count": 950000
+      },
+      "프라다 고프레 카프스킨 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Gaufre Calfskin Shoulder Bag Black"
+        ],
+        "trade_count": 400000
+      },
+      "프라다 모노크롬 사피아노 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Monochrome saffiano Shoulder Bag Black"
+        ],
+        "trade_count": 1250000
+      },
+      "프라다 모노크롬 사피아노 크로스백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Monochrome saffiano Crossbody Bag Black"
+        ],
+        "trade_count": 1550000
+      },
+      "프라다 모노크롬 사피아노 숄더백 미디엄 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Monochrome saffiano Shoulder Bag Medium Grey"
+        ],
+        "trade_count": 1230000
+      },
+      "프라다 갤러리아 사피아노 숄더백 미니 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Galleria Saffiano Shoulder Bag Mini White"
+        ],
+        "trade_count": 900000
+      },
+      "프라다 비텔로 다이노 카프스킨 버킷백 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Vitello Daino Calfskin Bucket Bag Grey"
+        ],
+        "trade_count": 0
+      },
+      "프라다 비텔로 다이노 카프스킨 버킷백 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Vitello Daino Calfskin Bucket Bag White"
+        ],
+        "trade_count": 720000
+      },
+      "프라다 더블 사피아노 숄더백 미디엄 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Double Saffiano Shoulder Bag Medium Grey"
+        ],
+        "trade_count": 1040000
+      },
+      "프라다 갤러리아 사피아노 숄더백 미디엄 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Galleria Saffiano Shoulder Bag Medium Red"
+        ],
+        "trade_count": 1020000
+      },
+      "프라다 리에디션1995 카프스킨 토트백 미디엄 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Re Edition 1995 Calfskin Tote Bag Medium White"
+        ],
+        "trade_count": 1850000
+      },
+      "프라다 엠블럼 카프스킨 & 나일론 숄더백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Emblem Calfskin & Nylon Shoulder Bag Black"
+        ],
+        "trade_count": 0
+      },
+      "프라다 스펙트럼 나파스킨 숄더백 라지 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Spectrum Nappa Leather Shoulder Bag Large Black"
+        ],
+        "trade_count": 2660000
+      },
+      "프라다 사피아노 & 리나일론 브리프케이스 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Saffiano & Re Nylon Briefcase Black"
+        ],
+        "trade_count": 1300000
+      },
+      "프라다 갤러리아 사피아노 숄더백 스몰 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Galleria Saffiano Shoulder Bag Small Red"
+        ],
+        "trade_count": 700000
+      },
+      "프라다 갤러리아 사피아노 숄더백 스몰 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Galleria Saffiano Shoulder Bag Small Pink"
+        ],
+        "trade_count": 1550000
+      },
+      "프라다 라피아 앤 우드 토트백 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Raffia And Wood Tote Bag Tan"
+        ],
+        "trade_count": 1140000
+      },
+      "프라다 트라이앵글 카프스킨 숄더백 그린": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Triangle Calfskin Shoulder Bag OS Green"
+        ],
+        "trade_count": 1200000
+      },
+      "프라다 다이어그램 카프스킨 크로스백 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Diagram Calfskin Crossbody Bag OS Red"
+        ],
+        "trade_count": 860000
+      },
+      "프라다 다이어그램 카프스킨 숄더백 미디엄 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Diagram Calfskin Shoulder Bag Medium Beige"
+        ],
+        "trade_count": 180000
+      },
+      "프라다 사피아노 & 리나일론 백팩 베이지": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Saffiano & Re Nylon Backpack Beige"
+        ],
+        "trade_count": 1560000
+      },
+      "프라다 카이에 벨벳 숄더백 브라운": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Cahier Velvet Shoulder Bag Brown"
+        ],
+        "trade_count": 0
+      },
+      "프라다 사피아노 숄더백 옐로우": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Saffiano Shoulder Bag Yellow"
+        ],
+        "trade_count": 1600000
+      },
+      "프라다 리에디션 2002 카프스킨 숄더백 미디엄 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Re Edition 2002 Calfskin Shoulder Bag Medium Black"
+        ],
+        "trade_count": 2710000
+      },
+      "프라다 리에디션 2002 사피아노 & 리나일론 숄더백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Re Edition 2002 Saffiano & Re Nylon Shoulder Bag Mini Black"
+        ],
+        "trade_count": 320000
+      },
+      "프라다 카프스킨 다이어그램 토트백 핑크": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Calfskin Diagram Tote Bag Pink"
+        ],
+        "trade_count": 1600000
+      },
+      "프라다 비텔로 피닉스 더블 지퍼 카프스킨 크로스백 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Vitello Phenix Double Zipper Calfskin Crossbody Bag Gray"
+        ],
+        "trade_count": 0
+      },
+      "프라다 더블 사피아노 숄더백 라지 브라운": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Double Saffiano Shoulder Bag Large Brown"
+        ],
+        "trade_count": 2600000
+      },
+      "프라다 카프스킨 버킷백 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Prada Calfskin Bucket Bag Gray"
+        ],
+        "trade_count": 0
+      },
+      "프라다 테리 클로스 슬라이드 블랙 화이트": {
+        "category": "신발",
+        "synonyms": [
+          "Prada Terry Cloth Slides Black White"
+        ],
+        "trade_count": 0
+      },
+      "프라다 다운타운 가죽 스니커즈 화이트 콘플라워 블루": {
+        "category": "신발",
+        "synonyms": [
+          "Prada Downtown Leather Sneakers White Cornflower Blue"
+        ],
+        "trade_count": 650000
+      },
+      "프라다 사파리 자켓": {
+        "category": "의류",
+        "synonyms": [],
+        "trade_count": 790000
+      }
+    }
+  }
+}

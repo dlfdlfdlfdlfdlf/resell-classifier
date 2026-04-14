@@ -1,0 +1,1527 @@
+{
+  "고야드": {
+    "models": {
+      "고야드 생쉴피스 캔버스 & 카프스킨 카드홀더 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Saint Sulpice Canvas & Calfskin Card Holder Black"
+        ],
+        "trade_count": 318,
+        "avg_price": 279000
+      },
+      "고야드 인서트 빅투아르 캔버스 & 카프스킨 카드 지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Insert Victoire Canvas & Calfskin Card Wallet Black"
+        ],
+        "trade_count": 161,
+        "avg_price": 279000
+      },
+      "고야드 빅투아르 캔버스 & 카프스킨 반지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Victoire Canvas & Calfskin Bifold Wallet Black"
+        ],
+        "trade_count": 158,
+        "avg_price": 446000
+      },
+      "고야드 세나 고야딘 캔버스 & 카프 스킨 가죽 클러치 MM 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Sénat Goyardine Canvas & Calfskin Leather Clutch MM Black"
+        ],
+        "trade_count": 157,
+        "avg_price": 390000
+      },
+      "고야드 생쉴피스 캔버스 & 카프스킨 카드홀더 그린": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Saint Sulpice Canvas & Calfskin Card Holder Green"
+        ],
+        "trade_count": 155,
+        "avg_price": 285000
+      },
+      "고야드 앙주 고야딘 캔버스 & 카프 스킨 가죽 백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Anjou Goyardine Canvas & Calfskin Leather Bag Mini Black"
+        ],
+        "trade_count": 152,
+        "avg_price": 2118000
+      },
+      "고야드 빅투아르 캔버스 & 카프스킨 반지갑 블랙 & 탄": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Victoire Canvas & Calfskin Bifold Wallet Black & Tan"
+        ],
+        "trade_count": 116,
+        "avg_price": 518000
+      },
+      "고야드 빅투아르 캔버스 & 카프스킨 반지갑 그린": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Victoire Canvas & Calfskin Bifold Wallet Green"
+        ],
+        "trade_count": 113,
+        "avg_price": 592000
+      },
+      "고야드 생루이 고야딘 캔버스 & 카프 스킨 가죽 백 GM 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Saint Louis Goyardine Canvas & Calfskin Leather Bag GM Black"
+        ],
+        "trade_count": 96,
+        "avg_price": 1473000
+      },
+      "고야드 생피에르 캔버스 & 카프스킨 카드지갑 그린": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Saint Pierre Canvas & Calfskin Card Wallet Green"
+        ],
+        "trade_count": 95,
+        "avg_price": 631000
+      },
+      "고야드 인서트 빅투아르 캔버스 & 카프스킨 카드 지갑 블랙 & 탄": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Insert Victoire Canvas & Calfskin Card Wallet Black & Tan"
+        ],
+        "trade_count": 86,
+        "avg_price": 256000
+      },
+      "고야드 세나 고야딘 캔버스 & 카프 스킨 가죽 클러치 GM 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Sénat Goyardine Canvas & Calfskin Leather Clutch GM Black"
+        ],
+        "trade_count": 83,
+        "avg_price": 381000
+      },
+      "고야드 빅투아르 캔버스 & 카프스킨 반지갑 그레이": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Victoire Canvas & Calfskin Bifold Wallet Grey"
+        ],
+        "trade_count": 79,
+        "avg_price": 510000
+      },
+      "고야드 생피에르 캔버스 & 카프스킨 카드지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Saint Pierre Canvas & Calfskin Card Wallet Black"
+        ],
+        "trade_count": 74,
+        "avg_price": 432000
+      },
+      "고야드 인서트 빅투아르 캔버스 & 카프스킨 카드 지갑 그린": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Insert Victoire Canvas & Calfskin Card Wallet Green"
+        ],
+        "trade_count": 68,
+        "avg_price": 355000
+      },
+      "고야드 생피에르 캔버스 & 카프스킨 카드지갑 블랙 & 탄": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Saint Pierre Canvas & Calfskin Card Wallet Black & Tan"
+        ],
+        "trade_count": 67,
+        "avg_price": 562000
+      },
+      "고야드 생루이 고야딘 캔버스 & 카프 스킨 가죽 백 PM 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Saint Louis Goyardine Canvas & Calfskin Leather Bag PM Black"
+        ],
+        "trade_count": 67,
+        "avg_price": 1436000
+      },
+      "고야드 생쉴피스 캔버스 & 카프스킨 카드홀더 블랙 & 탄": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Saint Sulpice Canvas & Calfskin Card Holder Black & Tan"
+        ],
+        "trade_count": 63,
+        "avg_price": 261000
+      },
+      "고야드 생쉴피스 캔버스 & 카프스킨 카드홀더 그레이": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Saint Sulpice Canvas & Calfskin Card Holder Grey"
+        ],
+        "trade_count": 61,
+        "avg_price": 242000
+      },
+      "고야드 플뤼메 고야딘 캔버스 & 쉐브로슈 카프스킨 클러치 지갑 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Plumet Goyardine Canvas & Chevroché Calfskin Clutch Wallet Black"
+        ],
+        "trade_count": 59,
+        "avg_price": 1111000
+      },
+      "고야드 앙주 고야딘 캔버스 & 카프 스킨 가죽 백 미니 블랙 & 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Anjou Goyardine Canvas & Calfskin Leather Bag Mini Black & Tan"
+        ],
+        "trade_count": 58,
+        "avg_price": 2216000
+      },
+      "고야드 쥬방스 고야딘 캔버스 & 카프 스킨 가죽 토일렛백 GM 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Jouvence Goyardine Canvas & Calfskin Leather Toiletry Bag GM Black"
+        ],
+        "trade_count": 56,
+        "avg_price": 873000
+      },
+      "고야드 세나 고야딘 캔버스 & 카프 스킨 가죽 클러치 MM 그린": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Sénat Goyardine Canvas & Calfskin Leather Clutch MM Green"
+        ],
+        "trade_count": 55,
+        "avg_price": 427000
+      },
+      "고야드 쁘띠 플로 고야딘 캔버스 & 쉐브로슈 카프스킨 버킷백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Petit Flot Goyardine Canvas & Chevroché Calfskin Bucket Bag Black"
+        ],
+        "trade_count": 55,
+        "avg_price": 1544000
+      },
+      "고야드 빅투아르 캔버스 & 카프스킨 반지갑 네이비": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Victoire Canvas & Calfskin Bifold Wallet Navy"
+        ],
+        "trade_count": 50,
+        "avg_price": 517000
+      },
+      "고야드 볼테르 고야딘 캔버스 & 쉐브로슈 카프스킨 백 MM 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Voltaire Goyardine Canvas & Chevroché Calfskin Bag MM Black"
+        ],
+        "trade_count": 42,
+        "avg_price": 1621000
+      },
+      "고야드 세나 고야딘 캔버스 & 카프 스킨 가죽 클러치 MM 블랙 & 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Sénat Goyardine Canvas & Calfskin Leather Clutch MM Black & Tan"
+        ],
+        "trade_count": 41,
+        "avg_price": 372000
+      },
+      "고야드 생피에르 캔버스 & 카프스킨 카드지갑 그레이": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Saint Pierre Canvas & Calfskin Card Wallet Grey"
+        ],
+        "trade_count": 39,
+        "avg_price": 561000
+      },
+      "고야드 인서트 빅투아르 캔버스 & 카프스킨 카드 지갑 그레이": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Insert Victoire Canvas & Calfskin Card Wallet Grey"
+        ],
+        "trade_count": 38,
+        "avg_price": 237000
+      },
+      "고야드 쥬방스 고야딘 캔버스 & 카프 스킨 가죽 토일렛백 GM 그린": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Jouvence Goyardine Canvas & Calfskin Leather Toiletry Bag GM Green"
+        ],
+        "trade_count": 38,
+        "avg_price": 1036000
+      },
+      "고야드 보헴 고야딘 캔버스 & 카프스킨 호보 백 PM 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Bohème Goyardine Canvas & Calfskin Hobo Bag PM Black"
+        ],
+        "trade_count": 34,
+        "avg_price": 2820000
+      },
+      "고야드 생마르크 캔버스 & 카프스킨 카드 지갑 그린": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Saint Marc Canvas & Calfskin Card Wallet Green"
+        ],
+        "trade_count": 33,
+        "avg_price": 350000
+      },
+      "고야드 생쉴피스 캔버스 & 카프스킨 카드홀더 스카이 블루": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Saint Sulpice Canvas & Calfskin Card Holder Sky Blue"
+        ],
+        "trade_count": 32,
+        "avg_price": 221000
+      },
+      "고야드 생마르크 캔버스 & 카프스킨 카드 지갑 블랙 & 탄": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Saint Marc Canvas & Calfskin Card Wallet Black & Tan"
+        ],
+        "trade_count": 31,
+        "avg_price": 260000
+      },
+      "고야드 세나 고야딘 캔버스 & 카프 스킨 가죽 클러치 GM 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Sénat Goyardine Canvas & Calfskin Leather Clutch GM Grey"
+        ],
+        "trade_count": 31,
+        "avg_price": 1230000
+      },
+      "고야드 생로슈 캔버스 & 카프스킨 장지갑 GM 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Saint Roch Canvas & Calfskin Long Wallet GM Black"
+        ],
+        "trade_count": 30,
+        "avg_price": 605000
+      },
+      "고야드 생루이 고야딘 캔버스 & 카프 스킨 가죽 백 GM 블랙 & 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Saint Louis Goyardine Canvas & Calfskin Leather Bag GM Black & Tan"
+        ],
+        "trade_count": 30,
+        "avg_price": 1388000
+      },
+      "고야드 세나 고야딘 캔버스 & 카프 스킨 가죽 클러치 MGM 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Sénat Goyardine Canvas & Calfskin Leather Clutch MGM Black"
+        ],
+        "trade_count": 29,
+        "avg_price": 609000
+      },
+      "고야드 생쉴피스 캔버스 & 카프스킨 카드홀더 네이비": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Saint Sulpice Canvas & Calfskin Card Holder Navy"
+        ],
+        "trade_count": 27,
+        "avg_price": 196000
+      },
+      "고야드 쥬방스 고야딘 캔버스 & 카프 스킨 가죽 토일렛백 GM 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Jouvence Goyardine Canvas & Calfskin Leather Toiletry Bag GM Grey"
+        ],
+        "trade_count": 26,
+        "avg_price": 785000
+      },
+      "고야드 생로슈 캔버스 & 카프스킨 장지갑 GM 블랙 & 탄": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Saint Roch Canvas & Calfskin Long Wallet GM Black & Tan"
+        ],
+        "trade_count": 23,
+        "avg_price": 625000
+      },
+      "고야드 앙주 고야딘 캔버스 & 카프 스킨 가죽 백 미니 그린": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Anjou Goyardine Canvas & Calfskin Leather Bag Mini Green"
+        ],
+        "trade_count": 23,
+        "avg_price": 2050000
+      },
+      "고야드 세나 고야딘 캔버스 & 카프 스킨 가죽 클러치 MM 네이비": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Sénat Goyardine Canvas & Calfskin Leather Clutch MM Navy"
+        ],
+        "trade_count": 23,
+        "avg_price": 587000
+      },
+      "고야드 인서트 빅투아르 캔버스 & 카프스킨 카드 지갑 네이비": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Insert Victoire Canvas & Calfskin Card Wallet Navy"
+        ],
+        "trade_count": 22,
+        "avg_price": 323000
+      },
+      "고야드 생마르크 캔버스 & 카프스킨 카드 지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Saint Marc Canvas & Calfskin Card Wallet Black"
+        ],
+        "trade_count": 21,
+        "avg_price": 450000
+      },
+      "고야드 생로슈 캔버스 & 카프스킨 장지갑 GM 그린": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Saint Roch Canvas & Calfskin Long Wallet GM Green"
+        ],
+        "trade_count": 21,
+        "avg_price": 567000
+      },
+      "고야드 세나 고야딘 캔버스 & 카프 스킨 가죽 클러치 GM 그린": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Sénat Goyardine Canvas & Calfskin Leather Clutch GM Green"
+        ],
+        "trade_count": 21,
+        "avg_price": 485000
+      },
+      "고야드 생루이 고야딘 캔버스 & 카프 스킨 가죽 백 PM 블랙 & 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Saint Louis Goyardine Canvas & Calfskin Leather Bag PM Black & Tan"
+        ],
+        "trade_count": 21,
+        "avg_price": 745000
+      },
+      "고야드 생쉴피스 캔버스 & 카프스킨 카드홀더 화이트": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Saint Sulpice Canvas & Calfskin Card Holder White"
+        ],
+        "trade_count": 20,
+        "avg_price": 152000
+      },
+      "고야드 보헴 고야딘 캔버스 & 카프스킨 호보 백 PM 블랙 & 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Bohème Goyardine Canvas & Calfskin Hobo Bag PM Black & Tan"
+        ],
+        "trade_count": 20,
+        "avg_price": 2308000
+      },
+      "고야드 하디 고야딘 캔버스 & 카프스킨 백 PM 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Hardy Goyardine Canvas & Calfskin Bag PM Black"
+        ],
+        "trade_count": 19,
+        "avg_price": 1958000
+      },
+      "고야드 빅투아르 캔버스 & 카프스킨 반지갑 스카이 블루": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Victoire Canvas & Calfskin Bifold Wallet Sky Blue"
+        ],
+        "trade_count": 18,
+        "avg_price": 588000
+      },
+      "고야드 생피에르 캔버스 & 카프스킨 카드지갑 네이비": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Saint Pierre Canvas & Calfskin Card Wallet Navy"
+        ],
+        "trade_count": 18,
+        "avg_price": 482000
+      },
+      "고야드 쥬방스 고야딘 캔버스 & 카프 스킨 가죽 토일렛백 MM 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Jouvence Goyardine Canvas & Calfskin Leather Toiletry Bag MM Black"
+        ],
+        "trade_count": 18,
+        "avg_price": 1000000
+      },
+      "고야드 세나 고야딘 캔버스 & 카프 스킨 가죽 클러치 GM 블랙 & 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Sénat Goyardine Canvas & Calfskin Leather Clutch GM Black & Tan"
+        ],
+        "trade_count": 18,
+        "avg_price": 670000
+      },
+      "고야드 쥬방스 고야딘 캔버스 & 카프 스킨 가죽 토일렛백 GM 블랙 & 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Jouvence Goyardine Canvas & Calfskin Leather Toiletry Bag GM Black & Tan"
+        ],
+        "trade_count": 17,
+        "avg_price": 740000
+      },
+      "고야드 생쉴피스 캔버스 & 카프스킨 카드홀더 옐로우": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Saint Sulpice Canvas & Calfskin Card Holder Yellow"
+        ],
+        "trade_count": 16,
+        "avg_price": 167000
+      },
+      "고야드 생마르크 캔버스 & 카프스킨 카드 지갑 그레이": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Saint Marc Canvas & Calfskin Card Wallet Grey"
+        ],
+        "trade_count": 15,
+        "avg_price": 500000
+      },
+      "고야드 쥬방스 고야딘 캔버스 & 카프 스킨 가죽 토일렛백 MM 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Jouvence Goyardine Canvas & Calfskin Leather Toiletry Bag MM Grey"
+        ],
+        "trade_count": 15,
+        "avg_price": 1057000
+      },
+      "고야드 알팡 고야딘 캔버스 & 카프 스킨 가죽 백팩 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Alpin Goyardine Canvas & Calfskin Leather Backpack Mini Black"
+        ],
+        "trade_count": 15,
+        "avg_price": 3333000
+      },
+      "고야드 플뤼메 고야딘 캔버스 & 쉐브로슈 카프스킨 클러치 지갑 블랙 & 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Plumet Goyardine Canvas & Chevroché Calfskin Clutch Wallet Black & Tan"
+        ],
+        "trade_count": 15,
+        "avg_price": 1100000
+      },
+      "고야드 생토마 캔버스 & 카프스킨 반지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Saint Thomas Canvas & Calfskin Bifold Wallet Black"
+        ],
+        "trade_count": 14,
+        "avg_price": 470000
+      },
+      "고야드 빅투아르 캔버스 & 카프스킨 반지갑 레드": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Victoire Canvas & Calfskin Bifold Wallet Red"
+        ],
+        "trade_count": 14,
+        "avg_price": 492000
+      },
+      "고야드 세나 고야딘 캔버스 & 카프 스킨 가죽 클러치 MGM 그린": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Sénat Goyardine Canvas & Calfskin Leather Clutch MGM Green"
+        ],
+        "trade_count": 14,
+        "avg_price": 900000
+      },
+      "고야드 세나 고야딘 캔버스 & 카프 스킨 가죽 클러치 MM 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Sénat Goyardine Canvas & Calfskin Leather Clutch MM White"
+        ],
+        "trade_count": 14
+      },
+      "고야드 생피에르 캔버스 & 카프스킨 카드지갑 스카이 블루": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Saint Pierre Canvas & Calfskin Card Wallet Sky Blue"
+        ],
+        "trade_count": 13,
+        "avg_price": 380000
+      },
+      "고야드 쥬방스 고야딘 캔버스 & 카프 스킨 가죽 토일렛백 GM 네이비": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Jouvence Goyardine Canvas & Calfskin Leather Toiletry Bag GM Navy"
+        ],
+        "trade_count": 13,
+        "avg_price": 990000
+      },
+      "고야드 벨샤스 데시즈 옥스 스킨 가죽 & 세르봉 카프스킨 비유드 백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Bellechasse Desiré Oxskin & Serbonne Calfskin Bieud Bag Black"
+        ],
+        "trade_count": 13,
+        "avg_price": 1605000
+      },
+      "고야드 벨베데르 고야딘 캔버스 & 카프 스킨 가죽 백 PM 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Belvedere Goyardine Canvas & Calfskin Leather Bag PM Black"
+        ],
+        "trade_count": 12,
+        "avg_price": 2500000
+      },
+      "고야드 생피에르 캔버스 & 카프스킨 카드지갑 화이트": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Saint Pierre Canvas & Calfskin Card Wallet White"
+        ],
+        "trade_count": 11,
+        "avg_price": 505000
+      },
+      "고야드 생쉴피스 캔버스 & 카프스킨 카드홀더 레드": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Saint Sulpice Canvas & Calfskin Card Holder Red"
+        ],
+        "trade_count": 11,
+        "avg_price": 232000
+      },
+      "고야드 생루이 고야딘 캔버스 & 카프 스킨 가죽 백 GM 그린": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Saint Louis Goyardine Canvas & Calfskin Leather Bag GM Green"
+        ],
+        "trade_count": 11,
+        "avg_price": 1896000
+      },
+      "고야드 볼테르 고야딘 캔버스 & 쉐브로슈 카프스킨 백 MM 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Voltaire Goyardine Canvas & Chevroché Calfskin Bag MM Grey"
+        ],
+        "trade_count": 11,
+        "avg_price": 1395000
+      },
+      "고야드 생랑베르 캔버스 & 카프스킨 장지갑 그린": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Saint Lambert Canvas & Calfskin Long Wallet Green"
+        ],
+        "trade_count": 10,
+        "avg_price": 700000
+      },
+      "고야드 생로슈 캔버스 & 카프스킨 장지갑 GM 네이비": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Saint Roch Canvas & Calfskin Long Wallet GM Navy"
+        ],
+        "trade_count": 10,
+        "avg_price": 523000
+      },
+      "고야드 마티뇽 캔버스 & 카프스킨 지갑 GM 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Matignon Canvas & Calfskin Wallet GM Black"
+        ],
+        "trade_count": 10,
+        "avg_price": 500000
+      },
+      "고야드 아르투아 고야딘 캔버스 & 카프 스킨 가죽 백 MM 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Artois Goyardine Canvas & Calfskin Leather Bag MM Black"
+        ],
+        "trade_count": 10,
+        "avg_price": 1650000
+      },
+      "고야드 생루이 고야딘 캔버스 & 카프 스킨 가죽 백 PM 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Saint Louis Goyardine Canvas & Calfskin Leather Bag PM White"
+        ],
+        "trade_count": 10,
+        "avg_price": 1000000
+      },
+      "고야드 생랑베르 캔버스 & 카프스킨 장지갑 PM 그레이": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Saint Lambert Canvas & Calfskin Long Wallet PM Grey"
+        ],
+        "trade_count": 9,
+        "avg_price": 950000
+      },
+      "고야드 생로슈 캔버스 & 카프스킨 장지갑 GM 스카이 블루": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Saint Roch Canvas & Calfskin Long Wallet GM Sky Blue"
+        ],
+        "trade_count": 9,
+        "avg_price": 450000
+      },
+      "고야드 앙주 고야딘 캔버스 & 카프 스킨 가죽 백 미니 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Anjou Goyardine Canvas & Calfskin Leather Bag Mini Red"
+        ],
+        "trade_count": 9,
+        "avg_price": 1800000
+      },
+      "고야드 세나 고야딘 캔버스 & 카프 스킨 가죽 클러치 PM 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Sénat Goyardine Canvas & Calfskin Leather Clutch PM Black"
+        ],
+        "trade_count": 9,
+        "avg_price": 250000
+      },
+      "고야드 말쉐르브 캔버스 & 카프스킨 카드 지갑 그린": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Malesherbes Canvas & Calfskin Card Wallet Green"
+        ],
+        "trade_count": 8,
+        "avg_price": 536000
+      },
+      "고야드 생로슈 캔버스 & 카프스킨 장지갑 GM 그레이": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Saint Roch Canvas & Calfskin Long Wallet GM Grey"
+        ],
+        "trade_count": 8
+      },
+      "고야드 마티뇽 캔버스 & 카프스킨 지갑 GM 그레이": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Matignon Canvas & Calfskin Wallet GM Grey"
+        ],
+        "trade_count": 8,
+        "avg_price": 580000
+      },
+      "고야드 세나 고야딘 캔버스 & 카프 스킨 가죽 클러치 MM 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Sénat Goyardine Canvas & Calfskin Leather Clutch MM Red"
+        ],
+        "trade_count": 8
+      },
+      "고야드 세나 고야딘 캔버스 & 카프 스킨 가죽 클러치 GM 네이비": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Sénat Goyardine Canvas & Calfskin Leather Clutch GM Navy"
+        ],
+        "trade_count": 8
+      },
+      "고야드 볼테르 고야딘 캔버스 & 쉐브로슈 카프스킨 백 MM 블랙 & 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Voltaire Goyardine Canvas & Chevroché Calfskin Bag MM Black & Tan"
+        ],
+        "trade_count": 8,
+        "avg_price": 1700000
+      },
+      "고야드 생마르크 캔버스 & 카프스킨 카드 지갑 네이비": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Saint Marc Canvas & Calfskin Card Wallet Navy"
+        ],
+        "trade_count": 7,
+        "avg_price": 292000
+      },
+      "고야드 리슐리우 캔버스 & 카프스킨 장지갑 GM 블랙 & 탄": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Richelieu Canvas & Calfskin Long Wallet GM Black & Tan"
+        ],
+        "trade_count": 7,
+        "avg_price": 230000
+      },
+      "고야드 마티뇽 캔버스 & 카프스킨 카드지갑 PM 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Matignon Canvas & Calfskin Card Wallet PM Black"
+        ],
+        "trade_count": 7,
+        "avg_price": 415000
+      },
+      "고야드 쥬방스 고야딘 캔버스 & 카프 스킨 가죽 토일렛백 GM 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Jouvence Goyardine Canvas & Calfskin Leather Toiletry Bag GM White"
+        ],
+        "trade_count": 7,
+        "avg_price": 663000
+      },
+      "고야드 세나 고야딘 캔버스 & 카프 스킨 가죽 클러치 MM 옐로우": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Sénat Goyardine Canvas & Calfskin Leather Clutch MM Yellow"
+        ],
+        "trade_count": 7,
+        "avg_price": 400000
+      },
+      "고야드 소프트 사이공 고야딘 캔버스 & 카프 스킨 가죽 백 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Soft Saigon Goyardine Canvas & Calfskin Leather Bag Mini Black"
+        ],
+        "trade_count": 7,
+        "avg_price": 2025000
+      },
+      "고야드 부르곤 고야딘 캔버스 & 쉐브로슈 카프스킨 백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Bourgogne Goyardine Canvas & Chevroché Calfskin Bag Black"
+        ],
+        "trade_count": 7,
+        "avg_price": 2197000
+      },
+      "고야드 인서트 빅투아르 캔버스 & 카프스킨 카드 지갑 화이트": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Insert Victoire Canvas & Calfskin Card Wallet White"
+        ],
+        "trade_count": 6,
+        "avg_price": 185000
+      },
+      "고야드 생토마 캔버스 & 카프스킨 반지갑 블랙 & 탄": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Saint Thomas Canvas & Calfskin Bifold Wallet Black & Tan"
+        ],
+        "trade_count": 6,
+        "avg_price": 390000
+      },
+      "고야드 리슐리우 캔버스 & 카프스킨 장지갑 GM 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Richelieu Canvas & Calfskin Long Wallet GM Black"
+        ],
+        "trade_count": 6,
+        "avg_price": 580000
+      },
+      "고야드 생랑베르 캔버스 & 카프스킨 장지갑 블랙 & 탄": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Saint Lambert Canvas & Calfskin Long Wallet Black & Tan"
+        ],
+        "trade_count": 6
+      },
+      "고야드 생쉴피스 캔버스 & 카프스킨 카드홀더 버건디": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Saint Sulpice Canvas & Calfskin Card Holder Burgundy"
+        ],
+        "trade_count": 6
+      },
+      "고야드 생쉴피스 캔버스 & 카프스킨 카드홀더 오렌지": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Saint Sulpice Canvas & Calfskin Card Holder Orange"
+        ],
+        "trade_count": 6,
+        "avg_price": 260000
+      },
+      "고야드 쥬방스 고야딘 캔버스 & 카프 스킨 가죽 토일렛백 MM 블랙 & 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Jouvence Goyardine Canvas & Calfskin Leather Toiletry Bag MM Black & Tan"
+        ],
+        "trade_count": 6,
+        "avg_price": 900000
+      },
+      "고야드 생루이 고야딘 캔버스 & 카프 스킨 가죽 백 GM 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Saint Louis Goyardine Canvas & Calfskin Leather Bag GM Red"
+        ],
+        "trade_count": 6,
+        "avg_price": 1550000
+      },
+      "고야드 루엣뜨 고야딘 캔버스 & 쉐브로슈 카프스킨 백 PM 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Rouette Goyardine Canvas & Chevroché Calfskin Bag PM Black"
+        ],
+        "trade_count": 6,
+        "avg_price": 2600000
+      },
+      "고야드 생마르크 캔버스 & 카프스킨 카드 지갑 옐로우": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Saint Marc Canvas & Calfskin Card Wallet Yellow"
+        ],
+        "trade_count": 5,
+        "avg_price": 330000
+      },
+      "고야드 인서트 빅투아르 캔버스 & 카프스킨 카드 지갑 옐로우": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Insert Victoire Canvas & Calfskin Card Wallet Yellow"
+        ],
+        "trade_count": 5,
+        "avg_price": 220000
+      },
+      "고야드 그르넬 캔버스 & 카프스킨 여권 케이스 PM 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Grenelle Canvas & Calfskin Passport Cover PM Black"
+        ],
+        "trade_count": 5,
+        "avg_price": 506000
+      },
+      "고야드 생피에르 캔버스 & 카프스킨 카드지갑 버건디": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Saint Pierre Canvas & Calfskin Card Wallet Burgundy"
+        ],
+        "trade_count": 5,
+        "avg_price": 365000
+      },
+      "고야드 마티뇽 캔버스 & 카프스킨 지갑 GM 그린": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Matignon Canvas & Calfskin Wallet GM Green"
+        ],
+        "trade_count": 5,
+        "avg_price": 650000
+      },
+      "고야드 마티뇽 캔버스 & 카프스킨 카드지갑 미니 그린": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Matignon Canvas & Calfskin Mini Card Wallet PM Green"
+        ],
+        "trade_count": 5,
+        "avg_price": 220000
+      },
+      "고야드 쥬방스 고야딘 캔버스 & 카프 스킨 가죽 토일렛백 GM 스카이블루": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Jouvence Goyardine Canvas & Calfskin Leather Toiletry Bag GM Sky Blue"
+        ],
+        "trade_count": 5,
+        "avg_price": 1000000
+      },
+      "고야드 쥬방스 고야딘 캔버스 & 카프 스킨 가죽 토일렛백 MM 네이비": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Jouvence Goyardine Canvas & Calfskin Leather Toiletry Bag MM Navy"
+        ],
+        "trade_count": 5,
+        "avg_price": 800000
+      },
+      "고야드 쥬방스 고야딘 캔버스 & 카프 스킨 가죽 토일렛백 MM 그린": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Jouvence Goyardine Canvas & Calfskin Leather Toiletry Bag MM Green"
+        ],
+        "trade_count": 5,
+        "avg_price": 840000
+      },
+      "고야드 세나 고야딘 캔버스 & 카프 스킨 가죽 클러치 MM 오렌지": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Sénat Goyardine Canvas & Calfskin Leather Clutch MM Orange"
+        ],
+        "trade_count": 5,
+        "avg_price": 450000
+      },
+      "고야드 세나 고야딘 캔버스 & 카프 스킨 가죽 클러치 GM 옐로우": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Sénat Goyardine Canvas & Calfskin Leather Clutch GM Yellow"
+        ],
+        "trade_count": 5,
+        "avg_price": 310000
+      },
+      "고야드 플뤼메 고야딘 캔버스 & 쉐브로슈 카프스킨 클러치 지갑 그린": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Plumet Goyardine Canvas & Chevroché Calfskin Clutch Wallet Green"
+        ],
+        "trade_count": 5,
+        "avg_price": 1500000
+      },
+      "고야드 생마르크 캔버스 & 카프스킨 카드 지갑 레드": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Saint Marc Canvas & Calfskin Card Wallet Red"
+        ],
+        "trade_count": 4,
+        "avg_price": 250000
+      },
+      "고야드 인서트 빅투아르 캔버스 & 카프스킨 카드 지갑 버건디": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Insert Victoire Canvas & Calfskin Card Wallet Burgundy"
+        ],
+        "trade_count": 4,
+        "avg_price": 299000
+      },
+      "고야드 빅투아르 캔버스 & 카프스킨 반지갑 화이트": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Victoire Canvas & Calfskin Bifold Wallet White"
+        ],
+        "trade_count": 4,
+        "avg_price": 250000
+      },
+      "고야드 빅투아르 캔버스 & 카프스킨 반지갑 버건디": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Victoire Canvas & Calfskin Bifold Wallet Burgundy"
+        ],
+        "trade_count": 4,
+        "avg_price": 770000
+      },
+      "고야드 빅투아르 캔버스 & 카프스킨 반지갑 오랜지": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Victoire Canvas & Calfskin Bifold Wallet Orange"
+        ],
+        "trade_count": 4,
+        "avg_price": 360000
+      },
+      "고야드 리슐리우 캔버스 & 카프스킨 장지갑 GM 스카이 블루": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Richelieu Canvas & Calfskin Long Wallet GM Sky Blue"
+        ],
+        "trade_count": 4,
+        "avg_price": 275000
+      },
+      "고야드 마티뇽 캔버스 & 카프스킨 카드지갑 PM 그린": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Matignon Canvas & Calfskin Card Wallet PM Green"
+        ],
+        "trade_count": 4,
+        "avg_price": 720000
+      },
+      "고야드 세나 고야딘 캔버스 & 카프 스킨 가죽 클러치 MGM 블랙 & 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Sénat Goyardine Canvas & Calfskin Leather Clutch MGM Black & Tan"
+        ],
+        "trade_count": 4,
+        "avg_price": 1077000
+      },
+      "고야드 세나 고야딘 캔버스 & 카프 스킨 가죽 클러치 MM 스카이블루": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Sénat Goyardine Canvas & Calfskin Leather Clutch MM Sky Blue"
+        ],
+        "trade_count": 4,
+        "avg_price": 310000
+      },
+      "고야드 세나 고야딘 캔버스 & 카프 스킨 가죽 클러치 GM 버건디": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Sénat Goyardine Canvas & Calfskin Leather Clutch GM Burgundy"
+        ],
+        "trade_count": 4,
+        "avg_price": 700000
+      },
+      "고야드 쁘띠 플로 고야딘 캔버스 & 쉐브로슈 카프스킨 버킷백 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Petit Flot Goyardine Canvas & Chevroché Calfskin Bucket Bag Grey"
+        ],
+        "trade_count": 4,
+        "avg_price": 2100000
+      },
+      "고야드 몬테 카를로 고야딘 캔버스 & 세르봉 카프스킨 미니 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Monte Carlo Goyardine Canvas & Serbonne Calfskin Mini Black"
+        ],
+        "trade_count": 4
+      },
+      "고야드 그르넬 캔버스 & 카프스킨 여권 케이스 PM 그린": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Grenelle Canvas & Calfskin Passport Cover PM Green"
+        ],
+        "trade_count": 3,
+        "avg_price": 550000
+      },
+      "고야드 리슐리우 캔버스 & 카프스킨 장지갑 GM 그린": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Richelieu Canvas & Calfskin Long Wallet GM Green"
+        ],
+        "trade_count": 3
+      },
+      "고야드 리슐리우 캔버스 & 카프스킨 장지갑 GM 옐로우": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Richelieu Canvas & Calfskin Long Wallet GM Yellow"
+        ],
+        "trade_count": 3,
+        "avg_price": 340000
+      },
+      "고야드 생랑베르 캔버스 & 카프스킨 장지갑 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Saint Lambert Canvas & Calfskin Long Wallet Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 680000
+      },
+      "고야드 생로슈 캔버스 & 카프스킨 장지갑 GM 옐로우": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Saint Roch Canvas & Calfskin Long Wallet GM Yellow"
+        ],
+        "trade_count": 3,
+        "avg_price": 400000
+      },
+      "고야드 마티뇽 캔버스 & 카프스킨 지갑 GM 스카이 블루": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Matignon Canvas & Calfskin Wallet GM Sky Blue"
+        ],
+        "trade_count": 3,
+        "avg_price": 450000
+      },
+      "고야드 보잉 25 토일렛백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Boeing 25 Toilet Bag Black"
+        ],
+        "trade_count": 3,
+        "avg_price": 949000
+      },
+      "고야드 쥬방스 고야딘 캔버스 & 카프 스킨 가죽 토일렛백 GM 옐로우": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Jouvence Goyardine Canvas & Calfskin Leather Toiletry Bag GM Yellow"
+        ],
+        "trade_count": 3,
+        "avg_price": 965000
+      },
+      "고야드 쥬방스 고야딘 캔버스 & 카프 스킨 가죽 토일렛백 GM 오렌지": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Jouvence Goyardine Canvas & Calfskin Leather Toiletry Bag GM Orange"
+        ],
+        "trade_count": 3
+      },
+      "고야드 세나 고야딘 캔버스 & 카프 스킨 가죽 클러치 MM 버건디": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Sénat Goyardine Canvas & Calfskin Leather Clutch MM Burgundy"
+        ],
+        "trade_count": 3,
+        "avg_price": 560000
+      },
+      "고야드 세나 고야딘 캔버스 & 카프 스킨 가죽 클러치 GM 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Sénat Goyardine Canvas & Calfskin Leather Clutch GM Red"
+        ],
+        "trade_count": 3
+      },
+      "고야드 콤파뇽 유니버셜 고야딘 캔버스 & 쉐브로슈 카프스킨 A4 블랙 & 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Compagnon Universal Goyardine Canvas & Chevroché Calfskin A4 Black & Tan"
+        ],
+        "trade_count": 3
+      },
+      "고야드 콤파뇽 유니버셜 고야딘 캔버스 & 쉐브로슈 카프스킨 A4 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Compagnon Universal Goyardine Canvas & Chevroché Calfskin A4 Black"
+        ],
+        "trade_count": 3
+      },
+      "고야드 보헴 고야딘 캔버스 & 카프스킨 호보 백 PM 레드": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Bohème Goyardine Canvas & Calfskin Hobo Bag PM Red"
+        ],
+        "trade_count": 2,
+        "avg_price": 2450000
+      },
+      "고야드 크로아지에 고야딘 캔버스 & 카프스킨 레더 백 50 블랙 & 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Croasiare Goyardine Canvas & Calfskin Leather Bag 50 Black & Tan"
+        ],
+        "trade_count": 2,
+        "avg_price": 2550000
+      },
+      "고야드 벨샤스 토트백 PM 그린": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Bellechasse Biaude Tote Bag PM Green"
+        ],
+        "trade_count": 2,
+        "avg_price": 1700000
+      },
+      "고야드 쁘띠 플로 고야딘 캔버스 & 쉐브로슈 카프스킨 버킷백 블랙 & 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Petit Flot Goyardine Canvas & Chevroché Calfskin Bucket Bag Black & Tan"
+        ],
+        "trade_count": 2,
+        "avg_price": 1845000
+      },
+      "고야드 말쉐르브 캔버스 & 카프스킨 카드 지갑 그레이": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Malesherbes Canvas & Calfskin Card Wallet Grey"
+        ],
+        "trade_count": 2,
+        "avg_price": 470000
+      },
+      "고야드 바렌 캔버스 & 카프스킨 장지갑 GM 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Barenne Canvas & Calfskin Long Wallet GM Black"
+        ],
+        "trade_count": 2,
+        "avg_price": 890000
+      },
+      "고야드 리슐리우 캔버스 & 카프스킨 장지갑 GM 오렌지": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Richelieu Canvas & Calfskin Long Wallet GM Orange"
+        ],
+        "trade_count": 2
+      },
+      "고야드 마티뇽 캔버스 & 카프스킨 지갑 GM 레드": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Matignon Canvas & Calfskin Wallet GM Red"
+        ],
+        "trade_count": 2,
+        "avg_price": 510000
+      },
+      "고야드 마티뇽 캔버스 & 카프스킨 지갑 GM 블랙 & 탄": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Matignon Canvas & Calfskin Wallet GM Black & Tan"
+        ],
+        "trade_count": 2,
+        "avg_price": 500000
+      },
+      "고야드 카페티엔 메신저백 MM 블랙 & 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Capetien MM Messenger Bag Black & Tan"
+        ],
+        "trade_count": 2,
+        "avg_price": 3000000
+      },
+      "고야드 벨베데르 고야딘 캔버스 & 카프 스킨 가죽 백 PM 블랙 & 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Belvedere Goyardine Canvas & Calfskin Leather Bag PM Black & Tan"
+        ],
+        "trade_count": 2
+      },
+      "고야드 하디 고야딘 캔버스 & 카프스킨 백 PM 그린": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Hardy Goyardine Canvas & Calfskin Bag PM Green"
+        ],
+        "trade_count": 2,
+        "avg_price": 1390000
+      },
+      "고야드 캅베르 고야딘 캔버스 & 세르봉 카프스킨 백 PM 그린": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Cap Vert Goyardine Canvas & Serbonne Calfskin Bag PM Green"
+        ],
+        "trade_count": 2,
+        "avg_price": 2000000
+      },
+      "고야드 암바사드 고야딘 캔버스 & 세르봉 카프스킨 서류 가방 MM 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Ambassade Goyardine Canvas & Serbonne Calfskin Briefcase MM Grey"
+        ],
+        "trade_count": 2,
+        "avg_price": 2640000
+      },
+      "고야드 암바사드 고야딘 캔버스 & 세르봉 카프스킨 서류 가방 MM 블랙 & 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Ambassade Goyardine Canvas & Serbonne Calfskin Briefcase MM Black & Tan"
+        ],
+        "trade_count": 2
+      },
+      "고야드 암바사드 고야딘 캔버스 & 세르봉 카프스킨 서류 가방 MM 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Ambassade Goyardine Canvas & Serbonne Calfskin Briefcase MM Black"
+        ],
+        "trade_count": 2
+      },
+      "고야드 암바사드 마카쥬 고야딘 캔버스 브리프케이스 MM 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Ambassade Marquage Goyardine Canvas Briefcase MM White"
+        ],
+        "trade_count": 1,
+        "avg_price": 1050000
+      },
+      "고야드 포쉐트 콘티 파우치 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Pochette Conti Pouch Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 765000
+      },
+      "고야드 마리니 고야딘 캔버스 & 카프스킨 중지갑 탄": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Marigny Goyardine Canvas & Calfskin Compact Wallet Tan"
+        ],
+        "trade_count": 1,
+        "avg_price": 300000
+      },
+      "고야드 보스턴 고야딘 캔버스 & 세르봉 카프스킨 50 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Boston Goyardine Canvas & Cervon Calfskin 50 Black"
+        ],
+        "trade_count": 1,
+        "avg_price": 2950000
+      },
+      "고야드 생토마 캔버스 & 카프스킨 반지갑 그린": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Saint Thomas Canvas & Calfskin Bifold Wallet Green"
+        ],
+        "trade_count": 1,
+        "avg_price": 350000
+      },
+      "고야드 빅투아르 캔버스 & 카프스킨 반지갑 옐로우": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Victoire Canvas & Calfskin Bifold Wallet Yellow"
+        ],
+        "trade_count": 1
+      },
+      "고야드 몰리에르 캔버스 & 카프스킨 중지갑 PM 레드": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Moliere Canvas & Calfskin Compact Wallet PM Red"
+        ],
+        "trade_count": 1
+      },
+      "고야드 생로슈 캔버스 & 카프스킨 장지갑 GM 레드": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Saint Roch Canvas & Calfskin Long Wallet GM Red"
+        ],
+        "trade_count": 1
+      },
+      "고야드 마티뇽 캔버스 & 카프스킨 지갑 GM 화이트": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Matignon Canvas & Calfskin Wallet GM White"
+        ],
+        "trade_count": 1
+      },
+      "고야드 마티뇽 캔버스 & 카프스킨 지갑 GM 버건디": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Matignon Canvas & Calfskin Wallet GM Burgundy"
+        ],
+        "trade_count": 1,
+        "avg_price": 500000
+      },
+      "고야드 벨베데르 고야딘 캔버스 & 카프 스킨 가죽 백 PM 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Belvedere Goyardine Canvas & Calfskin Leather Bag PM Grey"
+        ],
+        "trade_count": 1
+      },
+      "고야드 알팡 고야딘 캔버스 & 카프 스킨 가죽 백팩 미니 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Alpin Goyardine Canvas & Calfskin Leather Backpack Mini White"
+        ],
+        "trade_count": 1,
+        "avg_price": 3000000
+      },
+      "고야드 세나 고야딘 캔버스 & 카프 스킨 가죽 클러치 PM 그린": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Sénat Goyardine Canvas & Calfskin Leather Clutch PM Green"
+        ],
+        "trade_count": 1
+      },
+      "고야드 세나 고야딘 캔버스 & 카프 스킨 가죽 클러치 GM 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Sénat Goyardine Canvas & Calfskin Leather Clutch GM White"
+        ],
+        "trade_count": 1
+      },
+      "고야드 세나 고야딘 캔버스 & 카프 스킨 가죽 클러치 GM 스카이블루": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Sénat Goyardine Canvas & Calfskin Leather Clutch GM Sky Blue"
+        ],
+        "trade_count": 1
+      },
+      "고야드 소프트 사이공 고야딘 캔버스 & 카프 스킨 가죽 백 미니 오렌지": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Soft Saigon Goyardine Canvas & Calfskin Leather Bag Mini Orange"
+        ],
+        "trade_count": 1
+      },
+      "고야드 부르곤 고야딘 캔버스 & 쉐브로슈 카프스킨 백 그린": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Bourgogne Goyardine Canvas & Chevroché Calfskin Bag Green"
+        ],
+        "trade_count": 1
+      },
+      "고야드 부르곤 고야딘 캔버스 & 쉐브로슈 카프스킨 백 블랙 & 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Bourgogne Goyardine Canvas & Chevroché Calfskin Bag Black & Tan"
+        ],
+        "trade_count": 1
+      },
+      "고야드 생 마리 고야딘 캔버스 & 쉐브로슈 카프스킨 클러치 MM 블랙 & 탄": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Saint Marie Goyardine Canvas & Chevroché Calfskin Clutch MM Black & Tan"
+        ],
+        "trade_count": 1
+      },
+      "고야드 볼테르 고야딘 캔버스 & 쉐브로슈 카프스킨 백 MM 네이비": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Voltaire Goyardine Canvas & Chevroché Calfskin Bag MM Navy"
+        ],
+        "trade_count": 1
+      },
+      "고야드 볼테르 고야딘 캔버스 & 쉐브로슈 카프스킨 백 MM 그린": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Voltaire Goyardine Canvas & Chevroché Calfskin Bag MM Green"
+        ],
+        "trade_count": 1,
+        "avg_price": 160000
+      },
+      "고야드 몬테 카를로 고야딘 캔버스 & 세르봉 카프스킨 클러치 PM 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Monte Carlo Goyardine Canvas & Serbonne Calfskin Clutch PM Black"
+        ],
+        "trade_count": 1
+      },
+      "고야드 세나 고야딘 캔버스 & 카프 스킨 가죽 클러치 MM 그레이": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Sénat Goyardine Canvas & Calfskin Leather Clutch MM Grey"
+        ],
+        "trade_count": 380000
+      },
+      "고야드 세나 고야딘 캔버스 & 카프 스킨 가죽 파우치 미니 스카이블루": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Sénat Goyardine Canvas & Calfskin Leather Pouch Mini Sky Blue"
+        ],
+        "trade_count": 250000
+      },
+      "고야드 카바스 빌렛 자카드 캔버스 토트백 MM 블루 오션": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Cabas Villette Jacquard Canvas Tote Bag MM Blue Ocean"
+        ],
+        "trade_count": 3900000
+      },
+      "고야드 세나 고야딘 캔버스 & 카프 스킨 가죽 클러치 PM 옐로우": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Sénat Goyardine Canvas & Calfskin Leather Clutch PM Yellow"
+        ],
+        "trade_count": 760000
+      },
+      "고야드 쥬방스 고야딘 캔버스 & 카프 스킨 가죽 토일렛백 MM 옐로우": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Jouvence Goyardine Canvas & Calfskin Leather Toiletry Bag MM Yellow"
+        ],
+        "trade_count": 0
+      },
+      "고야드 몰리에르 캔버스 & 카프스킨 중지갑 PM 블랙": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Moliere Canvas & Calfskin Compact Wallet PM Black"
+        ],
+        "trade_count": 300000
+      },
+      "고야드 리슐리우 캔버스 & 카프스킨 장지갑 GM 레드": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Richelieu Canvas & Calfskin Long Wallet GM Red"
+        ],
+        "trade_count": 320000
+      },
+      "고야드 마리니 캔버스 & 카프스킨 중지갑 PM 화이트": {
+        "category": "지갑",
+        "synonyms": [
+          "Goyard Marigny Canvas & Calfskin Compact Wallet PM White"
+        ],
+        "trade_count": 0
+      },
+      "고야드 카페티엔 메신저백 MM 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Capetien MM Messenger Bag Black"
+        ],
+        "trade_count": 2220000
+      },
+      "고야드 보잉 55 백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Boeing 55 Bag Black"
+        ],
+        "trade_count": 3490000
+      },
+      "고야드 알팡 고야딘 캔버스 & 카프 스킨 가죽 백팩 미니 옐로우": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Alpin Goyardine Canvas & Calfskin Leather Backpack Mini Yellow"
+        ],
+        "trade_count": 3400000
+      },
+      "고야드 세나 고야딘 캔버스 & 카프 스킨 가죽 클러치 MGM 버건디": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Sénat Goyardine Canvas & Calfskin Leather Clutch MGM Burgundy"
+        ],
+        "trade_count": 550000
+      },
+      "고야드 세나 고야딘 캔버스 & 카프 스킨 가죽 클러치 MGM 옐로우": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Sénat Goyardine Canvas & Calfskin Leather Clutch MGM Yellow"
+        ],
+        "trade_count": 0
+      },
+      "고야드 세나 고야딘 캔버스 & 카프 스킨 가죽 클러치 GM 오렌지": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Sénat Goyardine Canvas & Calfskin Leather Clutch GM Orange"
+        ],
+        "trade_count": 510000
+      },
+      "고야드 233 고야딘 캔버스 & 쉐브로슈 카프스킨 백 블랙": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard 233 Goyardine Canvas & Chevroché Calfskin Bag Black"
+        ],
+        "trade_count": 3280000
+      },
+      "고야드 생 마리 고야딘 캔버스 & 쉐브로슈 카프스킨 클러치 MM 버건디": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Saint Marie Goyardine Canvas & Chevroché Calfskin Clutch MM Burgundy"
+        ],
+        "trade_count": 890000
+      },
+      "고야드 몬테 카를로 고야딘 캔버스 & 세르봉 카프스킨 미니 화이트": {
+        "category": "가방",
+        "synonyms": [
+          "Goyard Monte Carlo Goyardine Canvas & Serbonne Calfskin Mini White"
+        ],
+        "trade_count": 1020000
+      }
+    }
+  }
+}
