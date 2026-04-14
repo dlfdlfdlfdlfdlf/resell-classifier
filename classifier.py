@@ -238,7 +238,7 @@ def normalize(text: str) -> str:
 
 
 def normalize_compact(text: str) -> str:
-    return re.sub(r'[^\w]', '', text.lower())
+    return re.sub(r'[^\w]', '', text.lower(), flags=re.UNICODE)
 
 
 def remove_brands(tokens: set) -> set:
@@ -563,7 +563,7 @@ def main():
         else:
             res = classifier.classify(title, item.get('content', ''), category)
 
-        if res['confidence'] >= 0.5 and res['model_name'] not in ('미분류', ''):
+        if res['confidence'] >= 0.6 and res['model_name'] not in ('미분류', ''):  # ← 0.5 → 0.6
             results[title] = res['model_name']
             if res.get('ai_classified'):
                 ai_count += 1
