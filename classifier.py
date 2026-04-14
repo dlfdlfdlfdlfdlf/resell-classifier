@@ -371,17 +371,18 @@ class SmartClassifier:
         return style_map
 
     def _build_cache(self):
-        self._pattern_cache   = []
-        self._cat_model_cache = {}
-        self._all_model_cache = []
+    self._pattern_cache   = []
+    self._cat_model_cache = {}
+    self._all_model_cache = []
 
-        self._direct_patterns = [
-            (re.compile(r'\b[Mm]\d{5}\b'),      '루이비통'),
-            (re.compile(r'\b[Nn]\d{5}\b'),      '루이비통'),
-            (re.compile(r'\b1[A-Z]{2}\d{3}\b'), '루이비통'),
-        ]
+    self._direct_patterns = [
+        (re.compile(r'\b[MNmn]\d{4,5}[A-Z0-9]?\b'),         '루이비통'),  # M41528, M0341V, N41221
+        (re.compile(r'\b1[A-Z0-9]{5}\b'),                    '루이비통'),  # 1AFFE8, 1A9SZM, 1AC2AM
+        (re.compile(r'\b[Mm][A-Z]{1,2}\d{3,4}[A-Z0-9]?\b'), '루이비통'),  # MP2745, MI1918, MLL002
+        (re.compile(r'\b[Qq]\d{4,5}[A-Z0-9]{0,2}\b'),        '루이비통'),  # Q93559, Q9N91I, Q9K97A
+    ]
 
-        for brand, info in self.master.items():
+    for brand, info in self.master.items():
             for pat in info.get('patterns', []):
                 try:
                     self._pattern_cache.append((brand, re.compile(pat)))
