@@ -1,5 +1,5 @@
 """
-classifier.py  (v8.1 — 버그픽스 + 개선)
+classifier.py  (v9.0 — 품번 → 모델명 직접 매칭 + NORMALIZE_MAP 강화)
 """
 
 import sys, json, time, random, re, os, argparse, urllib.request, urllib.error
@@ -7,16 +7,16 @@ from typing import Optional
 
 MASTER_FILE = 'model_master.json'
 
-# ──────────────────────────────────────────────────────────────────────────────
+# ──────────────────────────────────────────────────────────────
 #  Groq API (GitHub Actions 환경변수에서 읽음)
-# ──────────────────────────────────────────────────────────────────────────────
+# ──────────────────────────────────────────────────────────────
 GROQ_API_KEY  = os.environ.get('GROQ_API_KEY', '').strip()
 GROQ_API_URL  = 'https://api.groq.com/openai/v1/chat/completions'
 GROQ_MODEL    = 'llama-3.1-8b-instant'
 
-# ──────────────────────────────────────────────────────────────────────────────
+# ──────────────────────────────────────────────────────────────
 #  브랜드명 / 노이즈 단어
-# ──────────────────────────────────────────────────────────────────────────────
+# ──────────────────────────────────────────────────────────────
 BRAND_NAMES = {
     '루이비통', '샤넬', '에르메스', '구찌', '프라다', '디올',
     '보테가베네타', '보테가', '발렌시아가', '고야드', '셀린느',
@@ -35,10 +35,9 @@ _NOISE_WORDS = {
     '미니', 'mini', '스몰', 'small', '라지', 'large',
 }
 
-# ──────────────────────────────────────────────────────────────────────────────
-#  유사 표기 통일 딕셔너리
-#  ※ normalize()에서 lower() + NORMALIZE_MAP 먼저 적용 후 특수문자 제거
-# ──────────────────────────────────────────────────────────────────────────────
+# ──────────────────────────────────────────────────────────────
+#  유사 표기 통일 딕셔너리 (NORMALIZE_MAP)
+# ──────────────────────────────────────────────────────────────
 _NORMALIZE_MAP = {
     # 팔레르모
     '팔레모':               '팔레르모',
@@ -158,8 +157,8 @@ _NORMALIZE_MAP = {
     '멀티장지갑':           '멀티플',
     '멀티월렛':             '멀티플 월렛',
     '멀티월릿':             '멀티플 월릿',
-    '멀티플윌릿':           '멀티플 월릿',     # ← 신규
-    '멀티플윌렛':           '멀티플 월릿',     # ← 신규
+    '멀티플윌릿':           '멀티플 월릿',
+    '멀티플윌렛':           '멀티플 월릿',
 
     # 브라짜
     '브라자':               '브라짜',
@@ -180,7 +179,7 @@ _NORMALIZE_MAP = {
     '사라월렛':             '사라 월렛',
     '사라월릿':             '사라 월릿',
 
-    # 리사 (신규)
+    # 리사
     '리사월릿':             '리사 월릿',
     '리사월렛':             '리사 월릿',
 
@@ -195,101 +194,67 @@ _NORMALIZE_MAP = {
     '가스파월릿':           '가스파 월릿',
     '가스파월렛':           '가스파 월릿',
 
-    # 에피 프렌치 퍼스 (신규)
+    # 에피 프렌치 퍼스
     '프렌치퍼스':           '에피 프렌치 퍼스',
     '프렌치 퍼스':          '에피 프렌치 퍼스',
+
+    # 추가 지갑 변형
+    '포켓오거나이저':       '포켓 오거나이저',
+    '포켓오거나이져':       '포켓 오거나이저',
+    '멀티플월렛':           '멀티플 월렛',
+    '멀티플월릿':           '멀티플 월렛',
+    '슬렌더월릿':           '슬렌더 월릿',
+    '슬렌더월렛':           '슬렌더 월릿',
+    '브라짜월릿':           '브라짜 월릿',
+    '브라짜월렛':           '브라짜 월릿',
+    '빅토린월렛':           '빅토린 월렛',
+    '빅토린월릿':           '빅토린 월렛',
+    '클레망스월릿':         '클레망스 월릿',
+    '클레망스월렛':         '클레망스 월릿',
+    '로잘리동전지갑':       '로잘리 동전 지갑',
+    '지피코인퍼스':         '지피 코인 퍼스',
+    '키파우치동전지갑':     '키 파우치 동전 지갑',
+    '엔벨로프카드홀더':     '엔벨로프 비즈니스 카드 홀더',
+    '패스포트커버':         '패스포트 커버',
+    '여권커버':             '패스포트 커버',
+    '에어로그램오거나이저': '에어로그램 포켓 오거나이저',
+    '트위스트월릿':         '트위스트 에피 월릿',
+    '모노그램이클립스':     '모노그램 이클립스',
+    '이클립스':             '모노그램 이클립스',
+    '다미에그래파이트':     '다미에 그래파이트',
+    '다미에아쥬르':         '다미에 아주르',
+    '타이가블랙':           '타이가 블랙',
+    '에피블랙':             '에피 블랙',
+    '앙프렝뜨블랙':         '앙프렝뜨 블랙',
+    '엠보스가죽':           '엠보스 가죽',
+    '에밀리월릿':           '에밀리 월릿',
+    '에밀리월렛':           '에밀리 월릿',
+    '사라월렛':             '사라 월렛',
+    '사라월릿':             '사라 월렛',
+    '조에중지갑':           '조에 중지갑',
+    '마르코월릿':           '마르코 월릿',
+    '가스파월릿':           '가스파 월릿',
+    '팡스월릿':             '팡스 월릿',
+    '도핀컴팩트':           '도핀 컴팩트 월릿',
+    '카퓌신컴팩트':         '카퓌신 토뤼옹 컴팩트 월릿',
+    'wallet':               '월렛',
+    'pocket organizer':     '포켓 오거나이저',
+    'card holder':          '카드 홀더',
+    'coin purse':           '코인 퍼스',
+    'key pouch':            '키 파우치',
+    'passport cover':       '패스포트 커버',
 }
 
-_NORMALIZE_MAP.update({
-    # ────────────────────────────────────────────────────────────
-    # 1. 띄어쓰기 / 붙여쓰기 보정
-    # ────────────────────────────────────────────────────────────
-    '포켓오거나이저': '포켓 오거나이저',
-    '포켓오거나이져': '포켓 오거나이저',
-    '멀티플월렛': '멀티플 월렛',
-    '멀티플월릿': '멀티플 월렛',
-    '슬렌더월릿': '슬렌더 월릿',
-    '슬렌더월렛': '슬렌더 월릿',
-    '브라짜월릿': '브라짜 월릿',
-    '브라짜월렛': '브라짜 월릿',
-    '빅토린월렛': '빅토린 월렛',
-    '빅토린월릿': '빅토린 월렛',
-    '클레망스월릿': '클레망스 월릿',
-    '클레망스월렛': '클레망스 월릿',
-    '로잘리동전지갑': '로잘리 동전 지갑',
-    '지피코인퍼스': '지피 코인 퍼스',
-    '키파우치동전지갑': '키 파우치 동전 지갑',
-    '엔벨로프카드홀더': '엔벨로프 비즈니스 카드 홀더',
-    '패스포트커버': '패스포트 커버',
-    '여권커버': '패스포트 커버',
-    '에어로그램오거나이저': '에어로그램 포켓 오거나이저',
-    '트위스트월릿': '트위스트 에피 월릿',
-
-    # ────────────────────────────────────────────────────────────
-    # 2. 소재/시리즈명 축약 및 오기
-    # ────────────────────────────────────────────────────────────
-    '모노그램이클립스': '모노그램 이클립스',
-    '이클립스': '모노그램 이클립스',
-    '다미에그래파이트': '다미에 그래파이트',
-    '다미에아쥬르': '다미에 아주르',
-    '타이가블랙': '타이가 블랙',
-    '에피블랙': '에피 블랙',
-    '앙프렝뜨블랙': '앙프렝뜨 블랙',
-    '엠보스가죽': '엠보스 가죽',
-
-    # ────────────────────────────────────────────────────────────
-    # 3. 미분류 샘플에서 발견된 빈번한 오표기
-    # ────────────────────────────────────────────────────────────
-    '프렌치퍼스': '에피 프렌치 퍼스',
-    '프렌치 퍼스': '에피 프렌치 퍼스',
-    '리사월릿': '리사 월릿',
-    '리사월렛': '리사 월릿',
-    '에밀리월릿': '에밀리 월릿',
-    '에밀리월렛': '에밀리 월릿',
-    '사라월렛': '사라 월렛',
-    '사라월릿': '사라 월렛',
-    '조에중지갑': '조에 중지갑',
-    '마르코월릿': '마르코 월릿',
-    '가스파월릿': '가스파 월릿',
-    '팡스월릿': '팡스 월릿',
-    '도핀컴팩트': '도핀 컴팩트 월릿',
-    '카퓌신컴팩트': '카퓌신 토뤼옹 컴팩트 월릿',
-
-    # ────────────────────────────────────────────────────────────
-    # 4. 영문/한글 혼용 표준화
-    # ────────────────────────────────────────────────────────────
-    'wallet': '월렛',
-    'pocket organizer': '포켓 오거나이저',
-    'card holder': '카드 홀더',
-    'coin purse': '코인 퍼스',
-    'key pouch': '키 파우치',
-    'passport cover': '패스포트 커버',
-
-    # ────────────────────────────────────────────────────────────
-    # 5. 기존에 추가했던 항목 유지
-    # ────────────────────────────────────────────────────────────
-    '오거나이져': '오거나이저',
-    '에삐': '에피',
-    '새도우': '섀도우',
-    '앙프랭뜨': '앙프렝뜨',
-})
-# ──────────────────────────────────────────────────────────────────────────────
-# 
-# ──────────────────────────────────────────────────────────────────────────────
-
-
-# ──────────────────────────────────────────────────────────────────────────────
+# ──────────────────────────────────────────────────────────────
 #  유틸
-# ──────────────────────────────────────────────────────────────────────────────
+# ──────────────────────────────────────────────────────────────
 def load_master() -> dict:
     if os.path.exists(MASTER_FILE):
         with open(MASTER_FILE, 'r', encoding='utf-8') as f:
             return json.load(f)
     return {}
 
-
 def normalize(text: str) -> str:
-    # ★ 순서: lower() → NORMALIZE_MAP → 특수문자 제거 (특수문자 제거 전에 매핑해야 안전)
     text = text.lower()
     for wrong, right in _NORMALIZE_MAP.items():
         text = text.replace(wrong, right)
@@ -297,10 +262,8 @@ def normalize(text: str) -> str:
     text = re.sub(r'\s+', ' ', text).strip()
     return text
 
-
 def normalize_compact(text: str) -> str:
     return re.sub(r'[^\w]', '', text.lower())
-
 
 def remove_brands(tokens: set) -> set:
     return {
@@ -311,10 +274,7 @@ def remove_brands(tokens: set) -> set:
         and not t.isdigit()
     }
 
-
-
 def infer_category(full: str) -> str:
-    """app.py에서 category를 못 받았을 때만 사용하는 최소 fallback."""
     if any(kw in full for kw in ['가방', 'bag', '토트', '숄더백', '크로스백', '핸드백', '백팩']):
         return '가방'
     if any(kw in full for kw in ['지갑', '월릿', 'wallet', '카드지갑', '장지갑', '반지갑']):
@@ -329,20 +289,18 @@ def infer_category(full: str) -> str:
         return '패션악세서리'
     return ''
 
-
-# ──────────────────────────────────────────────────────────────────────────────
+# ──────────────────────────────────────────────────────────────
 #  Gist 통신
-# ──────────────────────────────────────────────────────────────────────────────
+# ──────────────────────────────────────────────────────────────
 def fetch_meta_from_gist(gist_owner: str, gist_id: str) -> dict:
     url = f'https://gist.githubusercontent.com/{gist_owner}/{gist_id}/raw/meta.json'
     try:
-        req = urllib.request.Request(url, headers={'User-Agent': 'resell-classifier/8.1'})
+        req = urllib.request.Request(url, headers={'User-Agent': 'resell-classifier/9.0'})
         with urllib.request.urlopen(req, timeout=15) as resp:
             return json.loads(resp.read().decode('utf-8'))
     except Exception as e:
         print(f'[Meta] 로드 실패: {e}')
     return {}
-
 
 def fetch_chunk_from_gist(gist_owner: str, gist_id: str, chunk_idx: int, max_retry: int = 4):
     filename = f'chunk_{chunk_idx}.json'
@@ -350,7 +308,7 @@ def fetch_chunk_from_gist(gist_owner: str, gist_id: str, chunk_idx: int, max_ret
     print(f'[Gist] 다운로드: {url}')
     for attempt in range(max_retry):
         try:
-            req = urllib.request.Request(url, headers={'User-Agent': 'resell-classifier/8.1'})
+            req = urllib.request.Request(url, headers={'User-Agent': 'resell-classifier/9.0'})
             with urllib.request.urlopen(req, timeout=30) as resp:
                 data = json.loads(resp.read().decode('utf-8'))
                 print(f'[Gist] ✅ {len(data)}개 아이템 로드')
@@ -362,21 +320,14 @@ def fetch_chunk_from_gist(gist_owner: str, gist_id: str, chunk_idx: int, max_ret
     print(f'[Gist] ❌ 다운로드 실패: {filename}')
     return None
 
-
-# ──────────────────────────────────────────────────────────────────────────────
+# ──────────────────────────────────────────────────────────────
 #  AI 분류 (Groq — 2단계 fallback)
-# ──────────────────────────────────────────────────────────────────────────────
+# ──────────────────────────────────────────────────────────────
 def ai_classify_title(title: str, model_names: list) -> Optional[str]:
-    """
-    모델명을 못 찾은 가방 제목에서 번개장터 공식 모델명 추출.
-    Returns: 매칭된 모델명 or None
-    """
     if not GROQ_API_KEY or not model_names:
         return None
-
     top_models = model_names[:200]
     models_str = '\n'.join(top_models)
-
     prompt = (
         f'루이비통 중고 매물 제목에서 아래 공식 모델명 중 가장 유사한 것을 찾아라.\n\n'
         f'매물 제목: "{title}"\n\n'
@@ -387,14 +338,12 @@ def ai_classify_title(title: str, model_names: list) -> Optional[str]:
         '3. 다른 설명 없이 모델명만 출력\n\n'
         '정답:'
     )
-
     payload = json.dumps({
         'model':       GROQ_MODEL,
         'messages':    [{'role': 'user', 'content': prompt}],
         'max_tokens':  60,
         'temperature': 0,
     }).encode('utf-8')
-
     try:
         req = urllib.request.Request(
             GROQ_API_URL,
@@ -415,13 +364,12 @@ def ai_classify_title(title: str, model_names: list) -> Optional[str]:
         print(f'[Groq] 오류: {e}')
         return None
 
-
-# ──────────────────────────────────────────────────────────────────────────────
+# ──────────────────────────────────────────────────────────────
 #  분류기
-# ──────────────────────────────────────────────────────────────────────────────
+# ──────────────────────────────────────────────────────────────
 class SmartClassifier:
     def __init__(self, brand_filter: str = ''):
-        raw_master        = load_master()
+        raw_master = load_master()
         self.brand_filter = brand_filter.strip().lower()
 
         if self.brand_filter:
@@ -434,12 +382,9 @@ class SmartClassifier:
 
         self._build_cache()
         self._bag_model_names = self._collect_bag_model_names()
+        self._style_to_model = self._build_style_map()   # ★ 품번 → 모델명 매핑
 
     def _collect_bag_model_names(self) -> list:
-        """
-        model_master에서 가방 카테고리 모델명 수집.
-        거래량(trade_count) 기준 내림차순 정렬 → AI 프롬프트 상위에 인기 모델 배치.
-        """
         entries = []
         for brand, info in self.master.items():
             for model, m_info in info.get('models', {}).items():
@@ -449,8 +394,18 @@ class SmartClassifier:
         entries.sort(key=lambda x: x[0], reverse=True)
         return [model for _, model in entries]
 
+    def _build_style_map(self) -> dict:
+        """품번(style_code) → (모델명, 카테고리) 매핑 생성"""
+        style_map = {}
+        for brand, info in self.master.items():
+            for model, m_info in info.get('models', {}).items():
+                style = m_info.get('style_code')
+                if style:
+                    style_map[style.upper()] = (model, m_info.get('category', ''))
+        return style_map
+
     def _build_cache(self):
-        self._pattern_cache   = []
+        self._pattern_cache = []
         self._cat_model_cache = {}
         self._all_model_cache = []
 
@@ -468,10 +423,10 @@ class SmartClassifier:
                     pass
 
             for model, m_info in info.get('models', {}).items():
-                norm        = normalize(model)
-                compact     = normalize_compact(model)
+                norm = normalize(model)
+                compact = normalize_compact(model)
                 core_tokens = remove_brands(set(norm.split()))
-                category    = m_info.get('category', '')
+                category = m_info.get('category', '')
 
                 syns = [
                     (s, normalize(s), normalize_compact(s))
@@ -489,8 +444,6 @@ class SmartClassifier:
             print(f'  {cat}: {len(models)}개')
 
     def _match_models(self, candidates, full, compact, core_tok) -> dict:
-        """후보 모델 목록에서 단계별 매칭 시도."""
-
         # 2단계: 모델명 정확 일치
         for model, norm, comp, _, _, cat in candidates:
             if norm and (norm in full or comp in compact):
@@ -530,23 +483,36 @@ class SmartClassifier:
         return {}
 
     def classify(self, title: str, content: str = '', category: str = '') -> dict:
-        """
-        category: app.py가 Gist에 실어 보낸 카테고리. 있으면 우선 사용.
-        """
-        raw      = title + ' ' + content
-        full     = normalize(raw)
-        compact  = normalize_compact(raw)
-        tokens   = set(full.split())
+        raw = title + ' ' + content
+        full = normalize(raw)
+        compact = normalize_compact(raw)
+        tokens = set(full.split())
         core_tok = remove_brands(tokens)
 
-        # 0단계: 품번 직접 패턴 (normalize 전 원본에서 검색)
+        # 0단계: 품번 직접 패턴 (원본 raw에서 검색)
         for pat, brand in self._direct_patterns:
-            if pat.search(raw):
-                return {'model_name': f'{brand} 품번매칭', 'confidence': 0.95, 'category': category}
+            match = pat.search(raw)
+            if match:
+                style_code = match.group(0).upper()
+                # ★ 품번 사전에서 실제 모델명 조회
+                if style_code in self._style_to_model:
+                    model_name, model_cat = self._style_to_model[style_code]
+                    return {
+                        'model_name': model_name,
+                        'confidence': 1.0,
+                        'category': model_cat or category
+                    }
+                else:
+                    return {
+                        'model_name': f'{brand} 품번매칭',
+                        'confidence': 0.95,
+                        'category': category
+                    }
 
         # 1단계: model_master 품번 정규식
         for brand, pat in self._pattern_cache:
             if pat.search(full):
+                # 여기서는 패턴이 복잡하여 간단히 처리
                 return {'model_name': f'{brand} 품번매칭', 'confidence': 0.95, 'category': category}
 
         # 카테고리 결정
@@ -573,41 +539,34 @@ class SmartClassifier:
         return {'model_name': '미분류', 'confidence': 0.0, 'category': resolved_cat}
 
     def classify_with_ai(self, title: str, content: str = '', category: str = '') -> dict:
-        """
-        기존 분류 실패 시 가방 카테고리에 한해 Groq AI로 재시도.
-        """
         result = self.classify(title, content, category)
-
         if result['model_name'] == '미분류' and result.get('category') == '가방':
             ai_model = ai_classify_title(title, self._bag_model_names)
             if ai_model:
-                result['model_name']    = ai_model
-                result['confidence']    = 0.75
+                result['model_name'] = ai_model
+                result['confidence'] = 0.75
                 result['ai_classified'] = True
                 print(f'[AI] "{title}" → {ai_model}')
-
         return result
 
-
-# ──────────────────────────────────────────────────────────────────────────────
+# ──────────────────────────────────────────────────────────────
 #  메인
-# ──────────────────────────────────────────────────────────────────────────────
+# ──────────────────────────────────────────────────────────────
 def main():
-    parser = argparse.ArgumentParser(description='Resell Classifier v8.1')
+    parser = argparse.ArgumentParser(description='Resell Classifier v9.0')
     parser.add_argument('--gist_id',    required=True)
     parser.add_argument('--gist_owner', required=True)
     parser.add_argument('--chunk_idx',  type=int, required=True)
-    parser.add_argument('--use_ai',     action='store_true',
-                        help='가방 미분류 항목에 Groq AI 분류 적용')
+    parser.add_argument('--use_ai',     action='store_true')
     args = parser.parse_args()
 
-    print(f'=== Classifier v8.1 시작 === Gist:{args.gist_id[:8]}... / 청크:{args.chunk_idx}')
+    print(f'=== Classifier v9.0 시작 === Gist:{args.gist_id[:8]}... / 청크:{args.chunk_idx}')
     if GROQ_API_KEY:
         print(f'[Groq] API 키 로드됨 (use_ai={args.use_ai})')
     else:
         print('[Groq] API 키 없음 — AI 분류 비활성')
 
-    meta          = fetch_meta_from_gist(args.gist_owner, args.gist_id)
+    meta = fetch_meta_from_gist(args.gist_owner, args.gist_id)
     brand_keyword = meta.get('brand_keyword', '')
     print(f'[Meta] 브랜드 필터: "{brand_keyword}"')
 
@@ -617,10 +576,10 @@ def main():
         sys.exit(1)
 
     classifier = SmartClassifier(brand_filter=brand_keyword)
-    use_ai     = args.use_ai and bool(GROQ_API_KEY)
-    results    = {}
-    skipped    = 0
-    ai_count   = 0
+    use_ai = args.use_ai and bool(GROQ_API_KEY)
+    results = {}
+    skipped = 0
+    ai_count = 0
 
     for item in items:
         title = item.get('title', '').strip()
@@ -629,7 +588,6 @@ def main():
             continue
 
         category = item.get('category', '')
-
         if use_ai:
             res = classifier.classify_with_ai(title, item.get('content', ''), category)
         else:
@@ -644,11 +602,10 @@ def main():
     with open(out_file, 'w', encoding='utf-8') as f:
         json.dump(results, f, ensure_ascii=False)
 
-    total   = len(items)
+    total = len(items)
     matched = len(results)
-    rate    = matched / total * 100 if total else 0
+    rate = matched / total * 100 if total else 0
     print(f'✅ 완료: {matched}/{total}건 ({rate:.1f}%) / 스킵 {skipped}건 / AI분류 {ai_count}건 → {out_file}')
-
 
 if __name__ == '__main__':
     main()
