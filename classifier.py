@@ -563,8 +563,8 @@ def main():
         else:
             res = classifier.classify(title, item.get('content', ''), category)
 
-        if res['confidence'] >= 0.6 and res['model_name'] not in ('미분류', ''):  # ← 0.5 → 0.6
-            results[title] = res['model_name']
+        if res['confidence'] >= 0.6 and res['model_name'] not in ('미분류', ''):
+    results[title] = res['model_name'].strip()  # ← .strip() 추가
             if res.get('ai_classified'):
                 ai_count += 1
 
