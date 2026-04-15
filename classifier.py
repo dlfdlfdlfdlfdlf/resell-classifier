@@ -497,6 +497,7 @@ def main():
     skipped    = 0
     ai_count   = 0
 
+    all_confidences = []
     for item in items:
         title = item.get('title', '').strip()
         if not title:
@@ -510,10 +511,21 @@ def main():
         else:
             res = classifier.classify(title, item.get('content', ''), category)
 
+        all_confidences.append((title, res['confidence'], res['model_name']))
+
         if res['confidence'] >= 0.6 and res['model_name'] not in ('미분류', ''):
             results[title] = res['model_name'].strip()
             if res.get('ai_classified'):
                 ai_count += 1
+
+    # 디버그 출력
+    above_06 = sum(1 for _, c, _ in all_confidences if c >= 0.6)
+    above_05 = sum(1 for _, c, _ in all_confidences if c >= 0.5)
+    above_0  = sum(1 for _, c, _ in all_confidences if c > 0)
+    print(f'[DEBUG] confidence>=0.6: {above_06}개 / >=0.5: {above_05}개 / >0: {above_0}개 / 전체: {len(all_confidences)}개')
+    print('[DEBUG] 샘플 10개:')
+    for title, conf, model in all_confidences[:10]:
+        print(f'  [{conf:.2f}] {title[:25]} -> {model}')
 
     out_file = f'classify_result_{args.chunk_idx}.json'
     with open(out_file, 'w', encoding='utf-8') as f:
