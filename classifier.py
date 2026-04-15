@@ -398,57 +398,47 @@ class SmartClassifier:
         return {}
 
     def classify(self, title: str, content: str = '', category: str = '') -> dict:
-        raw      = title + ' ' + content
-        full     = normalize(raw)
-        compact  = normalize_compact(raw)
-        tokens   = set(full.split())
-        core_tok = remove_brands(tokens)
+    raw      = title + ' ' + content
+    full     = normalize(raw)
+    compact  = normalize_compact(raw)
+    tokens   = set(full.split())
+    core_tok = remove_brands(tokens)
 
-        # 0단계: 품번 직접 패턴 (원본에서 검색)
-        for pat, brand in self._direct_patterns:
-            match = pat.search(raw)
-            if match:
-                style_code = match.group(0).upper()
-                if style_code in self._style_to_model:
-                    model_name, model_cat = self._style_to_model[style_code]
-                    return {
-                        'model_name': model_name,
-                        'confidence': 1.0,
-                        'category':   model_cat or category,
-                    }
-                else:
-                    return {
-                        'model_name': f'{brand} 품번매칭',
-                        'confidence': 0.95,
-                        'category':   category,
-                    }
+    # 0단계: 품번이 있고 매핑되면 즉시 반환, 없으면 텍스트 매칭으로 진행
+    for pat, brand in self._direct_patterns:
+        match = pat.search(raw)
+        if match:
+            style_code = match.group(0).upper()
+            if style_code in self._style_to_model:
+                model_name, model_cat = self._style_to_model[style_code]
+                return {
+                    'model_name': model_name,
+                    'confidence': 1.0,
+                    'category':   model_cat or category,
+                }
+            break  # 품번 패턴은 찾았지만 매핑 없음 → 텍스트 매칭으로
 
-        # 1단계: model_master 품번 정규식
-        for brand, pat in self._pattern_cache:
-            if pat.search(full):
-                return {'model_name': f'{brand} 품번매칭', 'confidence': 0.95, 'category': category}
+    # 카테고리 결정
+    resolved_cat = category if category and category not in ('미분류', '기타', '') else ''
 
-        # 카테고리 결정
-        resolved_cat = category if category and category not in ('미분류', '기타', '') else ''
-
-        # 카테고리 범위로 먼저 시도
-        if resolved_cat and resolved_cat in self._cat_model_cache:
-            result = self._match_models(
-                self._cat_model_cache[resolved_cat],
-                full, compact, core_tok,
-            )
-            if result:
-                return result
-
-        # 전체 모델 fallback
+    # 카테고리 범위로 먼저 시도
+    if resolved_cat and resolved_cat in self._cat_model_cache:
         result = self._match_models(
-            self._all_model_cache,
+            self._cat_model_cache[resolved_cat],
             full, compact, core_tok,
         )
         if result:
             return result
 
-        return {'model_name': '미분류', 'confidence': 0.0, 'category': resolved_cat}
+    # 전체 모델 fallback
+    result = self._match_models(
+        self._all_model_cache,
+        full, compact, core_tok,
+    )
+    if result:
+        return result
+
+    return {'model_name': '미분류', 'confidence': 0.0, 'category': resolved_cat}
 
     def classify_with_ai(self, title: str, content: str = '', category: str = '') -> dict:
         result = self.classify(title, content, category)
