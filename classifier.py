@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 """
-Resell Classifier v13.0
+Resell Classifier v13.1
 - 정규화 맵(normalize_map.json)을 통한 표현 통일
 - 역인덱스 기반 후보 모델 필터링
 - 점수 기반 랭킹 (임계값 없음, 최고 점수 선택)
 - 루이비통 지갑 등 카테고리 특화
+- 동의어 점수 누적 합산 (버그 수정)
 """
 
 import sys, json, time, random, re, os, argparse, urllib.request, urllib.error
@@ -230,7 +231,7 @@ class SmartClassifier:
             print(f'  {cat}: {len(models)}개')
 
     def _calculate_score(self, entry: dict, full: str, compact: str, core_tok: Set[str], raw: str) -> float:
-        """후보 모델에 대한 점수 계산"""
+        """후보 모델에 대한 점수 계산 (동의어 점수 누적 합산)"""
         score = 0.0
         model_name = entry['model_name']
         norm_model = entry['norm']
@@ -242,18 +243,20 @@ class SmartClassifier:
         if norm_model in full:
             score += 10.0
 
-        # 2. 동의어 포함
+        # 2. 동의어 포함 (누적 합산)
         syn_score = 0.0
         for _, syn_norm, syn_comp in synonyms:
-            matched = False
+            matched_syn = None
             if syn_norm and len(syn_norm) >= 4 and syn_norm in full:
-                matched = True
+                matched_syn = syn_norm
             elif syn_comp and len(syn_comp) >= 4 and syn_comp in compact:
-                matched = True
-            if matched:
+                matched_syn = syn_comp
+
+            if matched_syn:
                 # 동의어 길이에 비례한 점수 (더 구체적일수록 높은 점수)
-                length_bonus = min(len(syn_norm) / 5.0, 2.0)
-                syn_score = max(syn_score, 4.0 + length_bonus)
+                length_bonus = min(len(matched_syn) / 5.0, 2.0)
+                syn_score += 4.0 + length_bonus   # ← 누적 합산
+
         score += syn_score
 
         # 3. 핵심 토큰 교집합 비율 (최대 5점)
@@ -397,7 +400,7 @@ class SmartClassifier:
 def fetch_meta_from_gist(gist_owner: str, gist_id: str) -> dict:
     url = f'https://gist.githubusercontent.com/{gist_owner}/{gist_id}/raw/meta.json'
     try:
-        req = urllib.request.Request(url, headers={'User-Agent': 'resell-classifier/13.0'})
+        req = urllib.request.Request(url, headers={'User-Agent': 'resell-classifier/13.1'})
         with urllib.request.urlopen(req, timeout=15) as resp:
             return json.loads(resp.read().decode('utf-8'))
     except Exception as e:
@@ -410,7 +413,7 @@ def fetch_chunk_from_gist(gist_owner: str, gist_id: str, chunk_idx: int, max_ret
     print(f'[Gist] 다운로드: {url}')
     for attempt in range(max_retry):
         try:
-            req = urllib.request.Request(url, headers={'User-Agent': 'resell-classifier/13.0'})
+            req = urllib.request.Request(url, headers={'User-Agent': 'resell-classifier/13.1'})
             with urllib.request.urlopen(req, timeout=30) as resp:
                 data = json.loads(resp.read().decode('utf-8'))
                 print(f'[Gist] ✅ {len(data)}개 아이템 로드')
@@ -426,14 +429,14 @@ def fetch_chunk_from_gist(gist_owner: str, gist_id: str, chunk_idx: int, max_ret
 #  메인
 # ------------------------------------------------------------------
 def main():
-    parser = argparse.ArgumentParser(description='Resell Classifier v13.0')
+    parser = argparse.ArgumentParser(description='Resell Classifier v13.1')
     parser.add_argument('--gist_id',    required=True)
     parser.add_argument('--gist_owner', required=True)
     parser.add_argument('--chunk_idx',  type=int, required=True)
     parser.add_argument('--use_ai',     action='store_true')
     args = parser.parse_args()
 
-    print(f'=== Classifier v13.0 시작 === Gist:{args.gist_id[:8]}... / 청크:{args.chunk_idx}')
+    print(f'=== Classifier v13.1 시작 === Gist:{args.gist_id[:8]}... / 청크:{args.chunk_idx}')
     if GROQ_API_KEY:
         print(f'[Groq] API 키 로드됨 (use_ai={args.use_ai})')
     else:
