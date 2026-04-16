@@ -79,9 +79,9 @@ def load_normalize_map():
 _NORMALIZE_MAP = load_normalize_map()
 
 def normalize(text: str) -> str:
-    """정규화: 노멀라이즈 맵 적용 후 특수문자 제거, 공백 정리"""
     text = text.lower()
-    for wrong, right in _NORMALIZE_MAP.items():
+    # 긴 패턴부터 적용 (짧은 패턴이 긴 패턴을 망가뜨리는 것 방지)
+    for wrong, right in sorted(_NORMALIZE_MAP.items(), key=lambda x: -len(x[0])):
         text = text.replace(wrong, right)
     text = re.sub(r'[^\w\s]', ' ', text)
     text = re.sub(r'\s+', ' ', text).strip()
@@ -243,10 +243,18 @@ class SmartClassifier:
             score += 10.0
 
         # 2. 동의어 포함
+        syn_score = 0.0
         for _, syn_norm, syn_comp in synonyms:
-            if (syn_norm and syn_norm in full) or (syn_comp and syn_comp in compact):
-                score += 6.0
-                break
+            matched = False
+            if syn_norm and len(syn_norm) >= 4 and syn_norm in full:
+                matched = True
+            elif syn_comp and len(syn_comp) >= 4 and syn_comp in compact:
+                matched = True
+            if matched:
+                # 동의어 길이에 비례한 점수 (더 구체적일수록 높은 점수)
+                length_bonus = min(len(syn_norm) / 5.0, 2.0)
+                syn_score = max(syn_score, 4.0 + length_bonus)
+        score += syn_score
 
         # 3. 핵심 토큰 교집합 비율 (최대 5점)
         if core_model_tokens:
@@ -299,7 +307,10 @@ class SmartClassifier:
         # 2. 카테고리 필터 (주어진 경우)
         if category and category in self._cat_model_cache:
             cat_model_names = {e['model_name'] for e in self._cat_model_cache[category]}
-            candidates.intersection_update(cat_model_names)
+            filtered = candidates.intersection(cat_model_names)
+            if filtered:  # 필터 후에도 후보가 있을 때만 적용
+                candidates = filtered
+            # 없으면 카테고리 무시하고 전체 후보 유지
 
         if not candidates:
             return {'model_name': '미분류', 'confidence': 0.0, 'category': category, 'method': 'no_candidates'}
