@@ -1,11 +1,10 @@
 #!/usr/bin/env python3
 """
-Resell Classifier v13.1
+Resell Classifier v14.0
 - 정규화 맵(normalize_map.json)을 통한 표현 통일
-- 역인덱스 기반 후보 모델 필터링
+- 역인덱스: 모델명에서 토큰 추출 (2글자 이상), 매물은 substring 검색
+- SHORT_IMPORTANT 제거 (모델명 토큰은 2글자도 안전)
 - 점수 기반 랭킹 (임계값 없음, 최고 점수 선택)
-- 루이비통 지갑 등 카테고리 특화
-- 동의어 점수 누적 합산 (버그 수정)
 """
 
 import sys, json, time, random, re, os, argparse, urllib.request, urllib.error
@@ -22,7 +21,7 @@ GROQ_API_KEY = os.environ.get('GROQ_API_KEY', '').strip()
 GROQ_API_URL = 'https://api.groq.com/openai/v1/chat/completions'
 GROQ_MODEL   = 'llama-3.1-8b-instant'
 
-# 브랜드명 (필터링용)
+# 브랜드명 (모델명 토큰 추출 시 제외)
 BRAND_NAMES = {
     '루이비통', '샤넬', '에르메스', '구찌', '프라다', '디올',
     '보테가베네타', '보테가', '발렌시아가', '고야드', '셀린느',
@@ -30,20 +29,6 @@ BRAND_NAMES = {
     'louis', 'vuitton', 'lv', 'chanel', 'hermes', 'gucci', 'prada', 'dior',
     'bottega', 'veneta', 'balenciaga', 'goyard', 'celine', 'saint', 'laurent',
     'miumiu', 'loewe', 'fendi', 'burberry',
-}
-
-# 2글자지만 핵심 모델명 키워드
-SHORT_IMPORTANT = {
-    '지피', '조에', '리사', '가스파', '에바', '클레아', '팡스', '사라', '나노',
-    '삭', '플라', '노에', '말', '도빌', '트위스트', '락미', '알마', '스피디'
-}
-
-# 잡음 단어
-_NOISE_WORDS = {
-    '정품', '새상품', '미사용', '사용', '착용', '새제품', '중고',
-    '급처', '급처분', '판매', '팝니다', '드립니다', '합니다',
-    '상태', '정도', '저렴', '할인', '한정', '진품', '정가',
-    '미니', 'mini', '스몰', 'small', '라지', 'large',
 }
 
 # 색상/소재 키워드 (점수 가중치 부여)
@@ -92,14 +77,15 @@ def normalize_compact(text: str) -> str:
     """공백/특수문자 제거한 압축 형태"""
     return re.sub(r'[^\w]', '', text.lower(), flags=re.UNICODE)
 
-def remove_brands(tokens: Set[str]) -> Set[str]:
-    """브랜드명, 잡음 단어 제거"""
+def extract_model_tokens(norm_text: str) -> Set[str]:
+    """
+    모델명에서 토큰 추출 - 2글자 이상, 브랜드명 제외
+    SHORT_IMPORTANT 불필요: 모델명 토큰은 노이즈 없음
+    """
     return {
-        t for t in tokens
+        t for t in norm_text.split()
         if t not in BRAND_NAMES
-        and t not in _NOISE_WORDS
-        and (len(t) > 1 or t in SHORT_IMPORTANT)
-        and (len(t) >= 3 or t in SHORT_IMPORTANT)
+        and len(t) >= 2
         and not t.isdigit()
     }
 
@@ -144,7 +130,6 @@ class SmartClassifier:
             print(f'[SmartClassifier] 전체: {len(self.master)}개 브랜드')
 
         self._build_cache()
-        # AI fallback 용 가방 모델 리스트
         self._bag_model_names = self._collect_model_names_by_cat('가방')
         self._style_to_model  = self._build_style_map()
 
@@ -168,7 +153,11 @@ class SmartClassifier:
         return style_map
 
     def _build_cache(self):
-        """모델 데이터 구조화 및 역인덱스 구축"""
+        """
+        모델 데이터 구조화 및 역인덱스 구축
+        역인덱스 키: 모델명에서 추출한 토큰 (2글자 이상)
+        검색: 매물 텍스트에 토큰이 substring으로 포함되는지 확인
+        """
         self._model_dict: Dict[str, dict] = {}
         self._cat_model_cache: Dict[str, List[dict]] = {}
         self._keyword_to_models: Dict[str, Set[str]] = {}
@@ -183,46 +172,45 @@ class SmartClassifier:
 
         for brand, info in self.master.items():
             for model, m_info in info.get('models', {}).items():
-                norm_model = normalize(model)
-                comp_model = normalize_compact(model)
-                core_tokens = remove_brands(set(norm_model.split()))
-                category = m_info.get('category', '')
+                norm_model  = normalize(model)
+                comp_model  = normalize_compact(model)
+                # 모델명에서 토큰 추출 (2글자 이상)
+                core_tokens = extract_model_tokens(norm_model)
+                category    = m_info.get('category', '')
                 trade_count = m_info.get('trade_count', 0) or 0
-                style_code = m_info.get('style_code', '')
+                style_code  = m_info.get('style_code', '')
 
-                # 동의어 (보조적)
+                # 동의어
                 synonyms = []
                 for s in m_info.get('synonyms', []):
                     synonyms.append((s, normalize(s), normalize_compact(s)))
 
                 entry = {
-                    'model_name': model,
-                    'norm': norm_model,
-                    'compact': comp_model,
-                    'core_tokens': core_tokens,
-                    'synonyms': synonyms,
-                    'category': category,
-                    'trade_count': trade_count,
-                    'style_code': style_code,
+                    'model_name':   model,
+                    'norm':         norm_model,
+                    'compact':      comp_model,
+                    'core_tokens':  core_tokens,
+                    'synonyms':     synonyms,
+                    'category':     category,
+                    'trade_count':  trade_count,
+                    'style_code':   style_code,
                 }
                 self._model_dict[model] = entry
 
                 if category:
                     self._cat_model_cache.setdefault(category, []).append(entry)
 
-                # ----- 역인덱스 구축 -----
-                # 1) 모델명 자체의 핵심 토큰
+                # ----- 역인덱스 구축 (모델명 토큰 기반) -----
+                # 1) 모델명 핵심 토큰 (2글자 이상)
                 for tok in core_tokens:
-                    if len(tok) >= 2:
-                        self._keyword_to_models.setdefault(tok, set()).add(model)
-                # 2) 모델명 전체 (compact)
+                    self._keyword_to_models.setdefault(tok, set()).add(model)
+                # 2) 모델명 compact 전체
                 if len(comp_model) >= 3:
                     self._keyword_to_models.setdefault(comp_model, set()).add(model)
-                # 3) 동의어에서 추출한 토큰
+                # 3) 동의어 토큰
                 for _, syn_norm, syn_comp in synonyms:
-                    for tok in syn_norm.split():
-                        if len(tok) >= 2:
-                            self._keyword_to_models.setdefault(tok, set()).add(model)
+                    for tok in extract_model_tokens(syn_norm):
+                        self._keyword_to_models.setdefault(tok, set()).add(model)
                     if len(syn_comp) >= 3:
                         self._keyword_to_models.setdefault(syn_comp, set()).add(model)
 
@@ -230,14 +218,13 @@ class SmartClassifier:
         for cat, models in self._cat_model_cache.items():
             print(f'  {cat}: {len(models)}개')
 
-    def _calculate_score(self, entry: dict, full: str, compact: str, core_tok: Set[str], raw: str) -> float:
-        """후보 모델에 대한 점수 계산 (동의어 점수 누적 합산)"""
+    def _calculate_score(self, entry: dict, full: str, compact: str, raw: str) -> float:
+        """후보 모델에 대한 점수 계산"""
         score = 0.0
-        model_name = entry['model_name']
-        norm_model = entry['norm']
+        norm_model        = entry['norm']
         core_model_tokens = entry['core_tokens']
-        synonyms = entry['synonyms']
-        style_code = entry.get('style_code', '')
+        synonyms          = entry['synonyms']
+        style_code        = entry.get('style_code', '')
 
         # 1. 정규화된 모델명이 텍스트에 정확히 포함 (최고 점수)
         if norm_model in full:
@@ -251,24 +238,22 @@ class SmartClassifier:
                 matched_syn = syn_norm
             elif syn_comp and len(syn_comp) >= 4 and syn_comp in compact:
                 matched_syn = syn_comp
-
             if matched_syn:
-                # 동의어 길이에 비례한 점수 (더 구체적일수록 높은 점수)
                 length_bonus = min(len(matched_syn) / 5.0, 2.0)
-                syn_score += 4.0 + length_bonus   # ← 누적 합산
-
+                syn_score += 4.0 + length_bonus
         score += syn_score
 
         # 3. 핵심 토큰 교집합 비율 (최대 5점)
+        # 매물 텍스트에 모델 토큰이 포함되는지 substring 검색
         if core_model_tokens:
-            overlap = core_tok.intersection(core_model_tokens)
-            ratio = len(overlap) / len(core_model_tokens)
+            matched_toks = {t for t in core_model_tokens if t in full}
+            ratio = len(matched_toks) / len(core_model_tokens)
             score += ratio * 5.0
 
-        # 4. 색상/소재 키워드 일치 (모델명에도 해당 키워드가 있는 경우만 가산)
-        for tok in core_tok:
-            if tok in COLOR_MATERIAL_KEYWORDS and tok in core_model_tokens:
-                score += 0.5   # 미세 가중치
+        # 4. 색상/소재 키워드 일치
+        for tok in core_model_tokens:
+            if tok in COLOR_MATERIAL_KEYWORDS and tok in full:
+                score += 0.5
 
         # 5. 품번 직접 포함 (확실한 신호)
         if style_code and style_code.upper() in raw.upper():
@@ -278,11 +263,9 @@ class SmartClassifier:
 
     def classify(self, title: str, content: str = '', category: str = '') -> dict:
         """메인 분류 함수"""
-        raw = title + ' ' + content
-        full = normalize(raw)
+        raw     = title + ' ' + content
+        full    = normalize(raw)
         compact = normalize_compact(raw)
-        tokens = set(full.split())
-        core_tok = remove_brands(tokens)
 
         # 0. 품번 직접 매칭 (가장 강력)
         for pat, brand in self._direct_patterns:
@@ -294,24 +277,23 @@ class SmartClassifier:
                     return {
                         'model_name': model_name,
                         'confidence': 1.0,
-                        'category': model_cat or category,
-                        'method': 'style_code'
+                        'category':   model_cat or category,
+                        'method':     'style_code'
                     }
-                break   # 첫 매칭만 사용
+                break
 
         # 1. 역인덱스 기반 후보 모델 집합 생성
+        # 모델명 토큰이 매물 텍스트에 substring으로 포함되는지 검색
         candidates: Set[str] = set()
-        for tok in core_tok:
-            if tok in self._keyword_to_models:
-                candidates.update(self._keyword_to_models[tok])
-        if compact in self._keyword_to_models:
-            candidates.update(self._keyword_to_models[compact])
+        for tok, models in self._keyword_to_models.items():
+            if tok in full:
+                candidates.update(models)
 
         # 2. 카테고리 필터 (주어진 경우)
         if category and category in self._cat_model_cache:
             cat_model_names = {e['model_name'] for e in self._cat_model_cache[category]}
             filtered = candidates.intersection(cat_model_names)
-            if filtered:  # 필터 후에도 후보가 있을 때만 적용
+            if filtered:
                 candidates = filtered
             # 없으면 카테고리 무시하고 전체 후보 유지
 
@@ -324,7 +306,7 @@ class SmartClassifier:
             entry = self._model_dict.get(model_name)
             if not entry:
                 continue
-            score = self._calculate_score(entry, full, compact, core_tok, raw)
+            score = self._calculate_score(entry, full, compact, raw)
             scored.append((score, entry))
 
         if not scored:
@@ -338,8 +320,8 @@ class SmartClassifier:
             return {
                 'model_name': best_entry['model_name'],
                 'confidence': min(best_score / 15.0, 1.0),
-                'category': best_entry.get('category', category),
-                'method': f'score_{best_score:.2f}'
+                'category':   best_entry.get('category', category),
+                'method':     f'score_{best_score:.2f}'
             }
         else:
             return {'model_name': '미분류', 'confidence': 0.0, 'category': category, 'method': 'score_zero'}
@@ -353,7 +335,7 @@ class SmartClassifier:
                 if ai_model:
                     result['model_name'] = ai_model
                     result['confidence'] = 0.75
-                    result['method'] = 'ai'
+                    result['method']     = 'ai'
                     print(f'[AI] "{title}" → {ai_model}')
         return result
 
@@ -400,7 +382,7 @@ class SmartClassifier:
 def fetch_meta_from_gist(gist_owner: str, gist_id: str) -> dict:
     url = f'https://gist.githubusercontent.com/{gist_owner}/{gist_id}/raw/meta.json'
     try:
-        req = urllib.request.Request(url, headers={'User-Agent': 'resell-classifier/13.1'})
+        req = urllib.request.Request(url, headers={'User-Agent': 'resell-classifier/14.0'})
         with urllib.request.urlopen(req, timeout=15) as resp:
             return json.loads(resp.read().decode('utf-8'))
     except Exception as e:
@@ -413,7 +395,7 @@ def fetch_chunk_from_gist(gist_owner: str, gist_id: str, chunk_idx: int, max_ret
     print(f'[Gist] 다운로드: {url}')
     for attempt in range(max_retry):
         try:
-            req = urllib.request.Request(url, headers={'User-Agent': 'resell-classifier/13.1'})
+            req = urllib.request.Request(url, headers={'User-Agent': 'resell-classifier/14.0'})
             with urllib.request.urlopen(req, timeout=30) as resp:
                 data = json.loads(resp.read().decode('utf-8'))
                 print(f'[Gist] ✅ {len(data)}개 아이템 로드')
@@ -429,14 +411,14 @@ def fetch_chunk_from_gist(gist_owner: str, gist_id: str, chunk_idx: int, max_ret
 #  메인
 # ------------------------------------------------------------------
 def main():
-    parser = argparse.ArgumentParser(description='Resell Classifier v13.1')
+    parser = argparse.ArgumentParser(description='Resell Classifier v14.0')
     parser.add_argument('--gist_id',    required=True)
     parser.add_argument('--gist_owner', required=True)
     parser.add_argument('--chunk_idx',  type=int, required=True)
     parser.add_argument('--use_ai',     action='store_true')
     args = parser.parse_args()
 
-    print(f'=== Classifier v13.1 시작 === Gist:{args.gist_id[:8]}... / 청크:{args.chunk_idx}')
+    print(f'=== Classifier v14.0 시작 === Gist:{args.gist_id[:8]}... / 청크:{args.chunk_idx}')
     if GROQ_API_KEY:
         print(f'[Groq] API 키 로드됨 (use_ai={args.use_ai})')
     else:
@@ -454,11 +436,10 @@ def main():
     classifier = SmartClassifier(brand_filter=brand_keyword)
     use_ai = args.use_ai and bool(GROQ_API_KEY)
 
-    results = {}
-    skipped = 0
-    ai_count = 0
-
-    unclassified = []
+    results       = {}
+    skipped       = 0
+    ai_count      = 0
+    unclassified  = []
     all_confidences = []
 
     for item in items:
@@ -482,12 +463,12 @@ def main():
                 ai_count += 1
         else:
             unclassified.append({
-                'title': title,
-                'content': item.get('content', '')[:300],
-                'category': category,
-                'url': item.get('url', ''),
+                'title':      title,
+                'content':    item.get('content', '')[:300],
+                'category':   category,
+                'url':        item.get('url', ''),
                 'confidence': round(res['confidence'], 3),
-                'method': res.get('method', ''),
+                'method':     res.get('method', ''),
             })
 
     # 디버그 출력
@@ -506,9 +487,9 @@ def main():
     with open(unclassified_file, 'w', encoding='utf-8') as f:
         json.dump(unclassified, f, ensure_ascii=False)
 
-    total = len(items)
+    total   = len(items)
     matched = len(results)
-    rate = matched / total * 100 if total else 0
+    rate    = matched / total * 100 if total else 0
     print(f'✅ 완료: {matched}/{total}건 ({rate:.1f}%) / 스킵 {skipped}건 / AI분류 {ai_count}건')
     print(f'📋 미분류: {len(unclassified)}건 → {unclassified_file}')
     print(f'→ 결과: {out_file}')
