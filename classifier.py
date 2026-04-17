@@ -66,9 +66,7 @@ _NORMALIZE_MAP = load_normalize_map()
 
 def normalize(text: str) -> str:
     text = text.lower()
-    # 긴 패턴부터 적용 (짧은 패턴이 긴 패턴을 망가뜨리는 것 방지)
     for wrong, right in sorted(_NORMALIZE_MAP.items(), key=lambda x: -len(x[0])):
-        # 한글/영문 단어 경계 체크: 앞뒤에 한글/영문/숫자가 없을 때만 치환
         pattern = r'(?<![가-힣a-z0-9])' + re.escape(wrong) + r'(?![가-힣a-z0-9])'
         text = re.sub(pattern, right, text)
     text = re.sub(r'[^\w\s]', ' ', text)
@@ -298,11 +296,7 @@ class SmartClassifier:
             if filtered:
                 candidates = filtered
             else:
-                # 카테고리 내 매칭 없음 → 미분류
                 return {'model_name': '미분류', 'confidence': 0.0, 'category': category, 'method': 'no_cat_match'}
-
-        if not candidates:
-            return {'model_name': '미분류', 'confidence': 0.0, 'category': category, 'method': 'no_candidates'}
 
         # 3. 후보 모델별 점수 계산
         scored = []
