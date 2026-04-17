@@ -297,7 +297,9 @@ class SmartClassifier:
             filtered = candidates.intersection(cat_model_names)
             if filtered:
                 candidates = filtered
-            # 없으면 카테고리 무시하고 전체 후보 유지
+            else:
+                # 카테고리 내 매칭 없음 → 미분류
+                return {'model_name': '미분류', 'confidence': 0.0, 'category': category, 'method': 'no_cat_match'}
 
         if not candidates:
             return {'model_name': '미분류', 'confidence': 0.0, 'category': category, 'method': 'no_candidates'}
